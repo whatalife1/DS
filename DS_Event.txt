@@ -1,0 +1,323 @@
+--- Results by Vehicle (Fastest First) ---
+
+1. YAMAHA CT200
+  1. Tonttu Racing (Glenn Quagmire)    01:15.08
+  2. TKGX (TKGX)                       01:59.75
+  3. [DS] PVL (pvl2)                   02:02.35
+  4. V M.Eetzi (eetz1)                 02:06.28
+  5. Red/Béñツ (.w.)                    02:13.82
+  6. Red/Marty (Marty_Deslions)        03:22.01
+
+2. GP125
+  1. Tonttu Racing (Glenn Quagmire)    01:16.45
+  2. TKGX (TKGX)                       01:58.91
+  3. [DS] PVL (pvl2)                   02:12.44
+  4. M.Eetzi (eetz1)                   02:42.11
+  5. R/Marty (Marty_Deslions)          03:34.30
+  6. WildGamerz (WildGamerz)           08:33.03
+
+3. HBIKE V2
+  1. Tonttu Racing (Glenn Quagmire)    01:17.24
+  2. TKGX (TKGX)                       01:38.43
+  3. [DS] PVL (pvl2)                   02:33.84
+  4. M.Eetzi (eetz1)                   07:19.69
+
+4. SM500
+  1. Tonttu Racing (Glenn Quagmire)    01:17.95
+  2. TKGX (TKGX)                       01:49.10
+  3. M.Eetzi (eetz1)                   02:03.67
+  4. [DS] P V L (pvl2)                 02:06.85
+
+5. YAMAHA YZF-R3
+  1. Tonttu Racing (Glenn Quagmire)    01:18.67
+  2. TKGX (TKGX)                       02:04.32
+  3. V M.Eetzi (eetz1)                 02:09.31
+  4. [DS] PVL (pvl2)                   02:12.56
+  5. R/Marty (Marty_Deslions)          03:59.11
+  6. [FIN] Soppa (pro player 128)      04:43.39
+  7. WildGamerz (WildGamerz)           21:54.07
+
+6. VULCAN 998
+  1. TKGX (TKGX)                       01:20.07
+  2. M.Eetzi (eetz1)                   02:04.86
+  3. [DS] PVL (pvl2)                   02:23.17
+  4. Tonttu Racing (Glenn Quagmire)    02:31.93
+
+7. YAMAHA MT09
+  1. TonttuRacing (Glenn Quagmire)     01:20.85
+  2. M.Eetzi (eetz1)                   01:53.53
+  3. [DS] P V L (pvl2)                 02:07.53
+  4. [FIN] Soppa (pro player128)       02:16.99
+  5. TKGX (TKGX)                       02:26.14
+  6. R/Marty (Marty_Deslions)          03:27.98
+  7. Red Flyaway57 (mes(race))         05:58.72
+
+8. YAMAHA CT125 DR
+  1. Tonttu Racing (Glenn Quagmire)    01:21.47
+  2. TKGX (TKGX)                       01:53.38
+  3. V M.Eetzi (eetz1)                 02:10.16
+  4. [DS] PVL (pvl2)                   02:21.52
+  5. [FIN] Soppa (pro player 128)      03:22.94
+  6. R/Marty (Marty_Deslions)          03:34.73
+  7. $INO (BalangenMarty)              03:35.84
+  8. RG RedBoT (redbot_)               05:19.16
+  9. GOOSIEST (Cursenation)            06:33.72
+
+9. MOTO GUZZI
+  1. Tonttu Racing (Glenn Quagmire)    01:22.31
+  2. TKGX (TKGX)                       01:39.92
+  3. V M.Eetzi (eetz1)                 02:05.14
+  4. [DS] PVL (pvl2)                   02:27.58
+
+10. BD750
+  1. Tonttu Racing (Glenn Quagmire)    01:22.32
+  2. TKGX (TKGX)                       01:34.75
+  3. M.Eetzi (eetz1)                   01:49.34
+  4. [DS] PVL (pvl2)                   01:53.11
+  5. R/Marty (Marty_Deslions)          03:19.44
+
+11. RZT 370
+  1. Tonttu Racing (Glenn Quagmire)    01:25.90
+  2. M.Eetzi (eetz1)                   02:02.38
+  3. TKGX (TKGX)                       02:04.96
+  4. [DS] P V L (pvl2)                 02:05.00
+  5. R RedBoT (redbot_)                02:40.38
+  6. R/Marty (Marty_Deslions)          05:33.53
+
+12. HONDA CRF450
+  1. Tonttu Racing (Glenn Quagmire)    01:35.50
+  2. TKGX (TKGX)                       01:46.39
+  3. M.Eetzi (eetz1)                   01:50.91
+  4. [DS] PVL (pvl2)                   02:18.98
+  5. R/Marty (Marty_Deslions)          05:35.09
+  6. RG RedBoT (redbot_)               06:29.04
+
+13. JW 350
+  1. TKGX (TKGX)                       01:39.72
+  2. M.Eetzi (eetz1)                   01:46.35
+  3. Tonttu Racing (Glenn Quagmire)    01:48.75
+  4. [DS] PVL (pvl2)                   02:03.59
+
+14. RZM 250
+  1. TKGX (TKGX)                       01:39.85
+  2. [DS] P V L (pvl2)                 02:10.10
+  3. M.Eetzi (eetz1)                   02:13.09
+  4. Tonttu Racing (Glenn Quagmire)    02:27.81
+  5. LEOD.ITYT (leo2828)               09:37.34
+
+15. SUZUKI 400 CLASSIC
+  1. TKGX (TKGX)                       01:41.83
+  2. [DS] P V L (pvl2)                 02:08.50
+  3. M.Eetzi (eetz1)                   02:08.75
+  4. R/Marty (Marty_Deslions)          02:17.58
+  5. Tonttu Racing (Glenn Quagmire)    02:32.47
+
+16. YKS-100
+  1. TKGX (TKGX)                       01:44.30
+  2. M.Eetzi (eetz1)                   01:50.02
+  3. Tonttu Racing (Glenn Quagmire)    01:50.53
+  4. [DS] PVL (pvl2)                   02:31.28
+
+17. K300X
+  1. TKGX (TKGX)                       01:49.88
+  2. [DS] P V L (pvl2)                 02:10.44
+  3. M.Eetzi (eetz1)                   02:11.35
+  4. Tonttu Racing (Glenn Quagmire)    04:23.80
+  5. Sockjuice (Irwann Le Bouquin)     04:46.07
+
+18. YKS-R1052
+  1. TKGX (TKGX)                       01:51.46
+  2. M.Eetzi (eetz1)                   01:59.58
+  3. Tonttu Racing (Glenn Quagmire)    02:05.34
+  4. [DS] PVL (pvl2)                   02:41.02
+  5. Red/Marty (Marty_Deslions)        03:11.02
+
+19. GHOUL 250RR
+  1. [DS] PVL (pvl2)                   01:57.69
+  2. TKGX (TKGX)                       02:12.10
+  3. M.Eetzi (eetz1)                   02:18.28
+  4. Tonttu Racing (Glenn Quagmire)    02:29.80
+  5. [FIN] Soppa (pro player 128)      03:23.37
+  6. R/Marty (Marty_Deslions)          03:38.27
+
+20. REAPER X1
+  1. M.Eetzi (eetz1)                   02:00.91
+  2. [DS] P V L (pvl2)                 02:04.31
+  3. TKGX (TKGX)                       02:11.60
+  4. Tonttu Racing (Glenn Quagmire)    03:15.68
+  5. R/Marty (Marty_Deslions)          03:31.09
+  6. Red/Flyaway57 (mes(race))         05:30.55
+  7. [FIN] Soppa (pro player128)       06:05.48
+  8. $INO (BalangenMarty)              11:30.52
+  9. Sockjuice (Irwann Le Bouquin)     53:22.31
+
+
+
+--- Results by Player (Alphabetical by ID) ---
+
+1. Red/Béñツ (.w.)
+  1.  YAMAHA CT200          02:13.82 (Pos: 5)
+
+2. $INO (BalangenMarty)
+  1.  YAMAHA CT125 DR       03:35.84 (Pos: 7)
+  2.  REAPER X1             11:30.52 (Pos: 8)
+
+3. GOOSIEST (Cursenation)
+  1.  YAMAHA CT125 DR       06:33.72 (Pos: 9)
+
+4. Tonttu Racing (Glenn Quagmire)
+  1.  YAMAHA CT200          01:15.08 (Pos: 1)
+  2.  GP125                 01:16.45 (Pos: 1)
+  3.  HBIKE V2              01:17.24 (Pos: 1)
+  4.  SM500                 01:17.95 (Pos: 1)
+  5.  YAMAHA YZF-R3         01:18.67 (Pos: 1)
+  6.  YAMAHA MT09           01:20.85 (Pos: 1)
+  7.  YAMAHA CT125 DR       01:21.47 (Pos: 1)
+  8.  MOTO GUZZI            01:22.31 (Pos: 1)
+  9.  BD750                 01:22.32 (Pos: 1)
+  10. RZT 370               01:25.90 (Pos: 1)
+  11. HONDA CRF450          01:35.50 (Pos: 1)
+  12. JW 350                01:48.75 (Pos: 3)
+  13. YKS-100               01:50.53 (Pos: 3)
+  14. YKS-R1052             02:05.34 (Pos: 3)
+  15. RZM 250               02:27.81 (Pos: 4)
+  16. GHOUL 250RR           02:29.80 (Pos: 4)
+  17. VULCAN 998            02:31.93 (Pos: 4)
+  18. SUZUKI 400 CLASSIC    02:32.47 (Pos: 5)
+  19. REAPER X1             03:15.68 (Pos: 4)
+  20. K300X                 04:23.80 (Pos: 4)
+
+5. Sockjuice (Irwann Le Bouquin)
+  1.  K300X                 04:46.07 (Pos: 5)
+  2.  REAPER X1             53:22.31 (Pos: 9)
+
+6. R/Marty (Marty_Deslions)
+  1.  SUZUKI 400 CLASSIC    02:17.58 (Pos: 4)
+  2.  YKS-R1052             03:11.02 (Pos: 5)
+  3.  BD750                 03:19.44 (Pos: 5)
+  4.  YAMAHA CT200          03:22.01 (Pos: 6)
+  5.  YAMAHA MT09           03:27.98 (Pos: 6)
+  6.  REAPER X1             03:31.09 (Pos: 5)
+  7.  GP125                 03:34.30 (Pos: 5)
+  8.  YAMAHA CT125 DR       03:34.73 (Pos: 6)
+  9.  GHOUL 250RR           03:38.27 (Pos: 6)
+  10. YAMAHA YZF-R3         03:59.11 (Pos: 5)
+  11. RZT 370               05:33.53 (Pos: 6)
+  12. HONDA CRF450          05:35.09 (Pos: 5)
+
+7. TKGX (TKGX)
+  1.  VULCAN 998            01:20.07 (Pos: 1)
+  2.  BD750                 01:34.75 (Pos: 2)
+  3.  HBIKE V2              01:38.43 (Pos: 2)
+  4.  JW 350                01:39.72 (Pos: 1)
+  5.  RZM 250               01:39.85 (Pos: 1)
+  6.  MOTO GUZZI            01:39.92 (Pos: 2)
+  7.  SUZUKI 400 CLASSIC    01:41.83 (Pos: 1)
+  8.  YKS-100               01:44.30 (Pos: 1)
+  9.  HONDA CRF450          01:46.39 (Pos: 2)
+  10. SM500                 01:49.10 (Pos: 2)
+  11. K300X                 01:49.88 (Pos: 1)
+  12. YKS-R1052             01:51.46 (Pos: 1)
+  13. YAMAHA CT125 DR       01:53.38 (Pos: 2)
+  14. GP125                 01:58.91 (Pos: 2)
+  15. YAMAHA CT200          01:59.75 (Pos: 2)
+  16. YAMAHA YZF-R3         02:04.32 (Pos: 2)
+  17. RZT 370               02:04.96 (Pos: 3)
+  18. REAPER X1             02:11.60 (Pos: 3)
+  19. GHOUL 250RR           02:12.10 (Pos: 2)
+  20. YAMAHA MT09           02:26.14 (Pos: 5)
+
+8. WildGamerz (WildGamerz)
+  1.  GP125                 08:33.03 (Pos: 6)
+  2.  YAMAHA YZF-R3         21:54.07 (Pos: 7)
+
+9. M.Eetzi (eetz1)
+  1.  JW 350                01:46.35 (Pos: 2)
+  2.  BD750                 01:49.34 (Pos: 3)
+  3.  YKS-100               01:50.02 (Pos: 2)
+  4.  HONDA CRF450          01:50.91 (Pos: 3)
+  5.  YAMAHA MT09           01:53.53 (Pos: 2)
+  6.  YKS-R1052             01:59.58 (Pos: 2)
+  7.  REAPER X1             02:00.91 (Pos: 1)
+  8.  RZT 370               02:02.38 (Pos: 2)
+  9.  SM500                 02:03.67 (Pos: 3)
+  10. VULCAN 998            02:04.86 (Pos: 2)
+  11. MOTO GUZZI            02:05.14 (Pos: 3)
+  12. YAMAHA CT200          02:06.28 (Pos: 4)
+  13. SUZUKI 400 CLASSIC    02:08.75 (Pos: 3)
+  14. YAMAHA YZF-R3         02:09.31 (Pos: 3)
+  15. YAMAHA CT125 DR       02:10.16 (Pos: 3)
+  16. K300X                 02:11.35 (Pos: 3)
+  17. RZM 250               02:13.09 (Pos: 3)
+  18. GHOUL 250RR           02:18.28 (Pos: 3)
+  19. GP125                 02:42.11 (Pos: 4)
+  20. HBIKE V2              07:19.69 (Pos: 4)
+
+10. LEOD.ITYT (leo2828)
+  1.  RZM 250               09:37.34 (Pos: 5)
+
+11. Red/Flyaway57 (mes(race)
+  1.  REAPER X1             05:30.55 (Pos: 6)
+  2.  YAMAHA MT09           05:58.72 (Pos: 7)
+
+12. [FIN] Soppa (pro player 128)
+  1.  YAMAHA CT125 DR       03:22.94 (Pos: 5)
+  2.  GHOUL 250RR           03:23.37 (Pos: 5)
+  3.  YAMAHA YZF-R3         04:43.39 (Pos: 6)
+
+13. [FIN] Soppa (pro player128)
+  1.  YAMAHA MT09           02:16.99 (Pos: 4)
+  2.  REAPER X1             06:05.48 (Pos: 7)
+
+14. [DS] PVL (pvl2)
+  1.  BD750                 01:53.11 (Pos: 4)
+  2.  GHOUL 250RR           01:57.69 (Pos: 1)
+  3.  YAMAHA CT200          02:02.35 (Pos: 3)
+  4.  JW 350                02:03.59 (Pos: 4)
+  5.  REAPER X1             02:04.31 (Pos: 2)
+  6.  RZT 370               02:05.00 (Pos: 4)
+  7.  SM500                 02:06.85 (Pos: 4)
+  8.  YAMAHA MT09           02:07.53 (Pos: 3)
+  9.  SUZUKI 400 CLASSIC    02:08.50 (Pos: 2)
+  10. RZM 250               02:10.10 (Pos: 2)
+  11. K300X                 02:10.44 (Pos: 2)
+  12. GP125                 02:12.44 (Pos: 3)
+  13. YAMAHA YZF-R3         02:12.56 (Pos: 4)
+  14. HONDA CRF450          02:18.98 (Pos: 4)
+  15. YAMAHA CT125 DR       02:21.52 (Pos: 4)
+  16. VULCAN 998            02:23.17 (Pos: 3)
+  17. MOTO GUZZI            02:27.58 (Pos: 4)
+  18. YKS-100               02:31.28 (Pos: 4)
+  19. HBIKE V2              02:33.84 (Pos: 3)
+  20. YKS-R1052             02:41.02 (Pos: 4)
+
+15. RG RedBoT (redbot_)
+  1.  RZT 370               02:40.38 (Pos: 5)
+  2.  YAMAHA CT125 DR       05:19.16 (Pos: 8)
+  3.  HONDA CRF450          06:29.04 (Pos: 6)
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+
++----+---------------+-------+-------+-------+--------+--------+-------+-------+-------+--------+--------+--------+-------+--------+--------+--------+--------+------+--------+--------+--------+---------+
+| #  | Player        | BD750 | GHOUL | GP125 | HBIKE2 | CRF450 | JW350 | K300X | GUZZI | REAPER | RZM250 | RZT370 | SM500 | SZK400 | VULCAN | YCT125 | YCT200 | MT09 | YZF-R3 | YKS100 | YKSR1k |  TC Cash|
++----+---------------+-------+-------+-------+--------+--------+-------+-------+-------+--------+--------+--------+-------+--------+--------+--------+--------+------+--------+--------+--------+---------+
+| 1  | Tonttu Racing |   1   |   4   |   1   |    1   |    1   |   3   |   4   |   1   |    4   |    4   |    1   |   1   |    5   |    4   |    1   |    1   |   1  |    1   |    3   |    3   |   15,000|
+| 2  | TKGX          |   2   |   2   |   2   |    2   |    2   |   1   |   1   |   2   |    3   |    1   |    3   |   2   |    1   |    1   |    2   |    2   |   5  |    2   |    1   |    1   |   15,000|
+| 3  | M.Eetzi       |   3   |   3   |   4   |    4   |    3   |   2   |   3   |   3   |    1   |    3   |    2   |   3   |    3   |    2   |    3   |    4   |   2  |    3   |    2   |    2   |   15,000|
+| 4  | [DS] PVL      |   4   |   1   |   3   |    3   |    4   |   4   |   2   |   4   |    2   |    2   |    4   |   4   |    2   |    3   |    4   |    3   |   3  |    4   |    4   |    4   |   15,000|
+| 5  | R/Marty       |   5   |   6   |   5   |    -   |    5   |   -   |   -   |   -   |    5   |    -   |    6   |   -   |    4   |    -   |    6   |    6   |   6  |    5   |    -   |    5   |    6,000|
+| 6  | [FIN] Soppa   |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    7   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |   4  |    -   |    -   |    -   |    1,000|
+| 7  | [FIN] Soppa   |   -   |   5   |   -   |    -   |    -   |   -   |   -   |   -   |    -   |    -   |    -   |   -   |    -   |    -   |    5   |    -   |   -  |    6   |    -   |    -   |    1,500|
+| 8  | RG RedBoT     |   -   |   -   |   -   |    -   |    6   |   -   |   -   |   -   |    -   |    -   |    5   |   -   |    -   |    -   |    8   |    -   |   -  |    -   |    -   |    -   |    1,500|
+| 9  | Sockjuice     |   -   |   -   |   -   |    -   |    -   |   -   |   5   |   -   |    9   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |   -  |    -   |    -   |    -   |    1,000|
+| 10 | LEOD.ITYT     |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    -   |    5   |    -   |   -   |    -   |    -   |    -   |    -   |   -  |    -   |    -   |    -   |      500|
+| 11 | Red/Béñツ      |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    5   |   -  |    -   |    -   |    -   |      500|
+| 12 | Red/Flyaway57 |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    6   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |   7  |    -   |    -   |    -   |    1,000|
+| 13 | WildGamerz    |   -   |   -   |   6   |    -   |    -   |   -   |   -   |   -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |   -  |    7   |    -   |    -   |    1,000|
+| 14 | $INO          |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    8   |    -   |    -   |   -   |    -   |    -   |    7   |    -   |   -  |    -   |    -   |    -   |    1,000|
+| 15 | GOOSIEST      |   -   |   -   |   -   |    -   |    -   |   -   |   -   |   -   |    -   |    -   |    -   |   -   |    -   |    -   |    9   |    -   |   -  |    -   |    -   |    -   |      500|
++----+---------------+-------+-------+-------+--------+--------+-------+-------+-------+--------+--------+--------+-------+--------+--------+--------+--------+------+--------+--------+--------+---------+
+|    | Total         |       |       |       |        |        |       |       |       |        |        |        |       |        |        |        |        |      |        |        |        |   75,500|
++----+---------------+-------+-------+-------+--------+--------+-------+-------+-------+--------+--------+--------+-------+--------+--------+--------+--------+------+--------+--------+--------+---------+
