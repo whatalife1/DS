@@ -1,0 +1,147 @@
+Report generated at:
+UTC Time:      2025-04-29 19:25:33 UTC
+German Time:   2025-04-29 21:25:33 CEST
+Brazil Time:   2025-04-29 16:25:33 -03
+Saudi Arabia:  2025-04-29 22:25:33 +03
+
+--- Results by Vehicle (Fastest First) ---
+
+1. ROSSA
+  1. Urke (urke_radovanovic)      13:04.96
+  2. whatalife (whatalife)        17:26.05
+
+2. LCT3000
+  1. TC.Dealer (emrecansmsk)      13:10.10
+  2. whatalife (whatalife)        16:20.01
+
+3. RTS 6-71
+  1. Titan (CRC Titan2000)        14:04.22
+  2. whatalife (whatalife)        17:06.93
+
+4. MARIGUS
+  1. TC.Dealer (emrecansmsk)      15:01.17
+  2. CASHINO (BalangenMarty)      20:12.29
+
+5. MOVETRUCK
+  1. Soppa (pro player128)        16:04.76
+  2. whatalife (whatalife)        16:15.01
+
+6. SCAMA T580
+  1. Urke (urke_radovanovic)      16:32.29
+  2. Muffin (sirac.54_)           20:51.08
+  3. [CSR] Yunos (fastranker1)    25:14.74
+
+7. HEAVY RESCUE TRUCK
+  1. PVL (pvl2)                   17:36.77
+  2. [DS] P V L (p v l 2)         17:36.77
+  3. Titan (CRC Titan2000)        18:16.90
+
+8. EXPEDITION
+  1. whatalife (whatalife)        17:52.38
+
+9. SCAMA 311 B TOW
+  1. whatalife (whatalife)        18:27.63
+
+10. MERSOLES TORITMO
+  1. PVL (pvl2)                   18:41.07
+  2. [DS] P V L (p v l 2)         18:41.07
+  3. Titan (CRC Titan2000)        21:44.86
+  4. whatalife (whatalife)        26:13.82
+
+11. LIL 1300
+  1. Thomas (Toom43)              19:07.37
+
+12. METRO BUS 10.5
+  1. whatalife (whatalife)        22:04.77
+
+13. RACHA 707
+  1. whatalife (whatalife)        24:02.12
+
+14. SCAMA 420R 4X2 TANDEM
+  1. whatalife (whatalife)        24:48.03
+
+15. JAKEBILT BOBTAIL
+  1. whatalife (whatalife)        25:26.54
+
+16. TOWN BUS
+  1. whatalife (whatalife)        27:01.53
+
+17. ONIBUS VTR
+  1. whatalife (whatalife)        50:36.71
+
+
+
+--- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
+
+1. CASHINO (BalangenMarty)
+  1.  MARIGUS                  20:12.29 (Pos: 2)
+
+2. Titan (CRC Titan2000)
+  1.  RTS 6-71                 14:04.22 (Pos: 1)
+  2.  HEAVY RESCUE TRUCK       18:16.90 (Pos: 3)
+  3.  MERSOLES TORITMO         21:44.86 (Pos: 3)
+
+3. Thomas (Toom43)
+  1.  LIL 1300                 19:07.37 (Pos: 1)
+
+4. TC.Dealer (emrecansmsk)
+  1.  LCT3000                  13:10.10 (Pos: 1)
+  2.  MARIGUS                  15:01.17 (Pos: 1)
+
+5. [CSR] Yunos (fastranker1)
+  1.  SCAMA T580               25:14.74 (Pos: 3)
+
+6. [DS] P V L (p v l 2)
+  1.  HEAVY RESCUE TRUCK       17:36.77 (Pos: 2)
+  2.  MERSOLES TORITMO         18:41.07 (Pos: 2)
+
+7. Soppa (pro player128)
+  1.  MOVETRUCK                16:04.76 (Pos: 1)
+
+8. PVL (pvl2)
+  1.  HEAVY RESCUE TRUCK       17:36.77 (Pos: 1)
+  2.  MERSOLES TORITMO         18:41.07 (Pos: 1)
+
+9. Muffin (sirac.54_)
+  1.  SCAMA T580               20:51.08 (Pos: 2)
+
+10. Urke (urke_radovanovic)
+  1.  ROSSA                    13:04.96 (Pos: 1)
+  2.  SCAMA T580               16:32.29 (Pos: 1)
+
+11. whatalife (whatalife)
+  1.  EXPEDITION               17:52.38 (Pos: 1)
+  2.  SCAMA 311 B TOW          18:27.63 (Pos: 1)
+  3.  METRO BUS 10.5           22:04.77 (Pos: 1)
+  4.  RACHA 707                24:02.12 (Pos: 1)
+  5.  SCAMA 420R 4X2 TANDEM    24:48.03 (Pos: 1)
+  6.  JAKEBILT BOBTAIL         25:26.54 (Pos: 1)
+  7.  TOWN BUS                 27:01.53 (Pos: 1)
+  8.  ONIBUS VTR               50:36.71 (Pos: 1)
+  9.  MOVETRUCK                16:15.01 (Pos: 2)
+  10. LCT3000                  16:20.01 (Pos: 2)
+  11. RTS 6-71                 17:06.93 (Pos: 2)
+  12. ROSSA                    17:26.05 (Pos: 2)
+  13. MERSOLES TORITMO         26:13.82 (Pos: 4)
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+
++----+-------------+------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+-------+--------+--------+--------+--------+--------+---------+
+| #  | Player      | ID               | EXPEDI | HEAVY  | JAKEBI | LCT300 | LIL 13 | MARIGU | MERSOL | METRO  | MOVETR | ONIBUS | RACHA  | ROSSA | RTS 6- | SCAMA  | SCAMA  | SCAMA  | TOWN B |  TC Cash|
++----+-------------+------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+-------+--------+--------+--------+--------+--------+---------+
+| 1  | whatalife   | whatalife        |    1   |    -   |    1   |    2   |    -   |    -   |    4   |    1   |    2   |    1   |    1   |   2   |    2   |    1   |    1   |    -   |    1   |    2,600|
+| 2  | TC.Dealer   | emrecansmsk      |    -   |    -   |    -   |    1   |    -   |    1   |    -   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      400|
+| 3  | PVL         | pvl2             |    -   |    1   |    -   |    -   |    -   |    -   |    1   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      400|
+| 4  | Urke        | urke_radovanovic |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |   1   |    -   |    -   |    -   |    1   |    -   |      400|
+| 5  | Titan       | CRC Titan2000    |    -   |    3   |    -   |    -   |    -   |    -   |    3   |    -   |    -   |    -   |    -   |   -   |    1   |    -   |    -   |    -   |    -   |      600|
+| 6  | Thomas      | Toom43           |    -   |    -   |    -   |    -   |    1   |    -   |    -   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      200|
+| 7  | Soppa       | pro player128    |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    1   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      200|
+| 8  | [DS] P V L  | p v l 2          |    -   |    2   |    -   |    -   |    -   |    -   |    2   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      400|
+| 9  | CASHINO     | BalangenMarty    |    -   |    -   |    -   |    -   |    -   |    2   |    -   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    -   |    -   |      200|
+| 10 | Muffin      | sirac.54_        |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    2   |    -   |      200|
+| 11 | [CSR] Yunos | fastranker1      |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |   -   |    -   |    -   |    -   |    3   |    -   |      200|
++----+-------------+------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+-------+--------+--------+--------+--------+--------+---------+
+|    | Total       |                  |        |        |        |        |        |        |        |        |        |        |        |       |        |        |        |        |        |    5,800|
++----+-------------+------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+-------+--------+--------+--------+--------+--------+---------+
