@@ -1,302 +1,296 @@
+--- Report Generation Info ---
+
 Report generated at:
-UTC Time:      2025-04-29 23:18:36 UTC
-German Time:   2025-04-30 01:18:36 CEST
-Brazil Time:   2025-04-29 20:18:36 -03
-Saudi Arabia:  2025-04-30 02:18:36 +03
+UTC Time:      2025-04-30 22:34:33 UTC
+German Time:   2025-05-01 00:34:33 CEST
+Brazil Time:   2025-04-30 19:34:33 -03
+Saudi Arabia:  2025-05-01 01:34:33 +03
+Turkish Time:  2025-05-01 01:34:33 +03
 
 --- Results by Vehicle (Fastest First) ---
 
 1. MOVETRUCK
-  1. [DS] Kilo (kilobananov)      11:07.99
-  2. Flyaway57 (mes(race))        16:00.86
-  3. Soppa (pro player128)        16:04.76
-  4. whatalife (whatalife)        16:15.01
+  1. DS Kilo (kilobananov)            11:07.99
+  2. Reddy Flyaway57 (mes(race))      16:00.86
+  3. FIN Soppa (pro player128)        16:04.76
+  4. whatalife (whatalife)            16:15.01
 
-2. MOD
-  1. DS Kilo                      11:07.99
-  2. FIN Soppa                    11:52.62
-  3. ngu TC.Dealer                12:16.27
-  4. [DS] Urke                    13:04.96
-  5. Red/Is7ac                    14:41.65
-  6. whatalife                    14:52.38
-  7. Jason                        15:28.49
+2. ROSSA
+  1. DS Kilo (kilobananov)            11:24.24
+  2. Urke (urke_radovanovic)          13:04.96
+  3. ngu TC.Dealer (emrecansmsk)      13:08.45
+  4. LancerBoss (yetkinbaba)          14:49.69
+  5. whatalife (whatalife)            17:26.05
 
 3. EXPEDITION
-  1. DS Kilo (kilobananov)        11:21.56
-  2. [FIN] Soppa (pro player128)  11:52.62
-  3. ngµTC.Dealer (emrecansmsk)   12:16.27
-  4. LancerBoss (yetkinbaba)      14:35.72
-  5. whatalife (whatalife)        17:52.38
-  6. Is7ac (isaac68ea)            40:58.06
+  1. FiN Soppa (pro player128)        11:52.62
+  2. ngu TC.Dealer (emrecansmsk)      12:16.27
+  3. LancerBoss (yetkinbaba)          14:35.72
+  4. whatalife (whatalife)            17:52.38
+  5. ls7ac (Isaac68ea)                40:58.06
 
-4. ROSSA
-  1. [DS] Kilo (kilobananov)      11:29.24
-  2. Urke (urke_radovanovic)      13:04.96
-  3. ngµTC.Dealer (emrecansmsk)   13:08.45
-  4. LancerBoss (yetkinbaba)      14:49.69
-  5. whatalife (whatalife)        17:26.05
+4. LINE RUNNER IVII
+  1. DS Kilo (kilobananov)            12:34.07
+  2. whatalife (whatalife)            23:48.48
 
 5. LCT3000
-  1. TC.Dealer (emrecansmsk)      13:10.10
-  2. Red Is7ac (isaac68ea)        14:41.65
-  3. whatalife (whatalife)        16:20.01
-  4. Jason (pug=309)              18:28.49
+  1. ngu TC.Dealer (emrecansmsk)      13:10.10
+  2. Is7ac (isaac68ea)                14:41.65
+  3. whatalife (whatalife)            16:20.01
+  4. Jason (pug=309)                  18:28.49
 
 6. MARIGUS
-  1. [DS] PVL (pvl2)              13:30.58
-  2. [DS] Titan (CRC Titan2000)   13:51.85
-  3. ngµTC.Dealer (emrecansmsk)   14:06.84
-  4. M.Eetzi (eetz1)              14:42.76
-  5. whatalife (whatalife)        18:34.94
-  6. LancerBoss (yetkinbaba)      19:42.08
-  7. CASHINO (BalangenMarty)      20:12.29
-  8. Is7ac (isaac68ea)            24:19.32
+  1. P V L (pvl2)                     13:30.58
+  2. Titan (CRC Titan2000)            13:51.85
+  3. ngu TC.Dealer (emrecansmsk)      14:06.84
+  4. M Eetz! (eetz1)                  14:42.76
+  5. whatalife (whatalife)            18:34.94
+  6. LancerBoss (yetkinbaba)          19:42.08
+  7. CASHIN0 (BalangenMarty)          20:12.29
+  8. ls7ac (Isaac68ea)                24:19.32
 
 7. RTS 6-71
-  1. Titan (CRC Titan2000)        14:04.22
-  2. ngµTC.Dealer (emrecansmsk)   14:41.60
-  3. whatalife (whatalife)        17:06.93
+  1. Titan (CRC Titan2000)            14:04.22
+  2. ngu TC.Dealer (emrecansmsk)      14:41.60
+  3. whatalife (whatalife)            17:06.93
 
 8. LIL 1300
-  1. ngµTC.Dealer (emrecansmsk)   14:37.91
-  2. M.Eetzi (eetz1)              14:42.67
-  3. whatalife (whatalife)        18:16.16
-  4. nguameow (Raion4545)         18:41.46
-  5. Red/Lucas (lucasazedo)       18:50.36
-  6. Thomas (Toom43)              19:07.37
-  7. Is7ac (isaac68ea)            26:24.43
-  8. LancerBoss (yetkinbaba)      29:28.21
+  1. ngu TC.Dealer (emrecansmsk)      14:37.91
+  2. M Eetz! (eetz1)                  14:42.67
+  3. whatalife (whatalife)            18:16.16
+  4. ngu meow (Raion4545)             18:41.46
+  5. Lucas (lucasazedo)               18:50.36
+  6. Thomas (Toom43)                  19:07.37
+  7. ls7ac (Isaac68ea)                26:24.43
+  8. LancerBoss (yetkinbaba)          29:28.21
 
 9. MUN FIRETRUCK
-  1. [DS] PVL (pvl2)              15:06.50
-  2. Titan (CRC Titan2000)        15:25.05
+  1. [BG] P V L (p v l 2)             15:06.50
+  2. [BG] Titan (CRC Titan2000)       15:25.05
+  3. whatalife (whatalife)            24:33.20
 
 10. METRO BUS 10.5
-  1. PVL (p v l 2)                15:19.69
-  2. Titan (CRC Titan2000)        15:36.00
-  3. whatalife (whatalife)        22:04.77
+  1. [BG] P V L (p v l 2)             15:19.69
+  2. [BG] Titan (CRC Titan2000)       15:36.00
+  3. whatalife (whatalife)            22:04.77
 
 11. PIERCING ARROW XT
-  1. ngu TC.Dealer (emrecansmsk)  15:45.06
+  1. ngu TC.Dealer (emrecansmsk)      15:45.06
+  2. whatalife (whatalife)            28:44.56
 
-12. LIL1
-  1. Lucas                        15:50.36
+12. MECA 371 MONOBLOCO
+  1. [BG] Titan (CRC Titan2000)       15:57.42
+  2. [BG] P V L (p v l 2)             16:03.37
+  3. whatalife (whatalife)            27:16.99
 
-13. MECA 371 MONOBLOCO
-  1. Titan (CRC Titan2000)        15:57.42
-  2. PVL (pvl2)                   16:03.37
+13. SCAMA T580
+  1. [BG] Urke (urke_radovanovic)     16:32.29
+  2. Muffin (sirac.54_)               20:51.08
+  3. Flydway57 (mes(race))            24:31.09
+  4. LancerBoss (yetkinbaba)          24:36.96
+  5. Yunos (fastranker1)              25:14.74
+  6. ngu meow (Raion4545)             26:06.58
+  7. whatalife (whatalife)            29:26.24
 
-14. SCAMA T580
-  1. Urke (urke_radovanovic)      16:32.29
-  2. Muffin (sirac.54_)           20:51.08
-  3. Flyaway57 (mes(race))        24:31.09
-  4. LancerBoss (yetkinbaba)      24:36.96
-  5. [CSR] Yunos (fastranker1)    25:14.74
-  6. meow (Raion4545)             26:06.58
+14. JAKEBILT BOBTAIL
+  1. FIN Soppa (pro player128)        17:13.46
+  2. whatalife (whatalife)            25:26.54
 
-15. JAKEBILT BOBTAIL
-  1. Soppa (pro player128)        17:13.46
-  2. whatalife (whatalife)        25:26.54
+15. HEAVY RESCUE TRUCK
+  1. [BG] P V L (p v l 2)             17:36.77
+  2. [BG] Titan (CRC Titan2000)       18:16.90
+  3. ngu meow (Raion4545)             23:48.03
+  4. whatalife (whatalife)            31:50.62
 
-16. HEAVY RESCUE TRUCK
-  1. PVL (pvl2)                   17:36.77
-  2. Titan (CRC Titan2000)        18:16.90
-  3. whatalife (whatalife)        31:50.62
+16. SCAMA 311 B TOW
+  1. whatalife (whatalife)            18:27.63
+  2. LancerBoss (yetkinbaba)          45:51.93
 
-17. SCAMA 311 B TOW
-  1. whatalife (whatalife)        18:27.63
-  2. LancerBoss (yetkinbaba)      45:51.93
+17. MERSOLES TORITMO
+  1. P V L (pvl2)                     18:41.07
+  2. Titan (CRC Titan2000)            21:44.86
+  3. Is7ac (isaac68ea)                24:15.04
+  4. whatalife (whatalife)            26:13.82
+  5. LancerBoss (yetkinbaba)       01:00:06.40
 
-18. MERSOLES TORITMO
-  1. PVL (pvl2)                   18:41.07
-  2. [ ] PAL (pv12)               18:41.07
-  3. Titan (CRC Titan2000)        21:44.86
-  4. Is7ac (isaac68ea)            24:15.04
-  5. whatalife (whatalife)        26:13.82
+18. NELSIN 380
+  1. whatalife (whatalife)            20:53.26
 
 19. SCAMA 420R 4X2 TANDEM
-  1. LancerBoss (yetkinbaba)      20:57.92
-  2. whatalife (whatalife)        24:48.03
+  1. LancerBoss (yetkinbaba)          20:57.92
+  2. whatalife (whatalife)            24:48.03
 
-20. RACHA 707
-  1. whatalife (whatalife)        24:02.12
+20. MUN TG DUMPTRUCK
+  1. ngu meow (Raion4545)             22:26.78
+  2. whatalife (whatalife)            23:02.31
 
-21. TOWN BUS
-  1. whatalife (whatalife)        27:01.53
+21. RACHA 707
+  1. whatalife (whatalife)            24:02.12
 
-22. SCAMA DD
-  1. meow (Raion4545)             28:59.00
+22. TOWN BUS
+  1. whatalife (whatalife)            27:01.53
 
-23. ONIBUS VTR
-  1. whatalife (whatalife)        50:36.71
+23. SCAMA DD
+  1. whatalife (whatalife)            27:55.84
+  2. ngu meow (Raion4545)             28:59.00
+  3. LancerBoss (yetkinbaba)          58:51.11
+
+24. MERCEDES BENZ 16
+  1. whatalife (whatalife)            31:16.71
+  2. LancerBoss (yetkinbaba)          50:34.08
+
+25. ONIBUS VTR
+  1. whatalife (whatalife)            50:36.71
 
 
 
 --- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
 
-1. /Is7ac (/Is7ac)
-  1.  MOD                    14:41.65 (Pos: 5) 
+1. CASHIN0 (BalangenMarty)
+  1.  MARIGUS                   20:12.29 (Pos: 7)
 
-2. CASHINO (BalangenMarty)
-  1.  MARIGUS                20:12.29 (Pos: 7) 
+2. CRC Titan2000 (CRC Titan2000)
+  1.  RTS 6-71                  14:04.22 (Pos: 1)
+  2.  MECA 371 MONOBLOCO        15:57.42 (Pos: 1)
+  3.  MARIGUS                   13:51.85 (Pos: 2)
+  4.  MUN FIRETRUCK             15:25.05 (Pos: 2)
+  5.  METRO BUS 10.5            15:36.00 (Pos: 2)
+  6.  HEAVY RESCUE TRUCK        18:16.90 (Pos: 2)
+  7.  MERSOLES TORITMO          21:44.86 (Pos: 2)
 
-3. Titan (CRCTitan2000)
-  1.  RTS 6-71               14:04.22 (Pos: 1) 
-  2.  MECA 371 MONOBLOCO     15:57.42 (Pos: 1) 
-  3.  MARIGUS                13:51.85 (Pos: 2) 
-  4.  MUN FIRETRUCK          15:25.05 (Pos: 2) 
-  5.  METRO BUS 10.5         15:36.00 (Pos: 2) 
-  6.  HEAVY RESCUE TRUCK     18:16.90 (Pos: 2) 
-  7.  MERSOLES TORITMO       21:44.86 (Pos: 3) 
+3. Raion4545 (Raion4545)
+  1.  MUN TG DUMPTRUCK          22:26.78 (Pos: 1)
+  2.  SCAMA DD                  28:59.00 (Pos: 2)
+  3.  HEAVY RESCUE TRUCK        23:48.03 (Pos: 3)
+  4.  LIL 1300                  18:41.46 (Pos: 4)
+  5.  SCAMA T580                26:06.58 (Pos: 6)
 
-4. Flyaway57 (mes(race)) (Flyaway57 (mes(race)))
-  1.  MOVETRUCK              16:00.86 (Pos: 2) 
-  2.  SCAMA T580             24:31.09 (Pos: 3) 
+4. Toom43 (Toom43)
+  1.  LIL 1300                  19:07.37 (Pos: 6)
 
-5. Jason (Jason)
-  1.  MOD                    15:28.49 (Pos: 7) 
+5. M Eetz! (eetz1)
+  1.  LIL 1300                  14:42.67 (Pos: 2)
+  2.  MARIGUS                   14:42.76 (Pos: 4)
 
-6. Kilo (Kilo)
-  1.  MOD                    11:07.99 (Pos: 1) 
+6. ngu TC.Dealer (emrecansmsk)
+  1.  LCT3000                   13:10.10 (Pos: 1)
+  2.  LIL 1300                  14:37.91 (Pos: 1)
+  3.  PIERCING ARROW XT         15:45.06 (Pos: 1)
+  4.  EXPEDITION                12:16.27 (Pos: 2)
+  5.  RTS 6-71                  14:41.60 (Pos: 2)
+  6.  ROSSA                     13:08.45 (Pos: 3)
+  7.  MARIGUS                   14:06.84 (Pos: 3)
 
-7. Lucas (Lucas)
-  1.  LIL1                   15:50.36 (Pos: 1) 
+7. fastranker1 (fastranker1)
+  1.  SCAMA T580                25:14.74 (Pos: 5)
 
-8. Raion4545 (Raion4545)
-  1.  SCAMA DD               28:59.00 (Pos: 1) 
-  2.  LIL 1300               18:41.46 (Pos: 4) 
-  3.  SCAMA T580             26:06.58 (Pos: 6) 
+8. Is7ac (isaac68ea)
+  1.  LCT3000                   14:41.65 (Pos: 2)
+  2.  MERSOLES TORITMO          24:15.04 (Pos: 3)
+  3.  EXPEDITION                40:58.06 (Pos: 5)
+  4.  LIL 1300                  26:24.43 (Pos: 7)
+  5.  MARIGUS                   24:19.32 (Pos: 8)
 
-9. Soppa (Soppa)
-  1.  MOD                    11:52.62 (Pos: 2) 
+9. kilobananov (kilobananov)
+  1.  MOVETRUCK                 11:07.99 (Pos: 1)
+  2.  ROSSA                     11:24.24 (Pos: 1)
+  3.  LINE RUNNER IVII          12:34.07 (Pos: 1)
 
-10. Thomas (Toom43)
-  1.  LIL 1300               19:07.37 (Pos: 6) 
+10. Lucas (lucasazedo)
+  1.  LIL 1300                  18:50.36 (Pos: 5)
 
-11. Urke (Urke)
-  1.  MOD                    13:04.96 (Pos: 4) 
+11. Flydway57 (mes(race))
+  1.  MOVETRUCK                 16:00.86 (Pos: 2)
+  2.  SCAMA T580                24:31.09 (Pos: 3)
 
-12. M.Eetzi (eetz1)
-  1.  LIL 1300               14:42.67 (Pos: 2) 
-  2.  MARIGUS                14:42.76 (Pos: 4) 
+12. p v l 2 (p v l 2)
+  1.  MARIGUS                   13:30.58 (Pos: 1)
+  2.  MUN FIRETRUCK             15:06.50 (Pos: 1)
+  3.  METRO BUS 10.5            15:19.69 (Pos: 1)
+  4.  HEAVY RESCUE TRUCK        17:36.77 (Pos: 1)
+  5.  MERSOLES TORITMO          18:41.07 (Pos: 1)
+  6.  MECA 371 MONOBLOCO        16:03.37 (Pos: 2)
 
-13. TC.Dealer (emrecansmsk)
-  1.  LCT3000                13:10.10 (Pos: 1) 
-  2.  LIL 1300               14:37.91 (Pos: 1) 
-  3.  PIERCING ARROW XT      15:45.06 (Pos: 1) 
-  4.  RTS 6-71               14:41.60 (Pos: 2) 
-  5.  EXPEDITION             12:16.27 (Pos: 3) 
-  6.  ROSSA                  13:08.45 (Pos: 3) 
-  7.  MARIGUS                14:06.84 (Pos: 3) 
+13. pro player128 (pro player128)
+  1.  EXPEDITION                11:52.62 (Pos: 1)
+  2.  JAKEBILT BOBTAIL          17:13.46 (Pos: 1)
+  3.  MOVETRUCK                 16:04.76 (Pos: 3)
 
-14. Yunos (fastranker1)
-  1.  SCAMA T580             25:14.74 (Pos: 5) 
+14. pug=309 (pug=309)
+  1.  LCT3000                   18:28.49 (Pos: 4)
 
-15. /Is7ac (isaac68ea)
-  1.  LCT3000                14:41.65 (Pos: 2) 
-  2.  MERSOLES TORITMO       24:15.04 (Pos: 4) 
-  3.  EXPEDITION             40:58.06 (Pos: 6) 
-  4.  LIL 1300               26:24.43 (Pos: 7) 
-  5.  MARIGUS                24:19.32 (Pos: 8) 
+15. sirac.54_ (sirac.54_)
+  1.  SCAMA T580                20:51.08 (Pos: 2)
 
-16. Kilo (kilobananov)
-  1.  MOVETRUCK              11:07.99 (Pos: 1) 
-  2.  EXPEDITION             11:21.56 (Pos: 1) 
-  3.  ROSSA                  11:29.24 (Pos: 1) 
+16. urke_radovanovic (urke_radovanovic)
+  1.  SCAMA T580                16:32.29 (Pos: 1)
+  2.  ROSSA                     13:04.96 (Pos: 2)
 
-17. /Lucas (lucasazedo)
-  1.  LIL 1300               18:50.36 (Pos: 5) 
+17. whatalife (whatalife)
+  1.  SCAMA 311 B TOW           18:27.63 (Pos: 1)
+  2.  NELSIN 380                20:53.26 (Pos: 1)
+  3.  RACHA 707                 24:02.12 (Pos: 1)
+  4.  TOWN BUS                  27:01.53 (Pos: 1)
+  5.  SCAMA DD                  27:55.84 (Pos: 1)
+  6.  MERCEDES BENZ 16          31:16.71 (Pos: 1)
+  7.  ONIBUS VTR                50:36.71 (Pos: 1)
+  8.  MUN TG DUMPTRUCK          23:02.31 (Pos: 2)
+  9.  LINE RUNNER IVII          23:48.48 (Pos: 2)
+  10. SCAMA 420R 4X2 TANDEM     24:48.03 (Pos: 2)
+  11. JAKEBILT BOBTAIL          25:26.54 (Pos: 2)
+  12. PIERCING ARROW XT         28:44.56 (Pos: 2)
+  13. LCT3000                   16:20.01 (Pos: 3)
+  14. RTS 6-71                  17:06.93 (Pos: 3)
+  15. LIL 1300                  18:16.16 (Pos: 3)
+  16. METRO BUS 10.5            22:04.77 (Pos: 3)
+  17. MUN FIRETRUCK             24:33.20 (Pos: 3)
+  18. MECA 371 MONOBLOCO        27:16.99 (Pos: 3)
+  19. MOVETRUCK                 16:15.01 (Pos: 4)
+  20. EXPEDITION                17:52.38 (Pos: 4)
+  21. MERSOLES TORITMO          26:13.82 (Pos: 4)
+  22. HEAVY RESCUE TRUCK        31:50.62 (Pos: 4)
+  23. ROSSA                     17:26.05 (Pos: 5)
+  24. MARIGUS                   18:34.94 (Pos: 5)
+  25. SCAMA T580                29:26.24 (Pos: 7)
 
-18. ngu TC.Dealer (ngu TC.Dealer)
-  1.  MOD                    12:16.27 (Pos: 3) 
-
-19. Soppa (pro player128)
-  1.  JAKEBILT BOBTAIL       17:13.46 (Pos: 1) 
-  2.  EXPEDITION             11:52.62 (Pos: 2) 
-  3.  MOVETRUCK              16:04.76 (Pos: 3) 
-
-20. Jason (pug=309)
-  1.  LCT3000                18:28.49 (Pos: 4) 
-
-21. PAL (pv12)
-  1.  MERSOLES TORITMO       18:41.07 (Pos: 2) 
-
-22. P V L (pvl2)
-  1.  MARIGUS                13:30.58 (Pos: 1) 
-  2.  MUN FIRETRUCK          15:06.50 (Pos: 1) 
-  3.  METRO BUS 10.5         15:19.69 (Pos: 1) 
-  4.  HEAVY RESCUE TRUCK     17:36.77 (Pos: 1) 
-  5.  MERSOLES TORITMO       18:41.07 (Pos: 1) 
-  6.  MECA 371 MONOBLOCO     16:03.37 (Pos: 2) 
-
-23. Muffin (sirac.54_)
-  1.  SCAMA T580             20:51.08 (Pos: 2) 
-
-24. Urke (urke_radovanovic)
-  1.  SCAMA T580             16:32.29 (Pos: 1) 
-  2.  ROSSA                  13:04.96 (Pos: 2) 
-
-25. whatalife (whatalife)
-  1.  SCAMA 311 B TOW        18:27.63 (Pos: 1) 
-  2.  RACHA 707              24:02.12 (Pos: 1) 
-  3.  TOWN BUS               27:01.53 (Pos: 1) 
-  4.  ONIBUS VTR             50:36.71 (Pos: 1) 
-  5.  SCAMA 420R 4X2 TANDEM  24:48.03 (Pos: 2) 
-  6.  JAKEBILT BOBTAIL       25:26.54 (Pos: 2) 
-  7.  LCT3000                16:20.01 (Pos: 3) 
-  8.  RTS 6-71               17:06.93 (Pos: 3) 
-  9.  LIL 1300               18:16.16 (Pos: 3) 
-  10. METRO BUS 10.5         22:04.77 (Pos: 3) 
-  11. HEAVY RESCUE TRUCK     31:50.62 (Pos: 3) 
-  12. MOVETRUCK              16:15.01 (Pos: 4) 
-  13. ROSSA                  17:26.05 (Pos: 5) 
-  14. EXPEDITION             17:52.38 (Pos: 5) 
-  15. MARIGUS                18:34.94 (Pos: 5) 
-  16. MERSOLES TORITMO       26:13.82 (Pos: 5) 
-  17. MOD                    14:52.38 (Pos: 6) 
-
-26. LancerBoss (yetkinbaba)
-  1.  SCAMA 420R 4X2 TANDEM  20:57.92 (Pos: 1) 
-  2.  SCAMA 311 B TOW        45:51.93 (Pos: 2) 
-  3.  EXPEDITION             14:35.72 (Pos: 4) 
-  4.  ROSSA                  14:49.69 (Pos: 4) 
-  5.  SCAMA T580             24:36.96 (Pos: 4) 
-  6.  MARIGUS                19:42.08 (Pos: 6) 
-  7.  LIL 1300               29:28.21 (Pos: 8) 
+18. yetkinbaba (yetkinbaba)
+  1.  SCAMA 420R 4X2 TANDEM     20:57.92 (Pos: 1)
+  2.  SCAMA 311 B TOW           45:51.93 (Pos: 2)
+  3.  MERCEDES BENZ 16          50:34.08 (Pos: 2)
+  4.  EXPEDITION                14:35.72 (Pos: 3)
+  5.  SCAMA DD                  58:51.11 (Pos: 3)
+  6.  ROSSA                     14:49.69 (Pos: 4)
+  7.  SCAMA T580                24:36.96 (Pos: 4)
+  8.  MERSOLES TORITMO       01:00:06.40 (Pos: 5)
+  9.  MARIGUS                   19:42.08 (Pos: 6)
+  10. LIL 1300                  29:28.21 (Pos: 8)
 
 
 
 --- Overall Ranking Table (Sorted by Performance) ---
+--- You get 200 for each vehicle, 5k on top if done all vehicles listed in the table. ---
 
-+----+-----------------------+-----------------------+--------+--------+--------+-------+---------+------+------+---------+---------+--------+------+------+---------+--------+--------+-------+-------+--------+--------+---------+-------+---------+--------+---------+
-| #  | Player                | ID                    | EXPEDI | HRTRCK | BOBTAI | LCT3k | LIL1300 | LIL1 | MARI | MECA371 | TORITMO | METROB |  MOD | MOVE | MUNFIRE | ONIBUS | PARROW | RACHA | ROSSA | RTS671 | SCATOW | SCA420R | SCADD | SCAT580 | TOWNBS |  TC Cash|
-+----+-----------------------+-----------------------+--------+--------+--------+-------+---------+------+------+---------+---------+--------+------+------+---------+--------+--------+-------+-------+--------+--------+---------+-------+---------+--------+---------+
-| 1  | P V L                 | pvl2                  |    -   |    1   |    -   |   -   |    -    |   -  |   1  |    2    |    1    |    1   |   -  |   -  |    1    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |    1,200|
-| 2  | whatalife             | whatalife             |    5   |    3   |    2   |   3   |    3    |   -  |   5  |    -    |    5    |    3   |   6  |   4  |    -    |    1   |    -   |   1   |   5   |    3   |    1   |    2    |   -   |    -    |    1   |    3,400|
-| 3  | TC.Dealer             | emrecansmsk           |    3   |    -   |    -   |   1   |    1    |   -  |   3  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    1   |   -   |   3   |    2   |    -   |    -    |   -   |    -    |    -   |    1,400|
-| 4  | Kilo                  | kilobananov           |    1   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   1  |    -    |    -   |    -   |   -   |   1   |    -   |    -   |    -    |   -   |    -    |    -   |      600|
-| 5  | Titan                 | CRCTitan2000          |    -   |    2   |    -   |   -   |    -    |   -  |   2  |    1    |    3    |    2   |   -  |   -  |    2    |    -   |    -   |   -   |   -   |    1   |    -   |    -    |   -   |    -    |    -   |    1,400|
-| 6  | Soppa                 | pro player128         |    2   |    -   |    1   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   3  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      600|
-| 7  | LancerBoss            | yetkinbaba            |    4   |    -   |    -   |   -   |    8    |   -  |   6  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   4   |    -   |    2   |    1    |   -   |    4    |    -   |    1,400|
-| 8  | Urke                  | urke_radovanovic      |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   2   |    -   |    -   |    -    |   -   |    1    |    -   |      400|
-| 9  | Raion4545             | Raion4545             |    -   |    -   |    -   |   -   |    4    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   1   |    6    |    -   |      600|
-| 10 | Kilo                  | Kilo                  |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   1  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 11 | Lucas                 | Lucas                 |    -   |    -   |    -   |   -   |    -    |   1  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 12 | Flyaway57 (mes(race)) | Flyaway57 (mes(race)) |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   2  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    3    |    -   |      400|
-| 13 | /Is7ac                | isaac68ea             |    6   |    -   |    -   |   2   |    7    |   -  |   8  |    -    |    4    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |    1,000|
-| 14 | M.Eetzi               | eetz1                 |    -   |    -   |    -   |   -   |    2    |   -  |   4  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      400|
-| 15 | Soppa                 | Soppa                 |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   2  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 16 | PAL                   | pv12                  |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    2    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 17 | Muffin                | sirac.54_             |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    2    |    -   |      200|
-| 18 | ngu TC.Dealer         | ngu TC.Dealer         |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   3  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 19 | Urke                  | Urke                  |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   4  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 20 | Jason                 | pug=309               |    -   |    -   |    -   |   4   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 21 | /Is7ac                | /Is7ac                |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   5  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 22 | Yunos                 | fastranker1           |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    5    |    -   |      200|
-| 23 | /Lucas                | lucasazedo            |    -   |    -   |    -   |   -   |    5    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 24 | Thomas                | Toom43                |    -   |    -   |    -   |   -   |    6    |   -  |   -  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 25 | CASHINO               | BalangenMarty         |    -   |    -   |    -   |   -   |    -    |   -  |   7  |    -    |    -    |    -   |   -  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-| 26 | Jason                 | Jason                 |    -   |    -   |    -   |   -   |    -    |   -  |   -  |    -    |    -    |    -   |   7  |   -  |    -    |    -   |    -   |   -   |   -   |    -   |    -   |    -    |   -   |    -    |    -   |      200|
-+----+-----------------------+-----------------------+--------+--------+--------+-------+---------+------+------+---------+---------+--------+------+------+---------+--------+--------+-------+-------+--------+--------+---------+-------+---------+--------+---------+
-|    | Total                 |                       |        |        |        |       |         |      |      |         |         |        |      |      |         |        |        |       |       |        |        |         |       |         |        |   15,600|
-+----+-----------------------+-----------------------+--------+--------+--------+-------+---------+------+------+---------+---------+--------+------+------+---------+--------+--------+-------+-------+--------+--------+---------+-------+---------+--------+---------+
++----+------------------+------------------+----------+---------+------------+--------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| #  | Player           | ID               |  Finished|  TC Cash| EXPEDITION | Heavy Rescue | JAKEBILT Bob | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MBenz 16 | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | NELSIN 380 | ONIBUS VTR | PIERCING ARROW | RACHA 707 | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
++----+------------------+------------------+----------+---------+------------+--------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| 1  | whatalife        | whatalife        |        25|   10,000|      4     |       4      |       2      |    3    |     3    |     2    |    5    |     3    |     1    |         4        |        3       |     4     |     3    |      2      |      1     |      1     |        2       |     1     |   5   |     3    |     1     |      2     |     1    |      7     |     1    |
+| 2  | p v l 2          | p v l 2          |         6|    1,200|      -     |       1      |       -      |    -    |     -    |     -    |    1    |     2    |     -    |         1        |        1       |     -     |     1    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 3  | ngu TC.Dealer    | emrecansmsk      |         7|    1,400|      2     |       -      |       -      |    1    |     1    |     -    |    3    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        1       |     -     |   3   |     2    |     -     |      -     |     -    |      -     |     -    |
+| 4  | kilobananov      | kilobananov      |         3|      600|      -     |       -      |       -      |    -    |     -    |     1    |    -    |     -    |     -    |         -        |        -       |     1     |     -    |      -      |      -     |      -     |        -       |     -     |   1   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 5  | CRC Titan2000    | CRC Titan2000    |         7|    1,400|      -     |       2      |       -      |    -    |     -    |     -    |    2    |     1    |     -    |         2        |        2       |     -     |     2    |      -      |      -     |      -     |        -       |     -     |   -   |     1    |     -     |      -     |     -    |      -     |     -    |
+| 6  | pro player128    | pro player128    |         3|      600|      1     |       -      |       1      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 7  | yetkinbaba       | yetkinbaba       |        10|    2,000|      3     |       -      |       -      |    -    |     8    |     -    |    6    |     -    |     2    |         5        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   4   |     -    |     2     |      1     |     3    |      4     |     -    |
+| 8  | Raion4545        | Raion4545        |         5|    1,000|      -     |       3      |       -      |    -    |     4    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      1      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     2    |      6     |     -    |
+| 9  | urke_radovanovic | urke_radovanovic |         2|      400|      -     |       -      |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   2   |     -    |     -     |      -     |     -    |      1     |     -    |
+| 10 | Is7ac            | isaac68ea        |         5|    1,000|      5     |       -      |       -      |    2    |     7    |     -    |    8    |     -    |     -    |         3        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 11 | Flydway57        | mes(race)        |         2|      400|      -     |       -      |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     2     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      3     |     -    |
+| 12 | M Eetz!          | eetz1            |         2|      400|      -     |       -      |       -      |    -    |     2    |     -    |    4    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 13 | sirac.54_        | sirac.54_        |         1|      200|      -     |       -      |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      2     |     -    |
+| 14 | pug=309          | pug=309          |         1|      200|      -     |       -      |       -      |    4    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 15 | fastranker1      | fastranker1      |         1|      200|      -     |       -      |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      5     |     -    |
+| 16 | Lucas            | lucasazedo       |         1|      200|      -     |       -      |       -      |    -    |     5    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 17 | Toom43           | Toom43           |         1|      200|      -     |       -      |       -      |    -    |     6    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 18 | CASHIN0          | BalangenMarty    |         1|      200|      -     |       -      |       -      |    -    |     -    |     -    |    7    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
++----+------------------+------------------+----------+---------+------------+--------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+|    | Total            |                  |          |   21,600|            |              |              |         |          |          |         |          |          |                  |                |           |          |             |            |            |                |           |       |          |           |            |          |            |          |
++----+------------------+------------------+----------+---------+------------+--------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
