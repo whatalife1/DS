@@ -1,11 +1,11 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-04-30 22:34:33 UTC
-German Time:   2025-05-01 00:34:33 CEST
-Brazil Time:   2025-04-30 19:34:33 -03
-Saudi Arabia:  2025-05-01 01:34:33 +03
-Turkish Time:  2025-05-01 01:34:33 +03
+UTC Time:      2025-04-30 12:02:26 UTC
+German Time:   2025-04-30 14:02:26 CEST
+Brazil Time:   2025-04-30 09:02:26 -03
+Saudi Arabia:  2025-04-30 15:02:26 +03
+Turkish Time:  2025-04-30 15:02:26 +03
 
 --- Results by Vehicle (Fastest First) ---
 
