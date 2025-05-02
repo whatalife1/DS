@@ -1,6 +1,6 @@
 --- Report Generation Info ---
 
-Report generated at (based on 'json.txt' modification time):
+Report generated at:
 UTC Time:      2025-05-02 00:28:18 UTC
 German Time:   2025-05-02 02:28:18 CEST
 Brazil Time:   2025-05-01 21:28:18 -03
