@@ -1,11 +1,11 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-09-13 00:36:46 UTC
-German Time:   2025-09-13 02:36:46 CEST
-Brazil Time:   2025-09-12 21:36:46 -03
-Saudi Arabia:  2025-09-13 03:36:46 +03
-Turkish Time:  2025-09-13 03:36:46 +03
+UTC Time:      2025-09-13 00:56:03 UTC
+German Time:   2025-09-13 02:56:03 CEST
+Brazil Time:   2025-09-12 21:56:03 -03
+Saudi Arabia:  2025-09-13 03:56:03 +03
+Turkish Time:  2025-09-13 03:56:03 +03
 
 --- Results by Vehicle (Fastest First) ---
 
@@ -33,7 +33,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
   3.  [DS] Kilo (kilobananov)           00:54.05
   4.  [DS] Thomas (Toom43)              00:54.55
   5.  Girfen (Griffin20069)             00:56.11
-  6.  [DS] P V L (p V L 2)              00:57.49
+  6.  [DS] P V L (p v l 2)              00:57.49
   7.  [MRc] MousemanLV (MousemanLV)     00:59.16
   8.  QuattroValve (melihrg)            01:03.36
   9.  H A I Y A A (chris is awesome)    01:35.04
@@ -400,6 +400,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
   3.  twinpowerturbo (twinpwrturbo)     01:02.53
   4.  [DS] Thomas (Toom43)              01:08.15
   5.  Girfen (Griffin20069)             01:18.96
+  6.  whatalife (whatalife)             02:09.73
 
 48. INTERCEPTOR
   1.  [DS] Val (PainB)                  00:57.34
@@ -549,7 +550,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
   2.  Girfen (Griffin20069)             01:26.12
   3.  [DS] Thomas (Toom43)              01:26.76
   4.  [DS] P V L (p v l 2)              01:46.14
-  5.  whatalife (whatalife)             02:09.73
+  5.  whatalife (whatalife)             03:28.35
 
 68. POCKET UF
   1.  [DS] Val (PainB)                  00:59.19
@@ -605,10 +606,11 @@ Turkish Time:  2025-09-13 03:36:46 +03
 
 74. GORKIY 10
   1.  [DS] Val (PainB)                  00:59.74
-  2.  [DS] Thomas (Toom43)              01:17.25
-  3.  Girfen (Griffin20069)             01:20.35
-  4.  whatalife (whatalife)             02:15.92
-  5.  Red/Kaiku (thuglife_)             02:44.46
+  2.  [DS] P V L (p v l 2)              01:14.49
+  3.  [DS] Thomas (Toom43)              01:17.25
+  4.  Girfen (Griffin20069)             01:20.35
+  5.  whatalife (whatalife)             02:15.92
+  6.  Red/Kaiku (thuglife_)             02:44.46
 
 75. TOYATE SUPROZA T
   1.  [DS] Val (PainB)                  00:59.91
@@ -1190,47 +1192,47 @@ Turkish Time:  2025-09-13 03:36:46 +03
   53.  SKODA 110 L RALLYE    01:16.86 (Pos: 3) 
   54.  ADDA AR-EIGHT V10     01:18.40 (Pos: 3) 
   55.  HJETT                 01:18.50 (Pos: 3) 
-  56.  GORKIY 10             01:20.35 (Pos: 3) 
-  57.  LORY GPS              01:20.89 (Pos: 3) 
-  58.  FORMULA BMW FB02      01:21.28 (Pos: 3) 
-  59.  EMKO                  01:21.34 (Pos: 3) 
-  60.  VALUTA V8             01:21.59 (Pos: 3) 
-  61.  UF 1100T              01:23.79 (Pos: 3) 
-  62.  HADIMRSKA HOTRODD     01:24.63 (Pos: 3) 
-  63.  GHOUL 250RR           01:26.44 (Pos: 3) 
-  64.  LAND ROAMER           01:28.28 (Pos: 3) 
-  65.  TAZ 0521              01:31.58 (Pos: 3) 
-  66.  SM500                 01:32.44 (Pos: 3) 
-  67.  HONDA CRF450          01:34.19 (Pos: 3) 
-  68.  TALOT SUNS LOMIS      01:34.86 (Pos: 3) 
-  69.  YAHAMA MIT09          01:34.89 (Pos: 3) 
-  70.  K300X                 01:36.91 (Pos: 3) 
-  71.  SUZUKI 400 CLASSIC    01:39.62 (Pos: 3) 
-  72.  WATBRUG 353           01:41.19 (Pos: 3) 
-  73.  BD750                 01:42.98 (Pos: 3) 
-  74.  RTS 6-71              01:43.59 (Pos: 3) 
-  75.  BMW SAUBER F1.06      01:46.30 (Pos: 3) 
-  76.  MOTO GUZZI            01:48.00 (Pos: 3) 
-  77.  HBIKE V2              01:57.04 (Pos: 3) 
-  78.  RZM 250               01:58.40 (Pos: 3) 
-  79.  FRAUD WHEELER E2      01:00.65 (Pos: 4) 
-  80.  XM-5 CUP              01:02.00 (Pos: 4) 
-  81.  RS1 KENJI             01:03.20 (Pos: 4) 
-  82.  MALANDRO-STOCKPRO     01:07.59 (Pos: 4) 
-  83.  JIIRO                 01:10.15 (Pos: 4) 
-  84.  GG55 AMD              01:10.61 (Pos: 4) 
-  85.  GOD FOOT              01:10.72 (Pos: 4) 
-  86.  RAY 400 RALLY         01:11.13 (Pos: 4) 
-  87.  TAZ07 CLASSIC         01:12.06 (Pos: 4) 
-  88.  FRAUD BIG BOY         01:13.80 (Pos: 4) 
-  89.  GT-V34                01:15.48 (Pos: 4) 
-  90.  SHARK C GROUP 2       01:15.62 (Pos: 4) 
-  91.  FRAUD 040             01:16.24 (Pos: 4) 
-  92.  BD6 VERT              01:16.42 (Pos: 4) 
-  93.  XR GT TURBO           01:16.47 (Pos: 4) 
-  94.  BACALHAU              01:16.74 (Pos: 4) 
-  95.  SPOTTEDKITTEN COUPE   01:17.93 (Pos: 4) 
-  96.  GWMK24DR              01:18.99 (Pos: 4) 
+  56.  LORY GPS              01:20.89 (Pos: 3) 
+  57.  FORMULA BMW FB02      01:21.28 (Pos: 3) 
+  58.  EMKO                  01:21.34 (Pos: 3) 
+  59.  VALUTA V8             01:21.59 (Pos: 3) 
+  60.  UF 1100T              01:23.79 (Pos: 3) 
+  61.  HADIMRSKA HOTRODD     01:24.63 (Pos: 3) 
+  62.  GHOUL 250RR           01:26.44 (Pos: 3) 
+  63.  LAND ROAMER           01:28.28 (Pos: 3) 
+  64.  TAZ 0521              01:31.58 (Pos: 3) 
+  65.  SM500                 01:32.44 (Pos: 3) 
+  66.  HONDA CRF450          01:34.19 (Pos: 3) 
+  67.  TALOT SUNS LOMIS      01:34.86 (Pos: 3) 
+  68.  YAHAMA MIT09          01:34.89 (Pos: 3) 
+  69.  K300X                 01:36.91 (Pos: 3) 
+  70.  SUZUKI 400 CLASSIC    01:39.62 (Pos: 3) 
+  71.  WATBRUG 353           01:41.19 (Pos: 3) 
+  72.  BD750                 01:42.98 (Pos: 3) 
+  73.  RTS 6-71              01:43.59 (Pos: 3) 
+  74.  BMW SAUBER F1.06      01:46.30 (Pos: 3) 
+  75.  MOTO GUZZI            01:48.00 (Pos: 3) 
+  76.  HBIKE V2              01:57.04 (Pos: 3) 
+  77.  RZM 250               01:58.40 (Pos: 3) 
+  78.  FRAUD WHEELER E2      01:00.65 (Pos: 4) 
+  79.  XM-5 CUP              01:02.00 (Pos: 4) 
+  80.  RS1 KENJI             01:03.20 (Pos: 4) 
+  81.  MALANDRO-STOCKPRO     01:07.59 (Pos: 4) 
+  82.  JIIRO                 01:10.15 (Pos: 4) 
+  83.  GG55 AMD              01:10.61 (Pos: 4) 
+  84.  GOD FOOT              01:10.72 (Pos: 4) 
+  85.  RAY 400 RALLY         01:11.13 (Pos: 4) 
+  86.  TAZ07 CLASSIC         01:12.06 (Pos: 4) 
+  87.  FRAUD BIG BOY         01:13.80 (Pos: 4) 
+  88.  GT-V34                01:15.48 (Pos: 4) 
+  89.  SHARK C GROUP 2       01:15.62 (Pos: 4) 
+  90.  FRAUD 040             01:16.24 (Pos: 4) 
+  91.  BD6 VERT              01:16.42 (Pos: 4) 
+  92.  XR GT TURBO           01:16.47 (Pos: 4) 
+  93.  BACALHAU              01:16.74 (Pos: 4) 
+  94.  SPOTTEDKITTEN COUPE   01:17.93 (Pos: 4) 
+  95.  GWMK24DR              01:18.99 (Pos: 4) 
+  96.  GORKIY 10             01:20.35 (Pos: 4) 
   97.  PZG COMPACT           01:22.64 (Pos: 4) 
   98.  KORAMA R              01:23.78 (Pos: 4) 
   99.  XF GTI                01:24.34 (Pos: 4) 
@@ -1550,52 +1552,52 @@ Turkish Time:  2025-09-13 03:36:46 +03
   33.  HUMHII                01:16.37 (Pos: 2) 
   34.  UF 1100T              01:16.87 (Pos: 2) 
   35.  EXPEDITION            01:17.11 (Pos: 2) 
-  36.  GORKIY 10             01:17.25 (Pos: 2) 
-  37.  MOTO GUZZI            01:17.49 (Pos: 2) 
-  38.  REAPER X1             01:18.18 (Pos: 2) 
-  39.  GX-BUGGY              01:19.36 (Pos: 2) 
-  40.  EMKO                  01:20.37 (Pos: 2) 
-  41.  SUZUKI 400 CLASSIC    01:22.59 (Pos: 2) 
-  42.  ROSSA                 01:23.53 (Pos: 2) 
-  43.  SM500                 01:24.16 (Pos: 2) 
-  44.  YKS-100               01:25.03 (Pos: 2) 
-  45.  TAZ 0521              01:25.80 (Pos: 2) 
-  46.  LCT3000               01:27.30 (Pos: 2) 
-  47.  WATBRUG 353           01:29.71 (Pos: 2) 
-  48.  YAHAMA MIT09          01:30.11 (Pos: 2) 
-  49.  BMW SAUBER F1.06      01:31.19 (Pos: 2) 
-  50.  RZM 250               01:32.59 (Pos: 2) 
-  51.  YAMAHA CT200          01:33.46 (Pos: 2) 
-  52.  YAMAHA CT125 DR       01:33.84 (Pos: 2) 
-  53.  K300X                 01:33.94 (Pos: 2) 
-  54.  RTS 6-71              01:38.74 (Pos: 2) 
-  55.  BD750                 01:41.28 (Pos: 2) 
-  56.  HBIKE V2              01:42.17 (Pos: 2) 
-  57.  YAMAHA YZF-R3         01:44.84 (Pos: 2) 
-  58.  YKS-R1052             01:50.92 (Pos: 2) 
-  59.  ADDA 8A 4.2 TDI       01:00.97 (Pos: 3) 
-  60.  FXO GTR               01:02.49 (Pos: 3) 
-  61.  FRAUD BIG BOY         01:03.43 (Pos: 3) 
-  62.  SHARK C GROUP 2       01:05.95 (Pos: 3) 
-  63.  GT-V34                01:08.81 (Pos: 3) 
-  64.  IBUSHA SAGA 2.6       01:09.39 (Pos: 3) 
-  65.  RAY 400 RALLY         01:09.60 (Pos: 3) 
-  66.  PONTACH GT            01:10.13 (Pos: 3) 
-  67.  ERESO                 01:10.74 (Pos: 3) 
-  68.  RACEABOUT             01:10.90 (Pos: 3) 
-  69.  BETA 65               01:11.61 (Pos: 3) 
-  70.  ADDA 5200             01:12.29 (Pos: 3) 
-  71.  SPOTTEDKITTEN COUPE   01:12.68 (Pos: 3) 
-  72.  FRAUD 040             01:13.05 (Pos: 3) 
-  73.  KEEROCK               01:13.44 (Pos: 3) 
-  74.  ELIINOR               01:13.83 (Pos: 3) 
-  75.  BUMER 7               01:13.97 (Pos: 3) 
-  76.  WESSEX R69SP          01:14.93 (Pos: 3) 
-  77.  XR GT                 01:15.35 (Pos: 3) 
-  78.  MERESDES E910         01:15.39 (Pos: 3) 
-  79.  BACALHAU              01:15.48 (Pos: 3) 
-  80.  SHARK C               01:16.01 (Pos: 3) 
-  81.  FORMULA XR            01:16.89 (Pos: 3) 
+  36.  MOTO GUZZI            01:17.49 (Pos: 2) 
+  37.  REAPER X1             01:18.18 (Pos: 2) 
+  38.  GX-BUGGY              01:19.36 (Pos: 2) 
+  39.  EMKO                  01:20.37 (Pos: 2) 
+  40.  SUZUKI 400 CLASSIC    01:22.59 (Pos: 2) 
+  41.  ROSSA                 01:23.53 (Pos: 2) 
+  42.  SM500                 01:24.16 (Pos: 2) 
+  43.  YKS-100               01:25.03 (Pos: 2) 
+  44.  TAZ 0521              01:25.80 (Pos: 2) 
+  45.  LCT3000               01:27.30 (Pos: 2) 
+  46.  WATBRUG 353           01:29.71 (Pos: 2) 
+  47.  YAHAMA MIT09          01:30.11 (Pos: 2) 
+  48.  BMW SAUBER F1.06      01:31.19 (Pos: 2) 
+  49.  RZM 250               01:32.59 (Pos: 2) 
+  50.  YAMAHA CT200          01:33.46 (Pos: 2) 
+  51.  YAMAHA CT125 DR       01:33.84 (Pos: 2) 
+  52.  K300X                 01:33.94 (Pos: 2) 
+  53.  RTS 6-71              01:38.74 (Pos: 2) 
+  54.  BD750                 01:41.28 (Pos: 2) 
+  55.  HBIKE V2              01:42.17 (Pos: 2) 
+  56.  YAMAHA YZF-R3         01:44.84 (Pos: 2) 
+  57.  YKS-R1052             01:50.92 (Pos: 2) 
+  58.  ADDA 8A 4.2 TDI       01:00.97 (Pos: 3) 
+  59.  FXO GTR               01:02.49 (Pos: 3) 
+  60.  FRAUD BIG BOY         01:03.43 (Pos: 3) 
+  61.  SHARK C GROUP 2       01:05.95 (Pos: 3) 
+  62.  GT-V34                01:08.81 (Pos: 3) 
+  63.  IBUSHA SAGA 2.6       01:09.39 (Pos: 3) 
+  64.  RAY 400 RALLY         01:09.60 (Pos: 3) 
+  65.  PONTACH GT            01:10.13 (Pos: 3) 
+  66.  ERESO                 01:10.74 (Pos: 3) 
+  67.  RACEABOUT             01:10.90 (Pos: 3) 
+  68.  BETA 65               01:11.61 (Pos: 3) 
+  69.  ADDA 5200             01:12.29 (Pos: 3) 
+  70.  SPOTTEDKITTEN COUPE   01:12.68 (Pos: 3) 
+  71.  FRAUD 040             01:13.05 (Pos: 3) 
+  72.  KEEROCK               01:13.44 (Pos: 3) 
+  73.  ELIINOR               01:13.83 (Pos: 3) 
+  74.  BUMER 7               01:13.97 (Pos: 3) 
+  75.  WESSEX R69SP          01:14.93 (Pos: 3) 
+  76.  XR GT                 01:15.35 (Pos: 3) 
+  77.  MERESDES E910         01:15.39 (Pos: 3) 
+  78.  BACALHAU              01:15.48 (Pos: 3) 
+  79.  SHARK C               01:16.01 (Pos: 3) 
+  80.  FORMULA XR            01:16.89 (Pos: 3) 
+  81.  GORKIY 10             01:17.25 (Pos: 3) 
   82.  SKODA FELICIA         01:18.91 (Pos: 3) 
   83.  BD9115                01:19.33 (Pos: 3) 
   84.  KORAMA R              01:20.62 (Pos: 3) 
@@ -1713,10 +1715,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
   1.   IMPREZZIVE B2         01:05.13 (Pos: 6) 
   2.   RS1 KENJI RX          01:03.36 (Pos: 8) 
 
-33. p V L 2 (p V L 2)
-  1.   RS1 KENJI RX          00:57.49 (Pos: 6) 
-
-34. p v l 2 (p v l 2)
+33. p v l 2 (p v l 2)
   1.   THR OP4500            01:00.50 (Pos: 2) 
   2.   SHARK C GROUP 2       01:00.91 (Pos: 2) 
   3.   POSCHER CAYNAM 718    01:03.54 (Pos: 2) 
@@ -1741,208 +1740,210 @@ Turkish Time:  2025-09-13 03:36:46 +03
   22.  MERESDES E910         01:12.35 (Pos: 2) 
   23.  ELIINOR               01:12.90 (Pos: 2) 
   24.  T46 SPORT R           01:13.26 (Pos: 2) 
-  25.  LAND ROAMER           01:14.51 (Pos: 2) 
-  26.  VALUTA V8             01:16.99 (Pos: 2) 
-  27.  KORAMA R              01:17.28 (Pos: 2) 
-  28.  LINE RUNNER IVII      01:45.01 (Pos: 2) 
-  29.  RZT 370               01:48.37 (Pos: 2) 
-  30.  XR1 PROCAR            01:00.28 (Pos: 3) 
-  31.  RS1 KENJI             01:00.87 (Pos: 3) 
-  32.  IMPREZZIVE B2         01:01.13 (Pos: 3) 
-  33.  XM-5 CUP              01:01.56 (Pos: 3) 
-  34.  MALANDRO-STOCKPRO     01:06.56 (Pos: 3) 
-  35.  EM30                  01:07.01 (Pos: 3) 
-  36.  FUCA SPORT SYSTEM     01:08.49 (Pos: 3) 
-  37.  PORCHETE TIGER GTS    01:08.95 (Pos: 3) 
-  38.  TAZ07 CLASSIC         01:10.38 (Pos: 3) 
-  39.  ANCHOIS GORBINI       01:10.74 (Pos: 3) 
-  40.  CHALLENGE ST          01:10.81 (Pos: 3) 
-  41.  BZ30 ROADSTER SPORT   01:12.78 (Pos: 3) 
-  42.  FZ50                  01:12.94 (Pos: 3) 
-  43.  FZ50 GTR              01:13.36 (Pos: 3) 
-  44.  BD6 VERT              01:13.77 (Pos: 3) 
-  45.  PZG COMPACT           01:14.06 (Pos: 3) 
-  46.  INTERCEPTOR           01:14.30 (Pos: 3) 
-  47.  GWMK24DR              01:14.48 (Pos: 3) 
-  48.  GWMK2                 01:15.15 (Pos: 3) 
-  49.  FXO TURBO             01:15.60 (Pos: 3) 
-  50.  XR GTR                01:15.77 (Pos: 3) 
-  51.  XR GT TURBO           01:16.39 (Pos: 3) 
-  52.  LX4                   01:16.42 (Pos: 3) 
-  53.  N.400S                01:16.95 (Pos: 3) 
-  54.  UF GTR                01:17.54 (Pos: 3) 
-  55.  UF PICKUP TRUCK       01:18.15 (Pos: 3) 
-  56.  VANLIFE               01:19.31 (Pos: 3) 
-  57.  EXPEDITION            01:19.85 (Pos: 3) 
-  58.  DIAMOND               01:19.99 (Pos: 3) 
-  59.  GRAND PRIX LEGEND 65  01:22.83 (Pos: 3) 
-  60.  FORMULA 60            01:22.98 (Pos: 3) 
-  61.  GX-BUGGY STAGE 2      01:23.75 (Pos: 3) 
-  62.  ROSSA                 01:24.94 (Pos: 3) 
-  63.  GX-BUGGY              01:25.46 (Pos: 3) 
-  64.  LCT3000               01:35.72 (Pos: 3) 
-  65.  TOMMY28               01:36.50 (Pos: 3) 
-  66.  YAMAHA CT200          01:40.82 (Pos: 3) 
-  67.  T34 SPORT             01:41.42 (Pos: 3) 
-  68.  DELBOX                01:42.07 (Pos: 3) 
-  69.  YAMAHA YZF-R3         01:49.35 (Pos: 3) 
-  70.  YKS-100               01:53.32 (Pos: 3) 
-  71.  MRT5                  01:58.36 (Pos: 3) 
-  72.  YKS-R1052             02:02.64 (Pos: 3) 
-  73.  GP125                 02:03.56 (Pos: 3) 
-  74.  FRAUD PRE RUNNER      01:08.85 (Pos: 4) 
-  75.  THR SR2000            01:10.28 (Pos: 4) 
-  76.  ACOSTA STARLIN        01:11.86 (Pos: 4) 
-  77.  ERESO                 01:12.05 (Pos: 4) 
-  78.  IBUSHA SAGA 2.6       01:12.29 (Pos: 4) 
-  79.  CX WAGON              01:13.22 (Pos: 4) 
-  80.  KEEROCK               01:13.73 (Pos: 4) 
-  81.  BETA 65               01:13.98 (Pos: 4) 
-  82.  SEDAN                 01:14.74 (Pos: 4) 
-  83.  SWIRL SPORT 06        01:14.89 (Pos: 4) 
-  84.  GX-BUGGY STAGE R      01:15.40 (Pos: 4) 
-  85.  ADDA 5200             01:15.51 (Pos: 4) 
-  86.  SHARK C               01:16.83 (Pos: 4) 
-  87.  HUMHII                01:16.83 (Pos: 4) 
-  88.  FXO GTR               01:18.74 (Pos: 4) 
-  89.  HJETT                 01:19.05 (Pos: 4) 
-  90.  ADDA AR-EIGHT V10     01:19.22 (Pos: 4) 
-  91.  BUMER 7               01:20.91 (Pos: 4) 
-  92.  LACIBRE V6            01:21.34 (Pos: 4) 
-  93.  SPEC R                01:21.45 (Pos: 4) 
-  94.  SKODA FELICIA         01:21.62 (Pos: 4) 
-  95.  BUG WAGON             01:23.34 (Pos: 4) 
-  96.  FORMULA XR            01:23.68 (Pos: 4) 
-  97.  EMKO                  01:24.49 (Pos: 4) 
-  98.  HADIMRSKA HOTRODD     01:24.68 (Pos: 4) 
-  99.  LORY GPS              01:25.74 (Pos: 4) 
-  100. FORMULA V8            01:27.28 (Pos: 4) 
-  101. SKODA 110 L RALLYE    01:27.64 (Pos: 4) 
-  102. UF 1100T              01:28.61 (Pos: 4) 
-  103. MC SPLINTER           01:36.96 (Pos: 4) 
-  104. K300X                 01:37.28 (Pos: 4) 
-  105. UZOVKA                01:38.96 (Pos: 4) 
-  106. HANZMUND V8           01:41.69 (Pos: 4) 
-  107. PUSCH 674B            01:43.02 (Pos: 4) 
-  108. SM500                 01:46.08 (Pos: 4) 
-  109. THR MB500             01:46.14 (Pos: 4) 
-  110. TAZ 0521              01:46.93 (Pos: 4) 
-  111. GHOUL 250RR           01:48.05 (Pos: 4) 
-  112. BD750                 01:52.86 (Pos: 4) 
-  113. YAHAMA MIT09          01:54.28 (Pos: 4) 
-  114. REAPER X1             01:54.60 (Pos: 4) 
-  115. PROTOTYPE 2           01:55.11 (Pos: 4) 
-  116. YAMAHA CT125 DR       01:56.01 (Pos: 4) 
-  117. RTS 6-71              01:58.43 (Pos: 4) 
-  118. RZM 250               02:03.42 (Pos: 4) 
-  119. MOTO GUZZI            02:04.34 (Pos: 4) 
-  120. VULCAN 998            02:06.89 (Pos: 4) 
-  121. BMW SAUBER F1.06      02:07.56 (Pos: 4) 
-  122. HBIKE V2              02:44.74 (Pos: 4) 
-  123. VGI-6 TEDAVI          01:10.32 (Pos: 5) 
-  124. GG55 AMD              01:12.51 (Pos: 5) 
-  125. JIIRO                 01:13.55 (Pos: 5) 
-  126. FRAUD BIG BOY         01:14.36 (Pos: 5) 
-  127. WATBRUG 353           01:47.05 (Pos: 5) 
-  128. SUZUKI 400 CLASSIC    01:49.45 (Pos: 5) 
-  129. HONDA CRF450          01:50.67 (Pos: 5) 
-  130. FORMULA BMW FB02      01:54.12 (Pos: 5) 
-  131. JW 350                02:04.73 (Pos: 5) 
-  132. ADDA 8A 4.2 TDI       01:12.04 (Pos: 6) 
-  133. XF GTI                01:33.26 (Pos: 6) 
-  134. UF 1000               01:38.27 (Pos: 6) 
-  135. FRAUD WHEELER E2      01:06.58 (Pos: 7) 
-  136. POCKET UF             01:11.24 (Pos: 7) 
-  137. XR GT                 01:28.16 (Pos: 7) 
-  138. ADDA S83 1.8T         01:11.18 (Pos: 12)
+  25.  GORKIY 10             01:14.49 (Pos: 2) 
+  26.  LAND ROAMER           01:14.51 (Pos: 2) 
+  27.  VALUTA V8             01:16.99 (Pos: 2) 
+  28.  KORAMA R              01:17.28 (Pos: 2) 
+  29.  LINE RUNNER IVII      01:45.01 (Pos: 2) 
+  30.  RZT 370               01:48.37 (Pos: 2) 
+  31.  XR1 PROCAR            01:00.28 (Pos: 3) 
+  32.  RS1 KENJI             01:00.87 (Pos: 3) 
+  33.  IMPREZZIVE B2         01:01.13 (Pos: 3) 
+  34.  XM-5 CUP              01:01.56 (Pos: 3) 
+  35.  MALANDRO-STOCKPRO     01:06.56 (Pos: 3) 
+  36.  EM30                  01:07.01 (Pos: 3) 
+  37.  FUCA SPORT SYSTEM     01:08.49 (Pos: 3) 
+  38.  PORCHETE TIGER GTS    01:08.95 (Pos: 3) 
+  39.  TAZ07 CLASSIC         01:10.38 (Pos: 3) 
+  40.  ANCHOIS GORBINI       01:10.74 (Pos: 3) 
+  41.  CHALLENGE ST          01:10.81 (Pos: 3) 
+  42.  BZ30 ROADSTER SPORT   01:12.78 (Pos: 3) 
+  43.  FZ50                  01:12.94 (Pos: 3) 
+  44.  FZ50 GTR              01:13.36 (Pos: 3) 
+  45.  BD6 VERT              01:13.77 (Pos: 3) 
+  46.  PZG COMPACT           01:14.06 (Pos: 3) 
+  47.  INTERCEPTOR           01:14.30 (Pos: 3) 
+  48.  GWMK24DR              01:14.48 (Pos: 3) 
+  49.  GWMK2                 01:15.15 (Pos: 3) 
+  50.  FXO TURBO             01:15.60 (Pos: 3) 
+  51.  XR GTR                01:15.77 (Pos: 3) 
+  52.  XR GT TURBO           01:16.39 (Pos: 3) 
+  53.  LX4                   01:16.42 (Pos: 3) 
+  54.  N.400S                01:16.95 (Pos: 3) 
+  55.  UF GTR                01:17.54 (Pos: 3) 
+  56.  UF PICKUP TRUCK       01:18.15 (Pos: 3) 
+  57.  VANLIFE               01:19.31 (Pos: 3) 
+  58.  EXPEDITION            01:19.85 (Pos: 3) 
+  59.  DIAMOND               01:19.99 (Pos: 3) 
+  60.  GRAND PRIX LEGEND 65  01:22.83 (Pos: 3) 
+  61.  FORMULA 60            01:22.98 (Pos: 3) 
+  62.  GX-BUGGY STAGE 2      01:23.75 (Pos: 3) 
+  63.  ROSSA                 01:24.94 (Pos: 3) 
+  64.  GX-BUGGY              01:25.46 (Pos: 3) 
+  65.  LCT3000               01:35.72 (Pos: 3) 
+  66.  TOMMY28               01:36.50 (Pos: 3) 
+  67.  YAMAHA CT200          01:40.82 (Pos: 3) 
+  68.  T34 SPORT             01:41.42 (Pos: 3) 
+  69.  DELBOX                01:42.07 (Pos: 3) 
+  70.  YAMAHA YZF-R3         01:49.35 (Pos: 3) 
+  71.  YKS-100               01:53.32 (Pos: 3) 
+  72.  MRT5                  01:58.36 (Pos: 3) 
+  73.  YKS-R1052             02:02.64 (Pos: 3) 
+  74.  GP125                 02:03.56 (Pos: 3) 
+  75.  FRAUD PRE RUNNER      01:08.85 (Pos: 4) 
+  76.  THR SR2000            01:10.28 (Pos: 4) 
+  77.  ACOSTA STARLIN        01:11.86 (Pos: 4) 
+  78.  ERESO                 01:12.05 (Pos: 4) 
+  79.  IBUSHA SAGA 2.6       01:12.29 (Pos: 4) 
+  80.  CX WAGON              01:13.22 (Pos: 4) 
+  81.  KEEROCK               01:13.73 (Pos: 4) 
+  82.  BETA 65               01:13.98 (Pos: 4) 
+  83.  SEDAN                 01:14.74 (Pos: 4) 
+  84.  SWIRL SPORT 06        01:14.89 (Pos: 4) 
+  85.  GX-BUGGY STAGE R      01:15.40 (Pos: 4) 
+  86.  ADDA 5200             01:15.51 (Pos: 4) 
+  87.  SHARK C               01:16.83 (Pos: 4) 
+  88.  HUMHII                01:16.83 (Pos: 4) 
+  89.  FXO GTR               01:18.74 (Pos: 4) 
+  90.  HJETT                 01:19.05 (Pos: 4) 
+  91.  ADDA AR-EIGHT V10     01:19.22 (Pos: 4) 
+  92.  BUMER 7               01:20.91 (Pos: 4) 
+  93.  LACIBRE V6            01:21.34 (Pos: 4) 
+  94.  SPEC R                01:21.45 (Pos: 4) 
+  95.  SKODA FELICIA         01:21.62 (Pos: 4) 
+  96.  BUG WAGON             01:23.34 (Pos: 4) 
+  97.  FORMULA XR            01:23.68 (Pos: 4) 
+  98.  EMKO                  01:24.49 (Pos: 4) 
+  99.  HADIMRSKA HOTRODD     01:24.68 (Pos: 4) 
+  100. LORY GPS              01:25.74 (Pos: 4) 
+  101. FORMULA V8            01:27.28 (Pos: 4) 
+  102. SKODA 110 L RALLYE    01:27.64 (Pos: 4) 
+  103. UF 1100T              01:28.61 (Pos: 4) 
+  104. MC SPLINTER           01:36.96 (Pos: 4) 
+  105. K300X                 01:37.28 (Pos: 4) 
+  106. UZOVKA                01:38.96 (Pos: 4) 
+  107. HANZMUND V8           01:41.69 (Pos: 4) 
+  108. PUSCH 674B            01:43.02 (Pos: 4) 
+  109. SM500                 01:46.08 (Pos: 4) 
+  110. THR MB500             01:46.14 (Pos: 4) 
+  111. TAZ 0521              01:46.93 (Pos: 4) 
+  112. GHOUL 250RR           01:48.05 (Pos: 4) 
+  113. BD750                 01:52.86 (Pos: 4) 
+  114. YAHAMA MIT09          01:54.28 (Pos: 4) 
+  115. REAPER X1             01:54.60 (Pos: 4) 
+  116. PROTOTYPE 2           01:55.11 (Pos: 4) 
+  117. YAMAHA CT125 DR       01:56.01 (Pos: 4) 
+  118. RTS 6-71              01:58.43 (Pos: 4) 
+  119. RZM 250               02:03.42 (Pos: 4) 
+  120. MOTO GUZZI            02:04.34 (Pos: 4) 
+  121. VULCAN 998            02:06.89 (Pos: 4) 
+  122. BMW SAUBER F1.06      02:07.56 (Pos: 4) 
+  123. HBIKE V2              02:44.74 (Pos: 4) 
+  124. VGI-6 TEDAVI          01:10.32 (Pos: 5) 
+  125. GG55 AMD              01:12.51 (Pos: 5) 
+  126. JIIRO                 01:13.55 (Pos: 5) 
+  127. FRAUD BIG BOY         01:14.36 (Pos: 5) 
+  128. WATBRUG 353           01:47.05 (Pos: 5) 
+  129. SUZUKI 400 CLASSIC    01:49.45 (Pos: 5) 
+  130. HONDA CRF450          01:50.67 (Pos: 5) 
+  131. FORMULA BMW FB02      01:54.12 (Pos: 5) 
+  132. JW 350                02:04.73 (Pos: 5) 
+  133. RS1 KENJI RX          00:57.49 (Pos: 6) 
+  134. ADDA 8A 4.2 TDI       01:12.04 (Pos: 6) 
+  135. XF GTI                01:33.26 (Pos: 6) 
+  136. UF 1000               01:38.27 (Pos: 6) 
+  137. FRAUD WHEELER E2      01:06.58 (Pos: 7) 
+  138. POCKET UF             01:11.24 (Pos: 7) 
+  139. XR GT                 01:28.16 (Pos: 7) 
+  140. ADDA S83 1.8T         01:11.18 (Pos: 12)
 
-35. pug-309 (pug-309)
+34. pug-309 (pug-309)
   1.   XF GTI                01:22.17 (Pos: 3) 
   2.   XR GT                 01:15.60 (Pos: 4) 
   3.   UF 1000               01:39.18 (Pos: 7) 
 
-36. pug=309 (pug=309)
+35. pug=309 (pug=309)
   1.   POCKET UF             01:02.00 (Pos: 2) 
   2.   LX4                   01:19.52 (Pos: 5) 
 
-37. LIVE_FOR_WEED® (rikopikomaradon)
+36. LIVE_FOR_WEED® (rikopikomaradon)
   1.   RS1 KENJI             01:33.66 (Pos: 6) 
 
-38. Kaiku (thuglife_)
-  1.   GORKIY 10             02:44.46 (Pos: 5) 
+37. Kaiku (thuglife_)
+  1.   GORKIY 10             02:44.46 (Pos: 6) 
 
-39. twinpowerturbo (twinpwrturbo)
+38. twinpowerturbo (twinpwrturbo)
   1.   THR OP4500            01:02.53 (Pos: 3) 
 
-40. whatalife (whatalife)
-  1.   GORKIY 10             02:15.92 (Pos: 4) 
-  2.   MALANDRO-STOCKPRO     01:38.47 (Pos: 5) 
-  3.   AHMED 4.0RS           01:39.64 (Pos: 5) 
-  4.   EM30                  01:40.69 (Pos: 5) 
-  5.   INTERCEPTOR           01:44.02 (Pos: 5) 
-  6.   BD6 VERT              01:44.94 (Pos: 5) 
-  7.   GWMK2                 01:44.96 (Pos: 5) 
-  8.   BETA 65               01:46.66 (Pos: 5) 
-  9.   PZG COMPACT           01:46.92 (Pos: 5) 
-  10.  HADIMRSKA HOTRODD     01:48.11 (Pos: 5) 
-  11.  THR SR2000            01:48.15 (Pos: 5) 
-  12.  TOYATE SUPROZA T      01:48.34 (Pos: 5) 
-  13.  SHARK C GROUP 2       01:51.71 (Pos: 5) 
-  14.  BUMER 7               01:54.35 (Pos: 5) 
-  15.  IBUSHA SAGA 2.6       01:54.48 (Pos: 5) 
-  16.  BUG WAGON             01:56.51 (Pos: 5) 
-  17.  UF 1100T              01:57.23 (Pos: 5) 
-  18.  UF PICKUP TRUCK       01:57.31 (Pos: 5) 
-  19.  ERESO                 01:58.18 (Pos: 5) 
-  20.  TAZ07 CLASSIC         01:58.41 (Pos: 5) 
-  21.  BD9115                01:59.47 (Pos: 5) 
-  22.  RACEABOUT             02:00.09 (Pos: 5) 
-  23.  FZ50                  02:00.15 (Pos: 5) 
-  24.  TALOT SUNS LOMIS      02:00.57 (Pos: 5) 
-  25.  FZ50 GTR              02:00.69 (Pos: 5) 
-  26.  RAY 400 RALLY         02:01.44 (Pos: 5) 
-  27.  ACOSTA STARLIN        02:02.65 (Pos: 5) 
-  28.  XR GTR                02:05.11 (Pos: 5) 
-  29.  VANLIFE               02:06.03 (Pos: 5) 
-  30.  KEEROCK               02:06.04 (Pos: 5) 
-  31.  BACALHAU              02:08.70 (Pos: 5) 
-  32.  FUCA SPORT SYSTEM     02:09.09 (Pos: 5) 
-  33.  VALUTA V8             02:09.45 (Pos: 5) 
-  34.  THR MB500             02:09.73 (Pos: 5) 
-  35.  HUMHII                02:12.62 (Pos: 5) 
-  36.  CX WAGON              02:14.43 (Pos: 5) 
-  37.  ANCHOIS GORBINI       02:15.57 (Pos: 5) 
-  38.  XF GTR                02:15.90 (Pos: 5) 
-  39.  N.400S                02:16.68 (Pos: 5) 
-  40.  GX-BUGGY STAGE 2      02:17.27 (Pos: 5) 
-  41.  UF GTR                02:21.73 (Pos: 5) 
-  42.  FRAUD 040             02:26.05 (Pos: 5) 
-  43.  LCT3000               02:28.28 (Pos: 5) 
-  44.  FORMULA XR            02:28.45 (Pos: 5) 
-  45.  ELIINOR               02:29.10 (Pos: 5) 
-  46.  FORMULA V8            02:30.88 (Pos: 5) 
-  47.  TOMMY28               02:30.89 (Pos: 5) 
-  48.  SHARK C               02:32.49 (Pos: 5) 
-  49.  SEDAN                 02:33.28 (Pos: 5) 
-  50.  MOTO GUZZI            02:38.26 (Pos: 5) 
-  51.  YAHAMA MIT09          02:42.87 (Pos: 5) 
-  52.  GX-BUGGY STAGE R      02:43.02 (Pos: 5) 
-  53.  SM500                 02:44.51 (Pos: 5) 
-  54.  LAND ROAMER           02:51.08 (Pos: 5) 
-  55.  MC SPLINTER           02:51.30 (Pos: 5) 
-  56.  T46 SPORT R           02:51.91 (Pos: 5) 
-  57.  YAMAHA YZF-R3         02:52.12 (Pos: 5) 
-  58.  GX-BUGGY              02:57.35 (Pos: 5) 
-  59.  HJETT                 03:03.01 (Pos: 5) 
-  60.  YKS-100               03:03.74 (Pos: 5) 
-  61.  K300X                 03:04.20 (Pos: 5) 
-  62.  RZM 250               03:05.31 (Pos: 5) 
-  63.  T34 SPORT             03:07.54 (Pos: 5) 
-  64.  GHOUL 250RR           03:08.11 (Pos: 5) 
-  65.  MRT5                  03:14.32 (Pos: 5) 
-  66.  YKS-R1052             03:16.06 (Pos: 5) 
-  67.  DELBOX                03:16.08 (Pos: 5) 
-  68.  VULCAN 998            03:17.73 (Pos: 5) 
+39. whatalife (whatalife)
+  1.   MALANDRO-STOCKPRO     01:38.47 (Pos: 5) 
+  2.   AHMED 4.0RS           01:39.64 (Pos: 5) 
+  3.   EM30                  01:40.69 (Pos: 5) 
+  4.   INTERCEPTOR           01:44.02 (Pos: 5) 
+  5.   BD6 VERT              01:44.94 (Pos: 5) 
+  6.   GWMK2                 01:44.96 (Pos: 5) 
+  7.   BETA 65               01:46.66 (Pos: 5) 
+  8.   PZG COMPACT           01:46.92 (Pos: 5) 
+  9.   HADIMRSKA HOTRODD     01:48.11 (Pos: 5) 
+  10.  THR SR2000            01:48.15 (Pos: 5) 
+  11.  TOYATE SUPROZA T      01:48.34 (Pos: 5) 
+  12.  SHARK C GROUP 2       01:51.71 (Pos: 5) 
+  13.  BUMER 7               01:54.35 (Pos: 5) 
+  14.  IBUSHA SAGA 2.6       01:54.48 (Pos: 5) 
+  15.  BUG WAGON             01:56.51 (Pos: 5) 
+  16.  UF 1100T              01:57.23 (Pos: 5) 
+  17.  UF PICKUP TRUCK       01:57.31 (Pos: 5) 
+  18.  ERESO                 01:58.18 (Pos: 5) 
+  19.  TAZ07 CLASSIC         01:58.41 (Pos: 5) 
+  20.  BD9115                01:59.47 (Pos: 5) 
+  21.  RACEABOUT             02:00.09 (Pos: 5) 
+  22.  FZ50                  02:00.15 (Pos: 5) 
+  23.  TALOT SUNS LOMIS      02:00.57 (Pos: 5) 
+  24.  FZ50 GTR              02:00.69 (Pos: 5) 
+  25.  RAY 400 RALLY         02:01.44 (Pos: 5) 
+  26.  ACOSTA STARLIN        02:02.65 (Pos: 5) 
+  27.  XR GTR                02:05.11 (Pos: 5) 
+  28.  VANLIFE               02:06.03 (Pos: 5) 
+  29.  KEEROCK               02:06.04 (Pos: 5) 
+  30.  BACALHAU              02:08.70 (Pos: 5) 
+  31.  FUCA SPORT SYSTEM     02:09.09 (Pos: 5) 
+  32.  VALUTA V8             02:09.45 (Pos: 5) 
+  33.  HUMHII                02:12.62 (Pos: 5) 
+  34.  CX WAGON              02:14.43 (Pos: 5) 
+  35.  ANCHOIS GORBINI       02:15.57 (Pos: 5) 
+  36.  XF GTR                02:15.90 (Pos: 5) 
+  37.  GORKIY 10             02:15.92 (Pos: 5) 
+  38.  N.400S                02:16.68 (Pos: 5) 
+  39.  GX-BUGGY STAGE 2      02:17.27 (Pos: 5) 
+  40.  UF GTR                02:21.73 (Pos: 5) 
+  41.  FRAUD 040             02:26.05 (Pos: 5) 
+  42.  LCT3000               02:28.28 (Pos: 5) 
+  43.  FORMULA XR            02:28.45 (Pos: 5) 
+  44.  ELIINOR               02:29.10 (Pos: 5) 
+  45.  FORMULA V8            02:30.88 (Pos: 5) 
+  46.  TOMMY28               02:30.89 (Pos: 5) 
+  47.  SHARK C               02:32.49 (Pos: 5) 
+  48.  SEDAN                 02:33.28 (Pos: 5) 
+  49.  MOTO GUZZI            02:38.26 (Pos: 5) 
+  50.  YAHAMA MIT09          02:42.87 (Pos: 5) 
+  51.  GX-BUGGY STAGE R      02:43.02 (Pos: 5) 
+  52.  SM500                 02:44.51 (Pos: 5) 
+  53.  LAND ROAMER           02:51.08 (Pos: 5) 
+  54.  MC SPLINTER           02:51.30 (Pos: 5) 
+  55.  T46 SPORT R           02:51.91 (Pos: 5) 
+  56.  YAMAHA YZF-R3         02:52.12 (Pos: 5) 
+  57.  GX-BUGGY              02:57.35 (Pos: 5) 
+  58.  HJETT                 03:03.01 (Pos: 5) 
+  59.  YKS-100               03:03.74 (Pos: 5) 
+  60.  K300X                 03:04.20 (Pos: 5) 
+  61.  RZM 250               03:05.31 (Pos: 5) 
+  62.  T34 SPORT             03:07.54 (Pos: 5) 
+  63.  GHOUL 250RR           03:08.11 (Pos: 5) 
+  64.  MRT5                  03:14.32 (Pos: 5) 
+  65.  YKS-R1052             03:16.06 (Pos: 5) 
+  66.  DELBOX                03:16.08 (Pos: 5) 
+  67.  VULCAN 998            03:17.73 (Pos: 5) 
+  68.  THR MB500             03:28.35 (Pos: 5) 
   69.  RZT 370               03:28.47 (Pos: 5) 
   70.  BD750                 03:33.10 (Pos: 5) 
   71.  LINE RUNNER IVII      03:38.86 (Pos: 5) 
@@ -1966,54 +1967,55 @@ Turkish Time:  2025-09-13 03:36:46 +03
   89.  ADDA 5200             02:02.03 (Pos: 6) 
   90.  GW-DECA               02:03.72 (Pos: 6) 
   91.  LACIBRE V6            02:06.57 (Pos: 6) 
-  92.  XR GT TURBO           02:12.56 (Pos: 6) 
-  93.  LEMON FANTOMAS        02:14.37 (Pos: 6) 
-  94.  FXO TURBO             02:14.79 (Pos: 6) 
-  95.  SPOTTEDKITTEN COUPE   02:20.28 (Pos: 6) 
-  96.  WATBRUG 353           02:20.46 (Pos: 6) 
-  97.  FXO GTR               02:21.72 (Pos: 6) 
-  98.  SWIRL SPORT 06        02:24.83 (Pos: 6) 
-  99.  TAZ 0521              02:29.33 (Pos: 6) 
-  100. CHALLENGE ST          02:32.38 (Pos: 6) 
-  101. POSCHER CAYNAM 718    02:32.39 (Pos: 6) 
-  102. HANZMUND V8           02:33.75 (Pos: 6) 
-  103. SKODA FELICIA         02:41.75 (Pos: 6) 
-  104. EMKO                  02:41.81 (Pos: 6) 
-  105. GRAND PRIX LEGEND 65  02:48.14 (Pos: 6) 
-  106. JW 350                02:51.98 (Pos: 6) 
-  107. SPEC R                02:55.95 (Pos: 6) 
-  108. WESSEX R69SP          03:20.04 (Pos: 6) 
-  109. PONTACH GT            03:20.58 (Pos: 6) 
-  110. UZOVKA                03:22.22 (Pos: 6) 
-  111. YAMAHA CT125 DR       03:37.19 (Pos: 6) 
-  112. REAPER X1             03:42.33 (Pos: 6) 
-  113. BMW SAUBER F1.06      04:21.41 (Pos: 6) 
-  114. HONDA CRF450          05:36.98 (Pos: 6) 
-  115. SUZUKI 400 CLASSIC    06:03.59 (Pos: 6) 
-  116. FORMULA BMW FB02      07:58.99 (Pos: 6) 
-  117. ADDA 8A 4.2 TDI       01:39.50 (Pos: 7) 
-  118. IMPREZZIVE B2         01:41.15 (Pos: 7) 
-  119. FORMULA 60            01:45.95 (Pos: 7) 
-  120. XM-5 CUP              02:03.78 (Pos: 7) 
-  121. RB4 GT                02:04.96 (Pos: 7) 
-  122. BZ30 ROADSTER SPORT   02:05.63 (Pos: 7) 
-  123. GG55 AMD              02:13.44 (Pos: 7) 
-  124. RS1 KENJI             02:16.79 (Pos: 7) 
-  125. LX6                   02:21.03 (Pos: 7) 
-  126. FRAUD PRE RUNNER      02:30.08 (Pos: 7) 
-  127. EXPEDITION            03:40.53 (Pos: 7) 
-  128. FRAUD WHEELER E2      01:36.04 (Pos: 8) 
-  129. MERESDES E910         02:22.12 (Pos: 8) 
-  130. ADDA AR-EIGHT V10     02:22.89 (Pos: 8) 
-  131. DIAMOND               04:23.02 (Pos: 8) 
-  132. UF 1000               02:43.55 (Pos: 9) 
-  133. XF GTI                02:54.93 (Pos: 9) 
-  134. POCKET UF             01:45.01 (Pos: 10)
-  135. LX4                   02:21.25 (Pos: 10)
-  136. PORCHETE TIGER GTS    03:31.77 (Pos: 10)
-  137. XR GT                 03:41.67 (Pos: 10)
-  138. RS1 KENJI RX          01:57.49 (Pos: 11)
-  139. ADDA S83 1.8T         01:50.73 (Pos: 15)
+  92.  THR OP4500            02:09.73 (Pos: 6) 
+  93.  XR GT TURBO           02:12.56 (Pos: 6) 
+  94.  LEMON FANTOMAS        02:14.37 (Pos: 6) 
+  95.  FXO TURBO             02:14.79 (Pos: 6) 
+  96.  SPOTTEDKITTEN COUPE   02:20.28 (Pos: 6) 
+  97.  WATBRUG 353           02:20.46 (Pos: 6) 
+  98.  FXO GTR               02:21.72 (Pos: 6) 
+  99.  SWIRL SPORT 06        02:24.83 (Pos: 6) 
+  100. TAZ 0521              02:29.33 (Pos: 6) 
+  101. CHALLENGE ST          02:32.38 (Pos: 6) 
+  102. POSCHER CAYNAM 718    02:32.39 (Pos: 6) 
+  103. HANZMUND V8           02:33.75 (Pos: 6) 
+  104. SKODA FELICIA         02:41.75 (Pos: 6) 
+  105. EMKO                  02:41.81 (Pos: 6) 
+  106. GRAND PRIX LEGEND 65  02:48.14 (Pos: 6) 
+  107. JW 350                02:51.98 (Pos: 6) 
+  108. SPEC R                02:55.95 (Pos: 6) 
+  109. WESSEX R69SP          03:20.04 (Pos: 6) 
+  110. PONTACH GT            03:20.58 (Pos: 6) 
+  111. UZOVKA                03:22.22 (Pos: 6) 
+  112. YAMAHA CT125 DR       03:37.19 (Pos: 6) 
+  113. REAPER X1             03:42.33 (Pos: 6) 
+  114. BMW SAUBER F1.06      04:21.41 (Pos: 6) 
+  115. HONDA CRF450          05:36.98 (Pos: 6) 
+  116. SUZUKI 400 CLASSIC    06:03.59 (Pos: 6) 
+  117. FORMULA BMW FB02      07:58.99 (Pos: 6) 
+  118. ADDA 8A 4.2 TDI       01:39.50 (Pos: 7) 
+  119. IMPREZZIVE B2         01:41.15 (Pos: 7) 
+  120. FORMULA 60            01:45.95 (Pos: 7) 
+  121. XM-5 CUP              02:03.78 (Pos: 7) 
+  122. RB4 GT                02:04.96 (Pos: 7) 
+  123. BZ30 ROADSTER SPORT   02:05.63 (Pos: 7) 
+  124. GG55 AMD              02:13.44 (Pos: 7) 
+  125. RS1 KENJI             02:16.79 (Pos: 7) 
+  126. LX6                   02:21.03 (Pos: 7) 
+  127. FRAUD PRE RUNNER      02:30.08 (Pos: 7) 
+  128. EXPEDITION            03:40.53 (Pos: 7) 
+  129. FRAUD WHEELER E2      01:36.04 (Pos: 8) 
+  130. MERESDES E910         02:22.12 (Pos: 8) 
+  131. ADDA AR-EIGHT V10     02:22.89 (Pos: 8) 
+  132. DIAMOND               04:23.02 (Pos: 8) 
+  133. UF 1000               02:43.55 (Pos: 9) 
+  134. XF GTI                02:54.93 (Pos: 9) 
+  135. POCKET UF             01:45.01 (Pos: 10)
+  136. LX4                   02:21.25 (Pos: 10)
+  137. PORCHETE TIGER GTS    03:31.77 (Pos: 10)
+  138. XR GT                 03:41.67 (Pos: 10)
+  139. RS1 KENJI RX          01:57.49 (Pos: 11)
+  140. ADDA S83 1.8T         01:50.73 (Pos: 15)
 
 
 
@@ -2029,7 +2031,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 2  | Toom43          | Toom43           |       140|   24,000|     2    |     3    |     3    |     2    |     8    |     4    |     4    |     3    |     2    |   2   |    3   |    3    |     2    |     2    |    3    |     4    |     2    |     2    |    4   |    4    |    3    |   4  |   2  |   3   |      2     |     5    |     1    |     3    |     3    |     3    |
 | 3  | Rubik           | TPEBOMAH         |        20|    2,000|     -    |     -    |     2    |     -    |     2    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     4    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 4  | Girfen          | Griffin20069     |       140|   24,000|     3    |     2    |     5    |     3    |     6    |     3    |     2    |     4    |     4    |   3   |    4   |    2    |     3    |     3    |    2    |     2    |     5    |     3    |    2   |    2    |    4    |   2  |   3  |   2   |      4     |     2    |     3    |     2    |     2    |     4    |
-| 5  | p v l 2         | p v l 2          |       138|   13,800|     4    |     4    |     6    |     4    |    12    |     2    |     3    |     2    |     3    |   4   |    2   |    4    |     4    |     4    |    4    |     3    |     3    |     4    |    3   |    3    |    2    |   3  |   4  |   4   |      3     |     3    |     5    |     4    |     4    |     2    |
+| 5  | p v l 2         | p v l 2          |       140|   24,000|     4    |     4    |     6    |     4    |    12    |     2    |     3    |     2    |     3    |   4   |    2   |    4    |     4    |     4    |    4    |     3    |     3    |     4    |    3   |    3    |    2    |   3  |   4  |   4   |      3     |     3    |     5    |     4    |     4    |     2    |
 | 6  | Thamboo         | Thamboo          |         7|      700|     -    |     -    |     -    |     -    |     7    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     5    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 7  | pug=309         | pug=309          |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 8  | H A I Y A A     | chris is awesome |        13|    1,300|     -    |     -    |     -    |     6    |    11    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     4    |     4    |     -    |     -    |     -    |
@@ -2042,9 +2044,9 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 15 | Chevy           | agustin fuks     |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 16 | twinpowerturbo  | twinpwrturbo     |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 17 | NotRoss         | Ross2750         |        10|    1,000|     -    |     -    |     -    |     -    |    10    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    5    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 18 | whatalife       | whatalife        |       139|   13,900|     5    |     6    |     7    |     8    |    15    |     5    |     5    |     5    |     5    |   5   |    5   |    5    |     6    |     5    |    5    |     7    |     6    |     5    |    5   |    8    |    5    |   5  |   6  |   5   |      7     |     7    |     6    |     5    |     5    |     5    |
-| 19 | NotStack        | FireT1ger        |         3|      300|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 20 | MousemanLV      | MousemanLV       |         2|      200|     -    |     -    |     -    |     -    |     4    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 18 | NotStack        | FireT1ger        |         3|      300|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 19 | MousemanLV      | MousemanLV       |         2|      200|     -    |     -    |     -    |     -    |     4    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 20 | whatalife       | whatalife        |       140|   24,000|     5    |     6    |     7    |     8    |    15    |     5    |     5    |     5    |     5    |   5   |    5   |    5    |     6    |     5    |    5    |     7    |     6    |     5    |    5   |    8    |    5    |   5  |   6  |   5   |      7     |     7    |     6    |     5    |     5    |     5    |
 | 21 | R/Marty         | Marty_Deslions   |         2|      200|     -    |     -    |     -    |     5    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     5    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 22 | Lewis Hamilton  | Cursenation      |         4|      400|     6    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    6    |   -  |   -  |   -   |      -     |     6    |     -    |     -    |     -    |     -    |
 | 23 | #491 J.Thacker  | JohnThacker      |         3|      300|     -    |     -    |     -    |     -    |     9    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
@@ -2052,21 +2054,20 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 25 | calge           | calge            |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 26 | 404notfound     | donutlord        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 27 | Gioring         | gioring          |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 28 | Kaiku           | thuglife_        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 29 | Ghost Rider     | Mr beast         |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    7    |    -    |   -  |   -  |   -   |      6     |     -    |     -    |     -    |     -    |     -    |
-| 30 | ag              | ag360            |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 31 | QUATTROvalve    | melihrg          |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 32 | p V L 2         | p V L 2          |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 33 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 34 | たくみ             | AngelaPascarella |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 35 | たくみ             | AngeloPascarella |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 36 | Scofild         | Scofild          |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 37 | SR™ J.Duran     | Jereduran        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 38 | Sales™          | claytomb         |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 39 | Sales™          | claytombr        |         1|      100|     -    |     -    |     -    |     -    |    13    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 40 | #980 I.Simeonov | c20letCalibra    |         1|      100|     -    |     -    |     -    |     -    |    16    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 28 | Ghost Rider     | Mr beast         |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    7    |    -    |   -  |   -  |   -   |      6     |     -    |     -    |     -    |     -    |     -    |
+| 29 | ag              | ag360            |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 30 | QUATTROvalve    | melihrg          |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 31 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 32 | Kaiku           | thuglife_        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 33 | たくみ             | AngelaPascarella |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 34 | たくみ             | AngeloPascarella |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 35 | Scofild         | Scofild          |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 36 | SR™ J.Duran     | Jereduran        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 37 | Sales™          | claytomb         |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 38 | Sales™          | claytombr        |         1|      100|     -    |     -    |     -    |     -    |    13    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 39 | #980 I.Simeonov | c20letCalibra    |         1|      100|     -    |     -    |     -    |     -    |    16    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 +----+-----------------+------------------+----------+---------+----------|----------|----------|----------|----------|----------|----------|----------|----------|-------|--------|---------|----------|----------|---------|----------|----------|----------|--------|---------|---------|------|------|-------|------------|----------|----------|----------|----------|----------|
-|    | Total           |                  |          |  112,100|          |          |          |          |          |          |          |          |          |       |        |         |          |          |         |          |          |          |        |         |         |      |      |       |            |          |          |          |          |          |
+|    | Total           |                  |          |  132,300|          |          |          |          |          |          |          |          |          |       |        |         |          |          |         |          |          |          |        |         |         |      |      |       |            |          |          |          |          |          |
 +----+-----------------+------------------+----------+---------+----------|----------|----------|----------|----------|----------|----------|----------|----------|-------|--------|---------|----------|----------|---------|----------|----------|----------|--------|---------|---------|------|------|-------|------------|----------|----------|----------|----------|----------|
 
 
@@ -2076,10 +2077,10 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | #  | Player          | ID               |  Finished|  TC Cash| FRAUD BI | FRAUD PR | FRAUD WH | FUCA SPO | FXO GTR | FXO TURB | FZ50 | FZ50 GTR | GG55 AMD | GHOUL | GOD FOOT | GORKIY 1 | GP125 | GRAND PR | GT-V34 | GW-DECA | GWMK2 | GWMK24DR | GX-BUGGY | GX-BUGGY | GX-BUGGY | HADIMRSK | HANZMUND | HBIKE2 | HJETT | CRF450 | HUMHII | IBUSHA S | IMPREZZI | INTERCEP |
 +----+-----------------+------------------+----------+---------+----------|----------|----------|----------|---------|----------|------|----------|----------|-------|----------|----------|-------|----------|--------|---------|-------|----------|----------|----------|----------|----------|----------|--------|-------|--------|--------|----------|----------|----------|
 | 1  | Val             | PainB            |       140|   24,000|     1    |     1    |     1    |     1    |    2    |     1    |   1  |     1    |     1    |   2   |     1    |     1    |   2   |     1    |    1   |    1    |   1   |     1    |     1    |     1    |     1    |     1    |     1    |    1   |   1   |    1   |    1   |     1    |     1    |     1    |
-| 2  | Toom43          | Toom43           |       140|   24,000|     3    |     2    |     5    |     2    |    3    |     4    |   2  |     2    |     2    |   1   |     5    |     2    |   1   |     5    |    3   |    4    |   4   |     5    |     2    |     2    |     2    |     2    |     3    |    2   |   2   |    4   |    2   |     3    |     4    |     4    |
+| 2  | Toom43          | Toom43           |       140|   24,000|     3    |     2    |     5    |     2    |    3    |     4    |   2  |     2    |     2    |   1   |     5    |     3    |   1   |     5    |    3   |    4    |   4   |     5    |     2    |     2    |     2    |     2    |     3    |    2   |   2   |    4   |    2   |     3    |     4    |     4    |
 | 3  | Rubik           | TPEBOMAH         |        20|    2,000|     2    |     3    |     2    |     -    |    1    |     -    |   -  |     -    |     3    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    2   |    -   |     -    |     2    |     -    |
-| 4  | Girfen          | Griffin20069     |       140|   24,000|     4    |     6    |     4    |     4    |    5    |     2    |   4  |     4    |     4    |   3   |     4    |     3    |   4   |     2    |    4   |    3    |   2   |     4    |     4    |     4    |     3    |     3    |     2    |    3   |   3   |    3   |    3   |     2    |     5    |     2    |
-| 5  | p v l 2         | p v l 2          |       138|   13,800|     5    |     4    |     7    |     3    |    4    |     3    |   3  |     3    |     5    |   4   |     2    |     -    |   3   |     3    |    2   |    2    |   3   |     3    |     3    |     3    |     4    |     4    |     4    |    4   |   4   |    5   |    4   |     4    |     3    |     3    |
+| 4  | Girfen          | Griffin20069     |       140|   24,000|     4    |     6    |     4    |     4    |    5    |     2    |   4  |     4    |     4    |   3   |     4    |     4    |   4   |     2    |    4   |    3    |   2   |     4    |     4    |     4    |     3    |     3    |     2    |    3   |   3   |    3   |    3   |     2    |     5    |     2    |
+| 5  | p v l 2         | p v l 2          |       140|   24,000|     5    |     4    |     7    |     3    |    4    |     3    |   3  |     3    |     5    |   4   |     2    |     2    |   3   |     3    |    2   |    2    |   3   |     3    |     3    |     3    |     4    |     4    |     4    |    4   |   4   |    5   |    4   |     4    |     3    |     3    |
 | 6  | Thamboo         | Thamboo          |         7|      700|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     2    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 7  | pug=309         | pug=309          |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 8  | H A I Y A A     | chris is awesome |        13|    1,300|     -    |     -    |     6    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     3    |     -    |   -   |     4    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
@@ -2092,9 +2093,9 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 15 | Chevy           | agustin fuks     |         1|      100|     -    |     -    |     3    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 16 | twinpowerturbo  | twinpwrturbo     |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 17 | NotRoss         | Ross2750         |        10|    1,000|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 18 | whatalife       | whatalife        |       139|   13,900|     6    |     7    |     8    |     5    |    6    |     6    |   5  |     5    |     7    |   5   |     6    |     4    |   5   |     6    |    6   |    6    |   5   |     6    |     5    |     5    |     5    |     5    |     6    |    5   |   5   |    6   |    5   |     5    |     7    |     5    |
-| 19 | NotStack        | FireT1ger        |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 20 | MousemanLV      | MousemanLV       |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 18 | NotStack        | FireT1ger        |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 19 | MousemanLV      | MousemanLV       |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 20 | whatalife       | whatalife        |       140|   24,000|     6    |     7    |     8    |     5    |    6    |     6    |   5  |     5    |     7    |   5   |     6    |     5    |   5   |     6    |    6   |    6    |   5   |     6    |     5    |     5    |     5    |     5    |     6    |    5   |   5   |    6   |    5   |     5    |     7    |     5    |
 | 21 | R/Marty         | Marty_Deslions   |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 22 | Lewis Hamilton  | Cursenation      |         4|      400|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 23 | #491 J.Thacker  | JohnThacker      |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
@@ -2102,21 +2103,20 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 25 | calge           | calge            |         1|      100|     -    |     5    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 26 | 404notfound     | donutlord        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 27 | Gioring         | gioring          |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 28 | Kaiku           | thuglife_        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     5    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 29 | Ghost Rider     | Mr beast         |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 30 | ag              | ag360            |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     6    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 31 | QUATTROvalve    | melihrg          |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     6    |     -    |
-| 32 | p V L 2         | p V L 2          |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 33 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 34 | たくみ             | AngelaPascarella |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     7    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 35 | たくみ             | AngeloPascarella |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 36 | Scofild         | Scofild          |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 37 | SR™ J.Duran     | Jereduran        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 38 | Sales™          | claytomb         |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 39 | Sales™          | claytombr        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 40 | #980 I.Simeonov | c20letCalibra    |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 28 | Ghost Rider     | Mr beast         |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 29 | ag              | ag360            |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     6    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 30 | QUATTROvalve    | melihrg          |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     6    |     -    |
+| 31 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 32 | Kaiku           | thuglife_        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     6    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 33 | たくみ             | AngelaPascarella |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     7    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 34 | たくみ             | AngeloPascarella |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 35 | Scofild         | Scofild          |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 36 | SR™ J.Duran     | Jereduran        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 37 | Sales™          | claytomb         |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 38 | Sales™          | claytombr        |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 39 | #980 I.Simeonov | c20letCalibra    |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 +----+-----------------+------------------+----------+---------+----------|----------|----------|----------|---------|----------|------|----------|----------|-------|----------|----------|-------|----------|--------|---------|-------|----------|----------|----------|----------|----------|----------|--------|-------|--------|--------|----------|----------|----------|
-|    | Total           |                  |          |  112,100|          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |         |       |          |          |          |          |          |          |        |       |        |        |          |          |          |
+|    | Total           |                  |          |  132,300|          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |         |       |          |          |          |          |          |          |        |       |        |        |          |          |          |
 +----+-----------------+------------------+----------+---------+----------|----------|----------|----------|---------|----------|------|----------|----------|-------|----------|----------|-------|----------|--------|---------|-------|----------|----------|----------|----------|----------|----------|--------|-------|--------|--------|----------|----------|----------|
 
 
@@ -2129,7 +2129,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 2  | Toom43          | Toom43           |       140|   24,000|   2   |   4   |   2   |    3    |     3    |     5    |     4    |    2    |     4    |     3    |     2    |  6  |  3  |     2    |     3    |     3    |   2   |   4  |    4   |     5    |     3    |     4    |     5    |     3    |     3    |     2    |     3    |     3    |    5   |    2   |
 | 3  | Rubik           | TPEBOMAH         |        20|    2,000|   3   |   3   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  2  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     2    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 4  | Girfen          | Griffin20069     |       140|   24,000|   4   |   2   |   3   |    2    |     4    |     3    |     3    |    4    |     3    |     4    |     3    |  8  |  6  |     4    |     2    |     7    |   3   |   2  |    2   |     8    |     4    |     6    |     3    |     2    |     2    |     4    |     4    |     4    |    6   |    5   |
-| 5  | p v l 2         | p v l 2          |       138|   13,800|   5   |   5   |   4   |    4    |     2    |     4    |     2    |    3    |     2    |     2    |     4    |  3  |  2  |     3    |     4    |     2    |   4   |   3  |    3   |     7    |     2    |     3    |     2    |     4    |     4    |     3    |     2    |     2    |    2   |    4   |
+| 5  | p v l 2         | p v l 2          |       140|   24,000|   5   |   5   |   4   |    4    |     2    |     4    |     2    |    3    |     2    |     2    |     4    |  3  |  2  |     3    |     4    |     2    |   4   |   3  |    3   |     7    |     2    |     3    |     2    |     4    |     4    |     3    |     2    |     2    |    2   |    4   |
 | 6  | Thamboo         | Thamboo          |         7|      700|   -   |   -   |   -   |    -    |     -    |     2    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 7  | pug=309         | pug=309          |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  5  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     2    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 8  | H A I Y A A     | chris is awesome |        13|    1,300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     6    |     -    |     -    |     4    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
@@ -2142,9 +2142,9 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 15 | Chevy           | agustin fuks     |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 16 | twinpowerturbo  | twinpwrturbo     |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 17 | NotRoss         | Ross2750         |        10|    1,000|   -   |   -   |   -   |    -    |     5    |     -    |     -    |    -    |     -    |     -    |     -    |  7  |  -  |     -    |     -    |     6    |   -   |   -  |    -   |     -    |     -    |     5    |     -    |     -    |     -    |     -    |     -    |     -    |    4   |    -   |
-| 18 | whatalife       | whatalife        |       139|   13,900|   6   |   6   |   5   |    5    |     6    |     6    |     5    |    5    |     6    |     5    |     5    |  10 |  7  |     5    |     5    |     8    |   5   |   5  |    5   |    10    |     6    |    10    |     6    |     5    |     5    |     5    |     5    |     5    |    7   |    6   |
-| 19 | NotStack        | FireT1ger        |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  4  |  5  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 20 | MousemanLV      | MousemanLV       |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 18 | NotStack        | FireT1ger        |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  4  |  5  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 19 | MousemanLV      | MousemanLV       |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 20 | whatalife       | whatalife        |       140|   24,000|   6   |   6   |   5   |    5    |     6    |     6    |     5    |    5    |     6    |     5    |     5    |  10 |  7  |     5    |     5    |     8    |   5   |   5  |    5   |    10    |     6    |    10    |     6    |     5    |     5    |     5    |     5    |     5    |    7   |    6   |
 | 21 | R/Marty         | Marty_Deslions   |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 22 | Lewis Hamilton  | Cursenation      |         4|      400|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 23 | #491 J.Thacker  | JohnThacker      |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     9    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
@@ -2152,21 +2152,20 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 25 | calge           | calge            |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 26 | 404notfound     | donutlord        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 27 | Gioring         | gioring          |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     5    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 28 | Kaiku           | thuglife_        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 29 | Ghost Rider     | Mr beast         |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 30 | ag              | ag360            |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     8    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 31 | QUATTROvalve    | melihrg          |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 32 | p V L 2         | p V L 2          |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 33 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 34 | たくみ             | AngelaPascarella |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 35 | たくみ             | AngeloPascarella |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 36 | Scofild         | Scofild          |         1|      100|   7   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 37 | SR™ J.Duran     | Jereduran        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     9    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 38 | Sales™          | claytomb         |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 39 | Sales™          | claytombr        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 40 | #980 I.Simeonov | c20letCalibra    |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 28 | Ghost Rider     | Mr beast         |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 29 | ag              | ag360            |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     8    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 30 | QUATTROvalve    | melihrg          |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 31 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 32 | Kaiku           | thuglife_        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 33 | たくみ             | AngelaPascarella |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 34 | たくみ             | AngeloPascarella |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 35 | Scofild         | Scofild          |         1|      100|   7   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 36 | SR™ J.Duran     | Jereduran        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     9    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 37 | Sales™          | claytomb         |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 38 | Sales™          | claytombr        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 39 | #980 I.Simeonov | c20letCalibra    |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 +----+-----------------+------------------+----------+---------+-------|-------|-------|---------|----------|----------|----------|---------|----------|----------|----------|-----|-----|----------|----------|----------|-------|------|--------|----------|----------|----------|----------|----------|----------|----------|----------|----------|--------|--------|
-|    | Total           |                  |          |  112,100|       |       |       |         |          |          |          |         |          |          |          |     |     |          |          |          |       |      |        |          |          |          |          |          |          |          |          |          |        |        |
+|    | Total           |                  |          |  132,300|       |       |       |         |          |          |          |         |          |          |          |     |     |          |          |          |       |      |        |          |          |          |          |          |          |          |          |          |        |        |
 +----+-----------------+------------------+----------+---------+-------|-------|-------|---------|----------|----------|----------|---------|----------|----------|----------|-----|-----|----------|----------|----------|-------|------|--------|----------|----------|----------|----------|----------|----------|----------|----------|----------|--------|--------|
 
 
@@ -2179,7 +2178,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 2  | Toom43          | Toom43           |       140|   24,000|   2   |     2    |     4    |     2    |    2   |    3   |   2   |    3    |     3    |     2    |     3    |   2   |    2   |     3    |    2   |     5    |     4    |     4    |     4    |     2    |     2    |     3    |     4    |     2    |    4    |     4    |    3    |     2    |    2   |     4    |
 | 3  | Rubik           | TPEBOMAH         |        20|    2,000|   -   |     -    |     2    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     5    |   -   |    -   |     -    |    4   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    2    |     -    |    -   |     -    |
 | 4  | Girfen          | Griffin20069     |       140|   24,000|   4   |     4    |     5    |     3    |    3   |    4   |   3   |    2    |     4    |     3    |     2    |   3   |    5   |     4    |    3   |     2    |     2    |     3    |     3    |     3    |     4    |     2    |     5    |     3    |    2    |     3    |    5    |     3    |    4   |     2    |
-| 5  | p v l 2         | p v l 2          |       138|   13,800|   3   |     3    |     -    |     4    |    4   |    2   |   4   |    4    |     2    |     4    |     4    |   4   |    4   |     2    |    5   |     4    |     3    |     2    |     2    |     4    |     3    |     4    |     2    |     4    |    3    |     2    |    6    |     4    |    3   |     3    |
+| 5  | p v l 2         | p v l 2          |       140|   24,000|   3   |     3    |     6    |     4    |    4   |    2   |   4   |    4    |     2    |     4    |     4    |   4   |    4   |     2    |    5   |     4    |     3    |     2    |     2    |     4    |     3    |     4    |     2    |     4    |    3    |     2    |    6    |     4    |    3   |     3    |
 | 6  | Thamboo         | Thamboo          |         7|      700|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 7  | pug=309         | pug=309          |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 8  | H A I Y A A     | chris is awesome |        13|    1,300|   -   |     -    |     9    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    3   |     -    |    -   |     3    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
@@ -2192,9 +2191,9 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 15 | Chevy           | agustin fuks     |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 16 | twinpowerturbo  | twinpwrturbo     |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     3    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 17 | NotRoss         | Ross2750         |        10|    1,000|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    4    |     -    |    -   |     -    |
-| 18 | whatalife       | whatalife        |       139|   13,900|   5   |     7    |    11    |     5    |    5   |    5   |   5   |    5    |     5    |     5    |     6    |   5   |    6   |     6    |    6   |     6    |     5    |     5    |     5    |     6    |     5    |     5    |     -    |     5    |    5    |     5    |    9    |     5    |    5   |     5    |
-| 19 | NotStack        | FireT1ger        |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    8    |     -    |    -   |     -    |
-| 20 | MousemanLV      | MousemanLV       |         2|      200|   -   |     -    |     7    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 18 | NotStack        | FireT1ger        |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    8    |     -    |    -   |     -    |
+| 19 | MousemanLV      | MousemanLV       |         2|      200|   -   |     -    |     7    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 20 | whatalife       | whatalife        |       140|   24,000|   5   |     7    |    11    |     5    |    5   |    5   |   5   |    5    |     5    |     5    |     6    |   5   |    6   |     6    |    6   |     6    |     5    |     5    |     5    |     6    |     5    |     5    |     6    |     5    |    5    |     5    |    9    |     5    |    5   |     5    |
 | 21 | R/Marty         | Marty_Deslions   |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 22 | Lewis Hamilton  | Cursenation      |         4|      400|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 23 | #491 J.Thacker  | JohnThacker      |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
@@ -2202,21 +2201,20 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 25 | calge           | calge            |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 26 | 404notfound     | donutlord        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 27 | Gioring         | gioring          |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 28 | Kaiku           | thuglife_        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 29 | Ghost Rider     | Mr beast         |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 30 | ag              | ag360            |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 31 | QUATTROvalve    | melihrg          |         2|      200|   -   |     -    |     8    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 32 | p V L 2         | p V L 2          |         1|      100|   -   |     -    |     6    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 33 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|   -   |     6    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 34 | たくみ             | AngelaPascarella |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 35 | たくみ             | AngeloPascarella |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 36 | Scofild         | Scofild          |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 37 | SR™ J.Duran     | Jereduran        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 38 | Sales™          | claytomb         |         1|      100|   -   |     -    |    10    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 39 | Sales™          | claytombr        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 40 | #980 I.Simeonov | c20letCalibra    |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 28 | Ghost Rider     | Mr beast         |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 29 | ag              | ag360            |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 30 | QUATTROvalve    | melihrg          |         2|      200|   -   |     -    |     8    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 31 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|   -   |     6    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 32 | Kaiku           | thuglife_        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 33 | たくみ             | AngelaPascarella |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 34 | たくみ             | AngeloPascarella |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 35 | Scofild         | Scofild          |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 36 | SR™ J.Duran     | Jereduran        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 37 | Sales™          | claytomb         |         1|      100|   -   |     -    |    10    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 38 | Sales™          | claytombr        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 39 | #980 I.Simeonov | c20letCalibra    |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 +----+-----------------+------------------+----------+---------+-------|----------|----------|----------|--------|--------|-------|---------|----------|----------|----------|-------|--------|----------|--------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------|----------|---------|----------|--------|----------|
-|    | Total           |                  |          |  112,100|       |          |          |          |        |        |       |         |          |          |          |       |        |          |        |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |
+|    | Total           |                  |          |  132,300|       |          |          |          |        |        |       |         |          |          |          |       |        |          |        |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |
 +----+-----------------+------------------+----------+---------+-------|----------|----------|----------|--------|--------|-------|---------|----------|----------|----------|-------|--------|----------|--------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------|----------|---------|----------|--------|----------|
 
 
@@ -2229,7 +2227,7 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 2  | Toom43          | Toom43           |       140|   24,000|    3   |     4    |    2    |     4    |    3   |     2    |     3    |    7   |    4   |     5    |   3   |     2    |    2   |     4    |     2    |    2   |    2   |    2   |    2   |    2   |
 | 3  | Rubik           | TPEBOMAH         |        20|    2,000|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     2    |   -   |     -    |    -   |     -    |     -    |    3   |    -   |    -   |    -   |    -   |
 | 4  | Girfen          | Griffin20069     |       140|   24,000|    2   |     3    |    4    |     2    |    2   |     3    |     4    |    4   |    3   |     4    |   2   |     4    |    4   |     2    |     3    |    5   |    4   |    4   |    4   |    4   |
-| 5  | p v l 2         | p v l 2          |       138|   13,800|    4   |     2    |    3    |     5    |    4   |     5    |     2    |    6   |    2   |     3    |   7   |     3    |    3   |     3    |     4    |    4   |    3   |    3   |    3   |    3   |
+| 5  | p v l 2         | p v l 2          |       140|   24,000|    4   |     2    |    3    |     5    |    4   |     5    |     2    |    6   |    2   |     3    |   7   |     3    |    3   |     3    |     4    |    4   |    3   |    3   |    3   |    3   |
 | 6  | Thamboo         | Thamboo          |         7|      700|    -   |     -    |    -    |     3    |    -   |     -    |     -    |    2   |    -   |     -    |   8   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 7  | pug=309         | pug=309          |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 8  | H A I Y A A     | chris is awesome |        13|    1,300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     6    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
@@ -2242,9 +2240,9 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 15 | Chevy           | agustin fuks     |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 16 | twinpowerturbo  | twinpwrturbo     |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 17 | NotRoss         | Ross2750         |        10|    1,000|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    5   |    -   |     -    |   6   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 18 | whatalife       | whatalife        |       139|   13,900|    6   |     5    |    5    |     6    |    5   |     6    |     6    |    9   |    5   |     7    |   10  |     6    |    5   |     6    |     5    |    6   |    5   |    5   |    5   |    5   |
-| 19 | NotStack        | FireT1ger        |         3|      300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 20 | MousemanLV      | MousemanLV       |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 18 | NotStack        | FireT1ger        |         3|      300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 19 | MousemanLV      | MousemanLV       |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 20 | whatalife       | whatalife        |       140|   24,000|    6   |     5    |    5    |     6    |    5   |     6    |     6    |    9   |    5   |     7    |   10  |     6    |    5   |     6    |     5    |    6   |    5   |    5   |    5   |    5   |
 | 21 | R/Marty         | Marty_Deslions   |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 22 | Lewis Hamilton  | Cursenation      |         4|      400|    -   |     -    |    -    |     -    |    -   |     -    |     5    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 23 | #491 J.Thacker  | JohnThacker      |         3|      300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     5    |     -    |    -   |    -   |    -   |    -   |    -   |
@@ -2252,21 +2250,20 @@ Turkish Time:  2025-09-13 03:36:46 +03
 | 25 | calge           | calge            |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 26 | 404notfound     | donutlord        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   5   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 27 | Gioring         | gioring          |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 28 | Kaiku           | thuglife_        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 29 | Ghost Rider     | Mr beast         |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 30 | ag              | ag360            |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 31 | QUATTROvalve    | melihrg          |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 32 | p V L 2         | p V L 2          |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 33 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 34 | たくみ             | AngelaPascarella |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 35 | たくみ             | AngeloPascarella |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     7    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 36 | Scofild         | Scofild          |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 37 | SR™ J.Duran     | Jereduran        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 38 | Sales™          | claytomb         |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 39 | Sales™          | claytombr        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 40 | #980 I.Simeonov | c20letCalibra    |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 28 | Ghost Rider     | Mr beast         |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 29 | ag              | ag360            |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 30 | QUATTROvalve    | melihrg          |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 31 | LIVE_FOR_WEED®  | rikopikomaradon  |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 32 | Kaiku           | thuglife_        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 33 | たくみ             | AngelaPascarella |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 34 | たくみ             | AngeloPascarella |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     7    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 35 | Scofild         | Scofild          |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 36 | SR™ J.Duran     | Jereduran        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 37 | Sales™          | claytomb         |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 38 | Sales™          | claytombr        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 39 | #980 I.Simeonov | c20letCalibra    |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 +----+-----------------+------------------+----------+---------+--------|----------|---------|----------|--------|----------|----------|--------|--------|----------|-------|----------|--------|----------|----------|--------|--------|--------|--------|--------|
-|    | Total           |                  |          |  112,100|        |          |         |          |        |          |          |        |        |          |       |          |        |          |          |        |        |        |        |        |
+|    | Total           |                  |          |  132,300|        |          |         |          |        |          |          |        |        |          |       |          |        |          |          |        |        |        |        |        |
 +----+-----------------+------------------+----------+---------+--------|----------|---------|----------|--------|----------|----------|--------|--------|----------|-------|----------|--------|----------|----------|--------|--------|--------|--------|--------|
 
 
@@ -2457,13 +2454,12 @@ Turkish Time:  2025-09-13 03:36:46 +03
   38. ag
   39. calge
   40. kilobananov
-  41. p V L 2
-  42. p v l 2
-  43. pug-309
-  44. pug=309
-  45. rubik
-  46. twinpowerturbo
-  47. unnamed
-  48. whatalife
-  49. ʀubik
-  50. たくみ
+  41. p v l 2
+  42. pug-309
+  43. pug=309
+  44. rubik
+  45. twinpowerturbo
+  46. unnamed
+  47. whatalife
+  48. ʀubik
+  49. たくみ
