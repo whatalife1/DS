@@ -4,7 +4,7 @@ Player: Val (PainB) has completed all 140 ranked vehicles.
 
 Player: Toom43 (Toom43) has completed all 140 ranked vehicles.
 
-Player: Rubik (TPEBOMAH) is missing the following 120 vehicles:
+Player: ubik (TPEBOMAH) is missing the following 120 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA AR-EIGHT V10
@@ -265,7 +265,7 @@ Player: Thamboo (Thamboo) is missing the following 133 vehicles:
   132. YKS-100
   133. YKS-R1052
 
-Player: pug=309 (pug=309) is missing the following 138 vehicles:
+Player: pug=309 (pug=309) is missing the following 135 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -380,32 +380,29 @@ Player: pug=309 (pug=309) is missing the following 138 vehicles:
   112. THR SR2000
   113. TOMMY28
   114. TOYATE SUPROZA T
-  115. UF 1000
-  116. UF 1100T
-  117. UF GTR
-  118. UF PICKUP TRUCK
-  119. UZOVKA
-  120. VALUTA V8
-  121. VANLIFE
-  122. VGI-6 TEDAVI
-  123. VULCAN 998
-  124. WATBRUG 353
-  125. WESSEX R69SP
-  126. XF GTI
-  127. XF GTR
-  128. XM-5 CUP
-  129. XR GT
-  130. XR GT TURBO
-  131. XR GTR
-  132. XR1 PROCAR
-  133. YAHAMA MIT09
-  134. YAMAHA CT125 DR
-  135. YAMAHA CT200
-  136. YAMAHA YZF-R3
-  137. YKS-100
-  138. YKS-R1052
+  115. UF 1100T
+  116. UF GTR
+  117. UF PICKUP TRUCK
+  118. UZOVKA
+  119. VALUTA V8
+  120. VANLIFE
+  121. VGI-6 TEDAVI
+  122. VULCAN 998
+  123. WATBRUG 353
+  124. WESSEX R69SP
+  125. XF GTR
+  126. XM-5 CUP
+  127. XR GT TURBO
+  128. XR GTR
+  129. XR1 PROCAR
+  130. YAHAMA MIT09
+  131. YAMAHA CT125 DR
+  132. YAMAHA CT200
+  133. YAMAHA YZF-R3
+  134. YKS-100
+  135. YKS-R1052
 
-Player: H A I Y A A (chris is awesome) is missing the following 127 vehicles:
+Player: HAIYAA (chris is awesome) is missing the following 127 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -651,146 +648,7 @@ Player: Gersh (ShamRox) is missing the following 115 vehicles:
   114. YKS-100
   115. YKS-R1052
 
-Player: pug-309 (pug-309) is missing the following 137 vehicles:
-  1. ACOSTA STARLIN
-  2. ADDA 5200
-  3. ADDA 8A 4.2 TDI
-  4. ADDA AR-EIGHT V10
-  5. ADDA S83 1.8T
-  6. AHMED 4.0RS
-  7. ANCHOIS GORBINI
-  8. BACALHAU
-  9. BD6 VERT
-  10. BD750
-  11. BD9115
-  12. BETA 65
-  13. BMW SAUBER F1.06
-  14. BUG WAGON
-  15. BUMER 7
-  16. BZ30 ROADSTER SPORT
-  17. CHALLENGE ST
-  18. CX WAGON
-  19. DELBOX
-  20. DIAMOND
-  21. ELIINOR
-  22. EM30
-  23. EMKO
-  24. ERESO
-  25. EXPEDITION
-  26. FORMULA 60
-  27. FORMULA BMW FB02
-  28. FORMULA V8
-  29. FORMULA XR
-  30. FRAUD 040
-  31. FRAUD BIG BOY
-  32. FRAUD PRE RUNNER
-  33. FRAUD WHEELER E2
-  34. FUCA SPORT SYSTEM
-  35. FXO GTR
-  36. FXO TURBO
-  37. FZ50
-  38. FZ50 GTR
-  39. GG55 AMD
-  40. GHOUL 250RR
-  41. GOD FOOT
-  42. GORKIY 10
-  43. GP125
-  44. GRAND PRIX LEGEND 65
-  45. GT-V34
-  46. GW-DECA
-  47. GWMK2
-  48. GWMK24DR
-  49. GX-BUGGY
-  50. GX-BUGGY STAGE 2
-  51. GX-BUGGY STAGE R
-  52. HADIMRSKA HOTRODD
-  53. HANZMUND V8
-  54. HBIKE V2
-  55. HJETT
-  56. HONDA CRF450
-  57. HUMHII
-  58. IBUSHA SAGA 2.6
-  59. IMPREZZIVE B2
-  60. INTERCEPTOR
-  61. JIIRO
-  62. JW 350
-  63. K300X
-  64. KEEROCK
-  65. KORAMA R
-  66. LACIBRE V6
-  67. LAND ROAMER
-  68. LCT3000
-  69. LEMON FANTOMAS
-  70. LINE RUNNER IVII
-  71. LORY GPS
-  72. LX4
-  73. LX6
-  74. MALANDRO-STOCKPRO
-  75. MC SPLINTER
-  76. MERESDES E910
-  77. MOTO GUZZI
-  78. MRT5
-  79. N.400S
-  80. POCKET UF
-  81. PONTACH GT
-  82. PORCHETE TIGER GTS
-  83. POSCHER CAYNAM 718
-  84. PROTOTYPE 2
-  85. PUSCH 674B
-  86. PZG COMPACT
-  87. RACEABOUT
-  88. RAY 400 RALLY
-  89. RB4 GT
-  90. REAPER X1
-  91. ROSSA
-  92. RS1 KENJI
-  93. RS1 KENJI RX
-  94. RTS 6-71
-  95. RZM 250
-  96. RZT 370
-  97. SEDAN
-  98. SHARK C
-  99. SHARK C GROUP 2
-  100. SKODA 110 L RALLYE
-  101. SKODA FELICIA
-  102. SM500
-  103. SPEC R
-  104. SPOTTEDKITTEN COUPE
-  105. SUZUKI 400 CLASSIC
-  106. SWIRL SPORT 06
-  107. T34 SPORT
-  108. T46 SPORT R
-  109. TALOT SUNS LOMIS
-  110. TAZ 0521
-  111. TAZ07 CLASSIC
-  112. THR MB500
-  113. THR OP4500
-  114. THR SR2000
-  115. TOMMY28
-  116. TOYATE SUPROZA T
-  117. UF 1100T
-  118. UF GTR
-  119. UF PICKUP TRUCK
-  120. UZOVKA
-  121. VALUTA V8
-  122. VANLIFE
-  123. VGI-6 TEDAVI
-  124. VULCAN 998
-  125. WATBRUG 353
-  126. WESSEX R69SP
-  127. XF GTR
-  128. XM-5 CUP
-  129. XR GT TURBO
-  130. XR GTR
-  131. XR1 PROCAR
-  132. YAHAMA MIT09
-  133. YAMAHA CT125 DR
-  134. YAMAHA CT200
-  135. YAMAHA YZF-R3
-  136. YKS-100
-  137. YKS-R1052
-
-Player: Kilobananov (kilobananov) is missing the following 138 vehicles:
+Player: kilobananov (kilobananov) is missing the following 138 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA AR-EIGHT V10
@@ -930,7 +788,7 @@ Player: Kilobananov (kilobananov) is missing the following 138 vehicles:
   137. YKS-100
   138. YKS-R1052
 
-Player: SG MadJester (lordferius) is missing the following 137 vehicles:
+Player: SG₹ MadJester (lordferius) is missing the following 137 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -1209,7 +1067,7 @@ Player: WildGamerz (WildGamerz) is missing the following 138 vehicles:
   137. YKS-100
   138. YKS-R1052
 
-Player: AL (01alperen001) is missing the following 139 vehicles:
+Player: Ali (01alperen001) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -1764,7 +1622,7 @@ Player: NotRoss (Ross2750) is missing the following 130 vehicles:
   129. YKS-100
   130. YKS-R1052
 
-Player: NotStack (FireT1ger) is missing the following 137 vehicles:
+Player: NotStock (FireT 1ger) is missing the following 137 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -2462,7 +2320,7 @@ Player: #491 J.Thacker (JohnThacker) is missing the following 137 vehicles:
   136. YKS-100
   137. YKS-R1052
 
-Player: RCB●Speed! #37 (SpeedDemonn) is missing the following 139 vehicles:
+Player: RCB Speed! #37 (SpeedDemonn) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -2603,7 +2461,7 @@ Player: RCB●Speed! #37 (SpeedDemonn) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: calge (calge) is missing the following 139 vehicles:
+Player: caige (caige) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -3306,7 +3164,7 @@ Player: ag (ag360) is missing the following 138 vehicles:
   137. YKS-100
   138. YKS-R1052
 
-Player: QUATTROvalve (melihrg) is missing the following 138 vehicles:
+Player: QuattroValve (melihrg) is missing the following 138 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -3446,7 +3304,7 @@ Player: QUATTROvalve (melihrg) is missing the following 138 vehicles:
   137. YKS-100
   138. YKS-R1052
 
-Player: LIVE_FOR_WEED® (rikopikomaradon) is missing the following 139 vehicles:
+Player: LIVE FOR_WEEDO (rikopikomaradon) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -3728,7 +3586,7 @@ Player: Kaiku (thuglife_) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: たくみ (AngelaPascarella) is missing the following 139 vehicles:
+Player: f =< #+ (AngeloPascarella) is missing the following 138 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -3861,154 +3719,12 @@ Player: たくみ (AngelaPascarella) is missing the following 139 vehicles:
   130. XR GT
   131. XR GT TURBO
   132. XR GTR
-  133. XR1 PROCAR
-  134. YAHAMA MIT09
-  135. YAMAHA CT125 DR
-  136. YAMAHA CT200
-  137. YAMAHA YZF-R3
-  138. YKS-100
-  139. YKS-R1052
-
-Player: たくみ (AngeloPascarella) is missing the following 139 vehicles:
-  1. ACOSTA STARLIN
-  2. ADDA 5200
-  3. ADDA 8A 4.2 TDI
-  4. ADDA AR-EIGHT V10
-  5. ADDA S83 1.8T
-  6. AHMED 4.0RS
-  7. ANCHOIS GORBINI
-  8. BACALHAU
-  9. BD6 VERT
-  10. BD750
-  11. BD9115
-  12. BETA 65
-  13. BMW SAUBER F1.06
-  14. BUG WAGON
-  15. BUMER 7
-  16. BZ30 ROADSTER SPORT
-  17. CHALLENGE ST
-  18. CX WAGON
-  19. DELBOX
-  20. DIAMOND
-  21. ELIINOR
-  22. EM30
-  23. EMKO
-  24. ERESO
-  25. EXPEDITION
-  26. FORMULA 60
-  27. FORMULA BMW FB02
-  28. FORMULA V8
-  29. FORMULA XR
-  30. FRAUD 040
-  31. FRAUD BIG BOY
-  32. FRAUD PRE RUNNER
-  33. FRAUD WHEELER E2
-  34. FUCA SPORT SYSTEM
-  35. FXO GTR
-  36. FXO TURBO
-  37. FZ50
-  38. FZ50 GTR
-  39. GG55 AMD
-  40. GHOUL 250RR
-  41. GOD FOOT
-  42. GORKIY 10
-  43. GP125
-  44. GRAND PRIX LEGEND 65
-  45. GT-V34
-  46. GW-DECA
-  47. GWMK2
-  48. GWMK24DR
-  49. GX-BUGGY
-  50. GX-BUGGY STAGE 2
-  51. GX-BUGGY STAGE R
-  52. HADIMRSKA HOTRODD
-  53. HANZMUND V8
-  54. HBIKE V2
-  55. HJETT
-  56. HONDA CRF450
-  57. HUMHII
-  58. IBUSHA SAGA 2.6
-  59. IMPREZZIVE B2
-  60. INTERCEPTOR
-  61. JIIRO
-  62. JW 350
-  63. K300X
-  64. KEEROCK
-  65. KORAMA R
-  66. LACIBRE V6
-  67. LAND ROAMER
-  68. LCT3000
-  69. LEMON FANTOMAS
-  70. LINE RUNNER IVII
-  71. LORY GPS
-  72. LX4
-  73. LX6
-  74. MALANDRO-STOCKPRO
-  75. MC SPLINTER
-  76. MERESDES E910
-  77. MOTO GUZZI
-  78. MRT5
-  79. N.400S
-  80. POCKET UF
-  81. PONTACH GT
-  82. PORCHETE TIGER GTS
-  83. POSCHER CAYNAM 718
-  84. PROTOTYPE 2
-  85. PUSCH 674B
-  86. PZG COMPACT
-  87. RACEABOUT
-  88. RAY 400 RALLY
-  89. RB4 GT
-  90. REAPER X1
-  91. ROSSA
-  92. RS1 KENJI
-  93. RS1 KENJI RX
-  94. RTS 6-71
-  95. RZM 250
-  96. RZT 370
-  97. SEDAN
-  98. SHARK C
-  99. SHARK C GROUP 2
-  100. SKODA 110 L RALLYE
-  101. SKODA FELICIA
-  102. SM500
-  103. SPEC R
-  104. SPOTTEDKITTEN COUPE
-  105. SUZUKI 400 CLASSIC
-  106. SWIRL SPORT 06
-  107. T34 SPORT
-  108. T46 SPORT R
-  109. TALOT SUNS LOMIS
-  110. TAZ 0521
-  111. TAZ07 CLASSIC
-  112. THR MB500
-  113. THR OP4500
-  114. THR SR2000
-  115. TOMMY28
-  116. TOYATE SUPROZA T
-  117. UF 1000
-  118. UF 1100T
-  119. UF GTR
-  120. UF PICKUP TRUCK
-  121. UZOVKA
-  122. VALUTA V8
-  123. VANLIFE
-  124. VGI-6 TEDAVI
-  125. VULCAN 998
-  126. WATBRUG 353
-  127. WESSEX R69SP
-  128. XF GTI
-  129. XF GTR
-  130. XM-5 CUP
-  131. XR GT
-  132. XR GT TURBO
-  133. XR GTR
-  134. YAHAMA MIT09
-  135. YAMAHA CT125 DR
-  136. YAMAHA CT200
-  137. YAMAHA YZF-R3
-  138. YKS-100
-  139. YKS-R1052
+  133. YAHAMA MIT09
+  134. YAMAHA CT125 DR
+  135. YAMAHA CT200
+  136. YAMAHA YZF-R3
+  137. YKS-100
+  138. YKS-R1052
 
 Player: Scofild (Scofild) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
@@ -4151,7 +3867,7 @@ Player: Scofild (Scofild) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: SR™ J.Duran (Jereduran) is missing the following 139 vehicles:
+Player: J.Duran (Jereduran) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -4292,148 +4008,7 @@ Player: SR™ J.Duran (Jereduran) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: Sales™ (claytomb) is missing the following 139 vehicles:
-  1. ACOSTA STARLIN
-  2. ADDA 5200
-  3. ADDA 8A 4.2 TDI
-  4. ADDA AR-EIGHT V10
-  5. ADDA S83 1.8T
-  6. AHMED 4.0RS
-  7. ANCHOIS GORBINI
-  8. BACALHAU
-  9. BD6 VERT
-  10. BD750
-  11. BD9115
-  12. BETA 65
-  13. BMW SAUBER F1.06
-  14. BUG WAGON
-  15. BUMER 7
-  16. BZ30 ROADSTER SPORT
-  17. CHALLENGE ST
-  18. CX WAGON
-  19. DELBOX
-  20. DIAMOND
-  21. ELIINOR
-  22. EM30
-  23. EMKO
-  24. ERESO
-  25. EXPEDITION
-  26. FORMULA 60
-  27. FORMULA BMW FB02
-  28. FORMULA V8
-  29. FORMULA XR
-  30. FRAUD 040
-  31. FRAUD BIG BOY
-  32. FRAUD PRE RUNNER
-  33. FRAUD WHEELER E2
-  34. FUCA SPORT SYSTEM
-  35. FXO GTR
-  36. FXO TURBO
-  37. FZ50
-  38. FZ50 GTR
-  39. GG55 AMD
-  40. GHOUL 250RR
-  41. GOD FOOT
-  42. GORKIY 10
-  43. GP125
-  44. GRAND PRIX LEGEND 65
-  45. GT-V34
-  46. GW-DECA
-  47. GWMK2
-  48. GWMK24DR
-  49. GX-BUGGY
-  50. GX-BUGGY STAGE 2
-  51. GX-BUGGY STAGE R
-  52. HADIMRSKA HOTRODD
-  53. HANZMUND V8
-  54. HBIKE V2
-  55. HJETT
-  56. HONDA CRF450
-  57. HUMHII
-  58. IBUSHA SAGA 2.6
-  59. IMPREZZIVE B2
-  60. INTERCEPTOR
-  61. JIIRO
-  62. JW 350
-  63. K300X
-  64. KEEROCK
-  65. KORAMA R
-  66. LACIBRE V6
-  67. LAND ROAMER
-  68. LCT3000
-  69. LEMON FANTOMAS
-  70. LINE RUNNER IVII
-  71. LORY GPS
-  72. LX4
-  73. LX6
-  74. MALANDRO-STOCKPRO
-  75. MC SPLINTER
-  76. MERESDES E910
-  77. MOTO GUZZI
-  78. MRT5
-  79. N.400S
-  80. POCKET UF
-  81. PONTACH GT
-  82. PORCHETE TIGER GTS
-  83. POSCHER CAYNAM 718
-  84. PROTOTYPE 2
-  85. PUSCH 674B
-  86. PZG COMPACT
-  87. RACEABOUT
-  88. RAY 400 RALLY
-  89. RB4 GT
-  90. REAPER X1
-  91. ROSSA
-  92. RS1 KENJI
-  93. RTS 6-71
-  94. RZM 250
-  95. RZT 370
-  96. SEDAN
-  97. SHARK C
-  98. SHARK C GROUP 2
-  99. SKODA 110 L RALLYE
-  100. SKODA FELICIA
-  101. SM500
-  102. SPEC R
-  103. SPOTTEDKITTEN COUPE
-  104. SUZUKI 400 CLASSIC
-  105. SWIRL SPORT 06
-  106. T34 SPORT
-  107. T46 SPORT R
-  108. TALOT SUNS LOMIS
-  109. TAZ 0521
-  110. TAZ07 CLASSIC
-  111. THR MB500
-  112. THR OP4500
-  113. THR SR2000
-  114. TOMMY28
-  115. TOYATE SUPROZA T
-  116. UF 1000
-  117. UF 1100T
-  118. UF GTR
-  119. UF PICKUP TRUCK
-  120. UZOVKA
-  121. VALUTA V8
-  122. VANLIFE
-  123. VGI-6 TEDAVI
-  124. VULCAN 998
-  125. WATBRUG 353
-  126. WESSEX R69SP
-  127. XF GTI
-  128. XF GTR
-  129. XM-5 CUP
-  130. XR GT
-  131. XR GT TURBO
-  132. XR GTR
-  133. XR1 PROCAR
-  134. YAHAMA MIT09
-  135. YAMAHA CT125 DR
-  136. YAMAHA CT200
-  137. YAMAHA YZF-R3
-  138. YKS-100
-  139. YKS-R1052
-
-Player: Sales™ (claytombr) is missing the following 139 vehicles:
+Player: SalesT (claytombr) is missing the following 138 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
@@ -4525,54 +4100,53 @@ Player: Sales™ (claytombr) is missing the following 139 vehicles:
   89. REAPER X1
   90. ROSSA
   91. RS1 KENJI
-  92. RS1 KENJI RX
-  93. RTS 6-71
-  94. RZM 250
-  95. RZT 370
-  96. SEDAN
-  97. SHARK C
-  98. SHARK C GROUP 2
-  99. SKODA 110 L RALLYE
-  100. SKODA FELICIA
-  101. SM500
-  102. SPEC R
-  103. SPOTTEDKITTEN COUPE
-  104. SUZUKI 400 CLASSIC
-  105. SWIRL SPORT 06
-  106. T34 SPORT
-  107. T46 SPORT R
-  108. TALOT SUNS LOMIS
-  109. TAZ 0521
-  110. TAZ07 CLASSIC
-  111. THR MB500
-  112. THR OP4500
-  113. THR SR2000
-  114. TOMMY28
-  115. TOYATE SUPROZA T
-  116. UF 1000
-  117. UF 1100T
-  118. UF GTR
-  119. UF PICKUP TRUCK
-  120. UZOVKA
-  121. VALUTA V8
-  122. VANLIFE
-  123. VGI-6 TEDAVI
-  124. VULCAN 998
-  125. WATBRUG 353
-  126. WESSEX R69SP
-  127. XF GTI
-  128. XF GTR
-  129. XM-5 CUP
-  130. XR GT
-  131. XR GT TURBO
-  132. XR GTR
-  133. XR1 PROCAR
-  134. YAHAMA MIT09
-  135. YAMAHA CT125 DR
-  136. YAMAHA CT200
-  137. YAMAHA YZF-R3
-  138. YKS-100
-  139. YKS-R1052
+  92. RTS 6-71
+  93. RZM 250
+  94. RZT 370
+  95. SEDAN
+  96. SHARK C
+  97. SHARK C GROUP 2
+  98. SKODA 110 L RALLYE
+  99. SKODA FELICIA
+  100. SM500
+  101. SPEC R
+  102. SPOTTEDKITTEN COUPE
+  103. SUZUKI 400 CLASSIC
+  104. SWIRL SPORT 06
+  105. T34 SPORT
+  106. T46 SPORT R
+  107. TALOT SUNS LOMIS
+  108. TAZ 0521
+  109. TAZ07 CLASSIC
+  110. THR MB500
+  111. THR OP4500
+  112. THR SR2000
+  113. TOMMY28
+  114. TOYATE SUPROZA T
+  115. UF 1000
+  116. UF 1100T
+  117. UF GTR
+  118. UF PICKUP TRUCK
+  119. UZOVKA
+  120. VALUTA V8
+  121. VANLIFE
+  122. VGI-6 TEDAVI
+  123. VULCAN 998
+  124. WATBRUG 353
+  125. WESSEX R69SP
+  126. XF GTI
+  127. XF GTR
+  128. XM-5 CUP
+  129. XR GT
+  130. XR GT TURBO
+  131. XR GTR
+  132. XR1 PROCAR
+  133. YAHAMA MIT09
+  134. YAMAHA CT125 DR
+  135. YAMAHA CT200
+  136. YAMAHA YZF-R3
+  137. YKS-100
+  138. YKS-R1052
 
 Player: #980 I.Simeonov (c20letCalibra) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
