@@ -1,0 +1,311 @@
+--- Report Generation Info ---
+
+Report generated at:
+UTC Time:      2025-09-17 23:37:45 UTC
+German Time:   2025-09-18 01:37:45 CEST
+Brazil Time:   2025-09-17 20:37:45 -03
+Saudi Arabia:  2025-09-18 02:37:45 +03
+Turkish Time:  2025-09-18 02:37:45 +03
+
+--- Results by Vehicle (Fastest First) ---
+
+1. MOVETRUCK
+  1. [DS] ₹ubik (TPEBOMAH)         10:19.31
+  2. [RDSR] Ali (01alperen001)     10:22.86
+  3. GT4tube (gt4_pl)              10:53.93
+  4. [DS] Thomas (Toom43)          11:21.10
+  5. [PR] Thamboo (Thamboo)        11:32.44
+  6. whatalife (whatalife)         17:07.12
+  7. {SQUID} YEŞİL (Baran077)      17:17.38
+
+2. EXPEDITION
+  1. Red/BM (bayanofmansorofisky)  10:28.42
+  2. [DS] ₹ubik (TPEBOMAH)         13:35.78
+  3. whatalife (whatalife)         18:38.93
+
+3. LCT3000
+  1. [DS] Val (PainB)              11:34.45
+  2. whatalife (whatalife)         14:03.64
+  3. [DS] ubik (TPEBOMAH)          15:35.87
+
+4. RTS 6-71
+  1. [DS] Val (PainB)              12:14.83
+  2. [DS] P V L (p v l 2)          12:36.15
+  3. RDSR] Ali (01alperen001)      14:09.56
+  4. whatalife (whatalife)         17:18.39
+
+5. MARIGUS
+  1. [DS] Val (PainB)              12:35.03
+  2. [DS] P V L (p v l 2)          12:53.21
+  3. VM.Eetzi (eetz1)              14:08.56
+  4. whatalife (whatalife)         14:45.26
+  5. {SQUID} YEŞİL (Baran077)      20:20.23
+
+6. LIL 1300
+  1. [DS] Val (PainB)              12:37.21
+  2. GT4tube (gt4_pl)              12:58.57
+  3. [DS] P V L (p v l 2)          13:06.41
+  4. [DS] ₹ubik (TPEBOMAH)         14:28.78
+  5. Panda (Lavezzi)               15:24.16
+  6. VM.Eetzi (eetz1)              17:18.46
+  7. whatalife (whatalife)         17:35.01
+
+7. ONIBUS VTR
+  1. [DS] P V L (p v l 2)          12:48.90
+  2. whatalife (whatalife)         36:33.73
+
+8. PIERCING ARROW XT
+  1. [DS] P V L (p v l 2)          13:25.07
+  2. whatalife (whatalife)         24:25.90
+
+9. MUN TG DUMPTRUCK
+  1. [DS] P V L (p v l 2)          13:35.09
+  2. whatalife (whatalife)         19:05.57
+
+10. SCAMA 311 B TOW
+  1. [DS] P V L (p v l 2)          13:39.15
+  2. whatalife (whatalife)         18:04.16
+
+11. ROSSA
+  1. whatalife (whatalife)         13:41.69
+  2. {SQUID} YEŞİL (Baran077)      28:14.11
+
+12. MUN FIRETRUCK
+  1. [DS] P V L (p v l 2)          14:05.60
+  2. whatalife (whatalife)         17:05.75
+
+13. MECA 371 MONOBLOCO
+  1. [DS] Val (PainB)              14:08.75
+  2. [DS] P V L (p v l 2)          14:39.91
+  3. whatalife (whatalife)         18:35.22
+
+14. METRO BUS 10.5
+  1. [DS] P V L (p v l 2)          14:19.74
+  2. whatalife (whatalife)         25:31.55
+
+15. MERCEDES BENZ 16
+  1. [DS] P V L (p v l 2)          14:23.49
+
+16. SCAMA 420R 4X2 TANDEM
+  1. [DS] P V L (p v l 2)          14:36.61
+  2. whatalife (whatalife)         33:42.89
+
+17. RACHA 707
+  1. GT4tube (gt4_pl)              14:39.23
+  2. [DS] P V L (p v l 2)          15:18.33
+  3. whatalife (whatalife)         21:58.50
+
+18. NELSIN 380
+  1. [DS] P V L (p v l 2)          14:44.68
+  2. whatalife (whatalife)         21:55.46
+  3. [DS] Thomas (Toom43)          33:07.05
+
+19. TOWN BUS
+  1. [DS] P V L (p v l 2)          14:44.93
+  2. whatalife (whatalife)         17:54.90
+  3. [DS] Thomas (Toom43)          19:35.34
+
+20. HEAVY RESCUE TRUCK
+  1. [DS] P V L (p v l 2)          15:37.15
+  2. whatalife (whatalife)         23:20.51
+
+21. SCAMA DD
+  1. [DS] P V L (p v l 2)          15:42.59
+  2. whatalife (whatalife)         21:36.81
+  3. [DS] Thomas (Toom43)          23:01.77
+
+22. MERSOLES TORITMO
+  1. [DS] P V L (p v l 2)          16:29.68
+
+23. LINE RUNNER IVII
+  1. whatalife (whatalife)         24:37.61
+
+24. SCAMA T580
+  1. whatalife (whatalife)         34:27.32
+
+
+
+--- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
+
+1. 01alperen001 (01alperen001)
+  1.  MOVETRUCK              10:22.86 (Pos: 2)
+  2.  RTS 6-71               14:09.56 (Pos: 3)
+
+2. Baran077 (Baran077)
+  1.  ROSSA                  28:14.11 (Pos: 2)
+  2.  MARIGUS                20:20.23 (Pos: 5)
+  3.  MOVETRUCK              17:17.38 (Pos: 7)
+
+3. Lavezzi (Lavezzi)
+  1.  LIL 1300               15:24.16 (Pos: 5)
+
+4. PainB (PainB)
+  1.  LCT3000                11:34.45 (Pos: 1)
+  2.  RTS 6-71               12:14.83 (Pos: 1)
+  3.  MARIGUS                12:35.03 (Pos: 1)
+  4.  LIL 1300               12:37.21 (Pos: 1)
+  5.  MECA 371 MONOBLOCO     14:08.75 (Pos: 1)
+
+5. TPEBOMAH (TPEBOMAH)
+  1.  MOVETRUCK              10:19.31 (Pos: 1)
+  2.  EXPEDITION             13:35.78 (Pos: 2)
+  3.  LCT3000                15:35.87 (Pos: 3)
+  4.  LIL 1300               14:28.78 (Pos: 4)
+
+6. Thamboo (Thamboo)
+  1.  MOVETRUCK              11:32.44 (Pos: 5)
+
+7. Toom43 (Toom43)
+  1.  TOWN BUS               19:35.34 (Pos: 3)
+  2.  SCAMA DD               23:01.77 (Pos: 3)
+  3.  NELSIN 380             33:07.05 (Pos: 3)
+  4.  MOVETRUCK              11:21.10 (Pos: 4)
+
+8. bayanofmansorofisky (bayanofmansorofisky)
+  1.  EXPEDITION             10:28.42 (Pos: 1)
+
+9. eetz1 (eetz1)
+  1.  MARIGUS                14:08.56 (Pos: 3)
+  2.  LIL 1300               17:18.46 (Pos: 6)
+
+10. gt4_pl (gt4_pl)
+  1.  RACHA 707              14:39.23 (Pos: 1)
+  2.  LIL 1300               12:58.57 (Pos: 2)
+  3.  MOVETRUCK              10:53.93 (Pos: 3)
+
+11. p v l 2 (p v l 2)
+  1.  ONIBUS VTR             12:48.90 (Pos: 1)
+  2.  PIERCING ARROW XT      13:25.07 (Pos: 1)
+  3.  MUN TG DUMPTRUCK       13:35.09 (Pos: 1)
+  4.  SCAMA 311 B TOW        13:39.15 (Pos: 1)
+  5.  MUN FIRETRUCK          14:05.60 (Pos: 1)
+  6.  METRO BUS 10.5         14:19.74 (Pos: 1)
+  7.  MERCEDES BENZ 16       14:23.49 (Pos: 1)
+  8.  SCAMA 420R 4X2 TANDEM  14:36.61 (Pos: 1)
+  9.  NELSIN 380             14:44.68 (Pos: 1)
+  10. TOWN BUS               14:44.93 (Pos: 1)
+  11. HEAVY RESCUE TRUCK     15:37.15 (Pos: 1)
+  12. SCAMA DD               15:42.59 (Pos: 1)
+  13. MERSOLES TORITMO       16:29.68 (Pos: 1)
+  14. RTS 6-71               12:36.15 (Pos: 2)
+  15. MARIGUS                12:53.21 (Pos: 2)
+  16. MECA 371 MONOBLOCO     14:39.91 (Pos: 2)
+  17. RACHA 707              15:18.33 (Pos: 2)
+  18. LIL 1300               13:06.41 (Pos: 3)
+
+12. whatalife (whatalife)
+  1.  ROSSA                  13:41.69 (Pos: 1)
+  2.  LINE RUNNER IVII       24:37.61 (Pos: 1)
+  3.  SCAMA T580             34:27.32 (Pos: 1)
+  4.  LCT3000                14:03.64 (Pos: 2)
+  5.  MUN FIRETRUCK          17:05.75 (Pos: 2)
+  6.  TOWN BUS               17:54.90 (Pos: 2)
+  7.  SCAMA 311 B TOW        18:04.16 (Pos: 2)
+  8.  MUN TG DUMPTRUCK       19:05.57 (Pos: 2)
+  9.  SCAMA DD               21:36.81 (Pos: 2)
+  10. NELSIN 380             21:55.46 (Pos: 2)
+  11. HEAVY RESCUE TRUCK     23:20.51 (Pos: 2)
+  12. PIERCING ARROW XT      24:25.90 (Pos: 2)
+  13. METRO BUS 10.5         25:31.55 (Pos: 2)
+  14. SCAMA 420R 4X2 TANDEM  33:42.89 (Pos: 2)
+  15. ONIBUS VTR             36:33.73 (Pos: 2)
+  16. MECA 371 MONOBLOCO     18:35.22 (Pos: 3)
+  17. EXPEDITION             18:38.93 (Pos: 3)
+  18. RACHA 707              21:58.50 (Pos: 3)
+  19. MARIGUS                14:45.26 (Pos: 4)
+  20. RTS 6-71               17:18.39 (Pos: 4)
+  21. MOVETRUCK              17:07.12 (Pos: 6)
+  22. LIL 1300               17:35.01 (Pos: 7)
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+--- You get 100 for each vehicle, 10k on top if done all vehicles listed in the table. ---
+
+--- Overall Ranking Table (Vehicles 1-24) ---
+
++----+---------------------+---------------------+----------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| #  | Player              | ID                  |  Finished|  TC Cash| EXPEDITION | Heavy Rescue | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MBenz 16 | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | NELSIN 380 | ONIBUS VTR | PIERCING ARROW | RACHA 707 | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
++----+---------------------+---------------------+----------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| 1  | p v l 2             | p v l 2             |        18|    3,600|      -     |       1      |    -    |     3    |     -    |    2    |     2    |     1    |         1        |        1       |     -     |     1    |      1      |      1     |      1     |        1       |     2     |   -   |     2    |     1     |      1     |     1    |      -     |     1    |
+| 2  | PainB               | PainB               |         5|    1,000|      -     |       -      |    1    |     1    |     -    |    1    |     1    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     1    |     -     |      -     |     -    |      -     |     -    |
+| 3  | whatalife           | whatalife           |        22|    4,400|      3     |       2      |    2    |     7    |     1    |    4    |     3    |     -    |         -        |        2       |     6     |     2    |      2      |      2     |      2     |        2       |     3     |   1   |     4    |     2     |      2     |     2    |      1     |     2    |
+| 4  | TPEBOMAH            | TPEBOMAH            |         4|      800|      2     |       -      |    3    |     4    |     -    |    -    |     -    |     -    |         -        |        -       |     1     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 5  | gt4_pl              | gt4_pl              |         3|      600|      -     |       -      |    -    |     2    |     -    |    -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |      -     |      -     |        -       |     1     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 6  | bayanofmansorofisky | bayanofmansorofisky |         1|      200|      1     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 7  | 01alperen001        | 01alperen001        |         2|      400|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     2     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     3    |     -     |      -     |     -    |      -     |     -    |
+| 8  | Baran077            | Baran077            |         3|      600|      -     |       -      |    -    |     -    |     -    |    5    |     -    |     -    |         -        |        -       |     7     |     -    |      -      |      -     |      -     |        -       |     -     |   2   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 9  | Toom43              | Toom43              |         4|      800|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     4     |     -    |      -      |      3     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     3    |      -     |     3    |
+| 10 | eetz1               | eetz1               |         2|      400|      -     |       -      |    -    |     6    |     -    |    3    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 11 | Lavezzi             | Lavezzi             |         1|      200|      -     |       -      |    -    |     5    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 12 | Thamboo             | Thamboo             |         1|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     5     |     -    |      -      |      -     |      -     |        -       |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
++----+---------------------+---------------------+----------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+|    | Total               |                     |          |   13,200|            |              |         |          |          |         |          |          |                  |                |           |          |             |            |            |                |           |       |          |           |            |          |            |          |
++----+---------------------+---------------------+----------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+
+
+
+
+--- Leaderboard by Total Runs (Highest Total Vehicles First) ---
+
++----+---------------------+---------------------+----------+-------------+----------+
+| #  | Player              | ID                  |  Vehicles|   Total Time|  Avg Time|
++----+---------------------+---------------------+----------+-------------+----------+
+| 1  | whatalife           | whatalife           |        22|  07:52:05.92|  21:27.54|
+| 2  | p v l 2             | p v l 2             |        18|  04:16:46.69|  14:15.93|
+| 3  | PainB               | PainB               |         5|  01:03:10.27|  12:38.05|
+| 4  | TPEBOMAH            | TPEBOMAH            |         4|     53:59.74|  13:29.94|
+| 5  | Toom43              | Toom43              |         4|  01:27:05.26|  21:46.32|
+| 6  | gt4_pl              | gt4_pl              |         3|     38:31.73|  12:50.58|
+| 7  | Baran077            | Baran077            |         3|  01:05:51.72|  21:57.24|
+| 8  | 01alperen001        | 01alperen001        |         2|     24:32.42|  12:16.21|
+| 9  | eetz1               | eetz1               |         2|     31:27.02|  15:43.51|
+| 10 | bayanofmansorofisky | bayanofmansorofisky |         1|     10:28.42|  10:28.42|
+| 11 | Thamboo             | Thamboo             |         1|     11:32.44|  11:32.44|
+| 12 | Lavezzi             | Lavezzi             |         1|     15:24.16|  15:24.16|
++----+---------------------+---------------------+----------+-------------+----------+
+
+
+
+
+--- All Unique Vehicle Names ---
+
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. LIL 1300
+  5. LINE RUNNER IVII
+  6. MARIGUS
+  7. MECA 371 MONOBLOCO
+  8. MERCEDES BENZ 16
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROW XT
+  17. RACHA 707
+  18. ROSSA
+  19. RTS 6-71
+  20. SCAMA 311 B TOW
+  21. SCAMA 420R 4X2 TANDEM
+  22. SCAMA DD
+  23. SCAMA T580
+  24. TOWN BUS
+
+--- All Unique Player Names ---
+
+  1. 01alperen001
+  2. Baran077
+  3. Lavezzi
+  4. PainB
+  5. TPEBOMAH
+  6. Thamboo
+  7. Toom43
+  8. bayanofmansorofisky
+  9. eetz1
+  10. gt4_pl
+  11. p v l 2
+  12. whatalife
