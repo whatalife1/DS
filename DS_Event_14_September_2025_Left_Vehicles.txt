@@ -2,28 +2,6 @@
 
 Player: p v l 2 (p v l 2) has completed all 25 ranked vehicles.
 
-Player: PainB (PainB) is missing the following 20 vehicles:
-  1. EXPEDITION
-  2. HEAVY RESCUE TRUCK
-  3. JAKEBILT
-  4. LINE RUNNER IVII
-  5. MERCEDES BENZ 16
-  6. MERSOLES TORITMO
-  7. METRO BUS 10.5
-  8. MOVETRUCK
-  9. MUN FIRETRUCK
-  10. MUN TG DUMPTRUCK
-  11. NELSIN 380
-  12. ONIBUS VTR
-  13. PIERCING ARROW XT
-  14. RACHA 707
-  15. ROSSA
-  16. SCAMA 311 B TOW
-  17. SCAMA 420R 4X2 TANDEM
-  18. SCAMA DD
-  19. SCAMA T580
-  20. TOWN BUS
-
 Player: gt4_pl (gt4_pl) is missing the following 20 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
@@ -45,6 +23,29 @@ Player: gt4_pl (gt4_pl) is missing the following 20 vehicles:
   18. SCAMA DD
   19. SCAMA T580
   20. TOWN BUS
+
+Player: PainB (PainB) is missing the following 21 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. JAKEBILT
+  4. LCT3000
+  5. LINE RUNNER IVII
+  6. MERCEDES BENZ 16
+  7. MERSOLES TORITMO
+  8. METRO BUS 10.5
+  9. MOVETRUCK
+  10. MUN FIRETRUCK
+  11. MUN TG DUMPTRUCK
+  12. NELSIN 380
+  13. ONIBUS VTR
+  14. PIERCING ARROW XT
+  15. RACHA 707
+  16. ROSSA
+  17. SCAMA 311 B TOW
+  18. SCAMA 420R 4X2 TANDEM
+  19. SCAMA DD
+  20. SCAMA T580
+  21. TOWN BUS
 
 Player: TPEBOMAH (TPEBOMAH) is missing the following 21 vehicles:
   1. HEAVY RESCUE TRUCK
@@ -95,9 +96,7 @@ Player: bayanofmansorofisky (bayanofmansorofisky) is missing the following 24 ve
   23. SCAMA T580
   24. TOWN BUS
 
-Player: whatalife (whatalife) is missing the following 2 vehicles:
-  1. JAKEBILT
-  2. MERSOLES TORITMO
+Player: whatalife (whatalife) has completed all 25 ranked vehicles.
 
 Player: Griffin20069 (Griffin20069) is missing the following 22 vehicles:
   1. HEAVY RESCUE TRUCK
