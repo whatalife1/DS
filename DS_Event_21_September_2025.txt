@@ -1,11 +1,11 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-09-25 07:18:27 UTC
-German Time:   2025-09-25 09:18:27 CEST
-Brazil Time:   2025-09-25 04:18:27 -03
-Saudi Arabia:  2025-09-25 10:18:27 +03
-Turkish Time:  2025-09-25 10:18:27 +03
+UTC Time:      2025-09-26 02:01:29 UTC
+German Time:   2025-09-26 04:01:29 CEST
+Brazil Time:   2025-09-25 23:01:29 -03
+Saudi Arabia:  2025-09-26 05:01:29 +03
+Turkish Time:  2025-09-26 05:01:29 +03
 
 --- Results by Vehicle (Fastest First) ---
 
@@ -25,12 +25,13 @@ Turkish Time:  2025-09-25 10:18:27 +03
   1.  TPEBOMAH                        00:44.81
   2.  Toom43                          00:46.43
   3.  bayanofmansorofisky             00:48.73
-  4.  Griffin20069                    00:52.69
-  5.  p v l 2                         00:53.06
-  6.  Thamboo                         00:58.22
-  7.  berni25                         01:11.24
-  8.  Ross2750                        01:15.09
-  9.  whatalife                       02:01.09
+  4.  QuattroValve (melihrg)          00:52.58
+  5.  Griffin20069                    00:52.69
+  6.  p v l 2                         00:53.06
+  7.  Thamboo                         00:58.22
+  8.  berni25                         01:11.24
+  9.  Ross2750                        01:15.09
+  10. whatalife                       02:01.09
 
 3. RS1 KENJI
   1.  lordferius                      00:45.51
@@ -113,14 +114,15 @@ Turkish Time:  2025-09-25 10:18:27 +03
 
 12. IMPREZZIVE B2
   1.  zGood82                         00:52.34
-  2.  Griffin20069                    00:56.07
-  3.  Ross2750                        00:56.68
-  4.  Thamboo                         00:58.39
-  5.  Toom43                          01:00.51
-  6.  p v l 2                         01:03.08
-  7.  berni25                         01:04.80
-  8.  _radovanovic                    01:15.37
-  9.  whatalife                       01:21.00
+  2.  QuattroValve (melihrg)          00:53.89
+  3.  Griffin20069                    00:56.07
+  4.  Ross2750                        00:56.68
+  5.  Thamboo                         00:58.39
+  6.  Toom43                          01:00.51
+  7.  p v l 2                         01:03.08
+  8.  berni25                         01:04.80
+  9.  _radovanovic                    01:15.37
+  10. whatalife                       01:21.00
 
 13. XF GTR
   1.  Toom43                          00:52.72
@@ -163,10 +165,11 @@ Turkish Time:  2025-09-25 10:18:27 +03
   3.  gt4_pl                          00:58.19
   4.  Thamboo                         01:03.18
   5.  p v l 2                         01:06.68
-  6.  berni25                         01:19.98
-  7.  Ross2750                        01:23.47
-  8.  whatalife                       01:25.11
-  9.  Mr beast                        01:59.86
+  6.  |[FIN]Soppa (pro player128)     01:07.75
+  7.  berni25                         01:19.98
+  8.  Ross2750                        01:23.47
+  9.  whatalife                       01:25.11
+  10. Mr beast                        01:59.86
 
 18. ADDA 5200
   1.  bayanofmansorofisky             00:54.83
@@ -756,9 +759,10 @@ Turkish Time:  2025-09-25 10:18:27 +03
   5.  berni25                         01:24.73
   6.  p v l 2                         01:25.71
   7.  Thamboo                         01:28.31
-  8.  Ross2750                        01:40.69
-  9.  Mr beast                        01:47.01
-  10. whatalife                       02:35.37
+  8.  [FIN]Soppa (pro player128)      01:33.05
+  9.  Ross2750                        01:40.69
+  10. Mr beast                        01:47.01
+  11. whatalife                       02:35.37
 
 87. LORY GPS
   1.  p v l 2                         01:05.09
@@ -964,9 +968,10 @@ Turkish Time:  2025-09-25 10:18:27 +03
   1.  bayanofmansorofisky             01:13.68
   2.  Griffin20069                    01:23.71
   3.  p v l 2                         01:31.59
-  4.  berni25                         01:58.46
-  5.  Ross2750                        02:36.95
-  6.  whatalife                       03:29.39
+  4.  [FIN]Soppa (pro player128)      01:45.35
+  5.  berni25                         01:58.46
+  6.  Ross2750                        02:36.95
+  7.  whatalife                       03:29.39
 
 113. T34 SPORT
   1.  p v l 2                         01:13.72
@@ -1194,49 +1199,49 @@ Turkish Time:  2025-09-25 10:18:27 +03
   15.  HBIKE V2              01:28.09 (Pos: 1) 
   16.  RZM 250               01:35.07 (Pos: 1) 
   17.  GW-DECA               00:50.56 (Pos: 2) 
-  18.  IMPREZZIVE B2         00:56.07 (Pos: 2) 
-  19.  FRAUD WHEELER E2      00:56.99 (Pos: 2) 
-  20.  ADDA AR-EIGHT V10     00:57.76 (Pos: 2) 
-  21.  XM-5 CUP              01:02.57 (Pos: 2) 
-  22.  JIIRO                 01:02.64 (Pos: 2) 
-  23.  FORMULA XR            01:03.36 (Pos: 2) 
-  24.  GT-V34                01:03.47 (Pos: 2) 
-  25.  EM30                  01:04.37 (Pos: 2) 
-  26.  GG55 AMD              01:05.03 (Pos: 2) 
-  27.  UF PICKUP TRUCK       01:05.45 (Pos: 2) 
-  28.  XR1 PROCAR            01:05.83 (Pos: 2) 
-  29.  FXO TURBO             01:06.18 (Pos: 2) 
-  30.  UF GTR                01:06.85 (Pos: 2) 
-  31.  KORAMA R              01:07.32 (Pos: 2) 
-  32.  GOD FOOT              01:07.61 (Pos: 2) 
-  33.  N.400S                01:08.08 (Pos: 2) 
-  34.  LX6                   01:08.19 (Pos: 2) 
-  35.  KEEROCK               01:08.67 (Pos: 2) 
-  36.  IBUSHA SAGA 2.6       01:09.35 (Pos: 2) 
-  37.  XR GT TURBO           01:10.79 (Pos: 2) 
-  38.  GRAND PRIX LEGEND 65  01:12.23 (Pos: 2) 
-  39.  FRAUD BIG BOY         01:13.00 (Pos: 2) 
-  40.  BACALHAU              01:13.02 (Pos: 2) 
-  41.  ROSSA                 01:13.03 (Pos: 2) 
-  42.  SHARK C               01:14.17 (Pos: 2) 
-  43.  HADIMRSKA HOTRODD     01:15.65 (Pos: 2) 
-  44.  LORY GPS              01:16.31 (Pos: 2) 
-  45.  ELIINOR               01:16.48 (Pos: 2) 
-  46.  FORMULA 60            01:16.92 (Pos: 2) 
-  47.  MOTO GUZZI            01:18.34 (Pos: 2) 
-  48.  BMW SAUBER F1.06      01:18.52 (Pos: 2) 
-  49.  LX4                   01:18.54 (Pos: 2) 
-  50.  POCKET UF             01:19.86 (Pos: 2) 
-  51.  YKS-100               01:23.68 (Pos: 2) 
-  52.  REAPER X1             01:23.71 (Pos: 2) 
-  53.  THR OP4500            01:23.83 (Pos: 2) 
-  54.  PUSCH 674B            01:26.97 (Pos: 2) 
-  55.  LINE RUNNER IVII      01:29.01 (Pos: 2) 
-  56.  SUZUKI 400 CLASSIC    01:36.53 (Pos: 2) 
-  57.  LCT3000               01:37.09 (Pos: 2) 
-  58.  RTS 6-71              01:42.14 (Pos: 2) 
-  59.  YAMAHA YZF-R3         01:47.17 (Pos: 2) 
-  60.  YAHAMA MIT09          01:50.27 (Pos: 2) 
+  18.  FRAUD WHEELER E2      00:56.99 (Pos: 2) 
+  19.  ADDA AR-EIGHT V10     00:57.76 (Pos: 2) 
+  20.  XM-5 CUP              01:02.57 (Pos: 2) 
+  21.  JIIRO                 01:02.64 (Pos: 2) 
+  22.  FORMULA XR            01:03.36 (Pos: 2) 
+  23.  GT-V34                01:03.47 (Pos: 2) 
+  24.  EM30                  01:04.37 (Pos: 2) 
+  25.  GG55 AMD              01:05.03 (Pos: 2) 
+  26.  UF PICKUP TRUCK       01:05.45 (Pos: 2) 
+  27.  XR1 PROCAR            01:05.83 (Pos: 2) 
+  28.  FXO TURBO             01:06.18 (Pos: 2) 
+  29.  UF GTR                01:06.85 (Pos: 2) 
+  30.  KORAMA R              01:07.32 (Pos: 2) 
+  31.  GOD FOOT              01:07.61 (Pos: 2) 
+  32.  N.400S                01:08.08 (Pos: 2) 
+  33.  LX6                   01:08.19 (Pos: 2) 
+  34.  KEEROCK               01:08.67 (Pos: 2) 
+  35.  IBUSHA SAGA 2.6       01:09.35 (Pos: 2) 
+  36.  XR GT TURBO           01:10.79 (Pos: 2) 
+  37.  GRAND PRIX LEGEND 65  01:12.23 (Pos: 2) 
+  38.  FRAUD BIG BOY         01:13.00 (Pos: 2) 
+  39.  BACALHAU              01:13.02 (Pos: 2) 
+  40.  ROSSA                 01:13.03 (Pos: 2) 
+  41.  SHARK C               01:14.17 (Pos: 2) 
+  42.  HADIMRSKA HOTRODD     01:15.65 (Pos: 2) 
+  43.  LORY GPS              01:16.31 (Pos: 2) 
+  44.  ELIINOR               01:16.48 (Pos: 2) 
+  45.  FORMULA 60            01:16.92 (Pos: 2) 
+  46.  MOTO GUZZI            01:18.34 (Pos: 2) 
+  47.  BMW SAUBER F1.06      01:18.52 (Pos: 2) 
+  48.  LX4                   01:18.54 (Pos: 2) 
+  49.  POCKET UF             01:19.86 (Pos: 2) 
+  50.  YKS-100               01:23.68 (Pos: 2) 
+  51.  REAPER X1             01:23.71 (Pos: 2) 
+  52.  THR OP4500            01:23.83 (Pos: 2) 
+  53.  PUSCH 674B            01:26.97 (Pos: 2) 
+  54.  LINE RUNNER IVII      01:29.01 (Pos: 2) 
+  55.  SUZUKI 400 CLASSIC    01:36.53 (Pos: 2) 
+  56.  LCT3000               01:37.09 (Pos: 2) 
+  57.  RTS 6-71              01:42.14 (Pos: 2) 
+  58.  YAMAHA YZF-R3         01:47.17 (Pos: 2) 
+  59.  YAHAMA MIT09          01:50.27 (Pos: 2) 
+  60.  IMPREZZIVE B2         00:56.07 (Pos: 3) 
   61.  ADDA 5200             00:59.71 (Pos: 3) 
   62.  SHARK C GROUP 2       01:03.44 (Pos: 3) 
   63.  XR GT                 01:04.03 (Pos: 3) 
@@ -1270,21 +1275,21 @@ Turkish Time:  2025-09-25 10:18:27 +03
   91.  VULCAN 998            01:39.65 (Pos: 3) 
   92.  BD750                 01:47.40 (Pos: 3) 
   93.  GP125                 01:48.55 (Pos: 3) 
-  94.  RS1 KENJI RX          00:52.69 (Pos: 4) 
-  95.  GWMK24DR              01:13.14 (Pos: 4) 
-  96.  FZ50 GTR              01:13.56 (Pos: 4) 
-  97.  XF GTR                01:15.40 (Pos: 4) 
-  98.  HANZMUND V8           01:15.88 (Pos: 4) 
-  99.  HUMHII                01:16.25 (Pos: 4) 
-  100. EXPEDITION            01:18.17 (Pos: 4) 
-  101. SWIRL SPORT 06        01:22.13 (Pos: 4) 
-  102. EMKO                  01:23.01 (Pos: 4) 
-  103. TAZ 0521              01:25.66 (Pos: 4) 
-  104. TOYATE SUPROZA T      01:37.54 (Pos: 4) 
-  105. THR SR2000            01:38.14 (Pos: 4) 
-  106. GHOUL 250RR           01:50.04 (Pos: 4) 
-  107. YAMAHA CT200          02:08.43 (Pos: 4) 
-  108. HONDA CRF450          02:40.65 (Pos: 4) 
+  94.  GWMK24DR              01:13.14 (Pos: 4) 
+  95.  FZ50 GTR              01:13.56 (Pos: 4) 
+  96.  XF GTR                01:15.40 (Pos: 4) 
+  97.  HANZMUND V8           01:15.88 (Pos: 4) 
+  98.  HUMHII                01:16.25 (Pos: 4) 
+  99.  EXPEDITION            01:18.17 (Pos: 4) 
+  100. SWIRL SPORT 06        01:22.13 (Pos: 4) 
+  101. EMKO                  01:23.01 (Pos: 4) 
+  102. TAZ 0521              01:25.66 (Pos: 4) 
+  103. TOYATE SUPROZA T      01:37.54 (Pos: 4) 
+  104. THR SR2000            01:38.14 (Pos: 4) 
+  105. GHOUL 250RR           01:50.04 (Pos: 4) 
+  106. YAMAHA CT200          02:08.43 (Pos: 4) 
+  107. HONDA CRF450          02:40.65 (Pos: 4) 
+  108. RS1 KENJI RX          00:52.69 (Pos: 5) 
   109. ADDA 8A 4.2 TDI       01:03.95 (Pos: 5) 
   110. VGI-6 TEDAVI          01:10.72 (Pos: 5) 
   111. MERESDES E910         01:15.61 (Pos: 5) 
@@ -1331,30 +1336,30 @@ Turkish Time:  2025-09-25 10:18:27 +03
 
 5. Mr beast (Mr beast)
   1.   ERESO                 01:17.70 (Pos: 6) 
-  2.   UZOVKA                01:47.01 (Pos: 9) 
-  3.   ADDA AR-EIGHT V10     01:59.86 (Pos: 9) 
+  2.   UZOVKA                01:47.01 (Pos: 10)
+  3.   ADDA AR-EIGHT V10     01:59.86 (Pos: 10)
 
 6. Ross2750 (Ross2750)
   1.   SEDAN                 01:05.03 (Pos: 2) 
   2.   T34 SPORT             01:25.69 (Pos: 2) 
   3.   GX-BUGGY STAGE R      01:32.70 (Pos: 2) 
   4.   GX-BUGGY              01:39.96 (Pos: 2) 
-  5.   IMPREZZIVE B2         00:56.68 (Pos: 3) 
-  6.   AHMED 4.0RS           01:05.49 (Pos: 3) 
-  7.   VGI-6 TEDAVI          01:07.46 (Pos: 3) 
-  8.   XM-5 CUP              01:08.16 (Pos: 3) 
-  9.   GWMK24DR              01:08.94 (Pos: 3) 
-  10.  IBUSHA SAGA 2.6       01:13.34 (Pos: 3) 
-  11.  XR1 PROCAR            01:16.53 (Pos: 3) 
-  12.  EMKO                  01:17.44 (Pos: 3) 
-  13.  TOYATE SUPROZA T      01:21.11 (Pos: 3) 
-  14.  LORY GPS              01:23.33 (Pos: 3) 
-  15.  HADIMRSKA HOTRODD     01:23.46 (Pos: 3) 
-  16.  UF 1100T              01:25.60 (Pos: 3) 
-  17.  ELIINOR               01:26.22 (Pos: 3) 
-  18.  THR SR2000            01:37.14 (Pos: 3) 
-  19.  TALOT SUNS LOMIS      01:38.43 (Pos: 3) 
-  20.  HONDA CRF450          02:03.74 (Pos: 3) 
+  5.   AHMED 4.0RS           01:05.49 (Pos: 3) 
+  6.   VGI-6 TEDAVI          01:07.46 (Pos: 3) 
+  7.   XM-5 CUP              01:08.16 (Pos: 3) 
+  8.   GWMK24DR              01:08.94 (Pos: 3) 
+  9.   IBUSHA SAGA 2.6       01:13.34 (Pos: 3) 
+  10.  XR1 PROCAR            01:16.53 (Pos: 3) 
+  11.  EMKO                  01:17.44 (Pos: 3) 
+  12.  TOYATE SUPROZA T      01:21.11 (Pos: 3) 
+  13.  LORY GPS              01:23.33 (Pos: 3) 
+  14.  HADIMRSKA HOTRODD     01:23.46 (Pos: 3) 
+  15.  UF 1100T              01:25.60 (Pos: 3) 
+  16.  ELIINOR               01:26.22 (Pos: 3) 
+  17.  THR SR2000            01:37.14 (Pos: 3) 
+  18.  TALOT SUNS LOMIS      01:38.43 (Pos: 3) 
+  19.  HONDA CRF450          02:03.74 (Pos: 3) 
+  20.  IMPREZZIVE B2         00:56.68 (Pos: 4) 
   21.  ADDA 8A 4.2 TDI       01:01.26 (Pos: 4) 
   22.  BD9115                01:05.34 (Pos: 4) 
   23.  JIIRO                 01:10.03 (Pos: 4) 
@@ -1428,52 +1433,52 @@ Turkish Time:  2025-09-25 10:18:27 +03
   91.  MC SPLINTER           02:10.82 (Pos: 5) 
   92.  MOTO GUZZI            02:15.12 (Pos: 5) 
   93.  YAMAHA CT200          02:21.74 (Pos: 5) 
-  94.  REAPER X1             02:36.95 (Pos: 5) 
-  95.  GRAND PRIX LEGEND 65  02:57.81 (Pos: 5) 
-  96.  YAMAHA YZF-R3         03:20.01 (Pos: 5) 
-  97.  YAHAMA MIT09          03:30.92 (Pos: 5) 
-  98.  SM500                 03:47.77 (Pos: 5) 
-  99.  LACIBRE V6            01:09.72 (Pos: 6) 
-  100. GWMK2                 01:14.08 (Pos: 6) 
-  101. ADDA 5200             01:14.35 (Pos: 6) 
-  102. GW-DECA               01:17.40 (Pos: 6) 
-  103. INTERCEPTOR           01:19.92 (Pos: 6) 
-  104. FXO GTR               01:21.17 (Pos: 6) 
-  105. PZG COMPACT           01:23.13 (Pos: 6) 
-  106. PONTACH GT            01:23.47 (Pos: 6) 
-  107. RB4 GT                01:23.59 (Pos: 6) 
-  108. CX WAGON              01:25.32 (Pos: 6) 
-  109. POSCHER CAYNAM 718    01:26.20 (Pos: 6) 
-  110. FRAUD WHEELER E2      01:26.96 (Pos: 6) 
-  111. GG55 AMD              01:27.43 (Pos: 6) 
-  112. VALUTA V8             01:30.69 (Pos: 6) 
-  113. WATBRUG 353           01:32.32 (Pos: 6) 
-  114. XR GT TURBO           01:32.53 (Pos: 6) 
-  115. FXO TURBO             01:32.91 (Pos: 6) 
-  116. UF PICKUP TRUCK       01:36.52 (Pos: 6) 
-  117. UF GTR                01:36.59 (Pos: 6) 
-  118. FRAUD PRE RUNNER      01:37.99 (Pos: 6) 
-  119. RACEABOUT             01:38.10 (Pos: 6) 
-  120. HJETT                 01:41.51 (Pos: 6) 
-  121. LX6                   01:47.59 (Pos: 6) 
-  122. TAZ 0521              02:08.71 (Pos: 6) 
+  94.  GRAND PRIX LEGEND 65  02:57.81 (Pos: 5) 
+  95.  YAMAHA YZF-R3         03:20.01 (Pos: 5) 
+  96.  YAHAMA MIT09          03:30.92 (Pos: 5) 
+  97.  SM500                 03:47.77 (Pos: 5) 
+  98.  LACIBRE V6            01:09.72 (Pos: 6) 
+  99.  GWMK2                 01:14.08 (Pos: 6) 
+  100. ADDA 5200             01:14.35 (Pos: 6) 
+  101. GW-DECA               01:17.40 (Pos: 6) 
+  102. INTERCEPTOR           01:19.92 (Pos: 6) 
+  103. FXO GTR               01:21.17 (Pos: 6) 
+  104. PZG COMPACT           01:23.13 (Pos: 6) 
+  105. PONTACH GT            01:23.47 (Pos: 6) 
+  106. RB4 GT                01:23.59 (Pos: 6) 
+  107. CX WAGON              01:25.32 (Pos: 6) 
+  108. POSCHER CAYNAM 718    01:26.20 (Pos: 6) 
+  109. FRAUD WHEELER E2      01:26.96 (Pos: 6) 
+  110. GG55 AMD              01:27.43 (Pos: 6) 
+  111. VALUTA V8             01:30.69 (Pos: 6) 
+  112. WATBRUG 353           01:32.32 (Pos: 6) 
+  113. XR GT TURBO           01:32.53 (Pos: 6) 
+  114. FXO TURBO             01:32.91 (Pos: 6) 
+  115. UF PICKUP TRUCK       01:36.52 (Pos: 6) 
+  116. UF GTR                01:36.59 (Pos: 6) 
+  117. FRAUD PRE RUNNER      01:37.99 (Pos: 6) 
+  118. RACEABOUT             01:38.10 (Pos: 6) 
+  119. HJETT                 01:41.51 (Pos: 6) 
+  120. LX6                   01:47.59 (Pos: 6) 
+  121. TAZ 0521              02:08.71 (Pos: 6) 
+  122. REAPER X1             02:36.95 (Pos: 6) 
   123. LINE RUNNER IVII      02:44.99 (Pos: 6) 
   124. MALANDRO-STOCKPRO     02:51.51 (Pos: 6) 
   125. MERESDES E910         01:19.12 (Pos: 7) 
   126. RS1 KENJI             01:20.10 (Pos: 7) 
   127. SKODA 110 L RALLYE    01:20.47 (Pos: 7) 
-  128. ADDA AR-EIGHT V10     01:23.47 (Pos: 7) 
-  129. SKODA FELICIA         01:26.97 (Pos: 7) 
-  130. LAND ROAMER           01:27.02 (Pos: 7) 
-  131. POCKET UF             01:44.58 (Pos: 7) 
-  132. XR GT                 01:45.83 (Pos: 7) 
-  133. ROSSA                 01:49.83 (Pos: 7) 
-  134. BZ30 ROADSTER SPORT   01:54.66 (Pos: 7) 
-  135. DELBOX                01:54.83 (Pos: 7) 
-  136. CHALLENGE ST          01:57.07 (Pos: 7) 
-  137. RS1 KENJI RX          01:15.09 (Pos: 8) 
-  138. PORCHETE TIGER GTS    01:27.46 (Pos: 8) 
-  139. UZOVKA                01:40.69 (Pos: 8) 
+  128. SKODA FELICIA         01:26.97 (Pos: 7) 
+  129. LAND ROAMER           01:27.02 (Pos: 7) 
+  130. POCKET UF             01:44.58 (Pos: 7) 
+  131. XR GT                 01:45.83 (Pos: 7) 
+  132. ROSSA                 01:49.83 (Pos: 7) 
+  133. BZ30 ROADSTER SPORT   01:54.66 (Pos: 7) 
+  134. DELBOX                01:54.83 (Pos: 7) 
+  135. CHALLENGE ST          01:57.07 (Pos: 7) 
+  136. ADDA AR-EIGHT V10     01:23.47 (Pos: 8) 
+  137. PORCHETE TIGER GTS    01:27.46 (Pos: 8) 
+  138. RS1 KENJI RX          01:15.09 (Pos: 9) 
+  139. UZOVKA                01:40.69 (Pos: 9) 
   140. ADDA S83 1.8T         01:23.37 (Pos: 10)
 
 7. TPEBOMAH (TPEBOMAH)
@@ -1531,13 +1536,13 @@ Turkish Time:  2025-09-25 10:18:27 +03
   39.  GT-V34                01:13.25 (Pos: 3) 
   40.  WATBRUG 353           01:17.05 (Pos: 3) 
   41.  ADDA S83 1.8T         00:57.69 (Pos: 4) 
-  42.  IMPREZZIVE B2         00:58.39 (Pos: 4) 
-  43.  ADDA AR-EIGHT V10     01:03.18 (Pos: 4) 
-  44.  PORCHETE TIGER GTS    01:07.29 (Pos: 4) 
-  45.  SPOTTEDKITTEN COUPE   01:08.38 (Pos: 4) 
-  46.  ROSSA                 01:22.41 (Pos: 4) 
-  47.  RS1 KENJI RX          00:58.22 (Pos: 6) 
-  48.  JIIRO                 01:15.23 (Pos: 6) 
+  42.  ADDA AR-EIGHT V10     01:03.18 (Pos: 4) 
+  43.  PORCHETE TIGER GTS    01:07.29 (Pos: 4) 
+  44.  SPOTTEDKITTEN COUPE   01:08.38 (Pos: 4) 
+  45.  ROSSA                 01:22.41 (Pos: 4) 
+  46.  IMPREZZIVE B2         00:58.39 (Pos: 5) 
+  47.  JIIRO                 01:15.23 (Pos: 6) 
+  48.  RS1 KENJI RX          00:58.22 (Pos: 7) 
   49.  DIAMOND               01:26.78 (Pos: 7) 
   50.  UZOVKA                01:28.31 (Pos: 7) 
 
@@ -1587,8 +1592,8 @@ Turkish Time:  2025-09-25 10:18:27 +03
   43.  MERESDES E910         01:12.23 (Pos: 4) 
   44.  UZOVKA                01:22.99 (Pos: 4) 
   45.  WATBRUG 353           01:27.33 (Pos: 4) 
-  46.  IMPREZZIVE B2         01:00.51 (Pos: 5) 
-  47.  INTERCEPTOR           01:10.22 (Pos: 5) 
+  46.  INTERCEPTOR           01:10.22 (Pos: 5) 
+  47.  IMPREZZIVE B2         01:00.51 (Pos: 6) 
   48.  DIAMOND               01:20.72 (Pos: 6) 
   49.  GORKIY 10             02:33.89 (Pos: 7) 
   50.  EMKO                  01:53.94 (Pos: 8) 
@@ -1605,7 +1610,7 @@ Turkish Time:  2025-09-25 10:18:27 +03
   4.   MALANDRO-STOCKPRO     01:11.73 (Pos: 4) 
   5.   SKODA FELICIA         01:16.20 (Pos: 4) 
   6.   BUMER 7               01:18.31 (Pos: 6) 
-  7.   IMPREZZIVE B2         01:15.37 (Pos: 8) 
+  7.   IMPREZZIVE B2         01:15.37 (Pos: 9) 
 
 12. agustin fuks (agustin fuks)
   1.   FRAUD WHEELER E2      00:59.12 (Pos: 3) 
@@ -1741,48 +1746,48 @@ Turkish Time:  2025-09-25 10:18:27 +03
   92.  MOTO GUZZI            01:33.75 (Pos: 4) 
   93.  BMW SAUBER F1.06      01:37.96 (Pos: 4) 
   94.  LINE RUNNER IVII      01:43.72 (Pos: 4) 
-  95.  REAPER X1             01:58.46 (Pos: 4) 
-  96.  RS1 KENJI             01:07.64 (Pos: 5) 
-  97.  FRAUD WHEELER E2      01:08.46 (Pos: 5) 
-  98.  LACIBRE V6            01:09.59 (Pos: 5) 
-  99.  BD9115                01:09.72 (Pos: 5) 
-  100. SEDAN                 01:11.57 (Pos: 5) 
-  101. JIIRO                 01:12.38 (Pos: 5) 
-  102. GWMK2                 01:13.10 (Pos: 5) 
-  103. GWMK24DR              01:13.52 (Pos: 5) 
-  104. GW-DECA               01:14.20 (Pos: 5) 
-  105. IBUSHA SAGA 2.6       01:15.61 (Pos: 5) 
-  106. GT-V34                01:16.07 (Pos: 5) 
-  107. BUG WAGON             01:22.65 (Pos: 5) 
-  108. EMKO                  01:23.02 (Pos: 5) 
-  109. UZOVKA                01:24.73 (Pos: 5) 
-  110. MRT5                  01:25.16 (Pos: 5) 
-  111. UF PICKUP TRUCK       01:26.48 (Pos: 5) 
-  112. HJETT                 01:26.49 (Pos: 5) 
-  113. FORMULA BMW FB02      01:27.48 (Pos: 5) 
-  114. DELBOX                01:31.81 (Pos: 5) 
-  115. XR GT                 01:33.70 (Pos: 5) 
-  116. GX-BUGGY STAGE R      01:52.55 (Pos: 5) 
-  117. XF GTI                01:54.30 (Pos: 5) 
+  95.  RS1 KENJI             01:07.64 (Pos: 5) 
+  96.  FRAUD WHEELER E2      01:08.46 (Pos: 5) 
+  97.  LACIBRE V6            01:09.59 (Pos: 5) 
+  98.  BD9115                01:09.72 (Pos: 5) 
+  99.  SEDAN                 01:11.57 (Pos: 5) 
+  100. JIIRO                 01:12.38 (Pos: 5) 
+  101. GWMK2                 01:13.10 (Pos: 5) 
+  102. GWMK24DR              01:13.52 (Pos: 5) 
+  103. GW-DECA               01:14.20 (Pos: 5) 
+  104. IBUSHA SAGA 2.6       01:15.61 (Pos: 5) 
+  105. GT-V34                01:16.07 (Pos: 5) 
+  106. BUG WAGON             01:22.65 (Pos: 5) 
+  107. EMKO                  01:23.02 (Pos: 5) 
+  108. UZOVKA                01:24.73 (Pos: 5) 
+  109. MRT5                  01:25.16 (Pos: 5) 
+  110. UF PICKUP TRUCK       01:26.48 (Pos: 5) 
+  111. HJETT                 01:26.49 (Pos: 5) 
+  112. FORMULA BMW FB02      01:27.48 (Pos: 5) 
+  113. DELBOX                01:31.81 (Pos: 5) 
+  114. XR GT                 01:33.70 (Pos: 5) 
+  115. GX-BUGGY STAGE R      01:52.55 (Pos: 5) 
+  116. XF GTI                01:54.30 (Pos: 5) 
+  117. REAPER X1             01:58.46 (Pos: 5) 
   118. HBIKE V2              04:11.55 (Pos: 5) 
   119. ADDA 8A 4.2 TDI       01:05.51 (Pos: 6) 
   120. PORCHETE TIGER GTS    01:14.12 (Pos: 6) 
   121. XF GTR                01:19.93 (Pos: 6) 
-  122. ADDA AR-EIGHT V10     01:19.98 (Pos: 6) 
-  123. LAND ROAMER           01:20.30 (Pos: 6) 
-  124. SKODA FELICIA         01:21.98 (Pos: 6) 
-  125. TOMMY28               01:34.01 (Pos: 6) 
-  126. ROSSA                 01:45.57 (Pos: 6) 
-  127. GX-BUGGY STAGE 2      03:14.02 (Pos: 6) 
-  128. IMPREZZIVE B2         01:04.80 (Pos: 7) 
-  129. RS1 KENJI RX          01:11.24 (Pos: 7) 
-  130. ADDA 5200             01:17.88 (Pos: 7) 
-  131. LEMON FANTOMAS        01:27.59 (Pos: 7) 
-  132. HANZMUND V8           01:43.75 (Pos: 7) 
-  133. SPOTTEDKITTEN COUPE   01:48.79 (Pos: 7) 
-  134. UF 1000               01:56.89 (Pos: 7) 
-  135. EXPEDITION            01:58.41 (Pos: 7) 
-  136. ADDA S83 1.8T         01:07.99 (Pos: 8) 
+  122. LAND ROAMER           01:20.30 (Pos: 6) 
+  123. SKODA FELICIA         01:21.98 (Pos: 6) 
+  124. TOMMY28               01:34.01 (Pos: 6) 
+  125. ROSSA                 01:45.57 (Pos: 6) 
+  126. GX-BUGGY STAGE 2      03:14.02 (Pos: 6) 
+  127. ADDA 5200             01:17.88 (Pos: 7) 
+  128. ADDA AR-EIGHT V10     01:19.98 (Pos: 7) 
+  129. LEMON FANTOMAS        01:27.59 (Pos: 7) 
+  130. HANZMUND V8           01:43.75 (Pos: 7) 
+  131. SPOTTEDKITTEN COUPE   01:48.79 (Pos: 7) 
+  132. UF 1000               01:56.89 (Pos: 7) 
+  133. EXPEDITION            01:58.41 (Pos: 7) 
+  134. IMPREZZIVE B2         01:04.80 (Pos: 8) 
+  135. ADDA S83 1.8T         01:07.99 (Pos: 8) 
+  136. RS1 KENJI RX          01:11.24 (Pos: 8) 
   137. MERESDES E910         01:22.95 (Pos: 8) 
   138. DIAMOND               01:35.07 (Pos: 8) 
   139. WATBRUG 353           01:47.22 (Pos: 8) 
@@ -1807,7 +1812,11 @@ Turkish Time:  2025-09-25 10:18:27 +03
   5.   UZOVKA                01:10.08 (Pos: 2) 
   6.   WESSEX R69SP          01:07.99 (Pos: 3) 
 
-18. p v l 2 (p v l 2)
+18. melihrg (melihrg)
+  1.   IMPREZZIVE B2         00:53.89 (Pos: 2) 
+  2.   RS1 KENJI RX          00:52.58 (Pos: 4) 
+
+19. p v l 2 (p v l 2)
   1.   TOYATE SUPROZA T      00:56.08 (Pos: 1) 
   2.   FRAUD 040             00:56.56 (Pos: 1) 
   3.   GOD FOOT              00:58.27 (Pos: 1) 
@@ -1931,28 +1940,33 @@ Turkish Time:  2025-09-25 10:18:27 +03
   121. DELBOX                01:20.86 (Pos: 4) 
   122. HJETT                 01:22.20 (Pos: 4) 
   123. TOMMY28               01:22.28 (Pos: 4) 
-  124. RS1 KENJI RX          00:53.06 (Pos: 5) 
-  125. ADDA S83 1.8T         01:00.15 (Pos: 5) 
-  126. ADDA 5200             01:04.94 (Pos: 5) 
-  127. ADDA AR-EIGHT V10     01:06.68 (Pos: 5) 
-  128. LEMON FANTOMAS        01:14.48 (Pos: 5) 
-  129. CX WAGON              01:17.99 (Pos: 5) 
-  130. TAZ 0521              01:34.57 (Pos: 5) 
-  131. IMPREZZIVE B2         01:03.08 (Pos: 6) 
-  132. GWMK24DR              01:14.13 (Pos: 6) 
-  133. SEDAN                 01:17.15 (Pos: 6) 
-  134. MERESDES E910         01:17.37 (Pos: 6) 
-  135. SKODA 110 L RALLYE    01:18.54 (Pos: 6) 
-  136. EMKO                  01:23.44 (Pos: 6) 
-  137. UZOVKA                01:25.71 (Pos: 6) 
-  138. HANZMUND V8           01:31.41 (Pos: 6) 
+  124. ADDA S83 1.8T         01:00.15 (Pos: 5) 
+  125. ADDA 5200             01:04.94 (Pos: 5) 
+  126. ADDA AR-EIGHT V10     01:06.68 (Pos: 5) 
+  127. LEMON FANTOMAS        01:14.48 (Pos: 5) 
+  128. CX WAGON              01:17.99 (Pos: 5) 
+  129. TAZ 0521              01:34.57 (Pos: 5) 
+  130. RS1 KENJI RX          00:53.06 (Pos: 6) 
+  131. GWMK24DR              01:14.13 (Pos: 6) 
+  132. SEDAN                 01:17.15 (Pos: 6) 
+  133. MERESDES E910         01:17.37 (Pos: 6) 
+  134. SKODA 110 L RALLYE    01:18.54 (Pos: 6) 
+  135. EMKO                  01:23.44 (Pos: 6) 
+  136. UZOVKA                01:25.71 (Pos: 6) 
+  137. HANZMUND V8           01:31.41 (Pos: 6) 
+  138. IMPREZZIVE B2         01:03.08 (Pos: 7) 
   139. WATBRUG 353           01:34.39 (Pos: 7) 
   140. SKODA FELICIA         01:32.15 (Pos: 8) 
 
-19. petranas (petranas)
+20. petranas (petranas)
   1.   FZ50                  02:01.37 (Pos: 7) 
 
-20. whatalife (whatalife)
+21. pro player128 (pro player128)
+  1.   REAPER X1             01:45.35 (Pos: 4) 
+  2.   ADDA AR-EIGHT V10     01:07.75 (Pos: 6) 
+  3.   UZOVKA                01:33.05 (Pos: 8) 
+
+22. whatalife (whatalife)
   1.   T46 SPORT R           01:30.06 (Pos: 3) 
   2.   GX-BUGGY STAGE 2      01:46.50 (Pos: 3) 
   3.   K300X                 01:47.10 (Pos: 3) 
@@ -2049,52 +2063,52 @@ Turkish Time:  2025-09-25 10:18:27 +03
   94.  MOTO GUZZI            02:15.65 (Pos: 6) 
   95.  BMW SAUBER F1.06      02:36.88 (Pos: 6) 
   96.  FORMULA V8            02:55.98 (Pos: 6) 
-  97.  REAPER X1             03:29.39 (Pos: 6) 
-  98.  RZM 250               03:37.37 (Pos: 6) 
-  99.  XF GTR                01:22.11 (Pos: 7) 
-  100. PONTACH GT            01:25.28 (Pos: 7) 
-  101. PORCHETE TIGER GTS    01:25.89 (Pos: 7) 
-  102. GW-DECA               01:27.04 (Pos: 7) 
-  103. ADDA 8A 4.2 TDI       01:32.17 (Pos: 7) 
-  104. LACIBRE V6            01:34.95 (Pos: 7) 
-  105. BD9115                01:36.42 (Pos: 7) 
-  106. CX WAGON              01:37.05 (Pos: 7) 
-  107. POSCHER CAYNAM 718    01:37.39 (Pos: 7) 
-  108. RB4 GT                01:39.29 (Pos: 7) 
-  109. JIIRO                 01:39.86 (Pos: 7) 
-  110. GWMK24DR              01:40.65 (Pos: 7) 
-  111. VALUTA V8             01:41.61 (Pos: 7) 
-  112. BUMER 7               01:41.96 (Pos: 7) 
-  113. PZG COMPACT           01:42.90 (Pos: 7) 
-  114. GWMK2                 01:43.14 (Pos: 7) 
-  115. EMKO                  01:43.99 (Pos: 7) 
-  116. TOMMY28               01:47.78 (Pos: 7) 
-  117. FRAUD PRE RUNNER      01:54.35 (Pos: 7) 
-  118. FXO GTR               01:54.95 (Pos: 7) 
-  119. FRAUD WHEELER E2      02:01.06 (Pos: 7) 
-  120. HJETT                 02:01.43 (Pos: 7) 
-  121. SEDAN                 02:08.27 (Pos: 7) 
-  122. TAZ 0521              02:11.63 (Pos: 7) 
-  123. GG55 AMD              02:17.88 (Pos: 7) 
-  124. INTERCEPTOR           02:44.75 (Pos: 7) 
-  125. ADDA AR-EIGHT V10     01:25.11 (Pos: 8) 
-  126. RS1 KENJI             01:31.99 (Pos: 8) 
-  127. ERESO                 01:39.62 (Pos: 8) 
-  128. LEMON FANTOMAS        01:41.66 (Pos: 8) 
-  129. HANZMUND V8           01:45.52 (Pos: 8) 
-  130. SKODA 110 L RALLYE    01:49.04 (Pos: 8) 
-  131. LAND ROAMER           01:55.60 (Pos: 8) 
-  132. ADDA S83 1.8T         01:18.85 (Pos: 9) 
-  133. IMPREZZIVE B2         01:21.00 (Pos: 9) 
-  134. ADDA 5200             01:34.89 (Pos: 9) 
-  135. SKODA FELICIA         01:42.27 (Pos: 9) 
-  136. MERESDES E910         01:47.43 (Pos: 9) 
-  137. DIAMOND               01:47.96 (Pos: 9) 
-  138. RS1 KENJI RX          02:01.09 (Pos: 9) 
-  139. WATBRUG 353           02:02.32 (Pos: 9) 
-  140. UZOVKA                02:35.37 (Pos: 10)
+  97.  RZM 250               03:37.37 (Pos: 6) 
+  98.  XF GTR                01:22.11 (Pos: 7) 
+  99.  PONTACH GT            01:25.28 (Pos: 7) 
+  100. PORCHETE TIGER GTS    01:25.89 (Pos: 7) 
+  101. GW-DECA               01:27.04 (Pos: 7) 
+  102. ADDA 8A 4.2 TDI       01:32.17 (Pos: 7) 
+  103. LACIBRE V6            01:34.95 (Pos: 7) 
+  104. BD9115                01:36.42 (Pos: 7) 
+  105. CX WAGON              01:37.05 (Pos: 7) 
+  106. POSCHER CAYNAM 718    01:37.39 (Pos: 7) 
+  107. RB4 GT                01:39.29 (Pos: 7) 
+  108. JIIRO                 01:39.86 (Pos: 7) 
+  109. GWMK24DR              01:40.65 (Pos: 7) 
+  110. VALUTA V8             01:41.61 (Pos: 7) 
+  111. BUMER 7               01:41.96 (Pos: 7) 
+  112. PZG COMPACT           01:42.90 (Pos: 7) 
+  113. GWMK2                 01:43.14 (Pos: 7) 
+  114. EMKO                  01:43.99 (Pos: 7) 
+  115. TOMMY28               01:47.78 (Pos: 7) 
+  116. FRAUD PRE RUNNER      01:54.35 (Pos: 7) 
+  117. FXO GTR               01:54.95 (Pos: 7) 
+  118. FRAUD WHEELER E2      02:01.06 (Pos: 7) 
+  119. HJETT                 02:01.43 (Pos: 7) 
+  120. SEDAN                 02:08.27 (Pos: 7) 
+  121. TAZ 0521              02:11.63 (Pos: 7) 
+  122. GG55 AMD              02:17.88 (Pos: 7) 
+  123. INTERCEPTOR           02:44.75 (Pos: 7) 
+  124. REAPER X1             03:29.39 (Pos: 7) 
+  125. RS1 KENJI             01:31.99 (Pos: 8) 
+  126. ERESO                 01:39.62 (Pos: 8) 
+  127. LEMON FANTOMAS        01:41.66 (Pos: 8) 
+  128. HANZMUND V8           01:45.52 (Pos: 8) 
+  129. SKODA 110 L RALLYE    01:49.04 (Pos: 8) 
+  130. LAND ROAMER           01:55.60 (Pos: 8) 
+  131. ADDA S83 1.8T         01:18.85 (Pos: 9) 
+  132. ADDA AR-EIGHT V10     01:25.11 (Pos: 9) 
+  133. ADDA 5200             01:34.89 (Pos: 9) 
+  134. SKODA FELICIA         01:42.27 (Pos: 9) 
+  135. MERESDES E910         01:47.43 (Pos: 9) 
+  136. DIAMOND               01:47.96 (Pos: 9) 
+  137. WATBRUG 353           02:02.32 (Pos: 9) 
+  138. IMPREZZIVE B2         01:21.00 (Pos: 10)
+  139. RS1 KENJI RX          02:01.09 (Pos: 10)
+  140. UZOVKA                02:35.37 (Pos: 11)
 
-21. zGood82 (zGood82)
+23. zGood82 (zGood82)
   1.   IMPREZZIVE B2         00:52.34 (Pos: 1) 
   2.   INTERCEPTOR           01:01.73 (Pos: 1) 
   3.   SKODA 110 L RALLYE    01:18.18 (Pos: 5) 
@@ -2118,22 +2132,24 @@ Turkish Time:  2025-09-25 10:18:27 +03
 | 5  | Thamboo             | Thamboo             |        50|    5,000|     1    |     2    |     2    |     4    |     4    |     -    |     -    |     1    |     -    |   -   |    3   |    -    |     -    |     -    |    -    |     3    |     2    |     1    |    2   |    7    |    -    |   -  |   1  |   3   |      2     |     -    |     -    |     -    |     -    |     -    |
 | 6  | TPEBOMAH            | TPEBOMAH            |        11|    1,100|     -    |     -    |     1    |     -    |     1    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 7  | lordferius          | lordferius          |         6|      600|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    1   |    -    |     -    |     -    |    -    |     -    |     1    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 8  | berni25             | berni25             |       140|   24,000|     4    |     7    |     6    |     6    |     8    |     4    |     2    |     4    |     3    |   2   |    5   |    4    |     4    |     5    |    2    |     4    |     4    |     4    |    5   |    8    |    4    |   3  |   5  |   4   |      7     |     3    |     5    |     3    |     4    |     2    |
+| 8  | berni25             | berni25             |       140|   24,000|     4    |     7    |     6    |     7    |     8    |     4    |     2    |     4    |     3    |   2   |    5   |    4    |     4    |     5    |    2    |     4    |     4    |     4    |    5   |    8    |    4    |   3  |   5  |   4   |      7     |     3    |     5    |     3    |     4    |     2    |
 | 9  | gt4_pl              | gt4_pl              |         5|      500|     -    |     -    |     -    |     3    |     3    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 10 | zGood82             | zGood82             |         5|      500|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    5    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 11 | Ross2750            | Ross2750            |       140|   24,000|     5    |     6    |     4    |     7    |    10    |     3    |     4    |     5    |     4    |   5   |    4   |    5    |     5    |     4    |    4    |     7    |     7    |     6    |    7   |    5    |    3    |   4  |   3  |   5   |      5     |     4    |     4    |     4    |     5    |     4    |
+| 11 | Ross2750            | Ross2750            |       140|   24,000|     5    |     6    |     4    |     8    |    10    |     3    |     4    |     5    |     4    |   5   |    4   |    5    |     5    |     4    |    4    |     7    |     7    |     6    |    7   |    5    |    3    |   4  |   3  |   5   |      5     |     4    |     4    |     4    |     5    |     4    |
 | 12 | _radovanovic        | _radovanovic        |         7|      700|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    6    |     -    |     -    |     -    |    -   |    2    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 | 13 | WildGamerz          | WildGamerz          |         3|      300|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 14 | whatalife           | whatalife           |       140|   24,000|     6    |     9    |     7    |     8    |     9    |     5    |     6    |     6    |     5    |   4   |    7   |    6    |     6    |     6    |    7    |     5    |     6    |     7    |    6   |    9    |    6    |   5  |   7  |   8   |      6     |     5    |     6    |     6    |     6    |     5    |
-| 15 | agustin fuks        | agustin fuks        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 16 | JohnThacker         | JohnThacker         |         2|      200|     -    |     4    |     -    |     -    |     6    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 17 | leo2828             | leo2828             |         2|      200|     -    |     8    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 18 | Mr beast            | Mr beast            |         3|      300|     -    |     -    |     -    |     9    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   6   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 19 | petranas            | petranas            |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   9   |      -     |     -    |     -    |     -    |     -    |     -    |
-| 21 | Mikeyman            | Mikeyman            |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 14 | melihrg             | melihrg             |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 15 | whatalife           | whatalife           |       140|   24,000|     6    |     9    |     7    |     9    |     9    |     5    |     6    |     6    |     5    |   4   |    7   |    6    |     6    |     6    |    7    |     5    |     6    |     7    |    6   |    9    |    6    |   5  |   7  |   8   |      6     |     5    |     6    |     6    |     6    |     5    |
+| 16 | agustin fuks        | agustin fuks        |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 17 | pro player128       | pro player128       |         3|      300|     -    |     -    |     -    |     6    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 18 | JohnThacker         | JohnThacker         |         2|      200|     -    |     4    |     -    |     -    |     6    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 19 | leo2828             | leo2828             |         2|      200|     -    |     8    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 20 | Mr beast            | Mr beast            |         3|      300|     -    |     -    |     -    |    10    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   6   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 21 | petranas            | petranas            |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 22 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   9   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 23 | Mikeyman            | Mikeyman            |         1|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |    -    |     -    |     -    |     -    |    -   |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+---------+----------+----------+----------+--------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
-|    | Total               |                     |          |  138,300|          |          |          |          |          |          |          |          |          |       |        |         |          |          |         |          |          |          |        |         |         |      |      |       |            |          |          |          |          |          |
+|    | Total               |                     |          |  138,800|          |          |          |          |          |          |          |          |          |       |        |         |          |          |         |          |          |          |        |         |         |      |      |       |            |          |          |          |          |          |
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+---------+----------+----------+----------+--------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
 
 
@@ -2142,29 +2158,31 @@ Turkish Time:  2025-09-25 10:18:27 +03
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+--------+--------+----------+----------+----------+
 | #  | Player              | ID                  |  Finished|  TC Cash| FRAUD BI | FRAUD PR | FRAUD WH | FUCA SPO | FXO GTR | FXO TURB | FZ50 | FZ50 GTR | GG55 AMD | GHOUL | GOD FOOT | GORKIY 1 | GP125 | GRAND PR | GT-V34 | GW-DECA | GWMK2 | GWMK24DR | GX-BUGGY | GX-BUGGY | GX-BUGGY | HADIMRSK | HANZMUND | HBIKE2 | HJETT | CRF450 | HUMHII | IBUSHA S | IMPREZZI | INTERCEP |
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+--------+--------+----------+----------+----------+
-| 1  | p v l 2             | p v l 2             |       140|   24,000|     1    |     3    |     4    |     1    |    3    |     3    |   1  |     2    |     1    |   1   |     1    |     3    |   1   |     1    |    1   |    4    |   4   |     6    |     1    |     2    |     1    |     1    |     6    |    2   |   4   |    1   |    2   |     4    |     6    |     2    |
+| 1  | p v l 2             | p v l 2             |       140|   24,000|     1    |     3    |     4    |     1    |    3    |     3    |   1  |     2    |     1    |   1   |     1    |     3    |   1   |     1    |    1   |    4    |   4   |     6    |     1    |     2    |     1    |     1    |     6    |    2   |   4   |    1   |    2   |     4    |     7    |     2    |
 | 2  | bayanofmansorofisky | bayanofmansorofisky |        34|    3,400|     -    |     1    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   2   |     -    |     -    |   -   |     -    |    -   |    1    |   -   |     -    |     -    |     -    |     -    |     -    |     1    |    -   |   1   |    -   |    -   |     -    |     -    |     -    |
-| 3  | Toom43              | Toom43              |        50|    5,000|     -    |     -    |     -    |     -    |    2    |     1    |   2  |     1    |     -    |   -   |     -    |     7    |   -   |     -    |    -   |    -    |   1   |     2    |     -    |     -    |     -    |     -    |     3    |    -   |   -   |    -   |    -   |     -    |     5    |     5    |
-| 4  | Griffin20069        | Griffin20069        |       140|   24,000|     2    |     5    |     2    |     3    |    5    |     2    |   3  |     4    |     2    |   4   |     2    |     5    |   3   |     2    |    2   |    2    |   3   |     4    |     5    |     5    |     3    |     2    |     4    |    1   |   3   |    4   |    4   |     2    |     2    |     3    |
-| 5  | Thamboo             | Thamboo             |        50|    5,000|     -    |     2    |     -    |     -    |    -    |     -    |   -  |     -    |     3    |   -   |     -    |     1    |   -   |     -    |    3   |    3    |   2   |     1    |     -    |     -    |     -    |     -    |     2    |    -   |   2   |    -   |    1   |     -    |     4    |     -    |
+| 3  | Toom43              | Toom43              |        50|    5,000|     -    |     -    |     -    |     -    |    2    |     1    |   2  |     1    |     -    |   -   |     -    |     7    |   -   |     -    |    -   |    -    |   1   |     2    |     -    |     -    |     -    |     -    |     3    |    -   |   -   |    -   |    -   |     -    |     6    |     5    |
+| 4  | Griffin20069        | Griffin20069        |       140|   24,000|     2    |     5    |     2    |     3    |    5    |     2    |   3  |     4    |     2    |   4   |     2    |     5    |   3   |     2    |    2   |    2    |   3   |     4    |     5    |     5    |     3    |     2    |     4    |    1   |   3   |    4   |    4   |     2    |     3    |     3    |
+| 5  | Thamboo             | Thamboo             |        50|    5,000|     -    |     2    |     -    |     -    |    -    |     -    |   -  |     -    |     3    |   -   |     -    |     1    |   -   |     -    |    3   |    3    |   2   |     1    |     -    |     -    |     -    |     -    |     2    |    -   |   2   |    -   |    1   |     -    |     5    |     -    |
 | 6  | TPEBOMAH            | TPEBOMAH            |        11|    1,100|     -    |     -    |     1    |     -    |    1    |     -    |   -  |     -    |     5    |   -   |     -    |     -    |   -   |     -    |    7   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     1    |     -    |     -    |
 | 7  | lordferius          | lordferius          |         6|      600|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 8  | berni25             | berni25             |       140|   24,000|     3    |     4    |     5    |     2    |    4    |     4    |   4  |     3    |     4    |   3   |     3    |     2    |   2   |     3    |    5   |    5    |   5   |     5    |     3    |     6    |     5    |     4    |     7    |    5   |   5   |    2   |    3   |     5    |     7    |     4    |
+| 8  | berni25             | berni25             |       140|   24,000|     3    |     4    |     5    |     2    |    4    |     4    |   4  |     3    |     4    |   3   |     3    |     2    |   2   |     3    |    5   |    5    |   5   |     5    |     3    |     6    |     5    |     4    |     7    |    5   |   5   |    2   |    3   |     5    |     8    |     4    |
 | 9  | gt4_pl              | gt4_pl              |         5|      500|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     1    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 | 10 | zGood82             | zGood82             |         5|      500|     -    |     8    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     1    |     1    |
-| 11 | Ross2750            | Ross2750            |       140|   24,000|     4    |     6    |     6    |     4    |    6    |     6    |   5  |     5    |     6    |   5   |     4    |     4    |   4   |     5    |    4   |    6    |   6   |     3    |     2    |     4    |     2    |     3    |     5    |    4   |   6   |    3   |    5   |     3    |     3    |     6    |
-| 12 | _radovanovic        | _radovanovic        |         7|      700|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     8    |     -    |
+| 11 | Ross2750            | Ross2750            |       140|   24,000|     4    |     6    |     6    |     4    |    6    |     6    |   5  |     5    |     6    |   5   |     4    |     4    |   4   |     5    |    4   |    6    |   6   |     3    |     2    |     4    |     2    |     3    |     5    |    4   |   6   |    3   |    5   |     3    |     4    |     6    |
+| 12 | _radovanovic        | _radovanovic        |         7|      700|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     9    |     -    |
 | 13 | WildGamerz          | WildGamerz          |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 14 | whatalife           | whatalife           |       140|   24,000|     5    |     7    |     7    |     5    |    7    |     5    |   6  |     6    |     7    |   6   |     5    |     6    |   5   |     4    |    6   |    7    |   7   |     7    |     4    |     3    |     4    |     5    |     8    |    3   |   7   |    5   |    6   |     6    |     9    |     7    |
-| 15 | agustin fuks        | agustin fuks        |         1|      100|     -    |     -    |     3    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 16 | JohnThacker         | JohnThacker         |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 17 | leo2828             | leo2828             |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 18 | Mr beast            | Mr beast            |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 19 | petranas            | petranas            |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   7  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    8   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
-| 21 | Mikeyman            | Mikeyman            |         1|      100|     -    |     9    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 14 | melihrg             | melihrg             |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     2    |     -    |
+| 15 | whatalife           | whatalife           |       140|   24,000|     5    |     7    |     7    |     5    |    7    |     5    |   6  |     6    |     7    |   6   |     5    |     6    |   5   |     4    |    6   |    7    |   7   |     7    |     4    |     3    |     4    |     5    |     8    |    3   |   7   |    5   |    6   |     6    |    10    |     7    |
+| 16 | agustin fuks        | agustin fuks        |         1|      100|     -    |     -    |     3    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 17 | pro player128       | pro player128       |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 18 | JohnThacker         | JohnThacker         |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 19 | leo2828             | leo2828             |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 20 | Mr beast            | Mr beast            |         3|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 21 | petranas            | petranas            |         1|      100|     -    |     -    |     -    |     -    |    -    |     -    |   7  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 22 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    8   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
+| 23 | Mikeyman            | Mikeyman            |         1|      100|     -    |     9    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |    -   |    -   |     -    |     -    |     -    |
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+--------+--------+----------+----------+----------+
-|    | Total               |                     |          |  138,300|          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |         |       |          |          |          |          |          |          |        |       |        |        |          |          |          |
+|    | Total               |                     |          |  138,800|          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |         |       |          |          |          |          |          |          |        |       |        |        |          |          |          |
 +----+---------------------+---------------------+----------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+--------+--------+----------+----------+----------+
 
 
@@ -2180,22 +2198,24 @@ Turkish Time:  2025-09-25 10:18:27 +03
 | 5  | Thamboo             | Thamboo             |        50|    5,000|   6   |   -   |   -   |    1    |     -    |     2    |     2    |    -    |     3    |     -    |     -    |  -  |  -  |     -    |     -    |     2    |   -   |   -  |    -   |     -    |     2    |     4    |     2    |     -    |     -    |     2    |     -    |     2    |    -   |    -   |
 | 6  | TPEBOMAH            | TPEBOMAH            |        11|    1,100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   1   |   -  |    -   |     -    |     -    |     5    |     4    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 7  | lordferius          | lordferius          |         6|      600|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 8  | berni25             | berni25             |       140|   24,000|   5   |   3   |   2   |    4    |     4    |     5    |     6    |    1    |     7    |     4    |     4    |  4  |  4  |     2    |     2    |     8    |   4   |   5  |    3   |     4    |     4    |     6    |     3    |     3    |     3    |     4    |     4    |     4    |    4   |    4   |
+| 8  | berni25             | berni25             |       140|   24,000|   5   |   3   |   2   |    4    |     4    |     5    |     6    |    1    |     7    |     4    |     4    |  4  |  4  |     2    |     2    |     8    |   4   |   5  |    3   |     4    |     4    |     6    |     3    |     3    |     3    |     4    |     4    |     4    |    4   |    5   |
 | 9  | gt4_pl              | gt4_pl              |         5|      500|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 10 | zGood82             | zGood82             |         5|      500|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 11 | Ross2750            | Ross2750            |       140|   24,000|   4   |   5   |   4   |    5    |     5    |     6    |     7    |    4    |     4    |     6    |     3    |  5  |  6  |     6    |     5    |     7    |   5   |   4  |    4   |     7    |     6    |     8    |     6    |     4    |     4    |     6    |     6    |     5    |    6   |    5   |
+| 11 | Ross2750            | Ross2750            |       140|   24,000|   4   |   5   |   4   |    5    |     5    |     6    |     7    |    4    |     4    |     6    |     3    |  5  |  6  |     6    |     5    |     7    |   5   |   4  |    4   |     7    |     6    |     8    |     6    |     4    |     4    |     6    |     6    |     5    |    6   |    6   |
 | 12 | _radovanovic        | _radovanovic        |         7|      700|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     4    |     -    |     3    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 | 13 | WildGamerz          | WildGamerz          |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     5    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 14 | whatalife           | whatalife           |       140|   24,000|   7   |   4   |   3   |    6    |     6    |     7    |     8    |    5    |     8    |     5    |     5    |  6  |  5  |     5    |     4    |     9    |   6   |   6  |    5   |     6    |     7    |     7    |     7    |     5    |     5    |     7    |     5    |     6    |    7   |    6   |
-| 15 | agustin fuks        | agustin fuks        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 16 | JohnThacker         | JohnThacker         |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 17 | leo2828             | leo2828             |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 18 | Mr beast            | Mr beast            |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 19 | petranas            | petranas            |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
-| 21 | Mikeyman            | Mikeyman            |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 14 | melihrg             | melihrg             |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 15 | whatalife           | whatalife           |       140|   24,000|   7   |   4   |   3   |    6    |     6    |     7    |     8    |    5    |     8    |     5    |     5    |  6  |  5  |     5    |     4    |     9    |   6   |   6  |    5   |     6    |     7    |     7    |     7    |     5    |     5    |     7    |     5    |     6    |    7   |    7   |
+| 16 | agustin fuks        | agustin fuks        |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 17 | pro player128       | pro player128       |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    4   |
+| 18 | JohnThacker         | JohnThacker         |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 19 | leo2828             | leo2828             |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 20 | Mr beast            | Mr beast            |         3|      300|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 21 | petranas            | petranas            |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 22 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 23 | Mikeyman            | Mikeyman            |         1|      100|   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -   |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
 +----+---------------------+---------------------+----------+---------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+-------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
-|    | Total               |                     |          |  138,300|       |       |       |         |          |          |          |         |          |          |          |     |     |          |          |          |       |      |        |          |          |          |          |          |          |          |          |          |        |        |
+|    | Total               |                     |          |  138,800|       |       |       |         |          |          |          |         |          |          |          |     |     |          |          |          |       |      |        |          |          |          |          |          |          |          |          |          |        |        |
 +----+---------------------+---------------------+----------+---------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+-------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
 
 
@@ -2204,29 +2224,31 @@ Turkish Time:  2025-09-25 10:18:27 +03
 +----+---------------------+---------------------+----------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
 | #  | Player              | ID                  |  Finished|  TC Cash| ROSSA | RS1 KENJ | RS1 KENJ | RTS 6-71 | RZM250 | RZT370 | SEDAN | SHARK C | SHARK C  | SKODA 11 | SKODA FE | SM500 | SPEC R | SPOTTEDK | SZK400 | SWIRL SP | T34 SPOR | T46 SPOR | TALOT SU | TAZ 0521 | TAZ07 CL | THR MB50 | THR OP45 | THR SR20 | TOMMY28 | TOYATE S | UF 1000 | UF 1100T | UF GTR | UF PICKU |
 +----+---------------------+---------------------+----------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
-| 1  | p v l 2             | p v l 2             |       140|   24,000|   3   |     4    |     5    |     1    |    2   |    2   |   6   |    3    |     2    |     6    |     8    |   2   |    2   |     2    |    1   |     2    |     1    |     1    |     1    |     5    |     2    |     1    |     1    |     1    |    4    |     1    |    3    |     2    |    3   |     1    |
+| 1  | p v l 2             | p v l 2             |       140|   24,000|   3   |     4    |     6    |     1    |    2   |    2   |   6   |    3    |     2    |     6    |     8    |   2   |    2   |     2    |    1   |     2    |     1    |     1    |     1    |     5    |     2    |     1    |     1    |     1    |    4    |     1    |    3    |     2    |    3   |     1    |
 | 2  | bayanofmansorofisky | bayanofmansorofisky |        34|    3,400|   1   |     -    |     3    |     -    |    -   |    -   |   -   |    -    |     -    |     1    |     1    |   -   |    -   |     1    |    -   |     -    |     -    |     -    |     -    |     1    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 3  | Toom43              | Toom43              |        50|    5,000|   -   |     2    |     2    |     -    |    -   |    -   |   4   |    1    |     -    |     -    |     3    |   -   |    -   |     -    |    -   |     1    |     -    |     -    |     -    |     3    |     1    |     -    |     -    |     -    |    2    |     -    |    1    |     -    |    1   |     -    |
-| 4  | Griffin20069        | Griffin20069        |       140|   24,000|   2   |     6    |     4    |     2    |    1   |    1   |   3   |    2    |     3    |     3    |     5    |   3   |    3   |     3    |    2   |     4    |     5    |     5    |     5    |     4    |     3    |     3    |     2    |     4    |    3    |     4    |    5    |     1    |    2   |     2    |
-| 5  | Thamboo             | Thamboo             |        50|    5,000|   4   |     -    |     6    |     -    |    -   |    -   |   1   |    -    |     -    |     2    |     2    |   -   |    1   |     4    |    -   |     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 4  | Griffin20069        | Griffin20069        |       140|   24,000|   2   |     6    |     5    |     2    |    1   |    1   |   3   |    2    |     3    |     3    |     5    |   3   |    3   |     3    |    2   |     4    |     5    |     5    |     5    |     4    |     3    |     3    |     2    |     4    |    3    |     4    |    5    |     1    |    2   |     2    |
+| 5  | Thamboo             | Thamboo             |        50|    5,000|   4   |     -    |     7    |     -    |    -   |    -   |   1   |    -    |     -    |     2    |     2    |   -   |    1   |     4    |    -   |     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 6  | TPEBOMAH            | TPEBOMAH            |        11|    1,100|   -   |     -    |     1    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 | 7  | lordferius          | lordferius          |         6|      600|   -   |     1    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 8  | berni25             | berni25             |       140|   24,000|   6   |     5    |     7    |     3    |    3   |    3   |   5   |    4    |     1    |     4    |     6    |   1   |    4   |     7    |    3   |     3    |     3    |     2    |     2    |     8    |     4    |     2    |     3    |     2    |    6    |     2    |    7    |     4    |    4   |     5    |
+| 8  | berni25             | berni25             |       140|   24,000|   6   |     5    |     8    |     3    |    3   |    3   |   5   |    4    |     1    |     4    |     6    |   1   |    4   |     7    |    3   |     3    |     3    |     2    |     2    |     8    |     4    |     2    |     3    |     2    |    6    |     2    |    7    |     4    |    4   |     5    |
 | 9  | gt4_pl              | gt4_pl              |         5|      500|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    1    |     -    |    -    |     -    |    -   |     -    |
 | 10 | zGood82             | zGood82             |         5|      500|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     5    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 11 | Ross2750            | Ross2750            |       140|   24,000|   7   |     7    |     8    |     4    |    4   |    4   |   2   |    5    |     4    |     7    |     7    |   5   |    5   |     5    |    4   |     5    |     2    |     4    |     3    |     6    |     5    |     4    |     4    |     3    |    5    |     3    |    4    |     3    |    6   |     6    |
+| 11 | Ross2750            | Ross2750            |       140|   24,000|   7   |     7    |     9    |     4    |    4   |    4   |   2   |    5    |     4    |     7    |     7    |   5   |    5   |     5    |    4   |     5    |     2    |     4    |     3    |     6    |     5    |     4    |     4    |     3    |    5    |     3    |    4    |     3    |    6   |     6    |
 | 12 | _radovanovic        | _radovanovic        |         7|      700|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     4    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     3    |
 | 13 | WildGamerz          | WildGamerz          |         3|      300|   -   |     3    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    2    |     -    |    -   |     -    |
-| 14 | whatalife           | whatalife           |       140|   24,000|   5   |     8    |     9    |     5    |    6   |    5   |   7   |    6    |     5    |     8    |     9    |   4   |    6   |     6    |    5   |     6    |     4    |     3    |     4    |     7    |     6    |     5    |     5    |     5    |    7    |     5    |    6    |     5    |    5   |     4    |
-| 15 | agustin fuks        | agustin fuks        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 16 | JohnThacker         | JohnThacker         |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 17 | leo2828             | leo2828             |         2|      200|   -   |     -    |     -    |     -    |    5   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 18 | Mr beast            | Mr beast            |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 19 | petranas            | petranas            |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
-| 21 | Mikeyman            | Mikeyman            |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 14 | melihrg             | melihrg             |         2|      200|   -   |     -    |     4    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 15 | whatalife           | whatalife           |       140|   24,000|   5   |     8    |    10    |     5    |    6   |    5   |   7   |    6    |     5    |     8    |     9    |   4   |    6   |     6    |    5   |     6    |     4    |     3    |     4    |     7    |     6    |     5    |     5    |     5    |    7    |     5    |    6    |     5    |    5   |     4    |
+| 16 | agustin fuks        | agustin fuks        |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 17 | pro player128       | pro player128       |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 18 | JohnThacker         | JohnThacker         |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 19 | leo2828             | leo2828             |         2|      200|   -   |     -    |     -    |     -    |    5   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 20 | Mr beast            | Mr beast            |         3|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 21 | petranas            | petranas            |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 22 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 23 | Mikeyman            | Mikeyman            |         1|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
 +----+---------------------+---------------------+----------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
-|    | Total               |                     |          |  138,300|       |          |          |          |        |        |       |         |          |          |          |       |        |          |        |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |
+|    | Total               |                     |          |  138,800|       |          |          |          |        |        |       |         |          |          |          |       |        |          |        |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |
 +----+---------------------+---------------------+----------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
 
 
@@ -2245,19 +2267,21 @@ Turkish Time:  2025-09-25 10:18:27 +03
 | 8  | berni25             | berni25             |       140|   24,000|    5   |     4    |    4    |     4    |    2   |     8    |     4    |    5   |    6   |     4    |   5   |     3    |    4   |     4    |     3    |    2   |    2   |    3   |    3   |    3   |
 | 9  | gt4_pl              | gt4_pl              |         5|      500|    -   |     -    |    -    |     -    |    -   |     1    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 10 | zGood82             | zGood82             |         5|      500|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 11 | Ross2750            | Ross2750            |       140|   24,000|    8   |     6    |    5    |     3    |    4   |     6    |     5    |    4   |    5   |     3    |   7   |     6    |    5   |     3    |     5    |    4   |    5   |    5   |    4   |    4   |
+| 11 | Ross2750            | Ross2750            |       140|   24,000|    9   |     6    |    5    |     3    |    4   |     6    |     5    |    4   |    5   |     3    |   7   |     6    |    5   |     3    |     5    |    4   |    5   |    5   |    4   |    4   |
 | 12 | _radovanovic        | _radovanovic        |         7|      700|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 | 13 | WildGamerz          | WildGamerz          |         3|      300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 14 | whatalife           | whatalife           |       140|   24,000|   10   |     7    |    6    |     6    |    5   |     9    |     6    |    6   |    7   |     5    |   6   |     5    |    6   |     5    |     4    |    3   |    3   |    4   |    5   |    5   |
-| 15 | agustin fuks        | agustin fuks        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 16 | JohnThacker         | JohnThacker         |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 17 | leo2828             | leo2828             |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 18 | Mr beast            | Mr beast            |         3|      300|    9   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 19 | petranas            | petranas            |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
-| 21 | Mikeyman            | Mikeyman            |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 14 | melihrg             | melihrg             |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 15 | whatalife           | whatalife           |       140|   24,000|   11   |     7    |    6    |     6    |    5   |     9    |     6    |    6   |    7   |     5    |   6   |     5    |    6   |     5    |     4    |    3   |    3   |    4   |    5   |    5   |
+| 16 | agustin fuks        | agustin fuks        |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 17 | pro player128       | pro player128       |         3|      300|    8   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 18 | JohnThacker         | JohnThacker         |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 19 | leo2828             | leo2828             |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 20 | Mr beast            | Mr beast            |         3|      300|   10   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 21 | petranas            | petranas            |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 22 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
+| 23 | Mikeyman            | Mikeyman            |         1|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |    -   |    -   |    -   |    -   |    -   |
 +----+---------------------+---------------------+----------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+--------+--------+--------+--------+--------+
-|    | Total               |                     |          |  138,300|        |          |         |          |        |          |          |        |        |          |       |          |        |          |          |        |        |        |        |        |
+|    | Total               |                     |          |  138,800|        |          |         |          |        |          |          |        |        |          |       |          |        |          |          |        |        |        |        |        |
 +----+---------------------+---------------------+----------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+--------+--------+--------+--------+--------+
 
 
@@ -2282,13 +2306,15 @@ Turkish Time:  2025-09-25 10:18:27 +03
 | 12 | gt4_pl              | gt4_pl              |         5|     05:13.34|  01:02.67|
 | 13 | zGood82             | zGood82             |         5|     06:48.56|  01:21.71|
 | 14 | WildGamerz          | WildGamerz          |         3|     03:36.32|  01:12.11|
-| 15 | Mr beast            | Mr beast            |         3|     05:04.57|  01:41.52|
-| 16 | JohnThacker         | JohnThacker         |         2|     02:05.07|  01:02.53|
-| 17 | leo2828             | leo2828             |         2|     04:04.87|  02:02.44|
-| 18 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|     04:30.26|  02:15.13|
-| 19 | agustin fuks        | agustin fuks        |         1|     00:59.12|  00:59.12|
-| 20 | petranas            | petranas            |         1|     02:01.37|  02:01.37|
-| 21 | Mikeyman            | Mikeyman            |         1|     02:25.97|  02:25.97|
+| 15 | pro player128       | pro player128       |         3|     04:26.15|  01:28.72|
+| 16 | Mr beast            | Mr beast            |         3|     05:04.57|  01:41.52|
+| 17 | melihrg             | melihrg             |         2|     01:46.47|  00:53.23|
+| 18 | JohnThacker         | JohnThacker         |         2|     02:05.07|  01:02.53|
+| 19 | leo2828             | leo2828             |         2|     04:04.87|  02:02.44|
+| 20 | ImGoodAtDrifting    | ImGoodAtDrifting    |         2|     04:30.26|  02:15.13|
+| 21 | agustin fuks        | agustin fuks        |         1|     00:59.12|  00:59.12|
+| 22 | petranas            | petranas            |         1|     02:01.37|  02:01.37|
+| 23 | Mikeyman            | Mikeyman            |         1|     02:25.97|  02:25.97|
 +----+---------------------+---------------------+----------+-------------+----------+
 
 
@@ -2456,7 +2482,9 @@ Turkish Time:  2025-09-25 10:18:27 +03
   15. gt4_pl
   16. leo2828
   17. lordferius
-  18. p v l 2
-  19. petranas
-  20. whatalife
-  21. zGood82
+  18. melihrg
+  19. p v l 2
+  20. petranas
+  21. pro player128
+  22. whatalife
+  23. zGood82
