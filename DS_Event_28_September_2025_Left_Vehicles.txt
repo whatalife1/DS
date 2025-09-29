@@ -1,0 +1,84 @@
+--- Players and Their Missing Vehicles---
+
+Player: p v l 2 (p v l 2) is missing the following 9 vehicles:
+  1. EXPEDITION
+  2. JAKEBILT
+  3. LCT3000
+  4. LIL 1300
+  5. MOVETRUCK
+  6. ROSSA
+  7. SCAMA 420R 4X2 TANDEM
+  8. SCAMA T580
+  9. TOWN BUS
+
+Player: Griffin20069 (Griffin20069) is missing the following 7 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. METRO BUS 10.5
+  6. MOVETRUCK
+  7. MUN FIRETRUCK
+
+Player: whatalife (whatalife) is missing the following 9 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. JAKEBILT
+  3. LCT3000
+  4. LIL 1300
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. METRO BUS 10.5
+  8. MOVETRUCK
+  9. MUN FIRETRUCK
+
+Player: TPEBOMAH (TPEBOMAH) is missing the following 15 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. JAKEBILT
+  4. LCT3000
+  5. LIL 1300
+  6. MARIGUS
+  7. MECA 371 MONOBLOCO
+  8. MERSOLES TORITMO
+  9. METRO BUS 10.5
+  10. MUN FIRETRUCK
+  11. ROSSA
+  12. SCAMA 420R 4X2 TANDEM
+  13. SCAMA DD
+  14. SCAMA T580
+  15. TOWN BUS
+
+Player: gt4_pl (gt4_pl) is missing the following 15 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. JAKEBILT
+  4. LIL 1300
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERSOLES TORITMO
+  8. METRO BUS 10.5
+  9. MOVETRUCK
+  10. MUN FIRETRUCK
+  11. ROSSA
+  12. SCAMA 420R 4X2 TANDEM
+  13. SCAMA DD
+  14. SCAMA T580
+  15. TOWN BUS
+
+Player: Mr beast (Mr beast) is missing the following 15 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. JAKEBILT
+  4. LCT3000
+  5. LIL 1300
+  6. MECA 371 MONOBLOCO
+  7. MERSOLES TORITMO
+  8. METRO BUS 10.5
+  9. MOVETRUCK
+  10. MUN FIRETRUCK
+  11. ROSSA
+  12. SCAMA 420R 4X2 TANDEM
+  13. SCAMA DD
+  14. SCAMA T580
+  15. TOWN BUS
+
