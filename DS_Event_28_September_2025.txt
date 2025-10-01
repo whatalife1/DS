@@ -1,87 +1,105 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-10-01 00:33:33 UTC
-German Time:   2025-10-01 02:33:33 CEST
-Brazil Time:   2025-09-30 21:33:33 -03
-Saudi Arabia:  2025-10-01 03:33:33 +03
-Turkish Time:  2025-10-01 03:33:33 +03
-India Time:    2025-10-01 06:03:33 IST
+UTC Time:      2025-10-01 12:15:53 UTC
+German Time:   2025-10-01 14:15:53 CEST
+Brazil Time:   2025-10-01 09:15:53 -03
+Saudi Arabia:  2025-10-01 15:15:53 +03
+Turkish Time:  2025-10-01 15:15:53 +03
+India Time:    2025-10-01 17:45:53 IST
 
 --- Results by Vehicle (Fastest First) ---
 
 1. MOVETRUCK
-  1. TPEBOMAH      10:38.90
+  1. TPEBOMAH               10:38.90
 
-2. EXPEDITION
-  1. Griffin20069  13:09.21
-  2. berni25       17:56.09
-  3. whatalife     34:52.00
+2. ROSSA
+  1. Red/Kaiku (thuglife_)  12:21.29
+  2. whatalife              18:31.74
+  3. Griffin20069           21:04.18
+  4. WildGamerz             25:07.51
 
-3. MARIGUS
-  1. p v l 2       13:17.82
-  2. whatalife     17:27.33
-  3. Mr beast      42:31.70
+3. EXPEDITION
+  1. Griffin20069           13:09.21
+  2. berni25                17:56.09
+  3. whatalife              34:52.00
 
-4. MUN FIRETRUCK
-  1. p v l 2       14:31.42
+4. MARIGUS
+  1. p v l 2                13:17.82
+  2. whatalife              17:27.33
+  3. Mr beast               42:31.70
 
-5. METRO BUS 10.5
-  1. p v l 2       14:47.58
+5. MUN FIRETRUCK
+  1. p v l 2                14:31.42
+  2. whatalife              21:24.56
 
-6. MECA 371 MONOBLOCO
-  1. p v l 2       15:18.81
+6. SCAMA 420R 4X2 TANDEM
+  1. p v l 2                14:45.71
+  2. Griffin20069           18:57.61
+  3. whatalife              30:22.33
 
-7. RTS 6-71
-  1. whatalife     15:57.43
+7. METRO BUS 10.5
+  1. p v l 2                14:47.58
 
-8. SCAMA DD
-  1. p v l 2       15:59.17
-  2. Griffin20069  21:56.80
-  3. whatalife     36:03.18
+8. MERESDES E910
+  1. p v l 2                14:57.39
+  2. whatalife              29:46.51
 
-9. HEAVY RESCUE TRUCK
-  1. p v l 2       16:15.96
+9. MECA 371 MONOBLOCO
+  1. p v l 2                15:18.81
+  2. whatalife              18:53.06
 
-10. TOWN BUS
-  1. Toom43        16:34.44
-  2. berni25       20:28.87
-  3. whatalife     21:03.22
-  4. Griffin20069  24:15.99
+10. RTS 6-71
+  1. whatalife              15:57.43
 
-11. LIL 1300
-  1. Griffin20069  16:46.23
-  2. whatalife     21:39.19
+11. SCAMA DD
+  1. p v l 2                15:59.17
+  2. Griffin20069           21:56.80
+  3. whatalife              36:03.18
 
-12. MERESDES E910
-  1. p v l 2       17:10.05
-  2. whatalife     29:46.51
-  3. Griffin20069  48:57.72
+12. HEAVY RESCUE TRUCK
+  1. p v l 2                16:15.96
 
-13. ROSSA
-  1. whatalife     18:31.74
-  2. Griffin20069  21:04.18
+13. TOWN BUS
+  1. Toom43                 16:34.44
+  2. berni25                20:28.87
+  3. whatalife              21:03.22
+  4. Griffin20069           24:15.99
 
-14. LCT3000
-  1. gt4_pl        18:49.60
+14. LIL 1300
+  1. Griffin20069           16:46.23
+  2. whatalife              21:39.19
 
-15. SCAMA 420R 4X2 TANDEM
-  1. Griffin20069  18:57.61
-  2. whatalife     30:22.33
+15. MERSOLES TORITMO
+  1. p v l 2                17:10.05
+  2. Griffin20069           48:57.72
+  3. whatalife              58:02.30
 
-16. SCAMA 311 B TOW
-  1. whatalife     18:57.70
+16. ONIBUS VTR
+  1. Red /Kaiku (thuglife   17:43.93
 
-17. SCAMA T580
-  1. whatalife     19:54.06
-  2. Griffin20069  22:07.91
-  3. Toom43        26:33.35
+17. LINE RUNNER IVII
+  1. whatalife              18:29.22
 
-18. PIERCING ARROW XT
-  1. whatalife     20:00.18
+18. LCT3000
+  1. gt4_pl                 18:49.60
 
-19. JAKEBILT
-  1. Griffin20069  20:43.65
+19. SCAMA 311 B TOW
+  1. whatalife              18:57.70
+
+20. SCAMA T580
+  1. whatalife              19:54.06
+  2. Griffin20069           22:07.91
+  3. Toom43                 26:33.35
+
+21. PIERCING ARROW XT
+  1. whatalife              20:00.18
+
+22. MUN TG DUMPTRUCK
+  1. whatalife              20:09.33
+
+23. JAKEBILT
+  1. Griffin20069           20:43.65
 
 
 
@@ -90,93 +108,115 @@ India Time:    2025-10-01 06:03:33 IST
 1. Griffin20069 (Griffin20069)
   1.  EXPEDITION             13:09.21 (Pos: 1)
   2.  LIL 1300               16:46.23 (Pos: 1)
-  3.  SCAMA 420R 4X2 TANDEM  18:57.61 (Pos: 1)
-  4.  JAKEBILT               20:43.65 (Pos: 1)
-  5.  ROSSA                  21:04.18 (Pos: 2)
-  6.  SCAMA DD               21:56.80 (Pos: 2)
-  7.  SCAMA T580             22:07.91 (Pos: 2)
-  8.  MERESDES E910          48:57.72 (Pos: 3)
+  3.  JAKEBILT               20:43.65 (Pos: 1)
+  4.  SCAMA 420R 4X2 TANDEM  18:57.61 (Pos: 2)
+  5.  SCAMA DD               21:56.80 (Pos: 2)
+  6.  SCAMA T580             22:07.91 (Pos: 2)
+  7.  MERSOLES TORITMO       48:57.72 (Pos: 2)
+  8.  ROSSA                  21:04.18 (Pos: 3)
   9.  TOWN BUS               24:15.99 (Pos: 4)
 
 2. Mr beast (Mr beast)
   1.  MARIGUS                42:31.70 (Pos: 3)
 
-3. TPEBOMAH (TPEBOMAH)
+3. /Kaiku (thuglife (Red /Kaiku (thuglife)
+  1.  ONIBUS VTR             17:43.93 (Pos: 1)
+
+4. TPEBOMAH (TPEBOMAH)
   1.  MOVETRUCK              10:38.90 (Pos: 1)
 
-4. Toom43 (Toom43)
+5. Toom43 (Toom43)
   1.  TOWN BUS               16:34.44 (Pos: 1)
   2.  SCAMA T580             26:33.35 (Pos: 3)
 
-5. berni25 (berni25)
+6. WildGamerz (WildGamerz)
+  1.  ROSSA                  25:07.51 (Pos: 4)
+
+7. berni25 (berni25)
   1.  EXPEDITION             17:56.09 (Pos: 2)
   2.  TOWN BUS               20:28.87 (Pos: 2)
 
-6. gt4_pl (gt4_pl)
+8. gt4_pl (gt4_pl)
   1.  LCT3000                18:49.60 (Pos: 1)
 
-7. p v l 2 (p v l 2)
+9. p v l 2 (p v l 2)
   1.  MARIGUS                13:17.82 (Pos: 1)
   2.  MUN FIRETRUCK          14:31.42 (Pos: 1)
-  3.  METRO BUS 10.5         14:47.58 (Pos: 1)
-  4.  MECA 371 MONOBLOCO     15:18.81 (Pos: 1)
-  5.  SCAMA DD               15:59.17 (Pos: 1)
-  6.  HEAVY RESCUE TRUCK     16:15.96 (Pos: 1)
-  7.  MERESDES E910          17:10.05 (Pos: 1)
+  3.  SCAMA 420R 4X2 TANDEM  14:45.71 (Pos: 1)
+  4.  METRO BUS 10.5         14:47.58 (Pos: 1)
+  5.  MERESDES E910          14:57.39 (Pos: 1)
+  6.  MECA 371 MONOBLOCO     15:18.81 (Pos: 1)
+  7.  SCAMA DD               15:59.17 (Pos: 1)
+  8.  HEAVY RESCUE TRUCK     16:15.96 (Pos: 1)
+  9.  MERSOLES TORITMO       17:10.05 (Pos: 1)
 
-8. whatalife (whatalife)
+10. thuglife_ (thuglife_)
+  1.  ROSSA                  12:21.29 (Pos: 1)
+
+11. whatalife (whatalife)
   1.  RTS 6-71               15:57.43 (Pos: 1)
-  2.  ROSSA                  18:31.74 (Pos: 1)
+  2.  LINE RUNNER IVII       18:29.22 (Pos: 1)
   3.  SCAMA 311 B TOW        18:57.70 (Pos: 1)
   4.  SCAMA T580             19:54.06 (Pos: 1)
   5.  PIERCING ARROW XT      20:00.18 (Pos: 1)
-  6.  MARIGUS                17:27.33 (Pos: 2)
-  7.  LIL 1300               21:39.19 (Pos: 2)
-  8.  MERESDES E910          29:46.51 (Pos: 2)
-  9.  SCAMA 420R 4X2 TANDEM  30:22.33 (Pos: 2)
-  10. TOWN BUS               21:03.22 (Pos: 3)
-  11. EXPEDITION             34:52.00 (Pos: 3)
-  12. SCAMA DD               36:03.18 (Pos: 3)
+  6.  MUN TG DUMPTRUCK       20:09.33 (Pos: 1)
+  7.  MARIGUS                17:27.33 (Pos: 2)
+  8.  ROSSA                  18:31.74 (Pos: 2)
+  9.  MECA 371 MONOBLOCO     18:53.06 (Pos: 2)
+  10. MUN FIRETRUCK          21:24.56 (Pos: 2)
+  11. LIL 1300               21:39.19 (Pos: 2)
+  12. MERESDES E910          29:46.51 (Pos: 2)
+  13. TOWN BUS               21:03.22 (Pos: 3)
+  14. SCAMA 420R 4X2 TANDEM  30:22.33 (Pos: 3)
+  15. EXPEDITION             34:52.00 (Pos: 3)
+  16. SCAMA DD               36:03.18 (Pos: 3)
+  17. MERSOLES TORITMO       58:02.30 (Pos: 3)
 
 
 
 --- Overall Ranking Table (Sorted by Performance) ---
 --- You get 100 for each vehicle, 10k on top if done all vehicles listed in the table. ---
 
---- Overall Ranking Table (Vehicles 1-19) ---
+--- Overall Ranking Table (Vehicles 1-23) ---
 
-+---+--------------+--------------+----------+---------+------------+--------------+----------+---------+----------+---------+----------+----------+----------------+-----------+----------+----------------+-------+----------+-----------+------------+----------+------------+----------+
-| # | Player       | ID           |  Finished|  TC Cash| EXPEDITION | Heavy Rescue | JAKEBILT | LCT3000 | LIL 1300 | Marigus | MECA 371 | MERESDES | Metro Bus 10.5 | MoveTruck | MUN Fire | PIERCING ARROW | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
-+---+--------------+--------------+----------+---------+------------+--------------+----------+---------+----------+---------+----------+----------+----------------+-----------+----------+----------------+-------+----------+-----------+------------+----------+------------+----------+
-| 1 | p v l 2      | p v l 2      |         7|    1,400|      -     |       1      |     -    |    -    |     -    |    1    |     1    |     1    |        1       |     -     |     1    |        -       |   -   |     -    |     -     |      -     |     1    |      -     |     -    |
-| 2 | whatalife    | whatalife    |        12|    2,400|      3     |       -      |     -    |    -    |     2    |    2    |     -    |     2    |        -       |     -     |     -    |        1       |   1   |     1    |     1     |      2     |     3    |      1     |     3    |
-| 3 | Griffin20069 | Griffin20069 |         9|    1,800|      1     |       -      |     1    |    -    |     1    |    -    |     -    |     3    |        -       |     -     |     -    |        -       |   2   |     -    |     -     |      1     |     2    |      2     |     4    |
-| 4 | Toom43       | Toom43       |         2|      400|      -     |       -      |     -    |    -    |     -    |    -    |     -    |     -    |        -       |     -     |     -    |        -       |   -   |     -    |     -     |      -     |     -    |      3     |     1    |
-| 5 | TPEBOMAH     | TPEBOMAH     |         1|      200|      -     |       -      |     -    |    -    |     -    |    -    |     -    |     -    |        -       |     1     |     -    |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 6 | gt4_pl       | gt4_pl       |         1|      200|      -     |       -      |     -    |    1    |     -    |    -    |     -    |     -    |        -       |     -     |     -    |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 7 | berni25      | berni25      |         2|      400|      2     |       -      |     -    |    -    |     -    |    -    |     -    |     -    |        -       |     -     |     -    |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     2    |
-| 8 | Mr beast     | Mr beast     |         1|      200|      -     |       -      |     -    |    -    |     -    |    3    |     -    |     -    |        -       |     -     |     -    |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-+---+--------------+--------------+----------+---------+------------+--------------+----------+---------+----------+---------+----------+----------+----------------+-----------+----------+----------------+-------+----------+-----------+------------+----------+------------+----------+
-|   | Total        |              |          |    7,000|            |              |          |         |          |         |          |          |                |           |          |                |       |          |           |            |          |            |          |
-+---+--------------+--------------+----------+---------+------------+--------------+----------+---------+----------+---------+----------+----------+----------------+-----------+----------+----------------+-------+----------+-----------+------------+----------+------------+----------+
++----+------------------+----------------------+----------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+----------------+-------+----------+-----------+------------+----------+------------+----------+
+| #  | Player           | ID                   |  Finished|  TC Cash| EXPEDITION | Heavy Rescue | JAKEBILT | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MERESDES | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | ONIBUS VTR | PIERCING ARROW | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
++----+------------------+----------------------+----------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+----------------+-------+----------+-----------+------------+----------+------------+----------+
+| 1  | p v l 2          | p v l 2              |         9|    1,800|      -     |       1      |     -    |    -    |     -    |     -    |    1    |     1    |     1    |         1        |        1       |     -     |     1    |      -      |      -     |        -       |   -   |     -    |     -     |      1     |     1    |      -     |     -    |
+| 2  | whatalife        | whatalife            |        17|    3,400|      3     |       -      |     -    |    -    |     2    |     1    |    2    |     2    |     2    |         3        |        -       |     -     |     2    |      1      |      -     |        1       |   2   |     1    |     1     |      3     |     3    |      1     |     3    |
+| 3  | Griffin20069     | Griffin20069         |         9|    1,800|      1     |       -      |     1    |    -    |     1    |     -    |    -    |     -    |     -    |         2        |        -       |     -     |     -    |      -      |      -     |        -       |   3   |     -    |     -     |      2     |     2    |      2     |     4    |
+| 4  | Toom43           | Toom43               |         2|      400|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   -   |     -    |     -     |      -     |     -    |      3     |     1    |
+| 5  | /Kaiku (thuglife | Red /Kaiku (thuglife |         1|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      1     |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 6  | TPEBOMAH         | TPEBOMAH             |         1|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     1     |     -    |      -      |      -     |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 7  | gt4_pl           | gt4_pl               |         1|      200|      -     |       -      |     -    |    1    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 8  | thuglife_        | thuglife_            |         1|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   1   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 9  | berni25          | berni25              |         2|      400|      2     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     2    |
+| 10 | Mr beast         | Mr beast             |         1|      200|      -     |       -      |     -    |    -    |     -    |     -    |    3    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 11 | WildGamerz       | WildGamerz           |         1|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |        -       |   4   |     -    |     -     |      -     |     -    |      -     |     -    |
++----+------------------+----------------------+----------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+----------------+-------+----------+-----------+------------+----------+------------+----------+
+|    | Total            |                      |          |    9,000|            |              |          |         |          |          |         |          |          |                  |                |           |          |             |            |                |       |          |           |            |          |            |          |
++----+------------------+----------------------+----------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+----------------+-------+----------+-----------+------------+----------+------------+----------+
 
 
 
 
 --- Leaderboard by Total Runs (Highest Total Vehicles First) ---
 
-+---+--------------+--------------+----------+-------------+----------+
-| # | Player       | ID           |  Vehicles|   Total Time|  Avg Time|
-+---+--------------+--------------+----------+-------------+----------+
-| 1 | whatalife    | whatalife    |        12|  04:44:34.87|  23:42.91|
-| 2 | Griffin20069 | Griffin20069 |         9|  03:27:59.30|  23:06.59|
-| 3 | p v l 2      | p v l 2      |         7|  01:47:20.81|  15:20.12|
-| 4 | berni25      | berni25      |         2|     38:24.96|  19:12.48|
-| 5 | Toom43       | Toom43       |         2|     43:07.79|  21:33.89|
-| 6 | TPEBOMAH     | TPEBOMAH     |         1|     10:38.90|  10:38.90|
-| 7 | gt4_pl       | gt4_pl       |         1|     18:49.60|  18:49.60|
-| 8 | Mr beast     | Mr beast     |         1|     42:31.70|  42:31.70|
-+---+--------------+--------------+----------+-------------+----------+
++----+------------------+----------------------+----------+-------------+----------+
+| #  | Player           | ID                   |  Vehicles|   Total Time|  Avg Time|
++----+------------------+----------------------+----------+-------------+----------+
+| 1  | whatalife        | whatalife            |        17|  07:01:33.34|  24:47.84|
+| 2  | p v l 2          | p v l 2              |         9|  02:17:03.91|  15:13.77|
+| 3  | Griffin20069     | Griffin20069         |         9|  03:27:59.30|  23:06.59|
+| 4  | berni25          | berni25              |         2|     38:24.96|  19:12.48|
+| 5  | Toom43           | Toom43               |         2|     43:07.79|  21:33.89|
+| 6  | TPEBOMAH         | TPEBOMAH             |         1|     10:38.90|  10:38.90|
+| 7  | thuglife_        | thuglife_            |         1|     12:21.29|  12:21.29|
+| 8  | /Kaiku (thuglife | Red /Kaiku (thuglife |         1|     17:43.93|  17:43.93|
+| 9  | gt4_pl           | gt4_pl               |         1|     18:49.60|  18:49.60|
+| 10 | WildGamerz       | WildGamerz           |         1|     25:07.51|  25:07.51|
+| 11 | Mr beast         | Mr beast             |         1|     42:31.70|  42:31.70|
++----+------------------+----------------------+----------+-------------+----------+
 
 
 
@@ -188,28 +228,35 @@ India Time:    2025-10-01 06:03:33 IST
   3. JAKEBILT
   4. LCT3000
   5. LIL 1300
-  6. MARIGUS
-  7. MECA 371 MONOBLOCO
-  8. MERESDES E910
-  9. METRO BUS 10.5
-  10. MOVETRUCK
-  11. MUN FIRETRUCK
-  12. PIERCING ARROW XT
-  13. ROSSA
-  14. RTS 6-71
-  15. SCAMA 311 B TOW
-  16. SCAMA 420R 4X2 TANDEM
-  17. SCAMA DD
-  18. SCAMA T580
-  19. TOWN BUS
+  6. LINE RUNNER IVII
+  7. MARIGUS
+  8. MECA 371 MONOBLOCO
+  9. MERESDES E910
+  10. MERSOLES TORITMO
+  11. METRO BUS 10.5
+  12. MOVETRUCK
+  13. MUN FIRETRUCK
+  14. MUN TG DUMPTRUCK
+  15. ONIBUS VTR
+  16. PIERCING ARROW XT
+  17. ROSSA
+  18. RTS 6-71
+  19. SCAMA 311 B TOW
+  20. SCAMA 420R 4X2 TANDEM
+  21. SCAMA DD
+  22. SCAMA T580
+  23. TOWN BUS
 
 --- All Unique Player Names ---
 
-  1. Griffin20069
-  2. Mr beast
-  3. TPEBOMAH
-  4. Toom43
-  5. berni25
-  6. gt4_pl
-  7. p v l 2
-  8. whatalife
+  1. /Kaiku (thuglife
+  2. Griffin20069
+  3. Mr beast
+  4. TPEBOMAH
+  5. Toom43
+  6. WildGamerz
+  7. berni25
+  8. gt4_pl
+  9. p v l 2
+  10. thuglife_
+  11. whatalife
