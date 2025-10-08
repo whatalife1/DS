@@ -596,7 +596,7 @@ Player: Felipe Santos81 (Felipe Santos81) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: Adfir_12 (Adfir_12) is missing the following 139 vehicles:
+Player: Adfir 12 (Adfir 12) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
