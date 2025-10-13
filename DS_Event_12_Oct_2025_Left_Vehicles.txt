@@ -1,0 +1,107 @@
+--- Players and Their Missing Vehicles---
+
+Player: bananov (kilobananov) is missing the following 6 vehicles:
+  1. EXPEDITION
+  2. LCT3000
+  3. MOVETRUCK
+  4. RTS 6-71
+  5. SCAMA T580
+  6. TOWN BUS
+
+Player: p v l 2 (p v l 2) is missing the following 7 vehicles:
+  1. EXPEDITION
+  2. LCT3000
+  3. MARIGUS
+  4. MOVETRUCK
+  5. RTS 6-71
+  6. SCAMA T580
+  7. TOWN BUS
+
+Player: whatalife (whatalife) is missing the following 9 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. MERSOLES TORITMO
+  6. METRO BUS 10.5
+  7. MOVETRUCK
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+
+Player: Griffin20069 (Griffin20069) is missing the following 10 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. MERSOLES TORITMO
+  6. METRO BUS 10.5
+  7. MOVETRUCK
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+  10. SCAMA T580
+
+Player: TKGX (TKGX) is missing the following 11 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. MARIGUS
+  5. MECA 371 MONOBLOCO
+  6. MERSOLES TORITMO
+  7. METRO BUS 10.5
+  8. MOVETRUCK
+  9. MUN FIRETRUCK
+  10. SCAMA T580
+  11. TOWN BUS
+
+Player: TPEBOMAH (TPEBOMAH) is missing the following 11 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. MARIGUS
+  5. MECA 371 MONOBLOCO
+  6. MERSOLES TORITMO
+  7. METRO BUS 10.5
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+  10. SCAMA T580
+  11. TOWN BUS
+
+Player: bzzyg (bzzyg) is missing the following 11 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. MERSOLES TORITMO
+  6. METRO BUS 10.5
+  7. MOVETRUCK
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+  10. SCAMA T580
+  11. TOWN BUS
+
+Player: bzzyq (bzzyq) is missing the following 11 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. MERSOLES TORITMO
+  6. METRO BUS 10.5
+  7. MOVETRUCK
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+  10. SCAMA T580
+  11. TOWN BUS
+
+Player: Mr beast (Mr beast) is missing the following 11 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. MARIGUS
+  4. MECA 371 MONOBLOCO
+  5. MERSOLES TORITMO
+  6. METRO BUS 10.5
+  7. MOVETRUCK
+  8. MUN FIRETRUCK
+  9. RTS 6-71
+  10. SCAMA T580
+  11. TOWN BUS
+
