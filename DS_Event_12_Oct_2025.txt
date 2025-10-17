@@ -1,13 +1,13 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-10-17 00:33:24 UTC
-German Time:   2025-10-17 02:33:24 CEST
-Brazil Time:   2025-10-16 21:33:24 -03
-Saudi Arabia:  2025-10-17 03:33:24 +03
-Turkish Time:  2025-10-17 03:33:24 +03
-India Time:    2025-10-17 06:03:24 IST
-Philippines:   2025-10-17 08:33:24 PST
+UTC Time:      2025-10-17 22:46:17 UTC
+German Time:   2025-10-18 00:46:17 CEST
+Brazil Time:   2025-10-17 19:46:17 -03
+Saudi Arabia:  2025-10-18 01:46:17 +03
+Turkish Time:  2025-10-18 01:46:17 +03
+India Time:    2025-10-18 04:16:17 IST
+Philippines:   2025-10-18 06:46:17 PST
 
 --- Results by Vehicle (Fastest First) ---
 
@@ -18,7 +18,7 @@ Philippines:   2025-10-17 08:33:24 PST
 
 2. EXPEDITION
   1. kilobananov           10:51.92
-  2. [MRc] Atian" (bzzyq)  11:55.22
+  2. [MRc] Atian" (bzzyg)  11:55.22
   3. whatalife             14:35.49
   4. Mr beast              14:46.03
   5. Griffin20069          18:35.72
@@ -31,23 +31,27 @@ Philippines:   2025-10-17 08:33:24 PST
   5. Mr beast              20:56.59
 
 4. LCT3000
-  1. kilobananov           12:13.12
-  2. whatalife             13:57.90
-  3. [MRc] Atian" (bzzyg)  26:44.24
+  1. p v l 2               11:51.71
+  2. kilobananov           12:13.12
+  3. whatalife             13:57.90
+  4. [MRc] Atian" (bzzyg)  26:44.24
 
-5. JAKEBILT
+5. LINE RUNNER IVII
+  1. p v l 2               11:55.23
+  2. kilobananov           12:34.10
+  3. whatalife             14:01.51
+
+6. JAKEBILT
   1. kilobananov           12:32.77
   2. whatalife             20:21.24
-
-6. LINE RUNNER IVII
-  1. kilobananov           12:34.10
-  2. whatalife             14:01.51
+  3. Griffin20069          23:20.48
 
 7. MARIGUS
   1. kilobananov           12:46.24
   2. p v l 2               13:12.31
   3. whatalife             20:12.41
-  4. ImperioJK             34:31.52
+  4. Griffin20069          20:41.04
+  5. ImperioJK             34:31.52
 
 8. RTS 6-71
   1. kilobananov           13:01.18
@@ -55,20 +59,23 @@ Philippines:   2025-10-17 08:33:24 PST
   3. TKGX                  18:21.50
   4. whatalife             25:15.06
 
-9. LIL 1300
-  1. p v l 2               13:29.37
-  2. kilobananov           13:53.29
+9. SCAMA T580
+  1. p v l 2               13:12.47
+  2. kilobananov           13:50.79
+  3. Griffin20069          26:41.35
+  4. whatalife             33:09.95
+
+10. LIL 1300
+  1. kilobananov           13:20.16
+  2. p v l 2               13:29.37
   3. Mr beast              16:10.83
-  4. whatalife             24:47.54
+  4. Griffin20069          18:01.28
+  5. whatalife             24:47.54
 
-10. ONIBUS VTR
-  1. kilobananov           13:40.69
-  2. whatalife             32:43.90
-
-11. SCAMA T580
-  1. kilobananov           13:50.79
-  2. Griffin20069          26:41.35
-  3. whatalife             33:09.95
+11. ONIBUS VTR
+  1. p v l 2               13:20.32
+  2. kilobananov           13:40.69
+  3. whatalife             32:43.90
 
 12. MUN TG DUMPTRUCK
   1. p v l 2               14:10.15
@@ -85,7 +92,8 @@ Philippines:   2025-10-17 08:33:24 PST
 14. SCAMA 311 B TOW
   1. kilobananov           14:14.50
   2. p v l 2               14:27.85
-  3. whatalife             27:57.53
+  3. Griffin20069          19:21.47
+  4. whatalife             27:57.53
 
 15. PIERCING ARROR XT
   1. p v l 2               14:15.61
@@ -103,8 +111,8 @@ Philippines:   2025-10-17 08:33:24 PST
   3. whatalife             18:19.84
 
 18. MERCIDS BNZ 16
-  1. p v l 2               14:58.54
-  2. kilobananov           17:34.80
+  1. kilobananov           14:58.39
+  2. p v l 2               14:58.54
   3. whatalife             30:05.11
 
 19. MECA 371 MONOBLOCO
@@ -133,6 +141,7 @@ Philippines:   2025-10-17 08:33:24 PST
   1. p v l 2               15:59.27
   2. kilobananov           16:24.01
   3. whatalife             24:04.84
+  4. Griffin20069          31:00.07
 
 24. HEAVY RESCUE TRUCK
   1. p v l 2               16:22.36
@@ -151,14 +160,19 @@ Philippines:   2025-10-17 08:33:24 PST
 
 1. Griffin20069 (Griffin20069)
   1.  ROSSA                  11:51.82 (Pos: 2)
-  2.  SCAMA T580             26:41.35 (Pos: 2)
-  3.  SCAMA 420R 4X2 TANDEM  15:29.07 (Pos: 3)
-  4.  TOWN BUS               24:32.44 (Pos: 3)
-  5.  MERSOLES TORITMO       55:48.58 (Pos: 4)
-  6.  EXPEDITION             18:35.72 (Pos: 5)
+  2.  SCAMA 420R 4X2 TANDEM  15:29.07 (Pos: 3)
+  3.  SCAMA 311 B TOW        19:21.47 (Pos: 3)
+  4.  JAKEBILT               23:20.48 (Pos: 3)
+  5.  TOWN BUS               24:32.44 (Pos: 3)
+  6.  SCAMA T580             26:41.35 (Pos: 3)
+  7.  LIL 1300               18:01.28 (Pos: 4)
+  8.  MARIGUS                20:41.04 (Pos: 4)
+  9.  SCAMA DD               31:00.07 (Pos: 4)
+  10. MERSOLES TORITMO       55:48.58 (Pos: 4)
+  11. EXPEDITION             18:35.72 (Pos: 5)
 
 2. ImperioJK (ImperioJK)
-  1.  MARIGUS                34:31.52 (Pos: 4)
+  1.  MARIGUS                34:31.52 (Pos: 5)
 
 3. Mr beast (Mr beast)
   1.  LIL 1300               16:10.83 (Pos: 3)
@@ -177,107 +191,108 @@ Philippines:   2025-10-17 08:33:24 PST
   3.  TOWN BUS               27:51.88 (Pos: 4)
 
 7. bzzyg (bzzyg)
-  1.  LCT3000                26:44.24 (Pos: 3)
-
-8. bzzyq (bzzyq)
   1.  EXPEDITION             11:55.22 (Pos: 2)
+  2.  LCT3000                26:44.24 (Pos: 4)
 
-9. kilobananov (kilobananov)
+8. kilobananov (kilobananov)
   1.  MOVETRUCK              10:39.47 (Pos: 1)
   2.  EXPEDITION             10:51.92 (Pos: 1)
   3.  ROSSA                  11:17.70 (Pos: 1)
-  4.  LCT3000                12:13.12 (Pos: 1)
-  5.  JAKEBILT               12:32.77 (Pos: 1)
-  6.  LINE RUNNER IVII       12:34.10 (Pos: 1)
-  7.  MARIGUS                12:46.24 (Pos: 1)
-  8.  RTS 6-71               13:01.18 (Pos: 1)
-  9.  ONIBUS VTR             13:40.69 (Pos: 1)
-  10. SCAMA T580             13:50.79 (Pos: 1)
-  11. SCAMA 311 B TOW        14:14.50 (Pos: 1)
-  12. LIL 1300               13:53.29 (Pos: 2)
-  13. PIERCING ARROR XT      14:24.03 (Pos: 2)
-  14. MUN FIRETRUCK          14:52.84 (Pos: 2)
-  15. MUN TG DUMPTRUCK       14:54.92 (Pos: 2)
-  16. SCAMA 420R 4X2 TANDEM  15:00.63 (Pos: 2)
-  17. MECA 371 MONOBLOCO     15:35.78 (Pos: 2)
-  18. SCAMA DD               16:24.01 (Pos: 2)
-  19. TOWN BUS               16:25.24 (Pos: 2)
-  20. METRO BUS 10.5         16:43.25 (Pos: 2)
-  21. RACHA 707              16:49.25 (Pos: 2)
-  22. NELSIN 380             17:06.88 (Pos: 2)
-  23. HEAVY RESCUE TRUCK     17:09.46 (Pos: 2)
-  24. MERCIDS BNZ 16         17:34.80 (Pos: 2)
+  4.  JAKEBILT               12:32.77 (Pos: 1)
+  5.  MARIGUS                12:46.24 (Pos: 1)
+  6.  RTS 6-71               13:01.18 (Pos: 1)
+  7.  LIL 1300               13:20.16 (Pos: 1)
+  8.  SCAMA 311 B TOW        14:14.50 (Pos: 1)
+  9.  MERCIDS BNZ 16         14:58.39 (Pos: 1)
+  10. LCT3000                12:13.12 (Pos: 2)
+  11. LINE RUNNER IVII       12:34.10 (Pos: 2)
+  12. ONIBUS VTR             13:40.69 (Pos: 2)
+  13. SCAMA T580             13:50.79 (Pos: 2)
+  14. PIERCING ARROR XT      14:24.03 (Pos: 2)
+  15. MUN FIRETRUCK          14:52.84 (Pos: 2)
+  16. MUN TG DUMPTRUCK       14:54.92 (Pos: 2)
+  17. SCAMA 420R 4X2 TANDEM  15:00.63 (Pos: 2)
+  18. MECA 371 MONOBLOCO     15:35.78 (Pos: 2)
+  19. SCAMA DD               16:24.01 (Pos: 2)
+  20. TOWN BUS               16:25.24 (Pos: 2)
+  21. METRO BUS 10.5         16:43.25 (Pos: 2)
+  22. RACHA 707              16:49.25 (Pos: 2)
+  23. NELSIN 380             17:06.88 (Pos: 2)
+  24. HEAVY RESCUE TRUCK     17:09.46 (Pos: 2)
   25. MERSOLES TORITMO       18:32.87 (Pos: 2)
 
-10. p v l 2 (p v l 2)
-  1.  LIL 1300               13:29.37 (Pos: 1)
-  2.  MUN TG DUMPTRUCK       14:10.15 (Pos: 1)
-  3.  SCAMA 420R 4X2 TANDEM  14:14.01 (Pos: 1)
-  4.  PIERCING ARROR XT      14:15.61 (Pos: 1)
-  5.  MUN FIRETRUCK          14:22.82 (Pos: 1)
-  6.  METRO BUS 10.5         14:50.97 (Pos: 1)
-  7.  MERCIDS BNZ 16         14:58.54 (Pos: 1)
-  8.  MECA 371 MONOBLOCO     15:16.91 (Pos: 1)
-  9.  RACHA 707              15:17.80 (Pos: 1)
-  10. TOWN BUS               15:19.78 (Pos: 1)
-  11. NELSIN 380             15:57.17 (Pos: 1)
-  12. SCAMA DD               15:59.27 (Pos: 1)
-  13. HEAVY RESCUE TRUCK     16:22.36 (Pos: 1)
-  14. MERSOLES TORITMO       16:59.53 (Pos: 1)
-  15. MARIGUS                13:12.31 (Pos: 2)
-  16. RTS 6-71               13:25.95 (Pos: 2)
-  17. SCAMA 311 B TOW        14:27.85 (Pos: 2)
+9. p v l 2 (p v l 2)
+  1.  LCT3000                11:51.71 (Pos: 1)
+  2.  LINE RUNNER IVII       11:55.23 (Pos: 1)
+  3.  SCAMA T580             13:12.47 (Pos: 1)
+  4.  ONIBUS VTR             13:20.32 (Pos: 1)
+  5.  MUN TG DUMPTRUCK       14:10.15 (Pos: 1)
+  6.  SCAMA 420R 4X2 TANDEM  14:14.01 (Pos: 1)
+  7.  PIERCING ARROR XT      14:15.61 (Pos: 1)
+  8.  MUN FIRETRUCK          14:22.82 (Pos: 1)
+  9.  METRO BUS 10.5         14:50.97 (Pos: 1)
+  10. MECA 371 MONOBLOCO     15:16.91 (Pos: 1)
+  11. RACHA 707              15:17.80 (Pos: 1)
+  12. TOWN BUS               15:19.78 (Pos: 1)
+  13. NELSIN 380             15:57.17 (Pos: 1)
+  14. SCAMA DD               15:59.27 (Pos: 1)
+  15. HEAVY RESCUE TRUCK     16:22.36 (Pos: 1)
+  16. MERSOLES TORITMO       16:59.53 (Pos: 1)
+  17. MARIGUS                13:12.31 (Pos: 2)
+  18. RTS 6-71               13:25.95 (Pos: 2)
+  19. LIL 1300               13:29.37 (Pos: 2)
+  20. SCAMA 311 B TOW        14:27.85 (Pos: 2)
+  21. MERCIDS BNZ 16         14:58.54 (Pos: 2)
 
-11. whatalife (whatalife)
-  1.  LCT3000                13:57.90 (Pos: 2)
-  2.  LINE RUNNER IVII       14:01.51 (Pos: 2)
-  3.  MOVETRUCK              17:39.22 (Pos: 2)
-  4.  JAKEBILT               20:21.24 (Pos: 2)
-  5.  ONIBUS VTR             32:43.90 (Pos: 2)
-  6.  EXPEDITION             14:35.49 (Pos: 3)
-  7.  MUN TG DUMPTRUCK       16:13.62 (Pos: 3)
-  8.  METRO BUS 10.5         18:19.84 (Pos: 3)
-  9.  MARIGUS                20:12.41 (Pos: 3)
-  10. PIERCING ARROR XT      20:20.86 (Pos: 3)
-  11. HEAVY RESCUE TRUCK     22:17.19 (Pos: 3)
-  12. RACHA 707              23:06.35 (Pos: 3)
-  13. SCAMA DD               24:04.84 (Pos: 3)
-  14. MERSOLES TORITMO       26:13.90 (Pos: 3)
-  15. MUN FIRETRUCK          26:26.56 (Pos: 3)
-  16. MECA 371 MONOBLOCO     26:53.38 (Pos: 3)
-  17. SCAMA 311 B TOW        27:57.53 (Pos: 3)
-  18. MERCIDS BNZ 16         30:05.11 (Pos: 3)
-  19. NELSIN 380             30:12.70 (Pos: 3)
-  20. SCAMA T580             33:09.95 (Pos: 3)
-  21. ROSSA                  17:16.05 (Pos: 4)
-  22. LIL 1300               24:47.54 (Pos: 4)
-  23. RTS 6-71               25:15.06 (Pos: 4)
-  24. SCAMA 420R 4X2 TANDEM  27:27.33 (Pos: 4)
+10. whatalife (whatalife)
+  1.  MOVETRUCK              17:39.22 (Pos: 2)
+  2.  JAKEBILT               20:21.24 (Pos: 2)
+  3.  LCT3000                13:57.90 (Pos: 3)
+  4.  LINE RUNNER IVII       14:01.51 (Pos: 3)
+  5.  EXPEDITION             14:35.49 (Pos: 3)
+  6.  MUN TG DUMPTRUCK       16:13.62 (Pos: 3)
+  7.  METRO BUS 10.5         18:19.84 (Pos: 3)
+  8.  MARIGUS                20:12.41 (Pos: 3)
+  9.  PIERCING ARROR XT      20:20.86 (Pos: 3)
+  10. HEAVY RESCUE TRUCK     22:17.19 (Pos: 3)
+  11. RACHA 707              23:06.35 (Pos: 3)
+  12. SCAMA DD               24:04.84 (Pos: 3)
+  13. MERSOLES TORITMO       26:13.90 (Pos: 3)
+  14. MUN FIRETRUCK          26:26.56 (Pos: 3)
+  15. MECA 371 MONOBLOCO     26:53.38 (Pos: 3)
+  16. MERCIDS BNZ 16         30:05.11 (Pos: 3)
+  17. NELSIN 380             30:12.70 (Pos: 3)
+  18. ONIBUS VTR             32:43.90 (Pos: 3)
+  19. ROSSA                  17:16.05 (Pos: 4)
+  20. RTS 6-71               25:15.06 (Pos: 4)
+  21. SCAMA 420R 4X2 TANDEM  27:27.33 (Pos: 4)
+  22. SCAMA 311 B TOW        27:57.53 (Pos: 4)
+  23. SCAMA T580             33:09.95 (Pos: 4)
+  24. LIL 1300               24:47.54 (Pos: 5)
   25. TOWN BUS               33:59.61 (Pos: 5)
 
 
 
 --- Overall Ranking Table (Sorted by Performance) ---
 --- Base cash: 200 for each vehicle finished. (25*200=5,000$) ---
---- if done all 25 vehicles ?? Extra 5,000 bonus ---
+--- if done all 25 vehicles  Extra 5,000 bonus ---
 --- Overall Ranking Table (Vehicles 1-25) ---
 
 +----+--------------+--------------+----------+---------+--------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
 | #  | Player       | ID           |  Finished|  TC Cash|   Bonus|  Total $| EXPEDITION | Heavy Rescue | JAKEBILT | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MERCIDS  | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | NELSIN 380 | ONIBUS VTR | PIERCING | RACHA 707 | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
 +----+--------------+--------------+----------+---------+--------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
-| 1  | p v l 2      | p v l 2      |        17|    3,400|       0|    3,400|      -     |       1      |     -    |    -    |     1    |     -    |    2    |     1    |     1    |         1        |        1       |     -     |     1    |      1      |      1     |      -     |     1    |     1     |   -   |     2    |     2     |      1     |     1    |      -     |     1    |
-| 2  | kilobananov  | kilobananov  |        25|    5,000|   5,000|   10,000|      1     |       2      |     1    |    1    |     2    |     1    |    1    |     2    |     2    |         2        |        2       |     1     |     2    |      2      |      2     |      1     |     2    |     2     |   1   |     1    |     1     |      2     |     2    |      1     |     2    |
-| 3  | whatalife    | whatalife    |        25|    5,000|   5,000|   10,000|      3     |       3      |     2    |    2    |     4    |     2    |    3    |     3    |     3    |         3        |        3       |     2     |     3    |      3      |      3     |      2     |     3    |     3     |   4   |     4    |     3     |      4     |     3    |      3     |     5    |
-| 4  | Griffin20069 | Griffin20069 |         6|    1,200|       0|    1,200|      5     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         4        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   2   |     -    |     -     |      3     |     -    |      2     |     3    |
-| 5  | bzzyq        | bzzyq        |         1|      200|       0|      200|      2     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 1  | p v l 2      | p v l 2      |        21|    4,200|       0|    4,200|      -     |       1      |     -    |    1    |     2    |     1    |    2    |     1    |     2    |         1        |        1       |     -     |     1    |      1      |      1     |      1     |     1    |     1     |   -   |     2    |     2     |      1     |     1    |      1     |     1    |
+| 2  | kilobananov  | kilobananov  |        25|    5,000|   5,000|   10,000|      1     |       2      |     1    |    2    |     1    |     2    |    1    |     2    |     1    |         2        |        2       |     1     |     2    |      2      |      2     |      2     |     2    |     2     |   1   |     1    |     1     |      2     |     2    |      2     |     2    |
+| 3  | whatalife    | whatalife    |        25|    5,000|   5,000|   10,000|      3     |       3      |     2    |    3    |     5    |     3    |    3    |     3    |     3    |         3        |        3       |     2     |     3    |      3      |      3     |      3     |     3    |     3     |   4   |     4    |     4     |      4     |     3    |      4     |     5    |
+| 4  | Griffin20069 | Griffin20069 |        11|    2,200|       0|    2,200|      5     |       -      |     3    |    -    |     4    |     -    |    4    |     -    |     -    |         4        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   2   |     -    |     3     |      3     |     4    |      3     |     3    |
+| 5  | bzzyg        | bzzyg        |         2|      400|       0|      400|      2     |       -      |     -    |    4    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
 | 6  | Toom43       | Toom43       |         3|      600|       0|      600|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      4      |      -     |      -     |     -    |     -     |   3   |     -    |     -     |      -     |     -    |      -     |     4    |
 | 7  | Mr beast     | Mr beast     |         3|      600|       0|      600|      4     |       -      |     -    |    -    |     3    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   5   |     -    |     -     |      -     |     -    |      -     |     -    |
 | 8  | TKGX         | TKGX         |         1|      200|       0|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     3    |     -     |      -     |     -    |      -     |     -    |
 | 9  | TPEBOMAH     | TPEBOMAH     |         1|      200|       0|      200|      -     |       -      |     -    |    -    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 10 | bzzyg        | bzzyg        |         1|      200|       0|      200|      -     |       -      |     -    |    3    |     -    |     -    |    -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 11 | ImperioJK    | ImperioJK    |         1|      200|       0|      200|      -     |       -      |     -    |    -    |     -    |     -    |    4    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 10 | ImperioJK    | ImperioJK    |         1|      200|       0|      200|      -     |       -      |     -    |    -    |     -    |     -    |    5    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
 +----+--------------+--------------+----------+---------+--------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
-|    | Total        |              |          |   16,800|  10,000|   26,800|            |              |          |         |          |          |         |          |          |                  |                |           |          |             |            |            |          |           |       |          |           |            |          |            |          |
+|    | Total        |              |          |   18,600|  10,000|   28,600|            |              |          |         |          |          |         |          |          |                  |                |           |          |             |            |            |          |           |       |          |           |            |          |            |          |
 +----+--------------+--------------+----------+---------+--------+---------+------------+--------------+----------+---------+----------+----------+---------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
 
 
@@ -288,17 +303,16 @@ Philippines:   2025-10-17 08:33:24 PST
 +----+--------------+--------------+----------+-------------+----------+
 | #  | Player       | ID           |  Vehicles|   Total Time|  Avg Time|
 +----+--------------+--------------+----------+-------------+----------+
-| 1  | kilobananov  | kilobananov  |        25|  06:03:09.73|  14:31.59|
+| 1  | kilobananov  | kilobananov  |        25|  06:00:00.19|  14:24.01|
 | 2  | whatalife    | whatalife    |        25|  09:47:39.09|  23:30.36|
-| 3  | p v l 2      | p v l 2      |        17|  04:12:40.40|  14:51.79|
-| 4  | Griffin20069 | Griffin20069 |         6|  02:32:58.98|  25:29.83|
+| 3  | p v l 2      | p v l 2      |        21|  05:03:00.13|  14:25.72|
+| 4  | Griffin20069 | Griffin20069 |        11|  04:25:23.32|  24:07.57|
 | 5  | Mr beast     | Mr beast     |         3|     51:53.45|  17:17.82|
 | 6  | Toom43       | Toom43       |         3|  01:02:34.09|  20:51.36|
-| 7  | bzzyq        | bzzyq        |         1|     11:55.22|  11:55.22|
+| 7  | bzzyg        | bzzyg        |         2|     38:39.46|  19:19.73|
 | 8  | TKGX         | TKGX         |         1|     18:21.50|  18:21.50|
 | 9  | TPEBOMAH     | TPEBOMAH     |         1|     21:05.67|  21:05.67|
-| 10 | bzzyg        | bzzyg        |         1|     26:44.24|  26:44.24|
-| 11 | ImperioJK    | ImperioJK    |         1|     34:31.52|  34:31.52|
+| 10 | ImperioJK    | ImperioJK    |         1|     34:31.52|  34:31.52|
 +----+--------------+--------------+----------+-------------+----------+
 
 
@@ -341,7 +355,6 @@ Philippines:   2025-10-17 08:33:24 PST
   5. TPEBOMAH
   6. Toom43
   7. bzzyg
-  8. bzzyq
-  9. kilobananov
-  10. p v l 2
-  11. whatalife
+  8. kilobananov
+  9. p v l 2
+  10. whatalife
