@@ -1,0 +1,1205 @@
+--- Report Generation Info ---
+
+Report generated at:
+UTC Time:      2025-10-20 15:38:21 UTC
+German Time:   2025-10-20 17:38:21 CEST
+Brazil Time:   2025-10-20 12:38:21 -03
+Saudi Arabia:  2025-10-20 18:38:21 +03
+Turkish Time:  2025-10-20 18:38:21 +03
+India Time:    2025-10-20 21:08:21 IST
+Philippines:   2025-10-20 23:38:21 PST
+
+--- Results by Vehicle (Fastest First) ---
+
+1. FZ50 GTR
+  1. Toom43           00:39.23
+  2. kilobananov      00:43.71
+  3. p v l 2          00:44.58
+  4. Outwhi (Outwhi)  00:51.70
+  5. Griffin20069     01:01.82
+
+2. FXO GTR
+  1. kilobananov      00:43.41
+  2. p v l 2          00:45.87
+  3. Griffin20069     01:00.82
+
+3. RS1 KENJI
+  1. Griffin20069     00:45.07
+  2. whatalife        01:04.72
+
+4. ADDA S83 1.8T
+  1. Griffin20069     00:45.41
+  2. whatalife        01:03.06
+
+5. XF GTR
+  1. kilobananov      00:46.33
+  2. p v l 2          00:48.05
+  3. Griffin20069     01:04.27
+
+6. FORMULA XR
+  1. p v l 2          00:46.53
+  2. kilobananov      00:59.39
+  3. Griffin20069     01:02.08
+
+7. IMPREZZIVE B2
+  1. Griffin20069     00:46.79
+  2. whatalife        01:03.50
+
+8. XR1 PROCAR
+  1. Griffin20069     00:46.88
+  2. whatalife        01:08.86
+
+9. PORCHETE TIGER GTS
+  1. Griffin20069     00:47.28
+  2. whatalife        01:03.46
+  3. Outwhi (Outwhi)  01:07.99
+
+10. FZ50
+  1. p v l 2          00:47.67
+  2. kilobananov      00:51.08
+  3. Griffin20069     00:54.50
+
+11. EM30
+  1. Griffin20069     00:48.22
+  2. whatalife        01:01.42
+
+12. XR GTR
+  1. kilobananov      00:48.27
+  2. p v l 2          00:49.51
+  3. Griffin20069     00:50.84
+
+13. XM-5 CUP
+  1. Griffin20069     00:48.40
+  2. whatalife        01:05.73
+
+14. LACIBRE V6
+  1. Griffin20069     00:48.42
+  2. whatalife        01:05.88
+
+15. RS1 KENJI RX
+  1. Griffin20069     00:48.75
+  2. whatalife        01:00.56
+
+16. FORMULA V8
+  1. p v l 2          00:48.80
+  2. kilobananov      00:55.56
+  3. Griffin20069     00:59.27
+
+17. GW-DECA
+  1. Griffin20069     00:48.82
+  2. whatalife        01:05.80
+
+18. KORAMA R
+  1. Griffin20069     00:49.05
+  2. whatalife        01:12.94
+
+19. RACEABOUT
+  1. p v l 2          00:49.28
+  2. kilobananov      00:53.33
+  3. Griffin20069     00:57.69
+
+20. GOD FOOT
+  1. Griffin20069     00:49.45
+  2. whatalife        00:58.85
+
+21. ADDA 8A 4.2 TDI
+  1. Griffin20069     00:49.46
+  2. whatalife        00:55.26
+
+22. FRAUD WHEELER E2
+  1. Griffin20069     00:49.49
+  2. whatalife        00:58.43
+
+23. VGI-6 TEDAVI
+  1. Griffin20069     00:50.19
+  2. whatalife        01:14.58
+
+24. THR MB500
+  1. Griffin20069     00:50.34
+  2. whatalife        01:09.04
+
+25. TALOT SUNS LOMIS
+  1. Griffin20069     00:50.68
+  2. whatalife        01:13.96
+
+26. ERESO
+  1. Griffin20069     00:50.79
+  2. whatalife        01:05.68
+
+27. GT-V34
+  1. Griffin20069     00:50.96
+  2. whatalife        01:05.65
+
+28. UF GTR
+  1. p v l 2          00:51.05
+  2. kilobananov      00:54.42
+  3. Griffin20069     01:06.08
+
+29. LORY GP5
+  1. Griffin20069     00:51.12
+  2. whatalife        01:01.41
+
+30. LX6
+  1. p v l 2          00:51.36
+  2. kilobananov      00:55.01
+  3. Griffin20069     01:05.83
+
+31. GUCIMOTO
+  1. Griffin20069     00:51.59
+  2. p v l 2          01:06.56
+
+32. RB4 GT
+  1. kilobananov      00:51.71
+  2. p v l 2          00:52.43
+  3. Griffin20069     00:54.90
+
+33. BETA 65
+  1. Griffin20069     00:51.72
+  2. whatalife        01:19.30
+
+34. GG55 AMD
+  1. Griffin20069     00:51.74
+  2. whatalife        01:13.64
+
+35. XR GT TURBO
+  1. Griffin20069     00:51.83
+  2. kilobananov      00:52.27
+  3. p v l 2          00:52.66
+
+36. SWIRL SPORT 06
+  1. Griffin20069     00:52.01
+  2. whatalife        01:05.52
+
+37. FORMULA 60
+  1. Griffin20069     00:52.01
+  2. whatalife        01:09.37
+
+38. XF GTI
+  1. Toom43           00:52.02
+  2. p v l 2          00:57.65
+  3. kilobananov      00:59.44
+  4. Griffin20069     01:01.14
+
+39. ACOSTA STARLIN
+  1. Griffin20069     00:52.20
+  2. whatalife        01:06.24
+
+40. FRAUD 040
+  1. Griffin20069     00:52.50
+  2. whatalife        01:00.23
+
+41. UF 1100T
+  1. Griffin20069     00:52.51
+  2. whatalife        01:06.44
+
+42. LX4
+  1. kilobananov      00:52.62
+  2. p v l 2          00:54.10
+  3. Griffin20069     01:03.35
+
+43. GWMK24DR
+  1. Griffin20069     00:52.66
+  2. whatalife        01:02.67
+
+44. ADDA AR-EIGHT V10
+  1. Griffin20069     00:52.67
+  2. whatalife        01:11.61
+
+45. FXO TURBO
+  1. p v l 2          00:52.71
+  2. kilobananov      00:53.43
+  3. Griffin20069     01:02.98
+
+46. BMW SAUBER F1.06
+  1. Griffin20069     00:52.77
+  2. p v l 2          00:57.04
+  3. kilobananov      01:01.19
+
+47. FUCA SPORT SYSTEM
+  1. Griffin20069     00:53.06
+  2. whatalife        01:05.68
+
+48. KEEROCK
+  1. Griffin20069     00:53.11
+  2. whatalife        01:10.94
+
+49. MALANDRO - STOCKPRO
+  1. Griffin20069     00:53.19
+  2. whatalife        01:01.29
+
+50. IBUSHA SAGA 2.6
+  1. Griffin20069     00:53.41
+  2. whatalife        01:06.54
+
+51. SPEC R
+  1. Griffin20069     00:53.46
+  2. whatalife        01:09.39
+
+52. BZ30 ROADSTER SPORT
+  1. Griffin20069     00:53.53
+  2. whatalife        01:08.05
+
+53. HADIMRSKA HOTRODD
+  1. Griffin20069     00:53.54
+  2. whatalife        01:07.13
+
+54. UF 1000
+  1. Toom43           00:53.57
+  2. kilobananov      01:05.03
+  3. p v l 2          01:10.13
+  4. Griffin20069     01:15.81
+
+55. PROTOTYPE 2
+  1. Griffin20069     00:53.57
+  2. whatalife        01:14.59
+
+56. AHMED 4.0RS
+  1. Griffin20069     00:53.61
+  2. whatalife        01:07.62
+
+57. JIIRO
+  1. Griffin20069     00:53.78
+  2. whatalife        01:03.38
+
+58. TOYATE SUPROZA T
+  1. Griffin20069     00:53.89
+  2. whatalife        00:56.47
+
+59. MERESDES E910
+  1. Griffin20069     00:54.52
+  2. whatalife        01:17.42
+
+60. PUSCH 674B
+  1. Griffin20069     00:54.55
+  2. whatalife        01:12.09
+
+61. BD6 VERT
+  1. Griffin20069     00:54.63
+  2. whatalife        01:29.01
+
+62. XR GT
+  1. kilobananov      00:54.63
+  2. Griffin20069     00:56.88
+  3. p v l 2          00:57.61
+
+63. SKODA 110 L RALLYE
+  1. Griffin20069     00:54.66
+  2. whatalife        01:28.91
+
+64. N.400S
+  1. Griffin20069     00:54.69
+  2. whatalife        01:01.82
+
+65. FRAUD BIG BOY
+  1. Griffin20069     00:54.82
+  2. whatalife        01:07.54
+
+66. CHALLENGE ST
+  1. Griffin20069     00:55.06
+  2. whatalife        01:11.35
+
+67. FORMULA BMW FB02
+  1. p v l 2          00:55.06
+  2. Griffin20069     00:58.15
+  3. kilobananov      01:01.36
+
+68. ADDA 5200
+  1. Griffin20069     00:55.08
+  2. whatalife        01:07.67
+
+69. T46 SPORT R
+  1. Griffin20069     00:55.20
+  2. whatalife        01:01.27
+
+70. SPOTTEDKITTEN COUPE
+  1. Griffin20069     00:55.54
+  2. whatalife        01:09.01
+
+71. RAY 400 RALLY
+  1. Griffin20069     00:55.58
+  2. whatalife        01:03.99
+
+72. ELIIN0R
+  1. Griffin20069     00:55.71
+  2. whatalife        01:02.61
+
+73. VALUTA V8
+  1. Griffin20069     00:55.81
+  2. whatalife        01:17.16
+
+74. BUMER 7
+  1. Griffin20069     00:56.33
+  2. whatalife        01:05.06
+
+75. INTERCEPTOR
+  1. Griffin20069     00:56.36
+  2. whatalife        01:03.50
+
+76. GORKIY 10
+  1. Griffin20069     00:56.37
+  2. whatalife        01:12.26
+
+77. SHARK C GROUP 2
+  1. Griffin20069     00:56.42
+  2. whatalife        01:00.19
+
+78. UF PICKUP TRUCK
+  1. whatalife        00:56.68
+  2. Griffin20069     00:58.21
+
+79. CX WAGON
+  1. Griffin20069     00:57.05
+  2. whatalife        01:12.86
+
+80. SHARK C
+  1. Griffin20069     00:57.42
+  2. whatalife        01:06.04
+
+81. WESSEX R69SP
+  1. Griffin20069     00:57.42
+  2. whatalife        01:05.09
+
+82. PZG COMPACT
+  1. Griffin20069     00:57.50
+  2. whatalife        01:05.48
+
+83. POCKET UF
+  1. WildGamerz       00:57.57
+  2. Griffin20069     00:58.08
+  3. whatalife        01:19.00
+
+84. GWMK2
+  1. Griffin20069     00:57.73
+  2. whatalife        01:01.27
+
+85. BACALHAU
+  1. Griffin20069     00:57.91
+  2. whatalife        01:08.39
+
+86. SEDAN
+  1. Griffin20069     00:57.91
+  2. whatalife        01:15.45
+
+87. MRT5
+  1. p v l 2          00:58.04
+  2. Griffin20069     01:02.63
+  3. kilobananov      01:04.26
+
+88. TAZ07 CLASSIC
+  1. Griffin20069     00:58.20
+  2. whatalife        01:06.66
+
+89. DIAMOND
+  1. Griffin20069     00:59.06
+  2. whatalife        01:10.36
+
+90. PONTACH GT
+  1. Griffin20069     01:00.11
+  2. whatalife        01:09.04
+
+91. YAHAMA MIT09
+  1. p v l 2          01:00.18
+  2. Griffin20069     01:17.88
+
+92. HJETT
+  1. Griffin20069     01:00.43
+  2. whatalife        01:10.59
+
+93. GRAND PRIX LEGEND 65
+  1. Griffin20069     01:00.49
+  2. whatalife        01:13.86
+
+94. SZK 400 CLASSIC
+  1. p v l 2          01:00.53
+  2. Griffin20069     01:05.45
+
+95. ROSSA
+  1. Griffin20069     01:00.73
+  2. whatalife        01:15.13
+
+96. GX-BUGGY STAGE R
+  1. Griffin20069     01:00.77
+  2. whatalife        01:03.92
+
+97. POSCHER CAYNAM 718
+  1. Griffin20069     01:00.84
+  2. whatalife        01:14.00
+
+98. BOLKSWAGON GOFF TGI
+  1. Griffin20069     01:00.88
+  2. whatalife        01:11.25
+
+99. HUMHII
+  1. Griffin20069     01:01.19
+  2. whatalife        01:12.42
+
+100. MC SPLANTER
+  1. Griffin20069     01:01.26
+  2. whatalife        01:12.88
+
+101. SM500
+  1. p v l 2          01:01.27
+  2. Griffin20069     01:12.39
+
+102. RZT 370
+  1. p v l 2          01:01.91
+  2. Griffin20069     01:29.93
+
+103. GP125
+  1. p v l 2          01:02.16
+  2. Griffin20069     01:17.43
+
+104. REAPER X1
+  1. p v l 2          01:02.17
+  2. Griffin20069     01:07.28
+
+105. BD9115
+  1. whatalife        01:02.40
+  2. Griffin20069     01:06.19
+
+106. HANZMUND V8
+  1. kilobananov      01:02.96
+  2. Griffin20069     01:12.08
+  3. whatalife        01:18.75
+
+107. YKS-100
+  1. p v l 2          01:02.98
+  2. Griffin20069     01:02.98
+
+108. HORDA CFR450
+  1. p v l 2          01:03.14
+  2. Griffin20069     01:35.63
+
+109. BUG WAGON
+  1. Griffin20069     01:03.65
+  2. whatalife        01:21.20
+
+110. UZOVKA
+  1. Griffin20069     01:03.74
+  2. kilobananov      01:07.46
+  3. whatalife        01:20.26
+
+111. SKODA FELICIA
+  1. Griffin20069     01:03.79
+  2. kilobananov      01:08.77
+  3. whatalife        01:19.34
+
+112. BD750
+  1. Griffin20069     01:04.26
+  2. p v l 2          01:04.42
+
+113. RZM 250
+  1. p v l 2          01:04.32
+  2. Griffin20069     01:15.72
+
+114. LEMON FANTOMAS
+  1. Griffin20069     01:04.33
+  2. whatalife        01:08.04
+
+115. TOMMY28
+  1. Griffin20069     01:04.45
+  2. whatalife        01:22.17
+
+116. THR SR2000
+  1. Griffin20069     01:04.52
+  2. whatalife        01:14.14
+
+117. HBIKE V2
+  1. Griffin20069     01:04.78
+  2. p v l 2          01:11.70
+
+118. WATBRUG 353
+  1. p v l 2          01:04.88
+  2. Griffin20069     01:11.62
+  3. whatalife        01:24.07
+  4. kilobananov      01:28.47
+
+119. YKS-R1052
+  1. p v l 2          01:05.05
+  2. Griffin20069     01:07.34
+
+120. LAND ROAMER
+  1. Griffin20069     01:05.06
+  2. whatalife        01:18.12
+
+121. YAHAMA CT200
+  1. p v l 2          01:05.57
+  2. Griffin20069     01:11.63
+
+122. T34 SPORT
+  1. Griffin20069     01:05.70
+  2. whatalife        01:22.85
+
+123. JW 350
+  1. Griffin20069     01:06.10
+  2. p v l 2          01:10.34
+
+124. VULCAN 998
+  1. p v l 2          01:06.47
+  2. Griffin20069     01:19.16
+
+125. VANLIFE
+  1. Griffin20069     01:06.59
+  2. whatalife        01:17.00
+
+126. EXPEDITION
+  1. Griffin20069     01:06.63
+  2. whatalife        01:18.86
+
+127. K300X
+  1. p v l 2          01:07.01
+  2. Griffin20069     01:40.92
+
+128. GHOUL 250RR
+  1. p v l 2          01:07.84
+  2. Griffin20069     01:18.06
+
+129. YAMI 3R
+  1. p v l 2          01:08.76
+  2. Griffin20069     01:17.14
+
+130. RTS 6-71
+  1. Griffin20069     01:09.07
+  2. p v l 2          01:09.57
+  3. whatalife        01:21.95
+  4. kilobananov      06:23.40
+
+131. ANCHOIS GORBINI
+  1. Griffin20069     01:09.61
+  2. whatalife        01:14.74
+
+132. THR OP4500
+  1. Griffin20069     01:09.61
+  2. whatalife        01:22.22
+
+133. YAHAMA CT125 DR
+  1. p v l 2          01:10.14
+  2. Griffin20069     01:25.78
+
+134. TAZ 0521
+  1. Griffin20069     01:11.46
+  2. kilobananov      01:14.60
+  3. whatalife        01:26.31
+
+135. EMKO
+  1. Griffin20069     01:14.21
+  2. whatalife        01:18.33
+
+136. GX-BUGGY STAGE 2
+  1. whatalife        01:15.53
+  2. Griffin20069     01:19.38
+
+137. LCT3000
+  1. Griffin20069     01:16.19
+  2. whatalife        01:29.70
+
+138. LINE RUNNER IVII
+  1. whatalife        01:16.64
+  2. Griffin20069     01:26.33
+
+139. GX-BUGGY
+  1. Griffin20069     01:19.11
+  2. whatalife        01:19.44
+
+140. FRAUD PRE RUNNER
+  1. whatalife        01:27.00
+  2. Griffin20069     01:38.43
+
+
+
+--- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
+
+1. Griffin20069 (Griffin20069)
+  1.   RS1 KENJI             00:45.07 (Pos: 1)
+  2.   ADDA S83 1.8T         00:45.41 (Pos: 1)
+  3.   IMPREZZIVE B2         00:46.79 (Pos: 1)
+  4.   XR1 PROCAR            00:46.88 (Pos: 1)
+  5.   PORCHETE TIGER GTS    00:47.28 (Pos: 1)
+  6.   EM30                  00:48.22 (Pos: 1)
+  7.   XM-5 CUP              00:48.40 (Pos: 1)
+  8.   LACIBRE V6            00:48.42 (Pos: 1)
+  9.   RS1 KENJI RX          00:48.75 (Pos: 1)
+  10.  GW-DECA               00:48.82 (Pos: 1)
+  11.  KORAMA R              00:49.05 (Pos: 1)
+  12.  GOD FOOT              00:49.45 (Pos: 1)
+  13.  ADDA 8A 4.2 TDI       00:49.46 (Pos: 1)
+  14.  FRAUD WHEELER E2      00:49.49 (Pos: 1)
+  15.  VGI-6 TEDAVI          00:50.19 (Pos: 1)
+  16.  THR MB500             00:50.34 (Pos: 1)
+  17.  TALOT SUNS LOMIS      00:50.68 (Pos: 1)
+  18.  ERESO                 00:50.79 (Pos: 1)
+  19.  GT-V34                00:50.96 (Pos: 1)
+  20.  LORY GP5              00:51.12 (Pos: 1)
+  21.  GUCIMOTO              00:51.59 (Pos: 1)
+  22.  BETA 65               00:51.72 (Pos: 1)
+  23.  GG55 AMD              00:51.74 (Pos: 1)
+  24.  XR GT TURBO           00:51.83 (Pos: 1)
+  25.  SWIRL SPORT 06        00:52.01 (Pos: 1)
+  26.  FORMULA 60            00:52.01 (Pos: 1)
+  27.  ACOSTA STARLIN        00:52.20 (Pos: 1)
+  28.  FRAUD 040             00:52.50 (Pos: 1)
+  29.  UF 1100T              00:52.51 (Pos: 1)
+  30.  GWMK24DR              00:52.66 (Pos: 1)
+  31.  ADDA AR-EIGHT V10     00:52.67 (Pos: 1)
+  32.  BMW SAUBER F1.06      00:52.77 (Pos: 1)
+  33.  FUCA SPORT SYSTEM     00:53.06 (Pos: 1)
+  34.  KEEROCK               00:53.11 (Pos: 1)
+  35.  MALANDRO - STOCKPRO   00:53.19 (Pos: 1)
+  36.  IBUSHA SAGA 2.6       00:53.41 (Pos: 1)
+  37.  SPEC R                00:53.46 (Pos: 1)
+  38.  BZ30 ROADSTER SPORT   00:53.53 (Pos: 1)
+  39.  HADIMRSKA HOTRODD     00:53.54 (Pos: 1)
+  40.  PROTOTYPE 2           00:53.57 (Pos: 1)
+  41.  AHMED 4.0RS           00:53.61 (Pos: 1)
+  42.  JIIRO                 00:53.78 (Pos: 1)
+  43.  TOYATE SUPROZA T      00:53.89 (Pos: 1)
+  44.  MERESDES E910         00:54.52 (Pos: 1)
+  45.  PUSCH 674B            00:54.55 (Pos: 1)
+  46.  BD6 VERT              00:54.63 (Pos: 1)
+  47.  SKODA 110 L RALLYE    00:54.66 (Pos: 1)
+  48.  N.400S                00:54.69 (Pos: 1)
+  49.  FRAUD BIG BOY         00:54.82 (Pos: 1)
+  50.  CHALLENGE ST          00:55.06 (Pos: 1)
+  51.  ADDA 5200             00:55.08 (Pos: 1)
+  52.  T46 SPORT R           00:55.20 (Pos: 1)
+  53.  SPOTTEDKITTEN COUPE   00:55.54 (Pos: 1)
+  54.  RAY 400 RALLY         00:55.58 (Pos: 1)
+  55.  ELIIN0R               00:55.71 (Pos: 1)
+  56.  VALUTA V8             00:55.81 (Pos: 1)
+  57.  BUMER 7               00:56.33 (Pos: 1)
+  58.  INTERCEPTOR           00:56.36 (Pos: 1)
+  59.  GORKIY 10             00:56.37 (Pos: 1)
+  60.  SHARK C GROUP 2       00:56.42 (Pos: 1)
+  61.  CX WAGON              00:57.05 (Pos: 1)
+  62.  SHARK C               00:57.42 (Pos: 1)
+  63.  WESSEX R69SP          00:57.42 (Pos: 1)
+  64.  PZG COMPACT           00:57.50 (Pos: 1)
+  65.  GWMK2                 00:57.73 (Pos: 1)
+  66.  BACALHAU              00:57.91 (Pos: 1)
+  67.  SEDAN                 00:57.91 (Pos: 1)
+  68.  TAZ07 CLASSIC         00:58.20 (Pos: 1)
+  69.  DIAMOND               00:59.06 (Pos: 1)
+  70.  PONTACH GT            01:00.11 (Pos: 1)
+  71.  HJETT                 01:00.43 (Pos: 1)
+  72.  GRAND PRIX LEGEND 65  01:00.49 (Pos: 1)
+  73.  ROSSA                 01:00.73 (Pos: 1)
+  74.  GX-BUGGY STAGE R      01:00.77 (Pos: 1)
+  75.  POSCHER CAYNAM 718    01:00.84 (Pos: 1)
+  76.  BOLKSWAGON GOFF TGI   01:00.88 (Pos: 1)
+  77.  HUMHII                01:01.19 (Pos: 1)
+  78.  MC SPLANTER           01:01.26 (Pos: 1)
+  79.  BUG WAGON             01:03.65 (Pos: 1)
+  80.  UZOVKA                01:03.74 (Pos: 1)
+  81.  SKODA FELICIA         01:03.79 (Pos: 1)
+  82.  BD750                 01:04.26 (Pos: 1)
+  83.  LEMON FANTOMAS        01:04.33 (Pos: 1)
+  84.  TOMMY28               01:04.45 (Pos: 1)
+  85.  THR SR2000            01:04.52 (Pos: 1)
+  86.  HBIKE V2              01:04.78 (Pos: 1)
+  87.  LAND ROAMER           01:05.06 (Pos: 1)
+  88.  T34 SPORT             01:05.70 (Pos: 1)
+  89.  JW 350                01:06.10 (Pos: 1)
+  90.  VANLIFE               01:06.59 (Pos: 1)
+  91.  EXPEDITION            01:06.63 (Pos: 1)
+  92.  RTS 6-71              01:09.07 (Pos: 1)
+  93.  ANCHOIS GORBINI       01:09.61 (Pos: 1)
+  94.  THR OP4500            01:09.61 (Pos: 1)
+  95.  TAZ 0521              01:11.46 (Pos: 1)
+  96.  EMKO                  01:14.21 (Pos: 1)
+  97.  LCT3000               01:16.19 (Pos: 1)
+  98.  GX-BUGGY              01:19.11 (Pos: 1)
+  99.  XR GT                 00:56.88 (Pos: 2)
+  100. POCKET UF             00:58.08 (Pos: 2)
+  101. FORMULA BMW FB02      00:58.15 (Pos: 2)
+  102. UF PICKUP TRUCK       00:58.21 (Pos: 2)
+  103. MRT5                  01:02.63 (Pos: 2)
+  104. YKS-100               01:02.98 (Pos: 2)
+  105. SZK 400 CLASSIC       01:05.45 (Pos: 2)
+  106. BD9115                01:06.19 (Pos: 2)
+  107. REAPER X1             01:07.28 (Pos: 2)
+  108. YKS-R1052             01:07.34 (Pos: 2)
+  109. WATBRUG 353           01:11.62 (Pos: 2)
+  110. YAHAMA CT200          01:11.63 (Pos: 2)
+  111. HANZMUND V8           01:12.08 (Pos: 2)
+  112. SM500                 01:12.39 (Pos: 2)
+  113. RZM 250               01:15.72 (Pos: 2)
+  114. YAMI 3R               01:17.14 (Pos: 2)
+  115. GP125                 01:17.43 (Pos: 2)
+  116. YAHAMA MIT09          01:17.88 (Pos: 2)
+  117. GHOUL 250RR           01:18.06 (Pos: 2)
+  118. VULCAN 998            01:19.16 (Pos: 2)
+  119. GX-BUGGY STAGE 2      01:19.38 (Pos: 2)
+  120. YAHAMA CT125 DR       01:25.78 (Pos: 2)
+  121. LINE RUNNER IVII      01:26.33 (Pos: 2)
+  122. RZT 370               01:29.93 (Pos: 2)
+  123. HORDA CFR450          01:35.63 (Pos: 2)
+  124. FRAUD PRE RUNNER      01:38.43 (Pos: 2)
+  125. K300X                 01:40.92 (Pos: 2)
+  126. XR GTR                00:50.84 (Pos: 3)
+  127. FZ50                  00:54.50 (Pos: 3)
+  128. RB4 GT                00:54.90 (Pos: 3)
+  129. RACEABOUT             00:57.69 (Pos: 3)
+  130. FORMULA V8            00:59.27 (Pos: 3)
+  131. FXO GTR               01:00.82 (Pos: 3)
+  132. FORMULA XR            01:02.08 (Pos: 3)
+  133. FXO TURBO             01:02.98 (Pos: 3)
+  134. LX4                   01:03.35 (Pos: 3)
+  135. XF GTR                01:04.27 (Pos: 3)
+  136. LX6                   01:05.83 (Pos: 3)
+  137. UF GTR                01:06.08 (Pos: 3)
+  138. XF GTI                01:01.14 (Pos: 4)
+  139. UF 1000               01:15.81 (Pos: 4)
+  140. FZ50 GTR              01:01.82 (Pos: 5)
+
+2. Outwhi (Outwhi)
+  1.   PORCHETE TIGER GTS    01:07.99 (Pos: 3)
+  2.   FZ50 GTR              00:51.70 (Pos: 4)
+
+3. Toom43 (Toom43)
+  1.   FZ50 GTR              00:39.23 (Pos: 1)
+  2.   XF GTI                00:52.02 (Pos: 1)
+  3.   UF 1000               00:53.57 (Pos: 1)
+
+4. WildGamerz (WildGamerz)
+  1.   POCKET UF             00:57.57 (Pos: 1)
+
+5. kilobananov (kilobananov)
+  1.   FXO GTR               00:43.41 (Pos: 1)
+  2.   XF GTR                00:46.33 (Pos: 1)
+  3.   XR GTR                00:48.27 (Pos: 1)
+  4.   RB4 GT                00:51.71 (Pos: 1)
+  5.   LX4                   00:52.62 (Pos: 1)
+  6.   XR GT                 00:54.63 (Pos: 1)
+  7.   HANZMUND V8           01:02.96 (Pos: 1)
+  8.   FZ50 GTR              00:43.71 (Pos: 2)
+  9.   FZ50                  00:51.08 (Pos: 2)
+  10.  XR GT TURBO           00:52.27 (Pos: 2)
+  11.  RACEABOUT             00:53.33 (Pos: 2)
+  12.  FXO TURBO             00:53.43 (Pos: 2)
+  13.  UF GTR                00:54.42 (Pos: 2)
+  14.  LX6                   00:55.01 (Pos: 2)
+  15.  FORMULA V8            00:55.56 (Pos: 2)
+  16.  FORMULA XR            00:59.39 (Pos: 2)
+  17.  UF 1000               01:05.03 (Pos: 2)
+  18.  UZOVKA                01:07.46 (Pos: 2)
+  19.  SKODA FELICIA         01:08.77 (Pos: 2)
+  20.  TAZ 0521              01:14.60 (Pos: 2)
+  21.  XF GTI                00:59.44 (Pos: 3)
+  22.  BMW SAUBER F1.06      01:01.19 (Pos: 3)
+  23.  FORMULA BMW FB02      01:01.36 (Pos: 3)
+  24.  MRT5                  01:04.26 (Pos: 3)
+  25.  WATBRUG 353           01:28.47 (Pos: 4)
+  26.  RTS 6-71              06:23.40 (Pos: 4)
+
+6. p v l 2 (p v l 2)
+  1.   FORMULA XR            00:46.53 (Pos: 1)
+  2.   FZ50                  00:47.67 (Pos: 1)
+  3.   FORMULA V8            00:48.80 (Pos: 1)
+  4.   RACEABOUT             00:49.28 (Pos: 1)
+  5.   UF GTR                00:51.05 (Pos: 1)
+  6.   LX6                   00:51.36 (Pos: 1)
+  7.   FXO TURBO             00:52.71 (Pos: 1)
+  8.   FORMULA BMW FB02      00:55.06 (Pos: 1)
+  9.   MRT5                  00:58.04 (Pos: 1)
+  10.  YAHAMA MIT09          01:00.18 (Pos: 1)
+  11.  SZK 400 CLASSIC       01:00.53 (Pos: 1)
+  12.  SM500                 01:01.27 (Pos: 1)
+  13.  RZT 370               01:01.91 (Pos: 1)
+  14.  GP125                 01:02.16 (Pos: 1)
+  15.  REAPER X1             01:02.17 (Pos: 1)
+  16.  YKS-100               01:02.98 (Pos: 1)
+  17.  HORDA CFR450          01:03.14 (Pos: 1)
+  18.  RZM 250               01:04.32 (Pos: 1)
+  19.  WATBRUG 353           01:04.88 (Pos: 1)
+  20.  YKS-R1052             01:05.05 (Pos: 1)
+  21.  YAHAMA CT200          01:05.57 (Pos: 1)
+  22.  VULCAN 998            01:06.47 (Pos: 1)
+  23.  K300X                 01:07.01 (Pos: 1)
+  24.  GHOUL 250RR           01:07.84 (Pos: 1)
+  25.  YAMI 3R               01:08.76 (Pos: 1)
+  26.  YAHAMA CT125 DR       01:10.14 (Pos: 1)
+  27.  FXO GTR               00:45.87 (Pos: 2)
+  28.  XF GTR                00:48.05 (Pos: 2)
+  29.  XR GTR                00:49.51 (Pos: 2)
+  30.  RB4 GT                00:52.43 (Pos: 2)
+  31.  LX4                   00:54.10 (Pos: 2)
+  32.  BMW SAUBER F1.06      00:57.04 (Pos: 2)
+  33.  XF GTI                00:57.65 (Pos: 2)
+  34.  BD750                 01:04.42 (Pos: 2)
+  35.  GUCIMOTO              01:06.56 (Pos: 2)
+  36.  RTS 6-71              01:09.57 (Pos: 2)
+  37.  JW 350                01:10.34 (Pos: 2)
+  38.  HBIKE V2              01:11.70 (Pos: 2)
+  39.  FZ50 GTR              00:44.58 (Pos: 3)
+  40.  XR GT TURBO           00:52.66 (Pos: 3)
+  41.  XR GT                 00:57.61 (Pos: 3)
+  42.  UF 1000               01:10.13 (Pos: 3)
+
+7. whatalife (whatalife)
+  1.   UF PICKUP TRUCK       00:56.68 (Pos: 1)
+  2.   BD9115                01:02.40 (Pos: 1)
+  3.   GX-BUGGY STAGE 2      01:15.53 (Pos: 1)
+  4.   LINE RUNNER IVII      01:16.64 (Pos: 1)
+  5.   FRAUD PRE RUNNER      01:27.00 (Pos: 1)
+  6.   ADDA 8A 4.2 TDI       00:55.26 (Pos: 2)
+  7.   TOYATE SUPROZA T      00:56.47 (Pos: 2)
+  8.   FRAUD WHEELER E2      00:58.43 (Pos: 2)
+  9.   GOD FOOT              00:58.85 (Pos: 2)
+  10.  SHARK C GROUP 2       01:00.19 (Pos: 2)
+  11.  FRAUD 040             01:00.23 (Pos: 2)
+  12.  RS1 KENJI RX          01:00.56 (Pos: 2)
+  13.  GWMK2                 01:01.27 (Pos: 2)
+  14.  T46 SPORT R           01:01.27 (Pos: 2)
+  15.  MALANDRO - STOCKPRO   01:01.29 (Pos: 2)
+  16.  LORY GP5              01:01.41 (Pos: 2)
+  17.  EM30                  01:01.42 (Pos: 2)
+  18.  N.400S                01:01.82 (Pos: 2)
+  19.  ELIIN0R               01:02.61 (Pos: 2)
+  20.  GWMK24DR              01:02.67 (Pos: 2)
+  21.  ADDA S83 1.8T         01:03.06 (Pos: 2)
+  22.  JIIRO                 01:03.38 (Pos: 2)
+  23.  PORCHETE TIGER GTS    01:03.46 (Pos: 2)
+  24.  IMPREZZIVE B2         01:03.50 (Pos: 2)
+  25.  INTERCEPTOR           01:03.50 (Pos: 2)
+  26.  GX-BUGGY STAGE R      01:03.92 (Pos: 2)
+  27.  RAY 400 RALLY         01:03.99 (Pos: 2)
+  28.  RS1 KENJI             01:04.72 (Pos: 2)
+  29.  BUMER 7               01:05.06 (Pos: 2)
+  30.  WESSEX R69SP          01:05.09 (Pos: 2)
+  31.  PZG COMPACT           01:05.48 (Pos: 2)
+  32.  SWIRL SPORT 06        01:05.52 (Pos: 2)
+  33.  GT-V34                01:05.65 (Pos: 2)
+  34.  ERESO                 01:05.68 (Pos: 2)
+  35.  FUCA SPORT SYSTEM     01:05.68 (Pos: 2)
+  36.  XM-5 CUP              01:05.73 (Pos: 2)
+  37.  GW-DECA               01:05.80 (Pos: 2)
+  38.  LACIBRE V6            01:05.88 (Pos: 2)
+  39.  SHARK C               01:06.04 (Pos: 2)
+  40.  ACOSTA STARLIN        01:06.24 (Pos: 2)
+  41.  UF 1100T              01:06.44 (Pos: 2)
+  42.  IBUSHA SAGA 2.6       01:06.54 (Pos: 2)
+  43.  TAZ07 CLASSIC         01:06.66 (Pos: 2)
+  44.  HADIMRSKA HOTRODD     01:07.13 (Pos: 2)
+  45.  FRAUD BIG BOY         01:07.54 (Pos: 2)
+  46.  AHMED 4.0RS           01:07.62 (Pos: 2)
+  47.  ADDA 5200             01:07.67 (Pos: 2)
+  48.  LEMON FANTOMAS        01:08.04 (Pos: 2)
+  49.  BZ30 ROADSTER SPORT   01:08.05 (Pos: 2)
+  50.  BACALHAU              01:08.39 (Pos: 2)
+  51.  XR1 PROCAR            01:08.86 (Pos: 2)
+  52.  SPOTTEDKITTEN COUPE   01:09.01 (Pos: 2)
+  53.  PONTACH GT            01:09.04 (Pos: 2)
+  54.  THR MB500             01:09.04 (Pos: 2)
+  55.  FORMULA 60            01:09.37 (Pos: 2)
+  56.  SPEC R                01:09.39 (Pos: 2)
+  57.  DIAMOND               01:10.36 (Pos: 2)
+  58.  HJETT                 01:10.59 (Pos: 2)
+  59.  KEEROCK               01:10.94 (Pos: 2)
+  60.  BOLKSWAGON GOFF TGI   01:11.25 (Pos: 2)
+  61.  CHALLENGE ST          01:11.35 (Pos: 2)
+  62.  ADDA AR-EIGHT V10     01:11.61 (Pos: 2)
+  63.  PUSCH 674B            01:12.09 (Pos: 2)
+  64.  GORKIY 10             01:12.26 (Pos: 2)
+  65.  HUMHII                01:12.42 (Pos: 2)
+  66.  CX WAGON              01:12.86 (Pos: 2)
+  67.  MC SPLANTER           01:12.88 (Pos: 2)
+  68.  KORAMA R              01:12.94 (Pos: 2)
+  69.  GG55 AMD              01:13.64 (Pos: 2)
+  70.  GRAND PRIX LEGEND 65  01:13.86 (Pos: 2)
+  71.  TALOT SUNS LOMIS      01:13.96 (Pos: 2)
+  72.  POSCHER CAYNAM 718    01:14.00 (Pos: 2)
+  73.  THR SR2000            01:14.14 (Pos: 2)
+  74.  VGI-6 TEDAVI          01:14.58 (Pos: 2)
+  75.  PROTOTYPE 2           01:14.59 (Pos: 2)
+  76.  ANCHOIS GORBINI       01:14.74 (Pos: 2)
+  77.  ROSSA                 01:15.13 (Pos: 2)
+  78.  SEDAN                 01:15.45 (Pos: 2)
+  79.  VANLIFE               01:17.00 (Pos: 2)
+  80.  VALUTA V8             01:17.16 (Pos: 2)
+  81.  MERESDES E910         01:17.42 (Pos: 2)
+  82.  LAND ROAMER           01:18.12 (Pos: 2)
+  83.  EMKO                  01:18.33 (Pos: 2)
+  84.  EXPEDITION            01:18.86 (Pos: 2)
+  85.  BETA 65               01:19.30 (Pos: 2)
+  86.  GX-BUGGY              01:19.44 (Pos: 2)
+  87.  BUG WAGON             01:21.20 (Pos: 2)
+  88.  TOMMY28               01:22.17 (Pos: 2)
+  89.  THR OP4500            01:22.22 (Pos: 2)
+  90.  T34 SPORT             01:22.85 (Pos: 2)
+  91.  SKODA 110 L RALLYE    01:28.91 (Pos: 2)
+  92.  BD6 VERT              01:29.01 (Pos: 2)
+  93.  LCT3000               01:29.70 (Pos: 2)
+  94.  HANZMUND V8           01:18.75 (Pos: 3)
+  95.  POCKET UF             01:19.00 (Pos: 3)
+  96.  SKODA FELICIA         01:19.34 (Pos: 3)
+  97.  UZOVKA                01:20.26 (Pos: 3)
+  98.  RTS 6-71              01:21.95 (Pos: 3)
+  99.  WATBRUG 353           01:24.07 (Pos: 3)
+  100. TAZ 0521              01:26.31 (Pos: 3)
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+--- Base cash: 100 for each vehicle finished. (140*100=14,000$) ---
+--- if done all 140 vehicles  Extra 5,000 bonus ---
+--- Bonus Rules (first qualifying rule applies): ---
+---   50+ runs = 1,000 bonus ---
+---   100+ runs = 2,000 bonus ---
+---   Exactly 140 runs = 5,000 bonus ---
+
+--- Overall Ranking Table (Vehicles 1-30) ---
+
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
+| # | Player       | ID           |  Finished|  TC Cash|  Bonus|  Total $| ACOSTA S | ADDA 520 | ADDA 8A  | ADDA AR- | ADDA S83 | AHMED 4. | ANCHOIS  | BACALHAU | BD6 VERT | BD750 | BD9115 | BETA 65 | BMW SAUB | BOLKSWAG | BUG WAGO | BUMER 7 | BZ30 ROA | CHALLENG | CX WAGON | DIAMOND | ELIIN0R | EM30 | EMKO | ERESO | EXPEDITION | FORMULA  | FORMULA  | FORMULA  | FORMULA  | FRAUD 04 |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
+| 1 | Griffin20069 | Griffin20069 |       140|   14,000|  5,000|   19,000|     1    |     1    |     1    |     1    |     1    |     1    |     1    |     1    |     1    |   1   |    2   |    1    |     1    |     1    |     1    |    1    |     1    |     1    |     1    |    1    |    1    |   1  |   1  |   1   |      1     |     1    |     2    |     3    |     3    |     1    |
+| 2 | p v l 2      | p v l 2      |        42|    4,200|      0|    4,200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   2   |    -   |    -    |     2    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     1    |     1    |     1    |     -    |
+| 3 | kilobananov  | kilobananov  |        26|    2,600|      0|    2,600|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     3    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     3    |     2    |     2    |     -    |
+| 4 | whatalife    | whatalife    |       100|   10,000|  2,000|   12,000|     2    |     2    |     2    |     2    |     2    |     2    |     2    |     2    |     2    |   -   |    1   |    2    |     -    |     2    |     2    |    2    |     2    |     2    |     2    |    2    |    2    |   2  |   2  |   2   |      2     |     2    |     -    |     -    |     -    |     2    |
+| 5 | Toom43       | Toom43       |         3|      300|      0|      300|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 6 | WildGamerz   | WildGamerz   |         1|      100|      0|      100|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
+| 7 | Outwhi       | Outwhi       |         2|      200|      0|      200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |     -    |     -    |     -    |     -    |     -    |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
+|   | Total        |              |          |   31,400|  7,000|   38,400|          |          |          |          |          |          |          |          |          |       |        |         |          |          |          |         |          |          |          |         |         |      |      |       |            |          |          |          |          |          |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+----------+----------+----------+----------+----------+
+
+
+--- Overall Ranking Table (Vehicles 31-60) ---
+
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+
+| # | Player       | ID           |  Finished|  TC Cash|  Bonus|  Total $| FRAUD BI | FRAUD PR | FRAUD WH | FUCA SPO | FXO GTR | FXO TURB | FZ50 | FZ50 GTR | GG55 AMD | GHOUL | GOD FOOT | GORKIY 1 | GP125 | GRAND PR | GT-V34 | GUCIMOTO | GW-DECA | GWMK2 | GWMK24DR | GX-BUGGY | GX-BUGGY | GX-BUGGY | HADIMRSK | HANZMUND | HBIKE2 | HJETT | HORDA CF | HUMHII | IBUSHA S | IMPREZZI |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+
+| 1 | Griffin20069 | Griffin20069 |       140|   14,000|  5,000|   19,000|     1    |     2    |     1    |     1    |    3    |     3    |   3  |     5    |     1    |   2   |     1    |     1    |   2   |     1    |    1   |     1    |    1    |   1   |     1    |     1    |     2    |     1    |     1    |     2    |    1   |   1   |     2    |    1   |     1    |     1    |
+| 2 | p v l 2      | p v l 2      |        42|    4,200|      0|    4,200|     -    |     -    |     -    |     -    |    2    |     1    |   1  |     3    |     -    |   1   |     -    |     -    |   1   |     -    |    -   |     2    |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    2   |   -   |     1    |    -   |     -    |     -    |
+| 3 | kilobananov  | kilobananov  |        26|    2,600|      0|    2,600|     -    |     -    |     -    |     -    |    1    |     2    |   2  |     2    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     1    |    -   |   -   |     -    |    -   |     -    |     -    |
+| 4 | whatalife    | whatalife    |       100|   10,000|  2,000|   12,000|     2    |     1    |     2    |     2    |    -    |     -    |   -  |     -    |     2    |   -   |     2    |     2    |   -   |     2    |    2   |     -    |    2    |   2   |     2    |     2    |     1    |     2    |     2    |     3    |    -   |   2   |     -    |    2   |     2    |     2    |
+| 5 | Toom43       | Toom43       |         3|      300|      0|      300|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     1    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |
+| 6 | WildGamerz   | WildGamerz   |         1|      100|      0|      100|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |
+| 7 | Outwhi       | Outwhi       |         2|      200|      0|      200|     -    |     -    |     -    |     -    |    -    |     -    |   -  |     4    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+
+|   | Total        |              |          |   31,400|  7,000|   38,400|          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |          |         |       |          |          |          |          |          |          |        |       |          |        |          |          |
++---+--------------+--------------+----------+---------+-------+---------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+
+
+
+--- Overall Ranking Table (Vehicles 61-90) ---
+
++---+--------------+--------------+----------+---------+-------+---------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
+| # | Player       | ID           |  Finished|  TC Cash|  Bonus|  Total $| INTERCEP | JIIRO | JW350 | K300X | KEEROCK | KORAMA R | LACIBRE  | LAND ROA | LCT3000 | LEMON FA | LINE RUN | LORY GP5 | LX4 | LX6 | MALANDRO | MC SPLAN | MERESDES | MRT5 | N.400S | POCKET U | PONTACH  | PORCHETE | POSCHER  | PROTOTYP | PUSCH 67 | PZG COMP | RACEABOU | RAY 400  | RB4 GT | REAPER |
++---+--------------+--------------+----------+---------+-------+---------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
+| 1 | Griffin20069 | Griffin20069 |       140|   14,000|  5,000|   19,000|     1    |   1   |   1   |   2   |    1    |     1    |     1    |     1    |    1    |     1    |     2    |     1    |  3  |  3  |     1    |     1    |     1    |   2  |    1   |     2    |     1    |     1    |     1    |     1    |     1    |     1    |     3    |     1    |    3   |    2   |
+| 2 | p v l 2      | p v l 2      |        42|    4,200|      0|    4,200|     -    |   -   |   2   |   1   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  2  |  1  |     -    |     -    |     -    |   1  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     1    |     -    |    2   |    1   |
+| 3 | kilobananov  | kilobananov  |        26|    2,600|      0|    2,600|     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  1  |  2  |     -    |     -    |     -    |   3  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     2    |     -    |    1   |    -   |
+| 4 | whatalife    | whatalife    |       100|   10,000|  2,000|   12,000|     2    |   2   |   -   |   -   |    2    |     2    |     2    |     2    |    2    |     2    |     1    |     2    |  -  |  -  |     2    |     2    |     2    |   -  |    2   |     3    |     2    |     2    |     2    |     2    |     2    |     2    |     -    |     2    |    -   |    -   |
+| 5 | Toom43       | Toom43       |         3|      300|      0|      300|     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 6 | WildGamerz   | WildGamerz   |         1|      100|      0|      100|     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -  |    -   |     1    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
+| 7 | Outwhi       | Outwhi       |         2|      200|      0|      200|     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |     -    |     -    |   -  |    -   |     -    |     -    |     3    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |
++---+--------------+--------------+----------+---------+-------+---------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
+|   | Total        |              |          |   31,400|  7,000|   38,400|          |       |       |       |         |          |          |          |         |          |          |          |     |     |          |          |          |      |        |          |          |          |          |          |          |          |          |          |        |        |
++---+--------------+--------------+----------+---------+-------+---------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+
+
+
+--- Overall Ranking Table (Vehicles 91-120) ---
+
++---+--------------+--------------+----------+---------+-------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
+| # | Player       | ID           |  Finished|  TC Cash|  Bonus|  Total $| ROSSA | RS1 KENJ | RS1 KENJ | RTS 6-71 | RZM250 | RZT370 | SEDAN | SHARK C | SHARK C  | SKODA 11 | SKODA FE | SM500 | SPEC R | SPOTTEDK | SWIRL SP | SZK 400  | T34 SPOR | T46 SPOR | TALOT SU | TAZ 0521 | TAZ07 CL | THR MB50 | THR OP45 | THR SR20 | TOMMY28 | TOYATE S | UF 1000 | UF 1100T | UF GTR | UF PICKU |
++---+--------------+--------------+----------+---------+-------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
+| 1 | Griffin20069 | Griffin20069 |       140|   14,000|  5,000|   19,000|   1   |     1    |     1    |     1    |    2   |    2   |   1   |    1    |     1    |     1    |     1    |   2   |    1   |     1    |     1    |     2    |     1    |     1    |     1    |     1    |     1    |     1    |     1    |     1    |    1    |     1    |    4    |     1    |    3   |     2    |
+| 2 | p v l 2      | p v l 2      |        42|    4,200|      0|    4,200|   -   |     -    |     -    |     2    |    1   |    1   |   -   |    -    |     -    |     -    |     -    |   1   |    -   |     -    |     -    |     1    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    3    |     -    |    1   |     -    |
+| 3 | kilobananov  | kilobananov  |        26|    2,600|      0|    2,600|   -   |     -    |     -    |     4    |    -   |    -   |   -   |    -    |     -    |     -    |     2    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |     -    |    -    |     -    |    2    |     -    |    2   |     -    |
+| 4 | whatalife    | whatalife    |       100|   10,000|  2,000|   12,000|   2   |     2    |     2    |     3    |    -   |    -   |   2   |    2    |     2    |     2    |     3    |   -   |    2   |     2    |     2    |     -    |     2    |     2    |     2    |     3    |     2    |     2    |     2    |     2    |    2    |     2    |    -    |     2    |    -   |     1    |
+| 5 | Toom43       | Toom43       |         3|      300|      0|      300|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    1    |     -    |    -   |     -    |
+| 6 | WildGamerz   | WildGamerz   |         1|      100|      0|      100|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
+| 7 | Outwhi       | Outwhi       |         2|      200|      0|      200|   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |
++---+--------------+--------------+----------+---------+-------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
+|   | Total        |              |          |   31,400|  7,000|   38,400|       |          |          |          |        |        |       |         |          |          |          |       |        |          |          |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |
++---+--------------+--------------+----------+---------+-------+---------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+
+
+
+--- Overall Ranking Table (Vehicles 121-140) ---
+
++---+--------------+--------------+----------+---------+-------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+| # | Player       | ID           |  Finished|  TC Cash|  Bonus|  Total $| UZOVKA | VALUTA V | VANLIFE | VGI-6 TE | VULCAN | WATBRUG  | WESSEX R | XF GTI | XF GTR | XM-5 CUP | XR GT | XR GT TU | XR GTR | XR1 PROC | YAHAMA C | YAHAMA C | YAHAMA M | YAMI 3R | YKS100 | YKSR1k |
++---+--------------+--------------+----------+---------+-------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+| 1 | Griffin20069 | Griffin20069 |       140|   14,000|  5,000|   19,000|    1   |     1    |    1    |     1    |    2   |     2    |     1    |    4   |    3   |     1    |   2   |     1    |    3   |     1    |     2    |     2    |     2    |    2    |    2   |    2   |
+| 2 | p v l 2      | p v l 2      |        42|    4,200|      0|    4,200|    -   |     -    |    -    |     -    |    1   |     1    |     -    |    2   |    2   |     -    |   3   |     3    |    2   |     -    |     1    |     1    |     1    |    1    |    1   |    1   |
+| 3 | kilobananov  | kilobananov  |        26|    2,600|      0|    2,600|    2   |     -    |    -    |     -    |    -   |     4    |     -    |    3   |    1   |     -    |   1   |     2    |    1   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 4 | whatalife    | whatalife    |       100|   10,000|  2,000|   12,000|    3   |     2    |    2    |     2    |    -   |     3    |     2    |    -   |    -   |     2    |   -   |     -    |    -   |     2    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 5 | Toom43       | Toom43       |         3|      300|      0|      300|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    1   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 6 | WildGamerz   | WildGamerz   |         1|      100|      0|      100|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 7 | Outwhi       | Outwhi       |         2|      200|      0|      200|    -   |     -    |    -    |     -    |    -   |     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
++---+--------------+--------------+----------+---------+-------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+|   | Total        |              |          |   31,400|  7,000|   38,400|        |          |         |          |        |          |          |        |        |          |       |          |        |          |          |          |          |         |        |        |
++---+--------------+--------------+----------+---------+-------+---------+--------+----------+---------+----------+--------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+
+
+
+
+--- Leaderboard by Total Runs (Highest Total Vehicles First) ---
+
++---+--------------+--------------+----------+-------------+----------+
+| # | Player       | ID           |  Vehicles|   Total Time|  Avg Time|
++---+--------------+--------------+----------+-------------+----------+
+| 1 | Griffin20069 | Griffin20069 |       140|  02:21:25.10|  01:00.61|
+| 2 | whatalife    | whatalife    |       100|  01:57:25.18|  01:10.45|
+| 3 | p v l 2      | p v l 2      |        42|     41:27.10|  00:59.22|
+| 4 | kilobananov  | kilobananov  |        26|     30:32.11|  01:10.47|
+| 5 | Toom43       | Toom43       |         3|     02:24.82|  00:48.27|
+| 6 | Outwhi       | Outwhi       |         2|     01:59.69|  00:59.84|
+| 7 | WildGamerz   | WildGamerz   |         1|     00:57.57|  00:57.57|
++---+--------------+--------------+----------+-------------+----------+
+
+
+
+
+--- All Unique Vehicle Names ---
+
+  1. ACOSTA STARLIN
+  2. ADDA 5200
+  3. ADDA 8A 4.2 TDI
+  4. ADDA AR-EIGHT V10
+  5. ADDA S83 1.8T
+  6. AHMED 4.0RS
+  7. ANCHOIS GORBINI
+  8. BACALHAU
+  9. BD6 VERT
+  10. BD750
+  11. BD9115
+  12. BETA 65
+  13. BMW SAUBER F1.06
+  14. BOLKSWAGON GOFF TGI
+  15. BUG WAGON
+  16. BUMER 7
+  17. BZ30 ROADSTER SPORT
+  18. CHALLENGE ST
+  19. CX WAGON
+  20. DIAMOND
+  21. ELIIN0R
+  22. EM30
+  23. EMKO
+  24. ERESO
+  25. EXPEDITION
+  26. FORMULA 60
+  27. FORMULA BMW FB02
+  28. FORMULA V8
+  29. FORMULA XR
+  30. FRAUD 040
+  31. FRAUD BIG BOY
+  32. FRAUD PRE RUNNER
+  33. FRAUD WHEELER E2
+  34. FUCA SPORT SYSTEM
+  35. FXO GTR
+  36. FXO TURBO
+  37. FZ50
+  38. FZ50 GTR
+  39. GG55 AMD
+  40. GHOUL 250RR
+  41. GOD FOOT
+  42. GORKIY 10
+  43. GP125
+  44. GRAND PRIX LEGEND 65
+  45. GT-V34
+  46. GUCIMOTO
+  47. GW-DECA
+  48. GWMK2
+  49. GWMK24DR
+  50. GX-BUGGY
+  51. GX-BUGGY STAGE 2
+  52. GX-BUGGY STAGE R
+  53. HADIMRSKA HOTRODD
+  54. HANZMUND V8
+  55. HBIKE V2
+  56. HJETT
+  57. HORDA CFR450
+  58. HUMHII
+  59. IBUSHA SAGA 2.6
+  60. IMPREZZIVE B2
+  61. INTERCEPTOR
+  62. JIIRO
+  63. JW 350
+  64. K300X
+  65. KEEROCK
+  66. KORAMA R
+  67. LACIBRE V6
+  68. LAND ROAMER
+  69. LCT3000
+  70. LEMON FANTOMAS
+  71. LINE RUNNER IVII
+  72. LORY GP5
+  73. LX4
+  74. LX6
+  75. MALANDRO - STOCKPRO
+  76. MC SPLANTER
+  77. MERESDES E910
+  78. MRT5
+  79. N.400S
+  80. POCKET UF
+  81. PONTACH GT
+  82. PORCHETE TIGER GTS
+  83. POSCHER CAYNAM 718
+  84. PROTOTYPE 2
+  85. PUSCH 674B
+  86. PZG COMPACT
+  87. RACEABOUT
+  88. RAY 400 RALLY
+  89. RB4 GT
+  90. REAPER X1
+  91. ROSSA
+  92. RS1 KENJI
+  93. RS1 KENJI RX
+  94. RTS 6-71
+  95. RZM 250
+  96. RZT 370
+  97. SEDAN
+  98. SHARK C
+  99. SHARK C GROUP 2
+  100. SKODA 110 L RALLYE
+  101. SKODA FELICIA
+  102. SM500
+  103. SPEC R
+  104. SPOTTEDKITTEN COUPE
+  105. SWIRL SPORT 06
+  106. SZK 400 CLASSIC
+  107. T34 SPORT
+  108. T46 SPORT R
+  109. TALOT SUNS LOMIS
+  110. TAZ 0521
+  111. TAZ07 CLASSIC
+  112. THR MB500
+  113. THR OP4500
+  114. THR SR2000
+  115. TOMMY28
+  116. TOYATE SUPROZA T
+  117. UF 1000
+  118. UF 1100T
+  119. UF GTR
+  120. UF PICKUP TRUCK
+  121. UZOVKA
+  122. VALUTA V8
+  123. VANLIFE
+  124. VGI-6 TEDAVI
+  125. VULCAN 998
+  126. WATBRUG 353
+  127. WESSEX R69SP
+  128. XF GTI
+  129. XF GTR
+  130. XM-5 CUP
+  131. XR GT
+  132. XR GT TURBO
+  133. XR GTR
+  134. XR1 PROCAR
+  135. YAHAMA CT125 DR
+  136. YAHAMA CT200
+  137. YAHAMA MIT09
+  138. YAMI 3R
+  139. YKS-100
+  140. YKS-R1052
+
+--- All Unique Player Names ---
+
+  1. Griffin20069
+  2. Outwhi
+  3. Toom43
+  4. WildGamerz
+  5. kilobananov
+  6. p v l 2
+  7. whatalife
