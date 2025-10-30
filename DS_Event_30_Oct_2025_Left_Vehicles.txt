@@ -1,0 +1,44 @@
+--- Players and Their Missing Vehicles---
+
+Player: whatalife (whatalife) is missing the following 4 vehicles:
+  1. GG55 AMD
+  2. JW 350
+  3. RZT 370
+  4. YAHAMA CT125 DR
+
+Player: Toom43 (Toom43) is missing the following 14 vehicles:
+  1. ADDA 5200
+  2. ADDA AR-EIGHT V10
+  3. BZ30 ROADSTER SPORT
+  4. DIAMOND
+  5. EMKO
+  6. ERESO
+  7. EXPEDITION
+  8. HANZMUND V8
+  9. MERESDES E910
+  10. MERSOLES COMEGO
+  11. PORCHETE TIGER GTS
+  12. ROSSA
+  13. SPOTTEDKITTEN COUPE
+  14. TAZ 0521
+
+Player: p v l 2 (p v l 2) is missing the following 18 vehicles:
+  1. ADDA 5200
+  2. ADDA AR-EIGHT V10
+  3. BZ30 ROADSTER SPORT
+  4. DIAMOND
+  5. EMKO
+  6. ERESO
+  7. EXPEDITION
+  8. GG55 AMD
+  9. HANZMUND V8
+  10. MERESDES E910
+  11. MERSOLES COMEGO
+  12. PORCHETE TIGER GTS
+  13. ROSSA
+  14. RZT 370
+  15. SPOTTEDKITTEN COUPE
+  16. TAZ 0521
+  17. UZOVKA
+  18. WATBRUG 353
+
