@@ -19,7 +19,7 @@ Player: p v l 2 (p v l 2) is missing the following 11 vehicles:
   10. SCAMA 311 B TOW
   11. SCAMA T580
 
-Player: Toom43 (Toom43) is missing the following 13 vehicles:
+Player: Toom43 (Toom43) is missing the following 11 vehicles:
   1. HEAVY RESCUE TRUCK
   2. LINE RUNNER IVII
   3. MARIGUS
@@ -31,28 +31,23 @@ Player: Toom43 (Toom43) is missing the following 13 vehicles:
   9. RACHA 707
   10. ROSSA
   11. SCAMA 311 B TOW
-  12. SCAMA 420R 4X2 TANDEM
-  13. SCAMA DD
 
-Player: CRC Titan2000 (CRC Titan2000) is missing the following 18 vehicles:
+Player: CRC Titan2000 (CRC Titan2000) is missing the following 15 vehicles:
   1. EXPEDITION
   2. LCT3000
   3. LIL 1300
   4. LINE RUNNER IVII
-  5. MERCIDS BNZ 16
-  6. MOVETRUCK
-  7. MUN TG DUMPTRUCK
-  8. NELSIN 380
-  9. ONIBUS VTR
-  10. PIERCING ARROR XT
-  11. RACHA 707
-  12. ROSSA
-  13. RTS 6-71
-  14. SCAMA 311 B TOW
-  15. SCAMA 420R 4X2 TANDEM
-  16. SCAMA DD
-  17. SCAMA T580
-  18. TOWN BUS
+  5. MOVETRUCK
+  6. MUN TG DUMPTRUCK
+  7. NELSIN 380
+  8. ONIBUS VTR
+  9. PIERCING ARROR XT
+  10. RACHA 707
+  11. ROSSA
+  12. RTS 6-71
+  13. SCAMA 311 B TOW
+  14. SCAMA T580
+  15. TOWN BUS
 
 Player: Terminatorss (Terminatorss) is missing the following 21 vehicles:
   1. EXPEDITION
