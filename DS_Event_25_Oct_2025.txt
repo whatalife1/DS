@@ -1,13 +1,13 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-10-28 23:45:40 UTC
-German Time:   2025-10-29 00:45:40 CET
-Brazil Time:   2025-10-28 20:45:40 -03
-Saudi Arabia:  2025-10-29 02:45:40 +03
-Turkish Time:  2025-10-29 02:45:40 +03
-India Time:    2025-10-29 05:15:40 IST
-Philippines:   2025-10-29 07:45:40 PST
+UTC Time:      2025-10-29 22:39:20 UTC
+German Time:   2025-10-29 23:39:20 CET
+Brazil Time:   2025-10-29 19:39:20 -03
+Saudi Arabia:  2025-10-30 01:39:20 +03
+Turkish Time:  2025-10-30 01:39:20 +03
+India Time:    2025-10-30 04:09:20 IST
+Philippines:   2025-10-30 06:39:20 PST
 
 --- Results by Vehicle (Fastest First) ---
 
@@ -74,12 +74,14 @@ Philippines:   2025-10-29 07:45:40 PST
   3. whatalife        09:49.21
 
 10. SCAMA 420R 4X2 TANDEM
-  1. p v l 2          06:58.36
-  2. kilobananov      07:20.39
-  3. whatalife        08:26.39
-  4. balintka1234     11:58.05
-  5. Griffin20069     14:46.41
-  6. Terminatorss     20:02.93
+  1. CRC Titan2000    06:57.25
+  2. p v l 2          06:58.36
+  3. kilobananov      07:20.39
+  4. whatalife        08:26.39
+  5. balintka1234     11:58.05
+  6. Griffin20069     14:46.41
+  7. Toom43           18:27.62
+  8. Terminatorss     20:02.93
 
 11. PIERCING ARROR XT
   1. kilobananov      07:06.99
@@ -98,7 +100,7 @@ Philippines:   2025-10-29 07:45:40 PST
   3. CRC Titan2000    07:31.71
   4. kilobananov      07:40.39
   5. Griffin20069     08:06.98
-  6. whatalife        16:49.42
+  6. whatalife        08:43.18
 
 14. SCAMA T580
   1. kilobananov      07:18.55
@@ -110,42 +112,43 @@ Philippines:   2025-10-29 07:45:40 PST
   1. p v l 2          07:22.77
   2. kilobananov      07:37.90
   3. CRC Titan2000    08:03.31
-  4. Griffin20069     11:05.85
-  5. whatalife        13:50.39
+  4. whatalife        09:00.62
+  5. Griffin20069     11:05.85
 
 16. RACHA 707
   1. Griffin20069     07:31.22
   2. p v l 2          08:05.19
   3. kilobananov      08:08.44
-  4. whatalife        17:17.03
+  4. whatalife        09:13.68
 
 17. NELSIN 380
   1. p v l 2          07:31.37
   2. Griffin20069     08:48.21
   3. kilobananov      09:00.88
-  4. whatalife        15:15.61
+  4. whatalife        09:57.90
 
 18. MERCIDS BNZ 16
   1. p v l 2          07:31.66
-  2. Griffin20069     07:54.27
-  3. kilobananov      08:05.76
-  4. whatalife        09:16.72
+  2. CRC Titan2000    07:35.19
+  3. Griffin20069     07:54.27
+  4. kilobananov      08:05.76
+  5. whatalife        09:16.72
 
 19. MERSOLES COMEGO
   1. p v l 2          07:36.37
   2. CRC Titan2000    08:07.45
   3. kilobananov      08:08.89
   4. Toom43           08:20.24
-  5. Griffin20069     11:13.50
-  6. whatalife        15:38.39
+  5. whatalife        09:15.96
+  6. Griffin20069     11:13.50
   7. Huseyn31         36:00.30
 
 20. MECA 371 MONOBLOCO
   1. p v l 2          07:38.87
   2. CRC Titan2000    08:11.53
   3. Griffin20069     08:36.81
-  4. kilobananov      09:20.32
-  5. whatalife        14:54.93
+  4. whatalife        09:09.03
+  5. kilobananov      09:20.32
   6. Toom43           17:18.85
 
 21. MUN TG DUMPTRUCK
@@ -172,8 +175,10 @@ Philippines:   2025-10-29 07:45:40 PST
 24. SCAMA DD
   1. p v l 2          08:03.83
   2. kilobananov      08:08.47
-  3. whatalife        09:59.67
-  4. Griffin20069     13:12.81
+  3. CRC Titan2000    08:30.13
+  4. whatalife        09:59.67
+  5. Griffin20069     13:12.81
+  6. Toom43           15:34.80
 
 25. MERSOLES TORITMO
   1. p v l 2          08:39.51
@@ -188,24 +193,27 @@ Philippines:   2025-10-29 07:45:40 PST
 --- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
 
 1. CRC Titan2000 (CRC Titan2000)
-  1.  MERSOLES COMEGO        08:07.45 (Pos: 2)
-  2.  MECA 371 MONOBLOCO     08:11.53 (Pos: 2)
-  3.  MARIGUS                06:47.45 (Pos: 3)
-  4.  MUN FIRETRUCK          07:31.71 (Pos: 3)
-  5.  METRO BUS 10.5         08:03.31 (Pos: 3)
-  6.  HEAVY RESCUE TRUCK     08:27.82 (Pos: 3)
-  7.  MERSOLES TORITMO       09:52.39 (Pos: 3)
+  1.  SCAMA 420R 4X2 TANDEM  06:57.25 (Pos: 1)
+  2.  MERCIDS BNZ 16         07:35.19 (Pos: 2)
+  3.  MERSOLES COMEGO        08:07.45 (Pos: 2)
+  4.  MECA 371 MONOBLOCO     08:11.53 (Pos: 2)
+  5.  MARIGUS                06:47.45 (Pos: 3)
+  6.  MUN FIRETRUCK          07:31.71 (Pos: 3)
+  7.  METRO BUS 10.5         08:03.31 (Pos: 3)
+  8.  HEAVY RESCUE TRUCK     08:27.82 (Pos: 3)
+  9.  SCAMA DD               08:30.13 (Pos: 3)
+  10. MERSOLES TORITMO       09:52.39 (Pos: 3)
 
 2. Griffin20069 (Griffin20069)
   1.  LIL 1300               06:52.40 (Pos: 1)
   2.  RACHA 707              07:31.22 (Pos: 1)
   3.  HEAVY RESCUE TRUCK     07:47.14 (Pos: 1)
   4.  ONIBUS VTR             07:41.49 (Pos: 2)
-  5.  MERCIDS BNZ 16         07:54.27 (Pos: 2)
-  6.  MUN TG DUMPTRUCK       07:57.30 (Pos: 2)
-  7.  LCT3000                08:11.10 (Pos: 2)
-  8.  NELSIN 380             08:48.21 (Pos: 2)
-  9.  ROSSA                  06:07.69 (Pos: 3)
+  5.  MUN TG DUMPTRUCK       07:57.30 (Pos: 2)
+  6.  LCT3000                08:11.10 (Pos: 2)
+  7.  NELSIN 380             08:48.21 (Pos: 2)
+  8.  ROSSA                  06:07.69 (Pos: 3)
+  9.  MERCIDS BNZ 16         07:54.27 (Pos: 3)
   10. MECA 371 MONOBLOCO     08:36.81 (Pos: 3)
   11. TOWN BUS               09:31.91 (Pos: 3)
   12. SCAMA 311 B TOW        12:00.94 (Pos: 3)
@@ -213,15 +221,15 @@ Philippines:   2025-10-29 07:45:40 PST
   14. MARIGUS                07:06.26 (Pos: 4)
   15. RTS 6-71               07:38.70 (Pos: 4)
   16. LINE RUNNER IVII       10:48.51 (Pos: 4)
-  17. METRO BUS 10.5         11:05.85 (Pos: 4)
-  18. PIERCING ARROR XT      12:20.59 (Pos: 4)
-  19. SCAMA DD               13:12.81 (Pos: 4)
-  20. SCAMA T580             21:08.07 (Pos: 4)
-  21. MUN FIRETRUCK          08:06.98 (Pos: 5)
-  22. EXPEDITION             09:09.85 (Pos: 5)
-  23. MERSOLES COMEGO        11:13.50 (Pos: 5)
-  24. SCAMA 420R 4X2 TANDEM  14:46.41 (Pos: 5)
-  25. MERSOLES TORITMO       12:31.49 (Pos: 6)
+  17. PIERCING ARROR XT      12:20.59 (Pos: 4)
+  18. SCAMA T580             21:08.07 (Pos: 4)
+  19. MUN FIRETRUCK          08:06.98 (Pos: 5)
+  20. EXPEDITION             09:09.85 (Pos: 5)
+  21. METRO BUS 10.5         11:05.85 (Pos: 5)
+  22. SCAMA DD               13:12.81 (Pos: 5)
+  23. MERSOLES COMEGO        11:13.50 (Pos: 6)
+  24. MERSOLES TORITMO       12:31.49 (Pos: 6)
+  25. SCAMA 420R 4X2 TANDEM  14:46.41 (Pos: 6)
 
 3. Huseyn31 (Huseyn31)
   1.  EXPEDITION             10:35.69 (Pos: 6)
@@ -235,7 +243,7 @@ Philippines:   2025-10-29 07:45:40 PST
   1.  LINE RUNNER IVII       08:36.75 (Pos: 3)
   2.  ROSSA                  06:40.23 (Pos: 4)
   3.  MOVETRUCK              06:43.54 (Pos: 5)
-  4.  SCAMA 420R 4X2 TANDEM  20:02.93 (Pos: 6)
+  4.  SCAMA 420R 4X2 TANDEM  20:02.93 (Pos: 8)
 
 6. Toom43 (Toom43)
   1.  MUN FIRETRUCK          07:14.22 (Pos: 1)
@@ -249,13 +257,15 @@ Philippines:   2025-10-29 07:45:40 PST
   9.  MERSOLES COMEGO        08:20.24 (Pos: 4)
   10. LCT3000                11:06.10 (Pos: 4)
   11. TOWN BUS               13:40.97 (Pos: 5)
-  12. MECA 371 MONOBLOCO     17:18.85 (Pos: 6)
+  12. SCAMA DD               15:34.80 (Pos: 6)
+  13. MECA 371 MONOBLOCO     17:18.85 (Pos: 6)
+  14. SCAMA 420R 4X2 TANDEM  18:27.62 (Pos: 7)
 
 7. UnknownMaster21 (UnknownMaster21)
   1.  ROSSA                  05:46.01 (Pos: 2)
 
 8. balintka1234 (balintka1234)
-  1.  SCAMA 420R 4X2 TANDEM  11:58.05 (Pos: 4)
+  1.  SCAMA 420R 4X2 TANDEM  11:58.05 (Pos: 5)
 
 9. bowler (bowler)
   1.  HEAVY RESCUE TRUCK     15:26.78 (Pos: 6)
@@ -273,18 +283,18 @@ Philippines:   2025-10-29 07:45:40 PST
   10. SCAMA T580             07:18.55 (Pos: 1)
   11. MUN TG DUMPTRUCK       07:39.99 (Pos: 1)
   12. MARIGUS                06:26.10 (Pos: 2)
-  13. SCAMA 420R 4X2 TANDEM  07:20.39 (Pos: 2)
-  14. METRO BUS 10.5         07:37.90 (Pos: 2)
-  15. SCAMA DD               08:08.47 (Pos: 2)
-  16. TOWN BUS               08:23.74 (Pos: 2)
-  17. LIL 1300               07:06.34 (Pos: 3)
-  18. MERCIDS BNZ 16         08:05.76 (Pos: 3)
-  19. RACHA 707              08:08.44 (Pos: 3)
-  20. MERSOLES COMEGO        08:08.89 (Pos: 3)
-  21. NELSIN 380             09:00.88 (Pos: 3)
-  22. MUN FIRETRUCK          07:40.39 (Pos: 4)
+  13. METRO BUS 10.5         07:37.90 (Pos: 2)
+  14. SCAMA DD               08:08.47 (Pos: 2)
+  15. TOWN BUS               08:23.74 (Pos: 2)
+  16. LIL 1300               07:06.34 (Pos: 3)
+  17. SCAMA 420R 4X2 TANDEM  07:20.39 (Pos: 3)
+  18. RACHA 707              08:08.44 (Pos: 3)
+  19. MERSOLES COMEGO        08:08.89 (Pos: 3)
+  20. NELSIN 380             09:00.88 (Pos: 3)
+  21. MUN FIRETRUCK          07:40.39 (Pos: 4)
+  22. MERCIDS BNZ 16         08:05.76 (Pos: 4)
   23. HEAVY RESCUE TRUCK     08:30.48 (Pos: 4)
-  24. MECA 371 MONOBLOCO     09:20.32 (Pos: 4)
+  24. MECA 371 MONOBLOCO     09:20.32 (Pos: 5)
   25. MERSOLES TORITMO       10:58.57 (Pos: 5)
 
 11. lordferius (lordferius)
@@ -293,16 +303,16 @@ Philippines:   2025-10-29 07:45:40 PST
 
 12. p v l 2 (p v l 2)
   1.  MARIGUS                06:24.81 (Pos: 1)
-  2.  SCAMA 420R 4X2 TANDEM  06:58.36 (Pos: 1)
-  3.  METRO BUS 10.5         07:22.77 (Pos: 1)
-  4.  NELSIN 380             07:31.37 (Pos: 1)
-  5.  MERCIDS BNZ 16         07:31.66 (Pos: 1)
-  6.  MERSOLES COMEGO        07:36.37 (Pos: 1)
-  7.  MECA 371 MONOBLOCO     07:38.87 (Pos: 1)
-  8.  TOWN BUS               07:59.52 (Pos: 1)
-  9.  SCAMA DD               08:03.83 (Pos: 1)
-  10. MERSOLES TORITMO       08:39.51 (Pos: 1)
-  11. RTS 6-71               06:38.39 (Pos: 2)
+  2.  METRO BUS 10.5         07:22.77 (Pos: 1)
+  3.  NELSIN 380             07:31.37 (Pos: 1)
+  4.  MERCIDS BNZ 16         07:31.66 (Pos: 1)
+  5.  MERSOLES COMEGO        07:36.37 (Pos: 1)
+  6.  MECA 371 MONOBLOCO     07:38.87 (Pos: 1)
+  7.  TOWN BUS               07:59.52 (Pos: 1)
+  8.  SCAMA DD               08:03.83 (Pos: 1)
+  9.  MERSOLES TORITMO       08:39.51 (Pos: 1)
+  10. RTS 6-71               06:38.39 (Pos: 2)
+  11. SCAMA 420R 4X2 TANDEM  06:58.36 (Pos: 2)
   12. MUN FIRETRUCK          07:19.25 (Pos: 2)
   13. RACHA 707              08:05.19 (Pos: 2)
   14. HEAVY RESCUE TRUCK     08:08.83 (Pos: 2)
@@ -315,27 +325,27 @@ Philippines:   2025-10-29 07:45:40 PST
   2.  PIERCING ARROR XT      09:25.84 (Pos: 2)
   3.  SCAMA 311 B TOW        09:34.87 (Pos: 2)
   4.  SCAMA T580             09:41.34 (Pos: 2)
-  5.  SCAMA 420R 4X2 TANDEM  08:26.39 (Pos: 3)
-  6.  MUN TG DUMPTRUCK       09:16.36 (Pos: 3)
-  7.  ONIBUS VTR             09:49.21 (Pos: 3)
-  8.  LCT3000                09:56.78 (Pos: 3)
-  9.  SCAMA DD               09:59.67 (Pos: 3)
-  10. LIL 1300               08:25.14 (Pos: 4)
-  11. EXPEDITION             08:36.25 (Pos: 4)
-  12. MERCIDS BNZ 16         09:16.72 (Pos: 4)
-  13. TOWN BUS               10:03.77 (Pos: 4)
-  14. MERSOLES TORITMO       10:10.93 (Pos: 4)
-  15. NELSIN 380             15:15.61 (Pos: 4)
-  16. RACHA 707              17:17.03 (Pos: 4)
-  17. ROSSA                  07:37.87 (Pos: 5)
-  18. MARIGUS                08:45.29 (Pos: 5)
-  19. RTS 6-71               09:34.69 (Pos: 5)
-  20. HEAVY RESCUE TRUCK     10:50.91 (Pos: 5)
-  21. METRO BUS 10.5         13:50.39 (Pos: 5)
-  22. MECA 371 MONOBLOCO     14:54.93 (Pos: 5)
-  23. MOVETRUCK              10:01.96 (Pos: 6)
-  24. MERSOLES COMEGO        15:38.39 (Pos: 6)
-  25. MUN FIRETRUCK          16:49.42 (Pos: 6)
+  5.  MUN TG DUMPTRUCK       09:16.36 (Pos: 3)
+  6.  ONIBUS VTR             09:49.21 (Pos: 3)
+  7.  LCT3000                09:56.78 (Pos: 3)
+  8.  LIL 1300               08:25.14 (Pos: 4)
+  9.  SCAMA 420R 4X2 TANDEM  08:26.39 (Pos: 4)
+  10. EXPEDITION             08:36.25 (Pos: 4)
+  11. METRO BUS 10.5         09:00.62 (Pos: 4)
+  12. MECA 371 MONOBLOCO     09:09.03 (Pos: 4)
+  13. RACHA 707              09:13.68 (Pos: 4)
+  14. NELSIN 380             09:57.90 (Pos: 4)
+  15. SCAMA DD               09:59.67 (Pos: 4)
+  16. TOWN BUS               10:03.77 (Pos: 4)
+  17. MERSOLES TORITMO       10:10.93 (Pos: 4)
+  18. ROSSA                  07:37.87 (Pos: 5)
+  19. MARIGUS                08:45.29 (Pos: 5)
+  20. MERSOLES COMEGO        09:15.96 (Pos: 5)
+  21. MERCIDS BNZ 16         09:16.72 (Pos: 5)
+  22. RTS 6-71               09:34.69 (Pos: 5)
+  23. HEAVY RESCUE TRUCK     10:50.91 (Pos: 5)
+  24. MUN FIRETRUCK          08:43.18 (Pos: 6)
+  25. MOVETRUCK              10:01.96 (Pos: 6)
 
 
 
@@ -349,22 +359,22 @@ Philippines:   2025-10-29 07:45:40 PST
 +----+-----------------+-----------------+----------+---------+--------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
 | #  | Player          | ID              |  Finished|  TC Cash|   Bonus|  Total $| EXPEDITION | Heavy Rescue | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MERCIDS  | MERSOLES | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | NELSIN 380 | ONIBUS VTR | PIERCING | RACHA 707 | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
 +----+-----------------+-----------------+----------+---------+--------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
-| 1  | kilobananov     | kilobananov     |        25|    5,000|   5,000|   10,000|      1     |       4      |    1    |     3    |     1    |    2    |     4    |     3    |     3    |         5        |        2       |     1     |     4    |      1      |      3     |      1     |     1    |     3     |   1   |     1    |     1     |      2     |     2    |      1     |     2    |
-| 2  | p v l 2         | p v l 2         |        14|    2,800|       0|    2,800|      -     |       2      |    -    |     -    |     -    |    1    |     1    |     1    |     1    |         1        |        1       |     -     |     2    |      -      |      1     |      -     |     -    |     2     |   -   |     2    |     -     |      1     |     1    |      -     |     1    |
-| 3  | Griffin20069    | Griffin20069    |        25|    5,000|   5,000|   10,000|      5     |       1      |    2    |     1    |     4    |    4    |     3    |     2    |     5    |         6        |        4       |     4     |     5    |      2      |      2     |      2     |     4    |     1     |   3   |     4    |     3     |      5     |     4    |      4     |     3    |
-| 4  | Toom43          | Toom43          |        12|    2,400|       0|    2,400|      2     |       -      |    4    |     2    |     -    |    -    |     6    |     -    |     4    |         2        |        -       |     2     |     1    |      -      |      -     |      -     |     3    |     -     |   -   |     3    |     -     |      -     |     -    |      3     |     5    |
-| 5  | whatalife       | whatalife       |        25|    5,000|   5,000|   10,000|      4     |       5      |    3    |     4    |     2    |    5    |     5    |     4    |     6    |         4        |        5       |     6     |     6    |      3      |      4     |      3     |     2    |     4     |   5   |     5    |     2     |      3     |     3    |      2     |     4    |
-| 6  | CRC Titan2000   | CRC Titan2000   |         7|    1,400|       0|    1,400|      -     |       3      |    -    |     -    |     -    |    3    |     2    |     -    |     2    |         3        |        3       |     -     |     3    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 1  | kilobananov     | kilobananov     |        25|    5,000|   5,000|   10,000|      1     |       4      |    1    |     3    |     1    |    2    |     5    |     4    |     3    |         5        |        2       |     1     |     4    |      1      |      3     |      1     |     1    |     3     |   1   |     1    |     1     |      3     |     2    |      1     |     2    |
+| 2  | p v l 2         | p v l 2         |        14|    2,800|       0|    2,800|      -     |       2      |    -    |     -    |     -    |    1    |     1    |     1    |     1    |         1        |        1       |     -     |     2    |      -      |      1     |      -     |     -    |     2     |   -   |     2    |     -     |      2     |     1    |      -     |     1    |
+| 3  | Griffin20069    | Griffin20069    |        25|    5,000|   5,000|   10,000|      5     |       1      |    2    |     1    |     4    |    4    |     3    |     3    |     6    |         6        |        5       |     4     |     5    |      2      |      2     |      2     |     4    |     1     |   3   |     4    |     3     |      6     |     5    |      4     |     3    |
+| 4  | Toom43          | Toom43          |        14|    2,800|       0|    2,800|      2     |       -      |    4    |     2    |     -    |    -    |     6    |     -    |     4    |         2        |        -       |     2     |     1    |      -      |      -     |      -     |     3    |     -     |   -   |     3    |     -     |      7     |     6    |      3     |     5    |
+| 5  | CRC Titan2000   | CRC Titan2000   |        10|    2,000|       0|    2,000|      -     |       3      |    -    |     -    |     -    |    3    |     2    |     2    |     2    |         3        |        3       |     -     |     3    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      1     |     3    |      -     |     -    |
+| 6  | whatalife       | whatalife       |        25|    5,000|   5,000|   10,000|      4     |       5      |    3    |     4    |     2    |    5    |     4    |     5    |     5    |         4        |        4       |     6     |     6    |      3      |      4     |      3     |     2    |     4     |   5   |     5    |     2     |      4     |     4    |      2     |     4    |
 | 7  | UnknownMaster21 | UnknownMaster21 |         1|      200|       0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   2   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 8  | Terminatorss    | Terminatorss    |         4|      800|       0|      800|      -     |       -      |    -    |     -    |     3    |    -    |     -    |     -    |     -    |         -        |        -       |     5     |     -    |      -      |      -     |      -     |     -    |     -     |   4   |     -    |     -     |      6     |     -    |      -     |     -    |
+| 8  | Terminatorss    | Terminatorss    |         4|      800|       0|      800|      -     |       -      |    -    |     -    |     3    |    -    |     -    |     -    |     -    |         -        |        -       |     5     |     -    |      -      |      -     |      -     |     -    |     -     |   4   |     -    |     -     |      8     |     -    |      -     |     -    |
 | 9  | TPEBOMAH        | TPEBOMAH        |         1|      200|       0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
 | 10 | pro player128   | pro player128   |         1|      200|       0|      200|      3     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
-| 11 | balintka1234    | balintka1234    |         1|      200|       0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      4     |     -    |      -     |     -    |
-| 12 | lordferius      | lordferius      |         2|      400|       0|      400|      -     |       -      |    5    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     7     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 11 | lordferius      | lordferius      |         2|      400|       0|      400|      -     |       -      |    5    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     7     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 12 | balintka1234    | balintka1234    |         1|      200|       0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      5     |     -    |      -     |     -    |
 | 13 | Huseyn31        | Huseyn31        |         3|      600|       0|      600|      6     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     7    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     6    |
 | 14 | bowler          | bowler          |         1|      200|       0|      200|      -     |       6      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
 +----+-----------------+-----------------+----------+---------+--------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
-|    | Total           |                 |          |   24,400|  15,000|   39,400|            |              |         |          |          |         |          |          |          |                  |                |           |          |             |            |            |          |           |       |          |           |            |          |            |          |
+|    | Total           |                 |          |   25,400|  15,000|   40,400|            |              |         |          |          |         |          |          |          |                  |                |           |          |             |            |            |          |           |       |          |           |            |          |            |          |
 +----+-----------------+-----------------+----------+---------+--------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
 
 
@@ -376,11 +386,11 @@ Philippines:   2025-10-29 07:45:40 PST
 | #  | Player          | ID              |  Vehicles|   Total Time|  Avg Time|
 +----+-----------------+-----------------+----------+-------------+----------+
 | 1  | kilobananov     | kilobananov     |        25|  03:06:39.37|  07:27.97|
-| 2  | Griffin20069    | Griffin20069    |        25|  04:04:32.96|  09:46.92|
-| 3  | whatalife       | whatalife       |        25|  04:31:06.97|  10:50.68|
+| 2  | whatalife       | whatalife       |        25|  03:52:41.57|  09:18.46|
+| 3  | Griffin20069    | Griffin20069    |        25|  04:04:32.96|  09:46.92|
 | 4  | p v l 2         | p v l 2         |        14|  01:45:58.73|  07:34.19|
-| 5  | Toom43          | Toom43          |        12|  02:00:02.28|  10:00.19|
-| 6  | CRC Titan2000   | CRC Titan2000   |         7|     57:01.66|  08:08.81|
+| 5  | Toom43          | Toom43          |        14|  02:34:04.70|  11:00.34|
+| 6  | CRC Titan2000   | CRC Titan2000   |        10|  01:20:04.23|  08:00.42|
 | 7  | Terminatorss    | Terminatorss    |         4|     42:03.45|  10:30.86|
 | 8  | Huseyn31        | Huseyn31        |         3|  01:04:25.93|  21:28.64|
 | 9  | lordferius      | lordferius      |         2|     47:02.65|  23:31.32|
