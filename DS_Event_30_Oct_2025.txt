@@ -1,79 +1,204 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-10-30 23:52:33 UTC
-German Time:   2025-10-31 00:52:33 CET
-Brazil Time:   2025-10-30 20:52:33 -03
-Saudi Arabia:  2025-10-31 02:52:33 +03
-Turkish Time:  2025-10-31 02:52:33 +03
-India Time:    2025-10-31 05:22:33 IST
-Philippines:   2025-10-31 07:52:33 PST
+UTC Time:      2025-10-31 11:46:08 UTC
+German Time:   2025-10-31 12:46:08 CET
+Brazil Time:   2025-10-31 08:46:08 -03
+Saudi Arabia:  2025-10-31 14:46:08 +03
+Turkish Time:  2025-10-31 14:46:08 +03
+India Time:    2025-10-31 17:16:08 IST
+Philippines:   2025-10-31 19:46:08 PST
 
 --- Results by Vehicle (Fastest First) ---
 
 1. GG55 AMD
   1. Toom43     02:39.27
+  2. whatalife  03:13.96
 
 2. YAHAMA CT125 DR
   1. p v l 2    02:47.70
   2. Toom43     04:08.04
 
-3. UZOVKA
+3. GP125
+  1. p v l 2    02:48.83
+
+4. ADDA S83 1.8T
+  1. whatalife  02:51.01
+
+5. K300X
+  1. p v l 2    02:51.59
+
+6. UZOVKA
   1. Toom43     02:52.92
   2. whatalife  03:28.95
 
-4. JW 350
+7. YAMI 3R
+  1. p v l 2    02:53.24
+
+8. YAHAMA CT200
+  1. p v l 2    02:53.59
+
+9. SZK 400 CLASSIC
+  1. p v l 2    02:54.76
+
+10. POSCHER CAYNAM 718
+  1. whatalife  02:57.98
+
+11. JW 350
   1. p v l 2    02:58.94
   2. Toom43     03:03.00
 
-5. ADDA 5200
+12. GHOUL 250RR
+  1. p v l 2    03:00.40
+
+13. RZT 370
+  1. p v l 2    03:00.76
+  2. Toom43     04:25.16
+
+14. ADDA 5200
   1. whatalife  03:00.89
 
-6. BZ30 ROADSTER SPORT
+15. GWMK2
+  1. whatalife  03:01.77
+
+16. YKS-R1052
+  1. p v l 2    03:03.20
+
+17. UF 1000
+  1. whatalife  03:03.52
+
+18. SM500
+  1. p v l 2    03:03.91
+
+19. BZ30 ROADSTER SPORT
   1. whatalife  03:04.19
 
-7. PORCHETE TIGER GTS
+20. CHALLENGE ST
+  1. whatalife  03:05.15
+
+21. PORCHETE TIGER GTS
   1. whatalife  03:05.53
 
-8. SPOTTEDKITTEN COUPE
+22. RZM 250
+  1. p v l 2    03:05.64
+
+23. RS1 KENJI RX
+  1. whatalife  03:05.96
+
+24. REAPER X1
+  1. p v l 2    03:08.07
+
+25. SPOTTEDKITTEN COUPE
   1. whatalife  03:09.15
 
-9. MERESDES E910
+26. GW-DECA
+  1. whatalife  03:09.81
+
+27. PZG COMPACT
+  1. whatalife  03:11.14
+
+28. YKS-100
+  1. p v l 2    03:11.51
+
+29. BD750
+  1. p v l 2    03:11.61
+
+30. YAHAMA MIT09
+  1. p v l 2    03:11.84
+
+31. MERESDES E910
   1. whatalife  03:12.03
 
-10. EXPEDITION
+32. JIIRO
+  1. whatalife  03:13.29
+
+33. SKODA 110 L RALLYE
+  1. whatalife  03:13.36
+
+34. LEMON FANTOMAS
+  1. whatalife  03:13.66
+
+35. EXPEDITION
   1. whatalife  03:13.71
 
-11. DIAMOND
+36. DIAMOND
   1. whatalife  03:16.83
 
-12. WATBRUG 353
+37. WATBRUG 353
   1. Toom43     03:17.39
   2. whatalife  03:29.36
 
-13. MERSOLES COMEGO
+38. BOLKSWAGON GOFF TGI
   1. whatalife  03:17.80
 
-14. ERESO
+39. ACOSTA STARLIN
+  1. whatalife  03:17.84
+
+40. KEEROCK
+  1. whatalife  03:18.21
+
+41. HORDA CFR450
+  1. p v l 2    03:18.42
+
+42. ERESO
   1. whatalife  03:18.90
 
-15. TAZ 0521
+43. VALUTA V8
+  1. whatalife  03:20.17
+
+44. GORKIY 10
+  1. whatalife  03:21.48
+
+45. TAZ 0521
   1. whatalife  03:21.81
 
-16. EMKO
+46. EMKO
   1. whatalife  03:24.92
 
-17. ADDA AR-EIGHT V10
+47. PONTACH GT
+  1. whatalife  03:25.00
+
+48. CX WAGON
+  1. whatalife  03:25.70
+
+49. GUCIMOTO
+  1. p v l 2    03:29.55
+
+50. SPEC R
+  1. whatalife  03:29.99
+
+51. HBIKE V2
+  1. p v l 2    03:31.23
+
+52. VULCAN 998
+  1. p v l 2    03:31.65
+
+53. ADDA AR-EIGHT V10
   1. whatalife  03:31.97
 
-18. HANZMUND V8
+54. HANZMUND V8
   1. whatalife  03:33.39
 
-19. ROSSA
+55. FRAUD PRE RUNNER
+  1. whatalife  03:34.56
+
+56. SKODA FELICIA
+  1. whatalife  03:36.77
+
+57. HUMHII
+  1. whatalife  03:41.23
+
+58. LAND ROAMER
+  1. whatalife  03:42.58
+
+59. BACALHAU
+  1. whatalife  03:47.30
+
+60. ROSSA
   1. whatalife  03:50.78
 
-20. RZT 370
-  1. Toom43     04:25.16
+61. RS1 KENJI
+  1. whatalife  03:56.28
 
 
 
@@ -83,94 +208,208 @@ Philippines:   2025-10-31 07:52:33 PST
   1.  GG55 AMD             02:39.27 (Pos: 1)
   2.  UZOVKA               02:52.92 (Pos: 1)
   3.  WATBRUG 353          03:17.39 (Pos: 1)
-  4.  RZT 370              04:25.16 (Pos: 1)
-  5.  JW 350               03:03.00 (Pos: 2)
-  6.  YAHAMA CT125 DR      04:08.04 (Pos: 2)
+  4.  JW 350               03:03.00 (Pos: 2)
+  5.  YAHAMA CT125 DR      04:08.04 (Pos: 2)
+  6.  RZT 370              04:25.16 (Pos: 2)
 
 2. p v l 2 (p v l 2)
   1.  YAHAMA CT125 DR      02:47.70 (Pos: 1)
-  2.  JW 350               02:58.94 (Pos: 1)
+  2.  GP125                02:48.83 (Pos: 1)
+  3.  K300X                02:51.59 (Pos: 1)
+  4.  YAMI 3R              02:53.24 (Pos: 1)
+  5.  YAHAMA CT200         02:53.59 (Pos: 1)
+  6.  SZK 400 CLASSIC      02:54.76 (Pos: 1)
+  7.  JW 350               02:58.94 (Pos: 1)
+  8.  GHOUL 250RR          03:00.40 (Pos: 1)
+  9.  RZT 370              03:00.76 (Pos: 1)
+  10. YKS-R1052            03:03.20 (Pos: 1)
+  11. SM500                03:03.91 (Pos: 1)
+  12. RZM 250              03:05.64 (Pos: 1)
+  13. REAPER X1            03:08.07 (Pos: 1)
+  14. YKS-100              03:11.51 (Pos: 1)
+  15. BD750                03:11.61 (Pos: 1)
+  16. YAHAMA MIT09         03:11.84 (Pos: 1)
+  17. HORDA CFR450         03:18.42 (Pos: 1)
+  18. GUCIMOTO             03:29.55 (Pos: 1)
+  19. HBIKE V2             03:31.23 (Pos: 1)
+  20. VULCAN 998           03:31.65 (Pos: 1)
 
 3. whatalife (whatalife)
-  1.  ADDA 5200            03:00.89 (Pos: 1)
-  2.  BZ30 ROADSTER SPORT  03:04.19 (Pos: 1)
-  3.  PORCHETE TIGER GTS   03:05.53 (Pos: 1)
-  4.  SPOTTEDKITTEN COUPE  03:09.15 (Pos: 1)
-  5.  MERESDES E910        03:12.03 (Pos: 1)
-  6.  EXPEDITION           03:13.71 (Pos: 1)
-  7.  DIAMOND              03:16.83 (Pos: 1)
-  8.  MERSOLES COMEGO      03:17.80 (Pos: 1)
-  9.  ERESO                03:18.90 (Pos: 1)
-  10. TAZ 0521             03:21.81 (Pos: 1)
-  11. EMKO                 03:24.92 (Pos: 1)
-  12. ADDA AR-EIGHT V10    03:31.97 (Pos: 1)
-  13. HANZMUND V8          03:33.39 (Pos: 1)
-  14. ROSSA                03:50.78 (Pos: 1)
-  15. UZOVKA               03:28.95 (Pos: 2)
-  16. WATBRUG 353          03:29.36 (Pos: 2)
+  1.  ADDA S83 1.8T        02:51.01 (Pos: 1)
+  2.  POSCHER CAYNAM 718   02:57.98 (Pos: 1)
+  3.  ADDA 5200            03:00.89 (Pos: 1)
+  4.  GWMK2                03:01.77 (Pos: 1)
+  5.  UF 1000              03:03.52 (Pos: 1)
+  6.  BZ30 ROADSTER SPORT  03:04.19 (Pos: 1)
+  7.  CHALLENGE ST         03:05.15 (Pos: 1)
+  8.  PORCHETE TIGER GTS   03:05.53 (Pos: 1)
+  9.  RS1 KENJI RX         03:05.96 (Pos: 1)
+  10. SPOTTEDKITTEN COUPE  03:09.15 (Pos: 1)
+  11. GW-DECA              03:09.81 (Pos: 1)
+  12. PZG COMPACT          03:11.14 (Pos: 1)
+  13. MERESDES E910        03:12.03 (Pos: 1)
+  14. JIIRO                03:13.29 (Pos: 1)
+  15. SKODA 110 L RALLYE   03:13.36 (Pos: 1)
+  16. LEMON FANTOMAS       03:13.66 (Pos: 1)
+  17. EXPEDITION           03:13.71 (Pos: 1)
+  18. DIAMOND              03:16.83 (Pos: 1)
+  19. BOLKSWAGON GOFF TGI  03:17.80 (Pos: 1)
+  20. ACOSTA STARLIN       03:17.84 (Pos: 1)
+  21. KEEROCK              03:18.21 (Pos: 1)
+  22. ERESO                03:18.90 (Pos: 1)
+  23. VALUTA V8            03:20.17 (Pos: 1)
+  24. GORKIY 10            03:21.48 (Pos: 1)
+  25. TAZ 0521             03:21.81 (Pos: 1)
+  26. EMKO                 03:24.92 (Pos: 1)
+  27. PONTACH GT           03:25.00 (Pos: 1)
+  28. CX WAGON             03:25.70 (Pos: 1)
+  29. SPEC R               03:29.99 (Pos: 1)
+  30. ADDA AR-EIGHT V10    03:31.97 (Pos: 1)
+  31. HANZMUND V8          03:33.39 (Pos: 1)
+  32. FRAUD PRE RUNNER     03:34.56 (Pos: 1)
+  33. SKODA FELICIA        03:36.77 (Pos: 1)
+  34. HUMHII               03:41.23 (Pos: 1)
+  35. LAND ROAMER          03:42.58 (Pos: 1)
+  36. BACALHAU             03:47.30 (Pos: 1)
+  37. ROSSA                03:50.78 (Pos: 1)
+  38. RS1 KENJI            03:56.28 (Pos: 1)
+  39. GG55 AMD             03:13.96 (Pos: 2)
+  40. UZOVKA               03:28.95 (Pos: 2)
+  41. WATBRUG 353          03:29.36 (Pos: 2)
 
 
 
 --- Overall Ranking Table (Sorted by Performance) ---
 --- Base cash: 150 for each vehicle finished. (140*150=21,000$) ---
---- if done all 20 vehicles  Extra 6,000 bonus ---
+--- if done all 61 vehicles  Extra 6,000 bonus ---
 --- Bonus Rules (first qualifying rule applies): ---
----   Exactly 20 runs = 6,000 bonus ---
 ---   50+ runs = 2,000 bonus ---
+---   Exactly 61 runs = 6,000 bonus ---
 ---   100+ runs = 4,000 bonus ---
 
---- Overall Ranking Table (Vehicles 1-20) ---
+--- Overall Ranking Table (Vehicles 1-25) ---
 
 --- Tip: Disable Word Warp in notepad ---
 
-+---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+----------+----------+-------+--------+----------+----------+--------+----------+----------+
-| # | Player    | ID        |  Finished|  TC Cash|  Bonus|  Total $| ADDA 520 | ADDA AR- | BZ30 ROA | DIAMOND | EMKO | ERESO | EXPEDITION | GG55 AMD | HANZMUND | JW350 | MERESDES | MERSOLES | PORCHETE | ROSSA | RZT370 | SPOTTEDK | TAZ 0521 | UZOVKA | WATBRUG  | YAHAMA C |
-+---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+----------+----------+-------+--------+----------+----------+--------+----------+----------+
-| 1 | whatalife | whatalife |        16|    2,400|      0|    2,400|     1    |     1    |     1    |    1    |   1  |   1   |      1     |     -    |     1    |   -   |     1    |     1    |     1    |   1   |    -   |     1    |     1    |    2   |     2    |     -    |
-| 2 | Toom43    | Toom43    |         6|      900|      0|      900|     -    |     -    |     -    |    -    |   -  |   -   |      -     |     1    |     -    |   2   |     -    |     -    |     -    |   -   |    1   |     -    |     -    |    1   |     1    |     2    |
-| 3 | p v l 2   | p v l 2   |         2|      300|      0|      300|     -    |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   1   |     -    |     -    |     -    |   -   |    -   |     -    |     -    |    -   |     -    |     1    |
-+---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+----------+----------+-------+--------+----------+----------+--------+----------+----------+
-|   | Total     |           |          |    3,600|      0|    3,600|          |          |          |         |      |       |            |          |          |       |          |          |          |       |        |          |          |        |          |          |
-+---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+----------+----------+-------+--------+----------+----------+--------+----------+----------+
++---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+----------+----------+-------+----------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+-------+----------+---------+-------+----------+--------+----------+
+| # | Player    | ID        |  Finished|  TC Cash|  Bonus|  Total $| ACOSTA S | ADDA 520 | ADDA AR- | ADDA S83 | BACALHAU | BD750 | BOLKSWAG | BZ30 ROA | CHALLENG | CX WAGON | DIAMOND | EMKO | ERESO | EXPEDITION | FRAUD PR | GG55 AMD | GHOUL | GORKIY 1 | GP125 | GUCIMOTO | GW-DECA | GWMK2 | HANZMUND | HBIKE2 | HORDA CF |
++---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+----------+----------+-------+----------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+-------+----------+---------+-------+----------+--------+----------+
+| 1 | whatalife | whatalife |        41|    6,150|      0|    6,150|     1    |     1    |     1    |     1    |     1    |   -   |     1    |     1    |     1    |     1    |    1    |   1  |   1   |      1     |     1    |     2    |   -   |     1    |   -   |     -    |    1    |   1   |     1    |    -   |     -    |
+| 2 | p v l 2   | p v l 2   |        20|    3,000|      0|    3,000|     -    |     -    |     -    |     -    |     -    |   1   |     -    |     -    |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   1   |     -    |   1   |     1    |    -    |   -   |     -    |    1   |     1    |
+| 3 | Toom43    | Toom43    |         6|      900|      0|      900|     -    |     -    |     -    |     -    |     -    |   -   |     -    |     -    |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     1    |   -   |     -    |   -   |     -    |    -    |   -   |     -    |    -   |     -    |
++---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+----------+----------+-------+----------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+-------+----------+---------+-------+----------+--------+----------+
+|   | Total     |           |          |   10,050|      0|   10,050|          |          |          |          |          |       |          |          |          |          |         |      |       |            |          |          |       |          |       |          |         |       |          |        |          |
++---+-----------+-----------+----------+---------+-------+---------+----------+----------+----------+----------+----------+-------+----------+----------+----------+----------+---------+------+-------+------------+----------+----------+-------+----------+-------+----------+---------+-------+----------+--------+----------+
+
+
+--- Overall Ranking Table (Vehicles 26-50) ---
+
+--- Tip: Disable Word Warp in notepad ---
+
++---+-----------+-----------+----------+---------+-------+---------+--------+-------+-------+-------+---------+----------+----------+----------+----------+----------+----------+----------+--------+-------+----------+----------+--------+--------+----------+----------+-------+--------+----------+----------+----------+
+| # | Player    | ID        |  Finished|  TC Cash|  Bonus|  Total $| HUMHII | JIIRO | JW350 | K300X | KEEROCK | LAND ROA | LEMON FA | MERESDES | PONTACH  | PORCHETE | POSCHER  | PZG COMP | REAPER | ROSSA | RS1 KENJ | RS1 KENJ | RZM250 | RZT370 | SKODA 11 | SKODA FE | SM500 | SPEC R | SPOTTEDK | SZK 400  | TAZ 0521 |
++---+-----------+-----------+----------+---------+-------+---------+--------+-------+-------+-------+---------+----------+----------+----------+----------+----------+----------+----------+--------+-------+----------+----------+--------+--------+----------+----------+-------+--------+----------+----------+----------+
+| 1 | whatalife | whatalife |        41|    6,150|      0|    6,150|    1   |   1   |   -   |   -   |    1    |     1    |     1    |     1    |     1    |     1    |     1    |     1    |    -   |   1   |     1    |     1    |    -   |    -   |     1    |     1    |   -   |    1   |     1    |     -    |     1    |
+| 2 | p v l 2   | p v l 2   |        20|    3,000|      0|    3,000|    -   |   -   |   1   |   1   |    -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    1   |   -   |     -    |     -    |    1   |    1   |     -    |     -    |   1   |    -   |     -    |     1    |     -    |
+| 3 | Toom43    | Toom43    |         6|      900|      0|      900|    -   |   -   |   2   |   -   |    -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |   -   |     -    |     -    |    -   |    2   |     -    |     -    |   -   |    -   |     -    |     -    |     -    |
++---+-----------+-----------+----------+---------+-------+---------+--------+-------+-------+-------+---------+----------+----------+----------+----------+----------+----------+----------+--------+-------+----------+----------+--------+--------+----------+----------+-------+--------+----------+----------+----------+
+|   | Total     |           |          |   10,050|      0|   10,050|        |       |       |       |         |          |          |          |          |          |          |          |        |       |          |          |        |        |          |          |       |        |          |          |          |
++---+-----------+-----------+----------+---------+-------+---------+--------+-------+-------+-------+---------+----------+----------+----------+----------+----------+----------+----------+--------+-------+----------+----------+--------+--------+----------+----------+-------+--------+----------+----------+----------+
+
+
+--- Overall Ranking Table (Vehicles 51-61) ---
+
+--- Tip: Disable Word Warp in notepad ---
+
++---+-----------+-----------+----------+---------+-------+---------+---------+--------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+| # | Player    | ID        |  Finished|  TC Cash|  Bonus|  Total $| UF 1000 | UZOVKA | VALUTA V | VULCAN | WATBRUG  | YAHAMA C | YAHAMA C | YAHAMA M | YAMI 3R | YKS100 | YKSR1k |
++---+-----------+-----------+----------+---------+-------+---------+---------+--------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+| 1 | whatalife | whatalife |        41|    6,150|      0|    6,150|    1    |    2   |     1    |    -   |     2    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 2 | p v l 2   | p v l 2   |        20|    3,000|      0|    3,000|    -    |    -   |     -    |    1   |     -    |     1    |     1    |     1    |    1    |    1   |    1   |
+| 3 | Toom43    | Toom43    |         6|      900|      0|      900|    -    |    1   |     -    |    -   |     1    |     2    |     -    |     -    |    -    |    -   |    -   |
++---+-----------+-----------+----------+---------+-------+---------+---------+--------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
+|   | Total     |           |          |   10,050|      0|   10,050|         |        |          |        |          |          |          |          |         |        |        |
++---+-----------+-----------+----------+---------+-------+---------+---------+--------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
 
 
 
 
 --- Leaderboard by Total Runs (Highest Total Vehicles First) ---
 
-+---+-----------+-----------+----------+------------+----------+
-| # | Player    | ID        |  Vehicles|  Total Time|  Avg Time|
-+---+-----------+-----------+----------+------------+----------+
-| 1 | whatalife | whatalife |        16|    53:20.21|  03:20.01|
-| 2 | Toom43    | Toom43    |         6|    20:25.78|  03:24.30|
-| 3 | p v l 2   | p v l 2   |         2|    05:46.64|  02:53.32|
-+---+-----------+-----------+----------+------------+----------+
++---+-----------+-----------+----------+-------------+----------+
+| # | Player    | ID        |  Vehicles|   Total Time|  Avg Time|
++---+-----------+-----------+----------+-------------+----------+
+| 1 | whatalife | whatalife |        41|  02:16:37.93|  03:19.95|
+| 2 | p v l 2   | p v l 2   |        20|  01:01:56.44|  03:05.82|
+| 3 | Toom43    | Toom43    |         6|     20:25.78|  03:24.30|
++---+-----------+-----------+----------+-------------+----------+
 
 
 
 
 --- All Unique Vehicle Names ---
 
-  1. ADDA 5200
-  2. ADDA AR-EIGHT V10
-  3. BZ30 ROADSTER SPORT
-  4. DIAMOND
-  5. EMKO
-  6. ERESO
-  7. EXPEDITION
-  8. GG55 AMD
-  9. HANZMUND V8
-  10. JW 350
-  11. MERESDES E910
-  12. MERSOLES COMEGO
-  13. PORCHETE TIGER GTS
-  14. ROSSA
-  15. RZT 370
-  16. SPOTTEDKITTEN COUPE
-  17. TAZ 0521
-  18. UZOVKA
-  19. WATBRUG 353
-  20. YAHAMA CT125 DR
+  1. ACOSTA STARLIN
+  2. ADDA 5200
+  3. ADDA AR-EIGHT V10
+  4. ADDA S83 1.8T
+  5. BACALHAU
+  6. BD750
+  7. BOLKSWAGON GOFF TGI
+  8. BZ30 ROADSTER SPORT
+  9. CHALLENGE ST
+  10. CX WAGON
+  11. DIAMOND
+  12. EMKO
+  13. ERESO
+  14. EXPEDITION
+  15. FRAUD PRE RUNNER
+  16. GG55 AMD
+  17. GHOUL 250RR
+  18. GORKIY 10
+  19. GP125
+  20. GUCIMOTO
+  21. GW-DECA
+  22. GWMK2
+  23. HANZMUND V8
+  24. HBIKE V2
+  25. HORDA CFR450
+  26. HUMHII
+  27. JIIRO
+  28. JW 350
+  29. K300X
+  30. KEEROCK
+  31. LAND ROAMER
+  32. LEMON FANTOMAS
+  33. MERESDES E910
+  34. PONTACH GT
+  35. PORCHETE TIGER GTS
+  36. POSCHER CAYNAM 718
+  37. PZG COMPACT
+  38. REAPER X1
+  39. ROSSA
+  40. RS1 KENJI
+  41. RS1 KENJI RX
+  42. RZM 250
+  43. RZT 370
+  44. SKODA 110 L RALLYE
+  45. SKODA FELICIA
+  46. SM500
+  47. SPEC R
+  48. SPOTTEDKITTEN COUPE
+  49. SZK 400 CLASSIC
+  50. TAZ 0521
+  51. UF 1000
+  52. UZOVKA
+  53. VALUTA V8
+  54. VULCAN 998
+  55. WATBRUG 353
+  56. YAHAMA CT125 DR
+  57. YAHAMA CT200
+  58. YAHAMA MIT09
+  59. YAMI 3R
+  60. YKS-100
+  61. YKS-R1052
 
 --- All Unique Player Names ---
 
