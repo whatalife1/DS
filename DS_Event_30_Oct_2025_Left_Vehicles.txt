@@ -1,13 +1,10 @@
 --- Players and Their Missing Vehicles---
 
+Player: p v l 2 (p v l 2) has completed all 140 ranked vehicles.
+
 Player: kilobananov (kilobananov) has completed all 140 ranked vehicles.
 
-Player: whatalife (whatalife) is missing the following 5 vehicles:
-  1. BD750
-  2. GP125
-  3. GX-BUGGY
-  4. HORDA CFR450
-  5. YAHAMA CT200
+Player: whatalife (whatalife) has completed all 140 ranked vehicles.
 
 Player: BraveHeart (BraveHeart) is missing the following 22 vehicles:
   1. BMW SAUBER F1.06
@@ -32,31 +29,6 @@ Player: BraveHeart (BraveHeart) is missing the following 22 vehicles:
   20. XR GT
   21. XR GT TURBO
   22. XR GTR
-
-Player: p v l 2 (p v l 2) is missing the following 23 vehicles:
-  1. ACOSTA STARLIN
-  2. ADDA AR-EIGHT V10
-  3. ADDA S83 1.8T
-  4. FRAUD 040
-  5. FRAUD BIG BOY
-  6. FRAUD PRE RUNNER
-  7. GOD FOOT
-  8. GRAND PRIX LEGEND 65
-  9. GX-BUGGY STAGE 2
-  10. GX-BUGGY STAGE R
-  11. MALANDRO - STOCKPRO
-  12. PROTOTYPE 2
-  13. PUSCH 674B
-  14. RAY 400 RALLY
-  15. RS1 KENJI
-  16. RS1 KENJI RX
-  17. SPEC R
-  18. THR MB500
-  19. THR OP4500
-  20. THR SR2000
-  21. TOYATE SUPROZA T
-  22. WESSEX R69SP
-  23. XR1 PROCAR
 
 Player: Griffin20069 (Griffin20069) is missing the following 47 vehicles:
   1. BETA 65
