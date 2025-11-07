@@ -1,13 +1,13 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-11-07 01:00:50 UTC
-German Time:   2025-11-07 02:00:50 CET
-Brazil Time:   2025-11-06 22:00:50 -03
-Saudi Arabia:  2025-11-07 04:00:50 +03
-Turkish Time:  2025-11-07 04:00:50 +03
-India Time:    2025-11-07 06:30:50 IST
-Philippines:   2025-11-07 09:00:50 PST
+UTC Time:      2025-11-07 12:44:45 UTC
+German Time:   2025-11-07 13:44:45 CET
+Brazil Time:   2025-11-07 09:44:45 -03
+Saudi Arabia:  2025-11-07 15:44:45 +03
+Turkish Time:  2025-11-07 15:44:45 +03
+India Time:    2025-11-07 18:14:45 IST
+Philippines:   2025-11-07 20:44:45 PST
 
 --- Results by Vehicle (Fastest First) ---
 
@@ -16,14 +16,26 @@ Philippines:   2025-11-07 09:00:50 PST
   2.  kilobananov          01:31.76
   3.  Toom43               01:35.74
   4.  J--                  01:41.75
-  5.  Lotche               01:50.66
-  6.  Icoha44              02:12.53
-  7.  pagani18             02:15.95
-  8.  BraveHeart           02:29.98
-  9.  whatalife            03:05.96
-  10. Huseyn31             04:05.94
+  5.  p v l 2              01:49.26
+  6.  Lotche               01:50.66
+  7.  Icoha44              02:12.53
+  8.  pagani18             02:15.95
+  9.  BraveHeart           02:29.98
+  10. whatalife            03:05.96
+  11. Huseyn31             04:05.94
 
-2. ADDA 8A 4.2 TDI
+2. ADDA S83 1.8T
+  1.  TPEBOMAH             01:31.96
+  2.  CRC Titan2000        01:41.71
+  3.  p v l 2              01:53.90
+  4.  kilobananov          01:56.40
+  5.  Griffin20069         02:06.48
+  6.  Icoha44              02:07.96
+  7.  Huseyn31             02:30.95
+  8.  BraveHeart           02:34.10
+  9.  whatalife            02:51.01
+
+3. ADDA 8A 4.2 TDI
   1.  TPEBOMAH             01:36.94
   2.  kilobananov          01:43.84
   3.  p v l 2              02:02.74
@@ -31,16 +43,6 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           02:23.84
   6.  1Demon1              02:44.41
   7.  whatalife            02:47.16
-
-3. ADDA S83 1.8T
-  1.  TPEBOMAH             01:38.05
-  2.  CRC Titan2000        01:41.71
-  3.  kilobananov          01:56.40
-  4.  Griffin20069         02:06.48
-  5.  Icoha44              02:07.96
-  6.  Huseyn31             02:30.95
-  7.  BraveHeart           02:34.10
-  8.  whatalife            02:51.01
 
 4. FXO GTR
   1.  CRC Titan2000        01:46.31
@@ -96,8 +98,9 @@ Philippines:   2025-11-07 09:00:50 PST
 
 10. RS1 KENJI
   1.  kilobananov          01:54.74
-  2.  BraveHeart           02:37.65
-  3.  whatalife            03:56.28
+  2.  p v l 2              02:05.41
+  3.  BraveHeart           02:37.65
+  4.  whatalife            03:56.28
 
 11. XF GTR
   1.  CRC Titan2000        01:56.30
@@ -120,11 +123,12 @@ Philippines:   2025-11-07 09:00:50 PST
 
 13. ADDA AR-EIGHT V10
   1.  kilobananov          01:56.75
-  2.  Griffin20069         02:17.99
-  3.  Huseyn31             03:09.27
-  4.  groff48              03:12.28
-  5.  whatalife            03:31.97
-  6.  BraveHeart           03:42.38
+  2.  p v l 2              02:08.30
+  3.  Griffin20069         02:17.99
+  4.  Huseyn31             03:09.27
+  5.  groff48              03:12.28
+  6.  whatalife            03:31.97
+  7.  BraveHeart           03:42.38
 
 14. POSCHER CAYNAM 718
   1.  kilobananov          01:56.98
@@ -158,18 +162,28 @@ Philippines:   2025-11-07 09:00:50 PST
   8.  Huseyn31             03:08.16
   9.  Lotche               03:17.49
 
-18. SPEC R
-  1.  kilobananov          01:59.36
-  2.  BraveHeart           03:27.95
-  3.  whatalife            03:29.99
+18. TOYATE SUPROZA T
+  1.  p v l 2              01:59.35
+  2.  kilobananov          02:11.45
+  3.  Huseyn31             02:21.30
+  4.  Griffin20069         02:26.70
+  5.  BraveHeart           02:52.49
+  6.  whatalife            02:53.64
+  7.  Icoha44              03:01.86
 
-19. INTERCEPTOR
+19. SPEC R
+  1.  kilobananov          01:59.36
+  2.  p v l 2              02:16.24
+  3.  BraveHeart           03:27.95
+  4.  whatalife            03:29.99
+
+20. INTERCEPTOR
   1.  kilobananov          01:59.48
   2.  p v l 2              02:18.29
   3.  BraveHeart           02:41.86
   4.  whatalife            02:57.59
 
-20. JIIRO
+21. JIIRO
   1.  kilobananov          01:59.68
   2.  Toom43               02:08.58
   3.  p v l 2              02:11.15
@@ -177,7 +191,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:13.29
   6.  BraveHeart           06:52.54
 
-21. ADDA 5200
+22. ADDA 5200
   1.  Toom43               01:59.79
   2.  kilobananov          02:01.88
   3.  p v l 2              02:15.41
@@ -187,7 +201,14 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:00.89
   8.  groff48              03:46.31
 
-22. RB4 GT
+23. XR1 PROCAR
+  1.  p v l 2              01:59.85
+  2.  kilobananov          02:26.83
+  3.  whatalife            02:51.63
+  4.  BraveHeart           02:53.02
+  5.  Huseyn31             03:43.96
+
+24. RB4 GT
   1.  kilobananov          02:01.09
   2.  CRC Titan2000        02:03.91
   3.  Griffin20069         02:09.99
@@ -196,7 +217,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Huseyn31             02:56.28
   7.  whatalife            03:17.42
 
-23. LX4
+25. LX4
   1.  lordferius           02:01.38
   2.  CRC Titan2000        02:13.00
   3.  Lotche               02:13.39
@@ -206,14 +227,22 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:14.57
   8.  Huseyn31             03:32.23
 
-24. LACIBRE V6
+26. LACIBRE V6
   1.  kilobananov          02:01.73
   2.  Griffin20069         02:06.36
   3.  p v l 2              02:20.54
   4.  BraveHeart           02:52.75
   5.  whatalife            03:33.07
 
-25. GW-DECA
+27. GOD FOOT
+  1.  p v l 2              02:02.58
+  2.  Griffin20069         02:27.52
+  3.  BraveHeart           02:31.36
+  4.  kilobananov          02:31.38
+  5.  whatalife            03:00.66
+  6.  Huseyn31             04:09.94
+
+28. GW-DECA
   1.  kilobananov          02:02.68
   2.  Griffin20069         02:04.36
   3.  p v l 2              02:12.12
@@ -222,7 +251,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:09.81
   7.  BraveHeart           03:12.71
 
-26. IBUSHA SAGA 2.6
+29. IBUSHA SAGA 2.6
   1.  kilobananov          02:02.86
   2.  p v l 2              02:19.42
   3.  BraveHeart           02:20.79
@@ -230,7 +259,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Icoha44              02:34.09
   6.  whatalife            03:01.98
 
-27. GORKIY 10
+30. GORKIY 10
   1.  kilobananov          02:03.25
   2.  Toom43               02:17.69
   3.  p v l 2              02:18.69
@@ -239,21 +268,21 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:21.48
   7.  Huseyn31             03:40.83
 
-28. EM30
+31. EM30
   1.  Griffin20069         02:03.34
   2.  kilobananov          02:10.33
   3.  p v l 2              02:11.51
   4.  BraveHeart           02:32.95
   5.  whatalife            03:09.59
 
-29. VALUTA V8
+32. VALUTA V8
   1.  kilobananov          02:03.53
   2.  p v l 2              02:33.44
   3.  Glenn Quagmire       03:02.29
   4.  whatalife            03:20.17
   5.  groff48              05:05.01
 
-30. IMPREZZIVE B2
+33. IMPREZZIVE B2
   1.  p v l 2              02:03.62
   2.  kilobananov          02:05.89
   3.  Toom43               02:21.53
@@ -262,21 +291,21 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  BraveHeart           02:31.43
   7.  whatalife            03:25.31
 
-31. SHARK C GROUP 2
+34. SHARK C GROUP 2
   1.  p v l 2              02:03.74
   2.  kilobananov          02:07.72
   3.  Griffin20069         02:11.95
   4.  BraveHeart           02:47.03
   5.  whatalife            03:09.28
 
-32. TALOT SUNS LOMIS
+35. TALOT SUNS LOMIS
   1.  p v l 2              02:03.78
   2.  kilobananov          02:06.04
   3.  whatalife            02:52.52
   4.  BraveHeart           03:31.63
   5.  Griffin20069         03:36.43
 
-33. POCKET UF
+36. POCKET UF
   1.  smirdaboli           02:04.13
   2.  p v l 2              02:21.29
   3.  Toom43               02:26.66
@@ -286,7 +315,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:45.07
   8.  Huseyn31             06:20.11
 
-34. GWMK2
+37. GWMK2
   1.  kilobananov          02:04.51
   2.  p v l 2              02:15.89
   3.  BraveHeart           02:21.92
@@ -294,7 +323,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:01.77
   6.  Huseyn31             03:22.45
 
-35. LEMON FANTOMAS
+38. FRAUD 040
+  1.  p v l 2              02:04.77
+  2.  kilobananov          02:21.64
+  3.  BraveHeart           02:34.35
+  4.  Griffin20069         02:35.96
+  5.  whatalife            03:13.46
+
+39. LEMON FANTOMAS
   1.  kilobananov          02:05.05
   2.  p v l 2              02:17.78
   3.  Icoha44              02:34.98
@@ -303,13 +339,13 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Griffin20069         03:24.59
   7.  Huseyn31             04:39.03
 
-36. BUMER 7
+40. BUMER 7
   1.  kilobananov          02:05.07
   2.  p v l 2              02:13.46
   3.  BraveHeart           02:45.67
   4.  whatalife            03:24.02
 
-37. UF GTR
+41. UF GTR
   1.  Lotche               02:05.07
   2.  CRC Titan2000        02:09.90
   3.  kilobananov          02:14.74
@@ -318,7 +354,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:44.59
   7.  Huseyn31             04:06.39
 
-38. BZ30 ROADSTER SPORT
+42. BZ30 ROADSTER SPORT
   1.  kilobananov          02:05.29
   2.  p v l 2              02:10.49
   3.  Griffin20069         02:18.28
@@ -328,7 +364,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:04.19
   8.  BraveHeart           03:06.90
 
-39. AHMED 4.0RS
+43. AHMED 4.0RS
   1.  p v l 2              02:05.55
   2.  kilobananov          02:08.36
   3.  Griffin20069         02:15.21
@@ -337,7 +373,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  BraveHeart           03:43.54
   7.  Huseyn31             04:02.72
 
-40. BOLKSWAGON GOFF TGI
+44. BOLKSWAGON GOFF TGI
   1.  kilobananov          02:05.65
   2.  bayanofmansorofisky  02:12.21
   3.  Griffin20069         02:28.98
@@ -349,7 +385,7 @@ Philippines:   2025-11-07 09:00:50 PST
   9.  groff48              05:04.06
   10. Huseyn31             05:14.52
 
-41. XR GT
+45. XR GT
   1.  kilobananov          02:05.81
   2.  p v l 2              02:12.24
   3.  Griffin20069         02:18.76
@@ -358,7 +394,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:15.96
   7.  Huseyn31             04:47.20
 
-42. XR GTR
+46. XR GTR
   1.  Lotche               02:05.83
   2.  p v l 2              02:06.69
   3.  CRC Titan2000        02:07.12
@@ -367,14 +403,14 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:05.96
   7.  Huseyn31             03:19.09
 
-43. GT-V34
+47. GT-V34
   1.  p v l 2              02:06.09
   2.  kilobananov          02:18.75
   3.  Griffin20069         02:45.02
   4.  whatalife            03:16.01
   5.  BraveHeart           03:45.28
 
-44. LX6
+48. LX6
   1.  CRC Titan2000        02:06.44
   2.  lordferius           02:08.03
   3.  kilobananov          02:08.27
@@ -384,7 +420,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:07.91
   8.  Huseyn31             03:41.95
 
-45. ERESO
+49. ERESO
   1.  kilobananov          02:06.64
   2.  p v l 2              02:10.26
   3.  Glenn Quagmire       02:45.20
@@ -394,14 +430,14 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:18.90
   8.  Huseyn31             03:23.71
 
-46. SWIRL SPORT 06
+50. SWIRL SPORT 06
   1.  kilobananov          02:06.70
   2.  p v l 2              02:19.10
   3.  BraveHeart           03:00.84
   4.  whatalife            03:07.96
   5.  Huseyn31             03:46.31
 
-47. MERESDES E910
+51. MERESDES E910
   1.  kilobananov          02:06.72
   2.  p v l 2              02:17.28
   3.  Griffin20069         02:31.29
@@ -411,27 +447,33 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  BraveHeart           03:19.06
   8.  Huseyn31             07:05.15
 
-48. FUCA SPORT SYSTEM
+52. WESSEX R69SP
+  1.  p v l 2              02:06.77
+  2.  kilobananov          02:41.52
+  3.  BraveHeart           03:06.92
+  4.  whatalife            03:53.59
+
+53. FUCA SPORT SYSTEM
   1.  p v l 2              02:07.80
   2.  kilobananov          02:14.82
   3.  BraveHeart           02:51.56
   4.  whatalife            03:30.17
 
-49. PZG COMPACT
+54. PZG COMPACT
   1.  p v l 2              02:08.34
   2.  kilobananov          02:19.00
   3.  BraveHeart           02:58.60
   4.  whatalife            03:11.14
   5.  Griffin20069         03:12.47
 
-50. SPOTTEDKITTEN COUPE
+55. SPOTTEDKITTEN COUPE
   1.  p v l 2              02:08.42
   2.  kilobananov          02:26.50
   3.  groff48              02:45.83
   4.  BraveHeart           03:04.15
   5.  whatalife            03:09.15
 
-51. KEEROCK
+56. KEEROCK
   1.  kilobananov          02:08.44
   2.  Griffin20069         02:26.09
   3.  p v l 2              02:28.49
@@ -439,14 +481,22 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           03:27.05
   6.  Lavezzi              03:38.59
 
-52. GX-BUGGY STAGE R
-  1.  Toom43               02:08.69
-  2.  kilobananov          03:03.67
-  3.  BraveHeart           03:04.36
-  4.  whatalife            03:18.21
-  5.  Huseyn31             04:00.90
+57. ACOSTA STARLIN
+  1.  p v l 2              02:08.52
+  2.  kilobananov          02:14.17
+  3.  Griffin20069         02:37.55
+  4.  BraveHeart           02:57.70
+  5.  whatalife            03:17.84
 
-53. RACEABOUT
+58. GX-BUGGY STAGE R
+  1.  Toom43               02:08.69
+  2.  p v l 2              02:18.57
+  3.  kilobananov          03:03.67
+  4.  BraveHeart           03:04.36
+  5.  whatalife            03:18.21
+  6.  Huseyn31             04:00.90
+
+59. RACEABOUT
   1.  p v l 2              02:08.76
   2.  CRC Titan2000        02:10.65
   3.  kilobananov          02:18.01
@@ -455,7 +505,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            02:49.11
   7.  Huseyn31             04:25.67
 
-54. CX WAGON
+60. CX WAGON
   1.  kilobananov          02:08.96
   2.  Griffin20069         02:15.23
   3.  p v l 2              02:18.92
@@ -463,21 +513,21 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:25.70
   6.  Huseyn31             14:30.20
 
-55. N.400S
+61. N.400S
   1.  p v l 2              02:08.96
   2.  kilobananov          02:16.56
   3.  Griffin20069         02:39.66
   4.  BraveHeart           02:41.14
   5.  whatalife            03:41.87
 
-56. LORY GP5
+62. LORY GP5
   1.  p v l 2              02:09.13
   2.  kilobananov          02:33.40
   3.  BraveHeart           02:35.05
   4.  whatalife            03:04.54
   5.  Griffin20069         03:09.71
 
-57. GG55 AMD
+63. GG55 AMD
   1.  kilobananov          02:09.18
   2.  p v l 2              02:11.00
   3.  Toom43               02:39.27
@@ -485,7 +535,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:13.96
   6.  Huseyn31             04:49.26
 
-58. PONTACH GT
+64. RAY 400 RALLY
+  1.  p v l 2              02:09.50
+  2.  Griffin20069         02:14.62
+  3.  kilobananov          02:15.02
+  4.  BraveHeart           02:46.50
+  5.  whatalife            03:23.66
+
+65. PONTACH GT
   1.  kilobananov          02:09.62
   2.  p v l 2              02:21.37
   3.  Griffin20069         02:25.79
@@ -493,7 +550,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           03:10.83
   6.  whatalife            03:25.00
 
-59. BETA 65
+66. BETA 65
   1.  kilobananov          02:10.39
   2.  p v l 2              02:17.23
   3.  Toom43               02:25.10
@@ -501,7 +558,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:03.20
   6.  Huseyn31             06:35.69
 
-60. HADIMRSKA HOTRODD
+67. HADIMRSKA HOTRODD
   1.  p v l 2              02:10.44
   2.  kilobananov          02:32.35
   3.  BraveHeart           02:35.51
@@ -510,7 +567,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Griffin20069         03:17.84
   7.  whatalife            03:18.83
 
-61. SEDAN
+68. SEDAN
   1.  kilobananov          02:10.45
   2.  Griffin20069         02:13.86
   3.  p v l 2              02:17.21
@@ -518,34 +575,35 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:35.48
   6.  Huseyn31             04:08.90
 
-62. VGI-6 TEDAVI
+69. VGI-6 TEDAVI
   1.  p v l 2              02:10.45
   2.  kilobananov          02:10.69
   3.  Griffin20069         02:13.19
   4.  BraveHeart           02:32.17
   5.  whatalife            03:27.55
 
-63. MALANDRO - STOCKPRO
+70. MALANDRO - STOCKPRO
   1.  kilobananov          02:10.65
-  2.  Griffin20069         02:18.85
-  3.  BraveHeart           02:34.69
-  4.  whatalife            02:49.98
+  2.  p v l 2              02:13.32
+  3.  Griffin20069         02:18.85
+  4.  BraveHeart           02:34.69
+  5.  whatalife            02:49.98
 
-64. KORAMA R
+71. KORAMA R
   1.  kilobananov          02:10.89
   2.  p v l 2              02:26.85
   3.  Icoha44              02:33.04
   4.  whatalife            03:09.10
   5.  BraveHeart           05:40.90
 
-65. BACALHAU
+72. BACALHAU
   1.  kilobananov          02:10.97
   2.  p v l 2              02:24.61
   3.  Griffin20069         02:28.99
   4.  BraveHeart           02:47.20
   5.  whatalife            03:47.30
 
-66. GWMK24DR
+73. GWMK24DR
   1.  kilobananov          02:10.99
   2.  p v l 2              02:27.91
   3.  Griffin20069         02:54.47
@@ -553,27 +611,27 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Huseyn31             03:33.61
   6.  whatalife            03:40.08
 
-67. TOYATE SUPROZA T
-  1.  kilobananov          02:11.45
-  2.  Huseyn31             02:21.30
-  3.  Griffin20069         02:26.70
-  4.  BraveHeart           02:52.49
-  5.  whatalife            02:53.64
-  6.  Icoha44              03:01.86
-
-68. UF 1100T
+74. UF 1100T
   1.  p v l 2              02:11.95
   2.  kilobananov          02:31.56
   3.  BraveHeart           03:00.58
   4.  whatalife            03:20.10
 
-69. T46 SPORT R
+75. T46 SPORT R
   1.  p v l 2              02:12.37
   2.  kilobananov          02:19.59
   3.  BraveHeart           02:38.36
   4.  whatalife            02:57.60
 
-70. FXO TURBO
+76. FRAUD BIG BOY
+  1.  p v l 2              02:12.59
+  2.  kilobananov          02:26.19
+  3.  Icoha44              02:40.42
+  4.  BraveHeart           02:47.11
+  5.  whatalife            03:00.54
+  6.  Huseyn31             03:58.84
+
+77. FXO TURBO
   1.  kilobananov          02:12.93
   2.  p v l 2              02:13.41
   3.  CRC Titan2000        02:13.83
@@ -582,7 +640,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:05.95
   7.  Huseyn31             07:13.53
 
-71. BD9115
+78. BD9115
   1.  p v l 2              02:12.98
   2.  kilobananov          02:16.21
   3.  BraveHeart           02:30.91
@@ -590,21 +648,48 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Griffin20069         02:56.84
   6.  whatalife            03:32.92
 
-72. HUMHII
+79. THR OP4500
+  1.  p v l 2              02:12.99
+  2.  kilobananov          02:40.14
+  3.  BraveHeart           03:14.15
+  4.  Huseyn31             03:19.08
+  5.  whatalife            04:09.94
+
+80. FRAUD PRE RUNNER
+  1.  p v l 2              02:13.15
+  2.  kilobananov          02:24.79
+  3.  BraveHeart           03:05.45
+  4.  whatalife            03:34.56
+  5.  Huseyn31             03:51.72
+
+81. THR MB500
+  1.  p v l 2              02:13.26
+  2.  BraveHeart           02:50.00
+  3.  kilobananov          02:50.45
+  4.  whatalife            04:06.47
+  5.  Huseyn31             04:30.48
+
+82. THR SR2000
+  1.  p v l 2              02:13.31
+  2.  kilobananov          02:35.29
+  3.  whatalife            02:52.02
+  4.  BraveHeart           02:56.49
+
+83. HUMHII
   1.  p v l 2              02:13.50
   2.  kilobananov          02:29.49
   3.  BraveHeart           03:18.58
   4.  whatalife            03:41.23
   5.  Huseyn31             07:29.00
 
-73. MRT5
+84. MRT5
   1.  p v l 2              02:13.74
   2.  Griffin20069         02:31.51
   3.  kilobananov          02:39.47
   4.  whatalife            03:22.35
   5.  Huseyn31             06:13.14
 
-74. DIAMOND
+85. DIAMOND
   1.  kilobananov          02:13.99
   2.  bayanofmansorofisky  02:15.94
   3.  p v l 2              02:25.68
@@ -614,19 +699,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  whatalife            03:16.83
   8.  BraveHeart           04:11.34
 
-75. ACOSTA STARLIN
-  1.  kilobananov          02:14.17
-  2.  Griffin20069         02:37.55
-  3.  BraveHeart           02:57.70
-  4.  whatalife            03:17.84
-
-76. RAY 400 RALLY
-  1.  Griffin20069         02:14.62
-  2.  kilobananov          02:15.02
-  3.  BraveHeart           02:46.50
-  4.  whatalife            03:23.66
-
-77. EMKO
+86. EMKO
   1.  lordferius           02:14.92
   2.  Huseyn31             02:22.44
   3.  p v l 2              02:30.55
@@ -637,21 +710,22 @@ Philippines:   2025-11-07 09:00:50 PST
   8.  BraveHeart           03:38.82
   9.  groff48              04:48.98
 
-78. FORMULA 60
+87. FORMULA 60
   1.  p v l 2              02:15.43
   2.  kilobananov          02:17.62
   3.  whatalife            03:08.01
   4.  BraveHeart           04:07.23
   5.  Huseyn31             08:31.07
 
-79. GX-BUGGY STAGE 2
+88. GX-BUGGY STAGE 2
   1.  Toom43               02:15.76
-  2.  kilobananov          02:48.88
-  3.  whatalife            04:31.22
-  4.  Huseyn31             04:32.23
-  5.  BraveHeart           05:00.99
+  2.  p v l 2              02:38.11
+  3.  kilobananov          02:48.88
+  4.  whatalife            04:31.22
+  5.  Huseyn31             04:32.23
+  6.  BraveHeart           05:00.99
 
-80. SKODA 110 L RALLYE
+89. SKODA 110 L RALLYE
   1.  kilobananov          02:16.08
   2.  p v l 2              02:27.12
   3.  BraveHeart           02:58.50
@@ -659,7 +733,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Griffin20069         03:16.15
   6.  Huseyn31             04:47.11
 
-81. XF GTI
+90. XF GTI
   1.  p v l 2              02:16.42
   2.  kilobananov          02:20.79
   3.  Griffin20069         02:28.70
@@ -670,7 +744,7 @@ Philippines:   2025-11-07 09:00:50 PST
   8.  whatalife            03:09.70
   9.  Huseyn31             05:27.77
 
-82. LAND ROAMER
+91. LAND ROAMER
   1.  kilobananov          02:17.05
   2.  Toom43               02:28.23
   3.  p v l 2              02:30.90
@@ -678,7 +752,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           02:56.49
   6.  whatalife            03:42.58
 
-83. BD6 VERT
+92. BD6 VERT
   1.  Griffin20069         02:17.82
   2.  kilobananov          02:25.97
   3.  p v l 2              02:28.39
@@ -686,7 +760,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            02:59.98
   6.  Huseyn31             03:36.98
 
-84. FORMULA XR
+93. FORMULA XR
   1.  CRC Titan2000        02:17.91
   2.  kilobananov          02:19.36
   3.  Griffin20069         02:35.81
@@ -694,14 +768,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:30.14
   6.  Huseyn31             07:23.61
 
-85. CHALLENGE ST
+94. CHALLENGE ST
   1.  p v l 2              02:18.49
   2.  kilobananov          02:21.03
   3.  Griffin20069         02:44.78
   4.  whatalife            03:05.15
   5.  BraveHeart           03:19.17
 
-86. BUG WAGON
+95. BUG WAGON
   1.  kilobananov          02:19.29
   2.  p v l 2              02:30.57
   3.  BraveHeart           02:48.14
@@ -709,7 +783,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            03:22.19
   6.  Huseyn31             03:36.85
 
-87. HJETT
+96. HJETT
   1.  bayanofmansorofisky  02:20.06
   2.  p v l 2              02:25.38
   3.  kilobananov          02:41.86
@@ -718,13 +792,13 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Huseyn31             03:43.88
   7.  whatalife            03:50.54
 
-88. ELIIN0R
+97. ELIIN0R
   1.  p v l 2              02:20.84
   2.  kilobananov          02:24.68
   3.  whatalife            03:13.68
   4.  BraveHeart           03:25.83
 
-89. FORMULA V8
+98. FORMULA V8
   1.  CRC Titan2000        02:21.01
   2.  kilobananov          02:23.78
   3.  p v l 2              02:43.00
@@ -732,13 +806,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Huseyn31             03:23.79
   6.  whatalife            04:46.58
 
-90. FRAUD 040
-  1.  kilobananov          02:21.64
-  2.  BraveHeart           02:34.35
-  3.  Griffin20069         02:35.96
-  4.  whatalife            03:13.46
-
-91. SHARK C
+99. SHARK C
   1.  p v l 2              02:22.00
   2.  kilobananov          02:25.20
   3.  Icoha44              02:38.88
@@ -746,13 +814,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Huseyn31             03:16.05
   6.  BraveHeart           03:34.90
 
-92. FRAUD PRE RUNNER
-  1.  kilobananov          02:24.79
-  2.  BraveHeart           03:05.45
-  3.  whatalife            03:34.56
-  4.  Huseyn31             03:51.72
-
-93. SKODA FELICIA
+100. SKODA FELICIA
   1.  p v l 2              02:25.53
   2.  kilobananov          02:26.16
   3.  Huseyn31             02:36.35
@@ -760,14 +822,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           02:49.05
   6.  whatalife            03:36.77
 
-94. ROSSA
+101. ROSSA
   1.  p v l 2              02:25.65
   2.  bayanofmansorofisky  02:26.49
   3.  kilobananov          02:45.08
   4.  BraveHeart           03:43.48
   5.  whatalife            03:50.78
 
-95. UZOVKA
+102. UZOVKA
   1.  kilobananov          02:25.92
   2.  p v l 2              02:34.69
   3.  Griffin20069         02:52.15
@@ -778,20 +840,7 @@ Philippines:   2025-11-07 09:00:50 PST
   8.  Huseyn31             03:36.18
   9.  groff48              03:52.50
 
-96. FRAUD BIG BOY
-  1.  kilobananov          02:26.19
-  2.  Icoha44              02:40.42
-  3.  BraveHeart           02:47.11
-  4.  whatalife            03:00.54
-  5.  Huseyn31             03:58.84
-
-97. XR1 PROCAR
-  1.  kilobananov          02:26.83
-  2.  whatalife            02:51.63
-  3.  BraveHeart           02:53.02
-  4.  Huseyn31             03:43.96
-
-98. EXPEDITION
+103. EXPEDITION
   1.  bayanofmansorofisky  02:27.45
   2.  p v l 2              02:28.68
   3.  kilobananov          02:34.85
@@ -801,14 +850,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  Icoha44              04:17.32
   8.  BraveHeart           04:43.32
 
-99. GOD FOOT
-  1.  Griffin20069         02:27.52
-  2.  BraveHeart           02:31.36
-  3.  kilobananov          02:31.38
-  4.  whatalife            03:00.66
-  5.  Huseyn31             04:09.94
-
-100. VANLIFE
+104. VANLIFE
   1.  p v l 2              02:27.91
   2.  kilobananov          02:35.45
   3.  Icoha44              03:25.68
@@ -816,7 +858,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           03:40.29
   6.  Huseyn31             04:40.78
 
-101. UF 1000
+105. PUSCH 674B
+  1.  p v l 2              02:28.29
+  2.  kilobananov          03:16.74
+  3.  Huseyn31             03:23.40
+  4.  BraveHeart           03:31.39
+  5.  whatalife            04:23.93
+
+106. UF 1000
   1.  Lotche               02:28.70
   2.  p v l 2              02:30.29
   3.  kilobananov          02:31.86
@@ -826,12 +875,13 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  Huseyn31             04:01.32
   8.  Ross2750             04:42.63
 
-102. GRAND PRIX LEGEND 65
-  1.  kilobananov          02:33.00
-  2.  whatalife            04:11.08
-  3.  BraveHeart           04:47.35
+107. GRAND PRIX LEGEND 65
+  1.  p v l 2              02:32.88
+  2.  kilobananov          02:33.00
+  3.  whatalife            04:11.08
+  4.  BraveHeart           04:47.35
 
-103. HANZMUND V8
+108. HANZMUND V8
   1.  kilobananov          02:33.50
   2.  Griffin20069         02:35.65
   3.  p v l 2              02:45.35
@@ -840,15 +890,16 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  whatalife            03:33.39
   7.  Huseyn31             04:17.94
 
-104. GX-BUGGY
+109. GX-BUGGY
   1.  Toom43               02:33.88
   2.  p v l 2              02:35.55
   3.  kilobananov          03:49.99
   4.  BraveHeart           04:28.51
   5.  Lotche               04:31.29
-  6.  Huseyn31             06:46.65
+  6.  whatalife            05:12.73
+  7.  Huseyn31             06:46.65
 
-105. FORMULA BMW FB02
+110. FORMULA BMW FB02
   1.  kilobananov          02:34.20
   2.  CRC Titan2000        02:44.04
   3.  Griffin20069         02:54.65
@@ -856,18 +907,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            04:41.16
   6.  Huseyn31             04:53.99
 
-106. THR SR2000
-  1.  kilobananov          02:35.29
-  2.  whatalife            02:52.02
-  3.  BraveHeart           02:56.49
-
-107. THR OP4500
-  1.  kilobananov          02:40.14
-  2.  BraveHeart           03:14.15
-  3.  Huseyn31             03:19.08
-  4.  whatalife            04:09.94
-
-108. TAZ 0521
+111. TAZ 0521
   1.  p v l 2              02:40.48
   2.  kilobananov          02:42.68
   3.  Griffin20069         02:50.26
@@ -877,12 +917,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  Huseyn31             04:16.35
   8.  groff48              07:07.51
 
-109. WESSEX R69SP
-  1.  kilobananov          02:41.52
-  2.  BraveHeart           03:06.92
-  3.  whatalife            03:53.59
-
-110. WATBRUG 353
+112. WATBRUG 353
   1.  p v l 2              02:43.36
   2.  Griffin20069         02:55.31
   3.  kilobananov          02:55.65
@@ -893,26 +928,27 @@ Philippines:   2025-11-07 09:00:50 PST
   8.  whatalife            03:29.36
   9.  groff48              03:33.85
 
-111. MC SPLANTER
+113. MC SPLANTER
   1.  p v l 2              02:43.39
   2.  kilobananov          02:54.54
   3.  BraveHeart           03:59.14
   4.  whatalife            04:22.05
 
-112. T34 SPORT
+114. T34 SPORT
   1.  p v l 2              02:43.49
   2.  kilobananov          03:07.86
   3.  BraveHeart           03:16.55
   4.  Huseyn31             03:44.47
   5.  whatalife            03:59.91
 
-113. BD750
+115. BD750
   1.  Griffin20069         02:47.69
   2.  p v l 2              03:11.61
   3.  kilobananov          03:34.67
-  4.  BraveHeart           04:33.54
+  4.  whatalife            04:25.65
+  5.  BraveHeart           04:33.54
 
-114. YAHAMA CT125 DR
+116. YAHAMA CT125 DR
   1.  p v l 2              02:47.70
   2.  Griffin20069         03:27.10
   3.  kilobananov          03:48.26
@@ -922,27 +958,22 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  BraveHeart           05:53.23
   8.  Huseyn31             07:39.78
 
-115. TOMMY28
+117. TOMMY28
   1.  kilobananov          02:48.55
   2.  p v l 2              03:04.92
   3.  BraveHeart           03:29.73
   4.  whatalife            04:19.92
   5.  Huseyn31             07:25.17
 
-116. GP125
+118. GP125
   1.  p v l 2              02:48.83
   2.  kilobananov          04:22.69
   3.  Huseyn31             04:51.45
   4.  Griffin20069         04:59.55
   5.  BraveHeart           05:23.12
+  6.  whatalife            06:16.48
 
-117. THR MB500
-  1.  BraveHeart           02:50.00
-  2.  kilobananov          02:50.45
-  3.  whatalife            04:06.47
-  4.  Huseyn31             04:30.48
-
-118. K300X
+119. K300X
   1.  p v l 2              02:51.59
   2.  Griffin20069         03:56.90
   3.  BraveHeart           04:15.63
@@ -950,7 +981,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Huseyn31             05:17.79
   6.  kilobananov          07:44.01
 
-119. YAMI 3R
+120. YAMI 3R
   1.  p v l 2              02:53.24
   2.  Griffin20069         03:39.73
   3.  whatalife            04:24.64
@@ -958,20 +989,22 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  BraveHeart           05:28.37
   6.  Huseyn31             06:43.30
 
-120. YAHAMA CT200
+121. YAHAMA CT200
   1.  p v l 2              02:53.59
   2.  BraveHeart           04:23.74
   3.  Huseyn31             05:12.81
   4.  kilobananov          05:25.59
   5.  Griffin20069         11:30.78
+  6.  whatalife            13:08.67
 
-121. PROTOTYPE 2
+122. PROTOTYPE 2
   1.  kilobananov          02:54.49
-  2.  Huseyn31             03:48.77
-  3.  BraveHeart           04:18.16
-  4.  whatalife            04:33.16
+  2.  p v l 2              03:12.56
+  3.  Huseyn31             03:48.77
+  4.  BraveHeart           04:18.16
+  5.  whatalife            04:33.16
 
-122. SZK 400 CLASSIC
+123. SZK 400 CLASSIC
   1.  p v l 2              02:54.76
   2.  Griffin20069         02:56.46
   3.  BraveHeart           04:13.81
@@ -979,7 +1012,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            04:51.25
   6.  Huseyn31             05:47.36
 
-123. BMW SAUBER F1.06
+124. BMW SAUBER F1.06
   1.  CRC Titan2000        02:54.84
   2.  kilobananov          03:16.64
   3.  p v l 2              03:19.79
@@ -987,12 +1020,12 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            05:05.05
   6.  Huseyn31             07:57.42
 
-124. LCT3000
+125. LCT3000
   1.  p v l 2              02:56.68
   2.  kilobananov          03:15.63
   3.  whatalife            03:53.19
 
-125. JW 350
+126. JW 350
   1.  p v l 2              02:58.94
   2.  Toom43               03:03.00
   3.  kilobananov          03:43.10
@@ -1002,7 +1035,7 @@ Philippines:   2025-11-07 09:00:50 PST
   7.  Lucky Loser          04:28.91
   8.  Huseyn31             05:16.06
 
-126. GHOUL 250RR
+127. GHOUL 250RR
   1.  p v l 2              03:00.40
   2.  Griffin20069         03:08.85
   3.  BraveHeart           04:11.30
@@ -1010,7 +1043,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            04:43.93
   6.  Huseyn31             05:15.12
 
-127. RZT 370
+128. RZT 370
   1.  p v l 2              03:00.76
   2.  Toom43               04:25.16
   3.  kilobananov          04:42.71
@@ -1019,7 +1052,7 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Huseyn31             06:15.50
   7.  BraveHeart           06:47.19
 
-128. YKS-R1052
+129. YKS-R1052
   1.  p v l 2              03:03.20
   2.  BraveHeart           05:04.12
   3.  whatalife            05:21.89
@@ -1027,7 +1060,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  kilobananov          06:12.98
   6.  Griffin20069         10:57.37
 
-129. SM500
+130. SM500
   1.  p v l 2              03:03.91
   2.  BraveHeart           03:39.40
   3.  kilobananov          04:10.33
@@ -1035,7 +1068,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Griffin20069         04:44.06
   6.  whatalife            06:01.29
 
-130. RZM 250
+131. RZM 250
   1.  p v l 2              03:05.64
   2.  Griffin20069         03:33.51
   3.  Lucky Loser          04:05.36
@@ -1044,14 +1077,14 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  Huseyn31             08:56.74
   7.  whatalife            10:30.97
 
-131. LINE RUNNER IVII
+132. LINE RUNNER IVII
   1.  kilobananov          03:08.02
   2.  p v l 2              03:21.94
   3.  BraveHeart           04:51.66
   4.  whatalife            06:38.13
   5.  Huseyn31             07:45.07
 
-132. REAPER X1
+133. REAPER X1
   1.  p v l 2              03:08.07
   2.  lordferius           03:43.95
   3.  kilobananov          03:54.46
@@ -1059,14 +1092,14 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  Griffin20069         04:12.10
   6.  whatalife            05:02.44
 
-133. RTS 6-71
+134. RTS 6-71
   1.  bayanofmansorofisky  03:08.21
   2.  kilobananov          03:12.23
   3.  p v l 2              03:20.27
   4.  whatalife            04:47.88
   5.  BraveHeart           04:52.34
 
-134. YKS-100
+135. YKS-100
   1.  p v l 2              03:11.51
   2.  Griffin20069         03:20.84
   3.  kilobananov          04:25.07
@@ -1074,7 +1107,7 @@ Philippines:   2025-11-07 09:00:50 PST
   5.  whatalife            06:07.38
   6.  Huseyn31             06:18.45
 
-135. YAHAMA MIT09
+136. YAHAMA MIT09
   1.  p v l 2              03:11.84
   2.  Griffin20069         03:34.62
   3.  kilobananov          04:37.78
@@ -1083,18 +1116,13 @@ Philippines:   2025-11-07 09:00:50 PST
   6.  BraveHeart           06:42.67
   7.  groff48              08:35.83
 
-136. PUSCH 674B
-  1.  kilobananov          03:16.74
-  2.  Huseyn31             03:23.40
-  3.  BraveHeart           03:31.39
-  4.  whatalife            04:23.93
-
 137. HORDA CFR450
   1.  p v l 2              03:18.42
   2.  Griffin20069         03:19.23
   3.  BraveHeart           03:48.51
   4.  Huseyn31             04:54.34
   5.  kilobananov          05:14.60
+  6.  whatalife            05:53.85
 
 138. GUCIMOTO
   1.  Griffin20069         03:26.65
@@ -1128,124 +1156,124 @@ Philippines:   2025-11-07 09:00:50 PST
   1.   ADDA 8A 4.2 TDI       02:44.41 (Pos: 6) 
 
 2. BraveHeart (BraveHeart)
-  1.   THR MB500             02:50.00 (Pos: 1) 
-  2.   GOD FOOT              02:31.36 (Pos: 2) 
-  3.   FRAUD 040             02:34.35 (Pos: 2) 
-  4.   RS1 KENJI             02:37.65 (Pos: 2) 
-  5.   FRAUD PRE RUNNER      03:05.45 (Pos: 2) 
-  6.   WESSEX R69SP          03:06.92 (Pos: 2) 
-  7.   THR OP4500            03:14.15 (Pos: 2) 
-  8.   SPEC R                03:27.95 (Pos: 2) 
-  9.   SM500                 03:39.40 (Pos: 2) 
-  10.  YAHAMA CT200          04:23.74 (Pos: 2) 
-  11.  YKS-R1052             05:04.12 (Pos: 2) 
-  12.  IBUSHA SAGA 2.6       02:20.79 (Pos: 3) 
-  13.  GWMK2                 02:21.92 (Pos: 3) 
-  14.  XM-5 CUP              02:28.12 (Pos: 3) 
-  15.  BD9115                02:30.91 (Pos: 3) 
-  16.  ANCHOIS GORBINI       02:31.58 (Pos: 3) 
-  17.  MALANDRO - STOCKPRO   02:34.69 (Pos: 3) 
-  18.  LORY GP5              02:35.05 (Pos: 3) 
-  19.  HADIMRSKA HOTRODD     02:35.51 (Pos: 3) 
-  20.  T46 SPORT R           02:38.36 (Pos: 3) 
-  21.  INTERCEPTOR           02:41.86 (Pos: 3) 
-  22.  BUMER 7               02:45.67 (Pos: 3) 
-  23.  RAY 400 RALLY         02:46.50 (Pos: 3) 
-  24.  FRAUD BIG BOY         02:47.11 (Pos: 3) 
-  25.  BUG WAGON             02:48.14 (Pos: 3) 
-  26.  FUCA SPORT SYSTEM     02:51.56 (Pos: 3) 
-  27.  XR1 PROCAR            02:53.02 (Pos: 3) 
-  28.  THR SR2000            02:56.49 (Pos: 3) 
-  29.  ACOSTA STARLIN        02:57.70 (Pos: 3) 
-  30.  SKODA 110 L RALLYE    02:58.50 (Pos: 3) 
-  31.  PZG COMPACT           02:58.60 (Pos: 3) 
-  32.  UF 1100T              03:00.58 (Pos: 3) 
-  33.  SWIRL SPORT 06        03:00.84 (Pos: 3) 
-  34.  GX-BUGGY STAGE R      03:04.36 (Pos: 3) 
-  35.  T34 SPORT             03:16.55 (Pos: 3) 
-  36.  HUMHII                03:18.58 (Pos: 3) 
-  37.  TOMMY28               03:29.73 (Pos: 3) 
-  38.  PUSCH 674B            03:31.39 (Pos: 3) 
-  39.  HORDA CFR450          03:48.51 (Pos: 3) 
-  40.  MC SPLANTER           03:59.14 (Pos: 3) 
-  41.  GHOUL 250RR           04:11.30 (Pos: 3) 
-  42.  SZK 400 CLASSIC       04:13.81 (Pos: 3) 
-  43.  K300X                 04:15.63 (Pos: 3) 
-  44.  PROTOTYPE 2           04:18.16 (Pos: 3) 
-  45.  GRAND PRIX LEGEND 65  04:47.35 (Pos: 3) 
-  46.  LINE RUNNER IVII      04:51.66 (Pos: 3) 
-  47.  ADDA 5200             02:20.02 (Pos: 4) 
-  48.  VGI-6 TEDAVI          02:32.17 (Pos: 4) 
-  49.  EM30                  02:32.95 (Pos: 4) 
-  50.  FRAUD WHEELER E2      02:36.38 (Pos: 4) 
-  51.  SEDAN                 02:38.30 (Pos: 4) 
-  52.  N.400S                02:41.14 (Pos: 4) 
-  53.  SHARK C GROUP 2       02:47.03 (Pos: 4) 
-  54.  BACALHAU              02:47.20 (Pos: 4) 
-  55.  BD6 VERT              02:47.22 (Pos: 4) 
-  56.  CX WAGON              02:50.70 (Pos: 4) 
-  57.  POSCHER CAYNAM 718    02:50.87 (Pos: 4) 
-  58.  TOYATE SUPROZA T      02:52.49 (Pos: 4) 
-  59.  LACIBRE V6            02:52.75 (Pos: 4) 
-  60.  POCKET UF             02:54.05 (Pos: 4) 
-  61.  BETA 65               02:55.89 (Pos: 4) 
-  62.  GWMK24DR              02:57.76 (Pos: 4) 
-  63.  LEMON FANTOMAS        02:59.26 (Pos: 4) 
-  64.  SPOTTEDKITTEN COUPE   03:04.15 (Pos: 4) 
-  65.  GG55 AMD              03:09.98 (Pos: 4) 
-  66.  HJETT                 03:17.94 (Pos: 4) 
-  67.  ELIIN0R               03:25.83 (Pos: 4) 
-  68.  TALOT SUNS LOMIS      03:31.63 (Pos: 4) 
-  69.  ROSSA                 03:43.48 (Pos: 4) 
-  70.  REAPER X1             03:55.02 (Pos: 4) 
-  71.  JW 350                03:55.03 (Pos: 4) 
-  72.  FORMULA 60            04:07.23 (Pos: 4) 
-  73.  GX-BUGGY              04:28.51 (Pos: 4) 
-  74.  BD750                 04:33.54 (Pos: 4) 
-  75.  GUCIMOTO              04:48.51 (Pos: 4) 
-  76.  YKS-100               05:17.93 (Pos: 4) 
-  77.  ADDA 8A 4.2 TDI       02:23.84 (Pos: 5) 
-  78.  SKODA FELICIA         02:49.05 (Pos: 5) 
-  79.  LAND ROAMER           02:56.49 (Pos: 5) 
-  80.  GORKIY 10             03:01.84 (Pos: 5) 
-  81.  PONTACH GT            03:10.83 (Pos: 5) 
-  82.  CHALLENGE ST          03:19.17 (Pos: 5) 
-  83.  HANZMUND V8           03:23.04 (Pos: 5) 
-  84.  KEEROCK               03:27.05 (Pos: 5) 
-  85.  TAZ07 CLASSIC         03:29.66 (Pos: 5) 
-  86.  VANLIFE               03:40.29 (Pos: 5) 
-  87.  GT-V34                03:45.28 (Pos: 5) 
-  88.  UF PICKUP TRUCK       04:05.21 (Pos: 5) 
-  89.  RZM 250               04:07.75 (Pos: 5) 
+  1.   THR MB500             02:50.00 (Pos: 2) 
+  2.   SM500                 03:39.40 (Pos: 2) 
+  3.   YAHAMA CT200          04:23.74 (Pos: 2) 
+  4.   YKS-R1052             05:04.12 (Pos: 2) 
+  5.   IBUSHA SAGA 2.6       02:20.79 (Pos: 3) 
+  6.   GWMK2                 02:21.92 (Pos: 3) 
+  7.   XM-5 CUP              02:28.12 (Pos: 3) 
+  8.   BD9115                02:30.91 (Pos: 3) 
+  9.   GOD FOOT              02:31.36 (Pos: 3) 
+  10.  ANCHOIS GORBINI       02:31.58 (Pos: 3) 
+  11.  FRAUD 040             02:34.35 (Pos: 3) 
+  12.  LORY GP5              02:35.05 (Pos: 3) 
+  13.  HADIMRSKA HOTRODD     02:35.51 (Pos: 3) 
+  14.  RS1 KENJI             02:37.65 (Pos: 3) 
+  15.  T46 SPORT R           02:38.36 (Pos: 3) 
+  16.  INTERCEPTOR           02:41.86 (Pos: 3) 
+  17.  BUMER 7               02:45.67 (Pos: 3) 
+  18.  BUG WAGON             02:48.14 (Pos: 3) 
+  19.  FUCA SPORT SYSTEM     02:51.56 (Pos: 3) 
+  20.  SKODA 110 L RALLYE    02:58.50 (Pos: 3) 
+  21.  PZG COMPACT           02:58.60 (Pos: 3) 
+  22.  UF 1100T              03:00.58 (Pos: 3) 
+  23.  SWIRL SPORT 06        03:00.84 (Pos: 3) 
+  24.  FRAUD PRE RUNNER      03:05.45 (Pos: 3) 
+  25.  WESSEX R69SP          03:06.92 (Pos: 3) 
+  26.  THR OP4500            03:14.15 (Pos: 3) 
+  27.  T34 SPORT             03:16.55 (Pos: 3) 
+  28.  HUMHII                03:18.58 (Pos: 3) 
+  29.  SPEC R                03:27.95 (Pos: 3) 
+  30.  TOMMY28               03:29.73 (Pos: 3) 
+  31.  HORDA CFR450          03:48.51 (Pos: 3) 
+  32.  MC SPLANTER           03:59.14 (Pos: 3) 
+  33.  GHOUL 250RR           04:11.30 (Pos: 3) 
+  34.  SZK 400 CLASSIC       04:13.81 (Pos: 3) 
+  35.  K300X                 04:15.63 (Pos: 3) 
+  36.  LINE RUNNER IVII      04:51.66 (Pos: 3) 
+  37.  ADDA 5200             02:20.02 (Pos: 4) 
+  38.  VGI-6 TEDAVI          02:32.17 (Pos: 4) 
+  39.  EM30                  02:32.95 (Pos: 4) 
+  40.  MALANDRO - STOCKPRO   02:34.69 (Pos: 4) 
+  41.  FRAUD WHEELER E2      02:36.38 (Pos: 4) 
+  42.  SEDAN                 02:38.30 (Pos: 4) 
+  43.  N.400S                02:41.14 (Pos: 4) 
+  44.  RAY 400 RALLY         02:46.50 (Pos: 4) 
+  45.  SHARK C GROUP 2       02:47.03 (Pos: 4) 
+  46.  FRAUD BIG BOY         02:47.11 (Pos: 4) 
+  47.  BACALHAU              02:47.20 (Pos: 4) 
+  48.  BD6 VERT              02:47.22 (Pos: 4) 
+  49.  CX WAGON              02:50.70 (Pos: 4) 
+  50.  POSCHER CAYNAM 718    02:50.87 (Pos: 4) 
+  51.  LACIBRE V6            02:52.75 (Pos: 4) 
+  52.  XR1 PROCAR            02:53.02 (Pos: 4) 
+  53.  POCKET UF             02:54.05 (Pos: 4) 
+  54.  BETA 65               02:55.89 (Pos: 4) 
+  55.  THR SR2000            02:56.49 (Pos: 4) 
+  56.  ACOSTA STARLIN        02:57.70 (Pos: 4) 
+  57.  GWMK24DR              02:57.76 (Pos: 4) 
+  58.  LEMON FANTOMAS        02:59.26 (Pos: 4) 
+  59.  SPOTTEDKITTEN COUPE   03:04.15 (Pos: 4) 
+  60.  GX-BUGGY STAGE R      03:04.36 (Pos: 4) 
+  61.  GG55 AMD              03:09.98 (Pos: 4) 
+  62.  HJETT                 03:17.94 (Pos: 4) 
+  63.  ELIIN0R               03:25.83 (Pos: 4) 
+  64.  PUSCH 674B            03:31.39 (Pos: 4) 
+  65.  TALOT SUNS LOMIS      03:31.63 (Pos: 4) 
+  66.  ROSSA                 03:43.48 (Pos: 4) 
+  67.  REAPER X1             03:55.02 (Pos: 4) 
+  68.  JW 350                03:55.03 (Pos: 4) 
+  69.  FORMULA 60            04:07.23 (Pos: 4) 
+  70.  PROTOTYPE 2           04:18.16 (Pos: 4) 
+  71.  GX-BUGGY              04:28.51 (Pos: 4) 
+  72.  GRAND PRIX LEGEND 65  04:47.35 (Pos: 4) 
+  73.  GUCIMOTO              04:48.51 (Pos: 4) 
+  74.  YKS-100               05:17.93 (Pos: 4) 
+  75.  ADDA 8A 4.2 TDI       02:23.84 (Pos: 5) 
+  76.  SKODA FELICIA         02:49.05 (Pos: 5) 
+  77.  TOYATE SUPROZA T      02:52.49 (Pos: 5) 
+  78.  LAND ROAMER           02:56.49 (Pos: 5) 
+  79.  GORKIY 10             03:01.84 (Pos: 5) 
+  80.  PONTACH GT            03:10.83 (Pos: 5) 
+  81.  CHALLENGE ST          03:19.17 (Pos: 5) 
+  82.  HANZMUND V8           03:23.04 (Pos: 5) 
+  83.  KEEROCK               03:27.05 (Pos: 5) 
+  84.  TAZ07 CLASSIC         03:29.66 (Pos: 5) 
+  85.  VANLIFE               03:40.29 (Pos: 5) 
+  86.  GT-V34                03:45.28 (Pos: 5) 
+  87.  UF PICKUP TRUCK       04:05.21 (Pos: 5) 
+  88.  RZM 250               04:07.75 (Pos: 5) 
+  89.  BD750                 04:33.54 (Pos: 5) 
   90.  RTS 6-71              04:52.34 (Pos: 5) 
-  91.  GX-BUGGY STAGE 2      05:00.99 (Pos: 5) 
-  92.  VULCAN 998            05:12.18 (Pos: 5) 
-  93.  GP125                 05:23.12 (Pos: 5) 
-  94.  YAMI 3R               05:28.37 (Pos: 5) 
-  95.  KORAMA R              05:40.90 (Pos: 5) 
-  96.  IMPREZZIVE B2         02:31.43 (Pos: 6) 
-  97.  PORCHETE TIGER GTS    02:47.90 (Pos: 6) 
-  98.  ERESO                 03:14.22 (Pos: 6) 
-  99.  WATBRUG 353           03:20.73 (Pos: 6) 
-  100. UZOVKA                03:21.91 (Pos: 6) 
-  101. TAZ 0521              03:28.06 (Pos: 6) 
-  102. SHARK C               03:34.90 (Pos: 6) 
-  103. ADDA AR-EIGHT V10     03:42.38 (Pos: 6) 
-  104. AHMED 4.0RS           03:43.54 (Pos: 6) 
-  105. YAHAMA MIT09          06:42.67 (Pos: 6) 
-  106. JIIRO                 06:52.54 (Pos: 6) 
-  107. HBIKE V2              07:39.70 (Pos: 6) 
-  108. ADDA S83 1.8T         02:34.10 (Pos: 7) 
-  109. GW-DECA               03:12.71 (Pos: 7) 
-  110. BOLKSWAGON GOFF TGI   03:16.87 (Pos: 7) 
-  111. MERESDES E910         03:19.06 (Pos: 7) 
-  112. YAHAMA CT125 DR       05:53.23 (Pos: 7) 
-  113. RZT 370               06:47.19 (Pos: 7) 
-  114. RS1 KENJI RX          02:29.98 (Pos: 8) 
-  115. BZ30 ROADSTER SPORT   03:06.90 (Pos: 8) 
-  116. EMKO                  03:38.82 (Pos: 8) 
-  117. DIAMOND               04:11.34 (Pos: 8) 
-  118. EXPEDITION            04:43.32 (Pos: 8) 
+  91.  VULCAN 998            05:12.18 (Pos: 5) 
+  92.  GP125                 05:23.12 (Pos: 5) 
+  93.  YAMI 3R               05:28.37 (Pos: 5) 
+  94.  KORAMA R              05:40.90 (Pos: 5) 
+  95.  IMPREZZIVE B2         02:31.43 (Pos: 6) 
+  96.  PORCHETE TIGER GTS    02:47.90 (Pos: 6) 
+  97.  ERESO                 03:14.22 (Pos: 6) 
+  98.  WATBRUG 353           03:20.73 (Pos: 6) 
+  99.  UZOVKA                03:21.91 (Pos: 6) 
+  100. TAZ 0521              03:28.06 (Pos: 6) 
+  101. SHARK C               03:34.90 (Pos: 6) 
+  102. AHMED 4.0RS           03:43.54 (Pos: 6) 
+  103. GX-BUGGY STAGE 2      05:00.99 (Pos: 6) 
+  104. YAHAMA MIT09          06:42.67 (Pos: 6) 
+  105. JIIRO                 06:52.54 (Pos: 6) 
+  106. HBIKE V2              07:39.70 (Pos: 6) 
+  107. GW-DECA               03:12.71 (Pos: 7) 
+  108. BOLKSWAGON GOFF TGI   03:16.87 (Pos: 7) 
+  109. MERESDES E910         03:19.06 (Pos: 7) 
+  110. ADDA AR-EIGHT V10     03:42.38 (Pos: 7) 
+  111. YAHAMA CT125 DR       05:53.23 (Pos: 7) 
+  112. RZT 370               06:47.19 (Pos: 7) 
+  113. ADDA S83 1.8T         02:34.10 (Pos: 8) 
+  114. BZ30 ROADSTER SPORT   03:06.90 (Pos: 8) 
+  115. EMKO                  03:38.82 (Pos: 8) 
+  116. DIAMOND               04:11.34 (Pos: 8) 
+  117. EXPEDITION            04:43.32 (Pos: 8) 
+  118. RS1 KENJI RX          02:29.98 (Pos: 9) 
 
 3. CRC Titan2000 (CRC Titan2000)
   1.   FXO GTR               01:46.31 (Pos: 1) 
@@ -1279,73 +1307,73 @@ Philippines:   2025-11-07 09:00:50 PST
 
 5. Griffin20069 (Griffin20069)
   1.   EM30                  02:03.34 (Pos: 1) 
-  2.   RAY 400 RALLY         02:14.62 (Pos: 1) 
-  3.   BD6 VERT              02:17.82 (Pos: 1) 
-  4.   GOD FOOT              02:27.52 (Pos: 1) 
-  5.   BD750                 02:47.69 (Pos: 1) 
-  6.   GUCIMOTO              03:26.65 (Pos: 1) 
-  7.   VULCAN 998            03:27.40 (Pos: 1) 
-  8.   GW-DECA               02:04.36 (Pos: 2) 
-  9.   LACIBRE V6            02:06.36 (Pos: 2) 
-  10.  SEDAN                 02:13.86 (Pos: 2) 
-  11.  CX WAGON              02:15.23 (Pos: 2) 
-  12.  ADDA AR-EIGHT V10     02:17.99 (Pos: 2) 
-  13.  MALANDRO - STOCKPRO   02:18.85 (Pos: 2) 
-  14.  KEEROCK               02:26.09 (Pos: 2) 
-  15.  MRT5                  02:31.51 (Pos: 2) 
-  16.  HANZMUND V8           02:35.65 (Pos: 2) 
-  17.  ACOSTA STARLIN        02:37.55 (Pos: 2) 
-  18.  WATBRUG 353           02:55.31 (Pos: 2) 
-  19.  SZK 400 CLASSIC       02:56.46 (Pos: 2) 
-  20.  GHOUL 250RR           03:08.85 (Pos: 2) 
-  21.  HORDA CFR450          03:19.23 (Pos: 2) 
-  22.  YKS-100               03:20.84 (Pos: 2) 
-  23.  YAHAMA CT125 DR       03:27.10 (Pos: 2) 
-  24.  RZM 250               03:33.51 (Pos: 2) 
-  25.  YAHAMA MIT09          03:34.62 (Pos: 2) 
-  26.  YAMI 3R               03:39.73 (Pos: 2) 
-  27.  K300X                 03:56.90 (Pos: 2) 
-  28.  FRAUD WHEELER E2      02:08.92 (Pos: 3) 
-  29.  RB4 GT                02:09.99 (Pos: 3) 
-  30.  SHARK C GROUP 2       02:11.95 (Pos: 3) 
-  31.  VGI-6 TEDAVI          02:13.19 (Pos: 3) 
-  32.  POSCHER CAYNAM 718    02:14.22 (Pos: 3) 
-  33.  AHMED 4.0RS           02:15.21 (Pos: 3) 
-  34.  BZ30 ROADSTER SPORT   02:18.28 (Pos: 3) 
-  35.  XR GT                 02:18.76 (Pos: 3) 
-  36.  PONTACH GT            02:25.79 (Pos: 3) 
-  37.  TOYATE SUPROZA T      02:26.70 (Pos: 3) 
-  38.  XF GTI                02:28.70 (Pos: 3) 
-  39.  BOLKSWAGON GOFF TGI   02:28.98 (Pos: 3) 
-  40.  BACALHAU              02:28.99 (Pos: 3) 
-  41.  MERESDES E910         02:31.29 (Pos: 3) 
-  42.  FORMULA XR            02:35.81 (Pos: 3) 
-  43.  FRAUD 040             02:35.96 (Pos: 3) 
-  44.  N.400S                02:39.66 (Pos: 3) 
-  45.  CHALLENGE ST          02:44.78 (Pos: 3) 
-  46.  GT-V34                02:45.02 (Pos: 3) 
-  47.  TAZ 0521              02:50.26 (Pos: 3) 
-  48.  UZOVKA                02:52.15 (Pos: 3) 
-  49.  GWMK24DR              02:54.47 (Pos: 3) 
-  50.  FORMULA BMW FB02      02:54.65 (Pos: 3) 
-  51.  ADDA 8A 4.2 TDI       02:04.20 (Pos: 4) 
-  52.  ADDA S83 1.8T         02:06.48 (Pos: 4) 
-  53.  PORCHETE TIGER GTS    02:18.09 (Pos: 4) 
-  54.  DIAMOND               02:25.78 (Pos: 4) 
-  55.  IMPREZZIVE B2         02:27.87 (Pos: 4) 
-  56.  IBUSHA SAGA 2.6       02:28.92 (Pos: 4) 
-  57.  ANCHOIS GORBINI       02:33.06 (Pos: 4) 
-  58.  XM-5 CUP              02:37.04 (Pos: 4) 
-  59.  UF 1000               02:38.32 (Pos: 4) 
-  60.  GORKIY 10             02:39.97 (Pos: 4) 
-  61.  LAND ROAMER           02:46.96 (Pos: 4) 
-  62.  SKODA FELICIA         02:47.26 (Pos: 4) 
-  63.  FORMULA V8            02:48.33 (Pos: 4) 
-  64.  GWMK2                 02:49.80 (Pos: 4) 
-  65.  BMW SAUBER F1.06      03:24.08 (Pos: 4) 
-  66.  RZT 370               04:51.93 (Pos: 4) 
-  67.  GP125                 04:59.55 (Pos: 4) 
-  68.  HBIKE V2              06:05.16 (Pos: 4) 
+  2.   BD6 VERT              02:17.82 (Pos: 1) 
+  3.   BD750                 02:47.69 (Pos: 1) 
+  4.   GUCIMOTO              03:26.65 (Pos: 1) 
+  5.   VULCAN 998            03:27.40 (Pos: 1) 
+  6.   GW-DECA               02:04.36 (Pos: 2) 
+  7.   LACIBRE V6            02:06.36 (Pos: 2) 
+  8.   SEDAN                 02:13.86 (Pos: 2) 
+  9.   RAY 400 RALLY         02:14.62 (Pos: 2) 
+  10.  CX WAGON              02:15.23 (Pos: 2) 
+  11.  KEEROCK               02:26.09 (Pos: 2) 
+  12.  GOD FOOT              02:27.52 (Pos: 2) 
+  13.  MRT5                  02:31.51 (Pos: 2) 
+  14.  HANZMUND V8           02:35.65 (Pos: 2) 
+  15.  WATBRUG 353           02:55.31 (Pos: 2) 
+  16.  SZK 400 CLASSIC       02:56.46 (Pos: 2) 
+  17.  GHOUL 250RR           03:08.85 (Pos: 2) 
+  18.  HORDA CFR450          03:19.23 (Pos: 2) 
+  19.  YKS-100               03:20.84 (Pos: 2) 
+  20.  YAHAMA CT125 DR       03:27.10 (Pos: 2) 
+  21.  RZM 250               03:33.51 (Pos: 2) 
+  22.  YAHAMA MIT09          03:34.62 (Pos: 2) 
+  23.  YAMI 3R               03:39.73 (Pos: 2) 
+  24.  K300X                 03:56.90 (Pos: 2) 
+  25.  FRAUD WHEELER E2      02:08.92 (Pos: 3) 
+  26.  RB4 GT                02:09.99 (Pos: 3) 
+  27.  SHARK C GROUP 2       02:11.95 (Pos: 3) 
+  28.  VGI-6 TEDAVI          02:13.19 (Pos: 3) 
+  29.  POSCHER CAYNAM 718    02:14.22 (Pos: 3) 
+  30.  AHMED 4.0RS           02:15.21 (Pos: 3) 
+  31.  ADDA AR-EIGHT V10     02:17.99 (Pos: 3) 
+  32.  BZ30 ROADSTER SPORT   02:18.28 (Pos: 3) 
+  33.  XR GT                 02:18.76 (Pos: 3) 
+  34.  MALANDRO - STOCKPRO   02:18.85 (Pos: 3) 
+  35.  PONTACH GT            02:25.79 (Pos: 3) 
+  36.  XF GTI                02:28.70 (Pos: 3) 
+  37.  BOLKSWAGON GOFF TGI   02:28.98 (Pos: 3) 
+  38.  BACALHAU              02:28.99 (Pos: 3) 
+  39.  MERESDES E910         02:31.29 (Pos: 3) 
+  40.  FORMULA XR            02:35.81 (Pos: 3) 
+  41.  ACOSTA STARLIN        02:37.55 (Pos: 3) 
+  42.  N.400S                02:39.66 (Pos: 3) 
+  43.  CHALLENGE ST          02:44.78 (Pos: 3) 
+  44.  GT-V34                02:45.02 (Pos: 3) 
+  45.  TAZ 0521              02:50.26 (Pos: 3) 
+  46.  UZOVKA                02:52.15 (Pos: 3) 
+  47.  GWMK24DR              02:54.47 (Pos: 3) 
+  48.  FORMULA BMW FB02      02:54.65 (Pos: 3) 
+  49.  ADDA 8A 4.2 TDI       02:04.20 (Pos: 4) 
+  50.  PORCHETE TIGER GTS    02:18.09 (Pos: 4) 
+  51.  DIAMOND               02:25.78 (Pos: 4) 
+  52.  TOYATE SUPROZA T      02:26.70 (Pos: 4) 
+  53.  IMPREZZIVE B2         02:27.87 (Pos: 4) 
+  54.  IBUSHA SAGA 2.6       02:28.92 (Pos: 4) 
+  55.  ANCHOIS GORBINI       02:33.06 (Pos: 4) 
+  56.  FRAUD 040             02:35.96 (Pos: 4) 
+  57.  XM-5 CUP              02:37.04 (Pos: 4) 
+  58.  UF 1000               02:38.32 (Pos: 4) 
+  59.  GORKIY 10             02:39.97 (Pos: 4) 
+  60.  LAND ROAMER           02:46.96 (Pos: 4) 
+  61.  SKODA FELICIA         02:47.26 (Pos: 4) 
+  62.  FORMULA V8            02:48.33 (Pos: 4) 
+  63.  GWMK2                 02:49.80 (Pos: 4) 
+  64.  BMW SAUBER F1.06      03:24.08 (Pos: 4) 
+  65.  RZT 370               04:51.93 (Pos: 4) 
+  66.  GP125                 04:59.55 (Pos: 4) 
+  67.  HBIKE V2              06:05.16 (Pos: 4) 
+  68.  ADDA S83 1.8T         02:06.48 (Pos: 5) 
   69.  XF GTR                02:17.70 (Pos: 5) 
   70.  FZ50 GTR              02:18.43 (Pos: 5) 
   71.  RACEABOUT             02:21.37 (Pos: 5) 
@@ -1373,79 +1401,79 @@ Philippines:   2025-11-07 09:00:50 PST
   93.  YKS-R1052             10:57.37 (Pos: 6) 
 
 6. Huseyn31 (Huseyn31)
-  1.   TOYATE SUPROZA T      02:21.30 (Pos: 2) 
-  2.   EMKO                  02:22.44 (Pos: 2) 
-  3.   PUSCH 674B            03:23.40 (Pos: 2) 
-  4.   PROTOTYPE 2           03:48.77 (Pos: 2) 
-  5.   SKODA FELICIA         02:36.35 (Pos: 3) 
-  6.   ADDA AR-EIGHT V10     03:09.27 (Pos: 3) 
-  7.   THR OP4500            03:19.08 (Pos: 3) 
-  8.   GP125                 04:51.45 (Pos: 3) 
-  9.   YAHAMA CT200          05:12.81 (Pos: 3) 
-  10.  TAZ07 CLASSIC         03:08.41 (Pos: 4) 
-  11.  XR1 PROCAR            03:43.96 (Pos: 4) 
-  12.  T34 SPORT             03:44.47 (Pos: 4) 
-  13.  FRAUD PRE RUNNER      03:51.72 (Pos: 4) 
-  14.  THR MB500             04:30.48 (Pos: 4) 
-  15.  GX-BUGGY STAGE 2      04:32.23 (Pos: 4) 
-  16.  SM500                 04:37.28 (Pos: 4) 
-  17.  HORDA CFR450          04:54.34 (Pos: 4) 
-  18.  YKS-R1052             06:01.66 (Pos: 4) 
-  19.  SHARK C               03:16.05 (Pos: 5) 
-  20.  FORMULA V8            03:23.79 (Pos: 5) 
-  21.  GWMK24DR              03:33.61 (Pos: 5) 
-  22.  SWIRL SPORT 06        03:46.31 (Pos: 5) 
-  23.  FRAUD BIG BOY         03:58.84 (Pos: 5) 
-  24.  GX-BUGGY STAGE R      04:00.90 (Pos: 5) 
-  25.  GOD FOOT              04:09.94 (Pos: 5) 
-  26.  K300X                 05:17.79 (Pos: 5) 
-  27.  MRT5                  06:13.14 (Pos: 5) 
-  28.  YAHAMA MIT09          06:22.83 (Pos: 5) 
-  29.  HBIKE V2              06:23.89 (Pos: 5) 
-  30.  TOMMY28               07:25.17 (Pos: 5) 
-  31.  HUMHII                07:29.00 (Pos: 5) 
-  32.  LINE RUNNER IVII      07:45.07 (Pos: 5) 
-  33.  FORMULA 60            08:31.07 (Pos: 5) 
-  34.  ADDA S83 1.8T         02:30.95 (Pos: 6) 
-  35.  RB4 GT                02:56.28 (Pos: 6) 
-  36.  FXO GTR               03:10.85 (Pos: 6) 
-  37.  ANCHOIS GORBINI       03:18.19 (Pos: 6) 
-  38.  GWMK2                 03:22.45 (Pos: 6) 
-  39.  BUG WAGON             03:36.85 (Pos: 6) 
-  40.  BD6 VERT              03:36.98 (Pos: 6) 
-  41.  HJETT                 03:43.88 (Pos: 6) 
-  42.  SEDAN                 04:08.90 (Pos: 6) 
-  43.  VANLIFE               04:40.78 (Pos: 6) 
-  44.  SKODA 110 L RALLYE    04:47.11 (Pos: 6) 
-  45.  GG55 AMD              04:49.26 (Pos: 6) 
-  46.  FORMULA BMW FB02      04:53.99 (Pos: 6) 
-  47.  GHOUL 250RR           05:15.12 (Pos: 6) 
-  48.  SZK 400 CLASSIC       05:47.36 (Pos: 6) 
-  49.  RZT 370               06:15.50 (Pos: 6) 
-  50.  YKS-100               06:18.45 (Pos: 6) 
-  51.  UF PICKUP TRUCK       06:33.05 (Pos: 6) 
-  52.  BETA 65               06:35.69 (Pos: 6) 
-  53.  YAMI 3R               06:43.30 (Pos: 6) 
-  54.  GX-BUGGY              06:46.65 (Pos: 6) 
-  55.  VULCAN 998            06:51.41 (Pos: 6) 
-  56.  GUCIMOTO              07:02.25 (Pos: 6) 
-  57.  FORMULA XR            07:23.61 (Pos: 6) 
-  58.  BMW SAUBER F1.06      07:57.42 (Pos: 6) 
-  59.  RZM 250               08:56.74 (Pos: 6) 
-  60.  CX WAGON              14:30.20 (Pos: 6) 
-  61.  XR GTR                03:19.09 (Pos: 7) 
-  62.  WATBRUG 353           03:27.80 (Pos: 7) 
-  63.  GORKIY 10             03:40.83 (Pos: 7) 
-  64.  UF 1000               04:01.32 (Pos: 7) 
-  65.  AHMED 4.0RS           04:02.72 (Pos: 7) 
-  66.  UF GTR                04:06.39 (Pos: 7) 
-  67.  TAZ 0521              04:16.35 (Pos: 7) 
-  68.  HANZMUND V8           04:17.94 (Pos: 7) 
-  69.  RACEABOUT             04:25.67 (Pos: 7) 
-  70.  FZ50 GTR              04:26.23 (Pos: 7) 
-  71.  XF GTR                04:30.91 (Pos: 7) 
-  72.  LEMON FANTOMAS        04:39.03 (Pos: 7) 
-  73.  XR GT                 04:47.20 (Pos: 7) 
+  1.   EMKO                  02:22.44 (Pos: 2) 
+  2.   TOYATE SUPROZA T      02:21.30 (Pos: 3) 
+  3.   SKODA FELICIA         02:36.35 (Pos: 3) 
+  4.   PUSCH 674B            03:23.40 (Pos: 3) 
+  5.   PROTOTYPE 2           03:48.77 (Pos: 3) 
+  6.   GP125                 04:51.45 (Pos: 3) 
+  7.   YAHAMA CT200          05:12.81 (Pos: 3) 
+  8.   TAZ07 CLASSIC         03:08.41 (Pos: 4) 
+  9.   ADDA AR-EIGHT V10     03:09.27 (Pos: 4) 
+  10.  THR OP4500            03:19.08 (Pos: 4) 
+  11.  T34 SPORT             03:44.47 (Pos: 4) 
+  12.  SM500                 04:37.28 (Pos: 4) 
+  13.  HORDA CFR450          04:54.34 (Pos: 4) 
+  14.  YKS-R1052             06:01.66 (Pos: 4) 
+  15.  SHARK C               03:16.05 (Pos: 5) 
+  16.  FORMULA V8            03:23.79 (Pos: 5) 
+  17.  GWMK24DR              03:33.61 (Pos: 5) 
+  18.  XR1 PROCAR            03:43.96 (Pos: 5) 
+  19.  SWIRL SPORT 06        03:46.31 (Pos: 5) 
+  20.  FRAUD PRE RUNNER      03:51.72 (Pos: 5) 
+  21.  THR MB500             04:30.48 (Pos: 5) 
+  22.  GX-BUGGY STAGE 2      04:32.23 (Pos: 5) 
+  23.  K300X                 05:17.79 (Pos: 5) 
+  24.  MRT5                  06:13.14 (Pos: 5) 
+  25.  YAHAMA MIT09          06:22.83 (Pos: 5) 
+  26.  HBIKE V2              06:23.89 (Pos: 5) 
+  27.  TOMMY28               07:25.17 (Pos: 5) 
+  28.  HUMHII                07:29.00 (Pos: 5) 
+  29.  LINE RUNNER IVII      07:45.07 (Pos: 5) 
+  30.  FORMULA 60            08:31.07 (Pos: 5) 
+  31.  RB4 GT                02:56.28 (Pos: 6) 
+  32.  FXO GTR               03:10.85 (Pos: 6) 
+  33.  ANCHOIS GORBINI       03:18.19 (Pos: 6) 
+  34.  GWMK2                 03:22.45 (Pos: 6) 
+  35.  BUG WAGON             03:36.85 (Pos: 6) 
+  36.  BD6 VERT              03:36.98 (Pos: 6) 
+  37.  HJETT                 03:43.88 (Pos: 6) 
+  38.  FRAUD BIG BOY         03:58.84 (Pos: 6) 
+  39.  GX-BUGGY STAGE R      04:00.90 (Pos: 6) 
+  40.  SEDAN                 04:08.90 (Pos: 6) 
+  41.  GOD FOOT              04:09.94 (Pos: 6) 
+  42.  VANLIFE               04:40.78 (Pos: 6) 
+  43.  SKODA 110 L RALLYE    04:47.11 (Pos: 6) 
+  44.  GG55 AMD              04:49.26 (Pos: 6) 
+  45.  FORMULA BMW FB02      04:53.99 (Pos: 6) 
+  46.  GHOUL 250RR           05:15.12 (Pos: 6) 
+  47.  SZK 400 CLASSIC       05:47.36 (Pos: 6) 
+  48.  RZT 370               06:15.50 (Pos: 6) 
+  49.  YKS-100               06:18.45 (Pos: 6) 
+  50.  UF PICKUP TRUCK       06:33.05 (Pos: 6) 
+  51.  BETA 65               06:35.69 (Pos: 6) 
+  52.  YAMI 3R               06:43.30 (Pos: 6) 
+  53.  VULCAN 998            06:51.41 (Pos: 6) 
+  54.  GUCIMOTO              07:02.25 (Pos: 6) 
+  55.  FORMULA XR            07:23.61 (Pos: 6) 
+  56.  BMW SAUBER F1.06      07:57.42 (Pos: 6) 
+  57.  RZM 250               08:56.74 (Pos: 6) 
+  58.  CX WAGON              14:30.20 (Pos: 6) 
+  59.  ADDA S83 1.8T         02:30.95 (Pos: 7) 
+  60.  XR GTR                03:19.09 (Pos: 7) 
+  61.  WATBRUG 353           03:27.80 (Pos: 7) 
+  62.  GORKIY 10             03:40.83 (Pos: 7) 
+  63.  UF 1000               04:01.32 (Pos: 7) 
+  64.  AHMED 4.0RS           04:02.72 (Pos: 7) 
+  65.  UF GTR                04:06.39 (Pos: 7) 
+  66.  TAZ 0521              04:16.35 (Pos: 7) 
+  67.  HANZMUND V8           04:17.94 (Pos: 7) 
+  68.  RACEABOUT             04:25.67 (Pos: 7) 
+  69.  FZ50 GTR              04:26.23 (Pos: 7) 
+  70.  XF GTR                04:30.91 (Pos: 7) 
+  71.  LEMON FANTOMAS        04:39.03 (Pos: 7) 
+  72.  XR GT                 04:47.20 (Pos: 7) 
+  73.  GX-BUGGY              06:46.65 (Pos: 7) 
   74.  FXO TURBO             07:13.53 (Pos: 7) 
   75.  PORCHETE TIGER GTS    03:08.16 (Pos: 8) 
   76.  ERESO                 03:23.71 (Pos: 8) 
@@ -1459,15 +1487,15 @@ Philippines:   2025-11-07 09:00:50 PST
   84.  MERESDES E910         07:05.15 (Pos: 8) 
   85.  YAHAMA CT125 DR       07:39.78 (Pos: 8) 
   86.  XF GTI                05:27.77 (Pos: 9) 
-  87.  RS1 KENJI RX          04:05.94 (Pos: 10)
-  88.  BOLKSWAGON GOFF TGI   05:14.52 (Pos: 10)
+  87.  BOLKSWAGON GOFF TGI   05:14.52 (Pos: 10)
+  88.  RS1 KENJI RX          04:05.94 (Pos: 11)
 
 7. Icoha44 (Icoha44)
-  1.   FRAUD BIG BOY         02:40.42 (Pos: 2) 
-  2.   PORCHETE TIGER GTS    02:17.44 (Pos: 3) 
-  3.   KORAMA R              02:33.04 (Pos: 3) 
-  4.   LEMON FANTOMAS        02:34.98 (Pos: 3) 
-  5.   SHARK C               02:38.88 (Pos: 3) 
+  1.   PORCHETE TIGER GTS    02:17.44 (Pos: 3) 
+  2.   KORAMA R              02:33.04 (Pos: 3) 
+  3.   LEMON FANTOMAS        02:34.98 (Pos: 3) 
+  4.   SHARK C               02:38.88 (Pos: 3) 
+  5.   FRAUD BIG BOY         02:40.42 (Pos: 3) 
   6.   VANLIFE               03:25.68 (Pos: 3) 
   7.   AHMED 4.0RS           02:17.34 (Pos: 4) 
   8.   GW-DECA               02:19.35 (Pos: 4) 
@@ -1479,14 +1507,14 @@ Philippines:   2025-11-07 09:00:50 PST
   14.  ERESO                 02:57.98 (Pos: 4) 
   15.  WATBRUG 353           03:05.48 (Pos: 4) 
   16.  TAZ 0521              03:06.93 (Pos: 4) 
-  17.  ADDA S83 1.8T         02:07.96 (Pos: 5) 
-  18.  IMPREZZIVE B2         02:30.78 (Pos: 5) 
-  19.  IBUSHA SAGA 2.6       02:34.09 (Pos: 5) 
-  20.  DIAMOND               02:45.18 (Pos: 5) 
-  21.  UZOVKA                03:01.82 (Pos: 5) 
-  22.  RS1 KENJI RX          02:12.53 (Pos: 6) 
-  23.  ADDA 5200             02:29.32 (Pos: 6) 
-  24.  TOYATE SUPROZA T      03:01.86 (Pos: 6) 
+  17.  IMPREZZIVE B2         02:30.78 (Pos: 5) 
+  18.  IBUSHA SAGA 2.6       02:34.09 (Pos: 5) 
+  19.  DIAMOND               02:45.18 (Pos: 5) 
+  20.  UZOVKA                03:01.82 (Pos: 5) 
+  21.  ADDA S83 1.8T         02:07.96 (Pos: 6) 
+  22.  ADDA 5200             02:29.32 (Pos: 6) 
+  23.  RS1 KENJI RX          02:12.53 (Pos: 7) 
+  24.  TOYATE SUPROZA T      03:01.86 (Pos: 7) 
   25.  EXPEDITION            04:17.32 (Pos: 7) 
 
 8. J-- (J--)
@@ -1508,13 +1536,13 @@ Philippines:   2025-11-07 09:00:50 PST
   9.   RACEABOUT             02:19.15 (Pos: 4) 
   10.  XR GT                 02:21.92 (Pos: 4) 
   11.  FXO TURBO             02:34.46 (Pos: 4) 
-  12.  RS1 KENJI RX          01:50.66 (Pos: 5) 
-  13.  FZ50                  02:12.41 (Pos: 5) 
-  14.  RB4 GT                02:23.00 (Pos: 5) 
-  15.  LX6                   02:24.75 (Pos: 5) 
-  16.  GW-DECA               02:26.24 (Pos: 5) 
-  17.  POCKET UF             03:24.06 (Pos: 5) 
-  18.  GX-BUGGY              04:31.29 (Pos: 5) 
+  12.  FZ50                  02:12.41 (Pos: 5) 
+  13.  RB4 GT                02:23.00 (Pos: 5) 
+  14.  LX6                   02:24.75 (Pos: 5) 
+  15.  GW-DECA               02:26.24 (Pos: 5) 
+  16.  POCKET UF             03:24.06 (Pos: 5) 
+  17.  GX-BUGGY              04:31.29 (Pos: 5) 
+  18.  RS1 KENJI RX          01:50.66 (Pos: 6) 
   19.  XF GTI                03:00.68 (Pos: 7) 
   20.  PORCHETE TIGER GTS    03:17.49 (Pos: 9) 
 
@@ -1532,8 +1560,8 @@ Philippines:   2025-11-07 09:00:50 PST
 
 14. TPEBOMAH (TPEBOMAH)
   1.   RS1 KENJI RX          01:29.59 (Pos: 1) 
-  2.   ADDA 8A 4.2 TDI       01:36.94 (Pos: 1) 
-  3.   ADDA S83 1.8T         01:38.05 (Pos: 1) 
+  2.   ADDA S83 1.8T         01:31.96 (Pos: 1) 
+  3.   ADDA 8A 4.2 TDI       01:36.94 (Pos: 1) 
 
 15. Toom43 (Toom43)
   1.   ADDA 5200             01:59.79 (Pos: 1) 
@@ -1567,10 +1595,10 @@ Philippines:   2025-11-07 09:00:50 PST
 17. groff48 (groff48)
   1.   SPOTTEDKITTEN COUPE   02:45.83 (Pos: 3) 
   2.   EXPEDITION            03:12.02 (Pos: 4) 
-  3.   ADDA AR-EIGHT V10     03:12.28 (Pos: 4) 
-  4.   PORCHETE TIGER GTS    02:41.01 (Pos: 5) 
-  5.   MERESDES E910         02:51.52 (Pos: 5) 
-  6.   ERESO                 02:58.93 (Pos: 5) 
+  3.   PORCHETE TIGER GTS    02:41.01 (Pos: 5) 
+  4.   MERESDES E910         02:51.52 (Pos: 5) 
+  5.   ERESO                 02:58.93 (Pos: 5) 
+  6.   ADDA AR-EIGHT V10     03:12.28 (Pos: 5) 
   7.   HJETT                 03:41.70 (Pos: 5) 
   8.   VALUTA V8             05:05.01 (Pos: 5) 
   9.   BZ30 ROADSTER SPORT   02:54.71 (Pos: 6) 
@@ -1621,97 +1649,97 @@ Philippines:   2025-11-07 09:00:50 PST
   35.  KORAMA R              02:10.89 (Pos: 1) 
   36.  BACALHAU              02:10.97 (Pos: 1) 
   37.  GWMK24DR              02:10.99 (Pos: 1) 
-  38.  TOYATE SUPROZA T      02:11.45 (Pos: 1) 
-  39.  FXO TURBO             02:12.93 (Pos: 1) 
-  40.  DIAMOND               02:13.99 (Pos: 1) 
-  41.  ACOSTA STARLIN        02:14.17 (Pos: 1) 
-  42.  SKODA 110 L RALLYE    02:16.08 (Pos: 1) 
-  43.  LAND ROAMER           02:17.05 (Pos: 1) 
-  44.  BUG WAGON             02:19.29 (Pos: 1) 
-  45.  FRAUD 040             02:21.64 (Pos: 1) 
-  46.  FRAUD PRE RUNNER      02:24.79 (Pos: 1) 
-  47.  UZOVKA                02:25.92 (Pos: 1) 
-  48.  FRAUD BIG BOY         02:26.19 (Pos: 1) 
-  49.  XR1 PROCAR            02:26.83 (Pos: 1) 
-  50.  GRAND PRIX LEGEND 65  02:33.00 (Pos: 1) 
-  51.  HANZMUND V8           02:33.50 (Pos: 1) 
-  52.  FORMULA BMW FB02      02:34.20 (Pos: 1) 
-  53.  THR SR2000            02:35.29 (Pos: 1) 
-  54.  THR OP4500            02:40.14 (Pos: 1) 
-  55.  WESSEX R69SP          02:41.52 (Pos: 1) 
-  56.  TOMMY28               02:48.55 (Pos: 1) 
-  57.  PROTOTYPE 2           02:54.49 (Pos: 1) 
-  58.  LINE RUNNER IVII      03:08.02 (Pos: 1) 
-  59.  PUSCH 674B            03:16.74 (Pos: 1) 
-  60.  RS1 KENJI RX          01:31.76 (Pos: 2) 
-  61.  ADDA 8A 4.2 TDI       01:43.84 (Pos: 2) 
-  62.  FZ50                  01:57.18 (Pos: 2) 
-  63.  FZ50 GTR              01:57.29 (Pos: 2) 
-  64.  FXO GTR               02:00.15 (Pos: 2) 
-  65.  ADDA 5200             02:01.88 (Pos: 2) 
-  66.  IMPREZZIVE B2         02:05.89 (Pos: 2) 
-  67.  TALOT SUNS LOMIS      02:06.04 (Pos: 2) 
-  68.  SHARK C GROUP 2       02:07.72 (Pos: 2) 
-  69.  AHMED 4.0RS           02:08.36 (Pos: 2) 
-  70.  EM30                  02:10.33 (Pos: 2) 
-  71.  VGI-6 TEDAVI          02:10.69 (Pos: 2) 
-  72.  FUCA SPORT SYSTEM     02:14.82 (Pos: 2) 
-  73.  RAY 400 RALLY         02:15.02 (Pos: 2) 
-  74.  BD9115                02:16.21 (Pos: 2) 
-  75.  N.400S                02:16.56 (Pos: 2) 
-  76.  FORMULA 60            02:17.62 (Pos: 2) 
-  77.  GT-V34                02:18.75 (Pos: 2) 
-  78.  PZG COMPACT           02:19.00 (Pos: 2) 
-  79.  FORMULA XR            02:19.36 (Pos: 2) 
-  80.  T46 SPORT R           02:19.59 (Pos: 2) 
-  81.  XF GTI                02:20.79 (Pos: 2) 
-  82.  CHALLENGE ST          02:21.03 (Pos: 2) 
-  83.  FORMULA V8            02:23.78 (Pos: 2) 
-  84.  ELIIN0R               02:24.68 (Pos: 2) 
-  85.  SHARK C               02:25.20 (Pos: 2) 
-  86.  BD6 VERT              02:25.97 (Pos: 2) 
-  87.  SKODA FELICIA         02:26.16 (Pos: 2) 
-  88.  SPOTTEDKITTEN COUPE   02:26.50 (Pos: 2) 
-  89.  HUMHII                02:29.49 (Pos: 2) 
-  90.  UF 1100T              02:31.56 (Pos: 2) 
-  91.  HADIMRSKA HOTRODD     02:32.35 (Pos: 2) 
-  92.  LORY GP5              02:33.40 (Pos: 2) 
-  93.  VANLIFE               02:35.45 (Pos: 2) 
-  94.  TAZ 0521              02:42.68 (Pos: 2) 
-  95.  GX-BUGGY STAGE 2      02:48.88 (Pos: 2) 
-  96.  THR MB500             02:50.45 (Pos: 2) 
-  97.  MC SPLANTER           02:54.54 (Pos: 2) 
-  98.  GX-BUGGY STAGE R      03:03.67 (Pos: 2) 
-  99.  T34 SPORT             03:07.86 (Pos: 2) 
-  100. RTS 6-71              03:12.23 (Pos: 2) 
-  101. LCT3000               03:15.63 (Pos: 2) 
-  102. BMW SAUBER F1.06      03:16.64 (Pos: 2) 
-  103. VULCAN 998            03:29.80 (Pos: 2) 
-  104. GP125                 04:22.69 (Pos: 2) 
-  105. HBIKE V2              04:55.85 (Pos: 2) 
-  106. ADDA S83 1.8T         01:56.40 (Pos: 3) 
-  107. LX6                   02:08.27 (Pos: 3) 
-  108. UF GTR                02:14.74 (Pos: 3) 
-  109. RACEABOUT             02:18.01 (Pos: 3) 
-  110. GOD FOOT              02:31.38 (Pos: 3) 
-  111. UF 1000               02:31.86 (Pos: 3) 
-  112. EXPEDITION            02:34.85 (Pos: 3) 
-  113. MRT5                  02:39.47 (Pos: 3) 
-  114. HJETT                 02:41.86 (Pos: 3) 
-  115. ROSSA                 02:45.08 (Pos: 3) 
-  116. WATBRUG 353           02:55.65 (Pos: 3) 
-  117. BD750                 03:34.67 (Pos: 3) 
-  118. JW 350                03:43.10 (Pos: 3) 
-  119. YAHAMA CT125 DR       03:48.26 (Pos: 3) 
-  120. GX-BUGGY              03:49.99 (Pos: 3) 
-  121. REAPER X1             03:54.46 (Pos: 3) 
-  122. SM500                 04:10.33 (Pos: 3) 
-  123. YKS-100               04:25.07 (Pos: 3) 
-  124. GUCIMOTO              04:31.67 (Pos: 3) 
-  125. YAHAMA MIT09          04:37.78 (Pos: 3) 
-  126. RZT 370               04:42.71 (Pos: 3) 
-  127. XF GTR                02:07.38 (Pos: 4) 
-  128. XR GTR                02:09.90 (Pos: 4) 
+  38.  FXO TURBO             02:12.93 (Pos: 1) 
+  39.  DIAMOND               02:13.99 (Pos: 1) 
+  40.  SKODA 110 L RALLYE    02:16.08 (Pos: 1) 
+  41.  LAND ROAMER           02:17.05 (Pos: 1) 
+  42.  BUG WAGON             02:19.29 (Pos: 1) 
+  43.  UZOVKA                02:25.92 (Pos: 1) 
+  44.  HANZMUND V8           02:33.50 (Pos: 1) 
+  45.  FORMULA BMW FB02      02:34.20 (Pos: 1) 
+  46.  TOMMY28               02:48.55 (Pos: 1) 
+  47.  PROTOTYPE 2           02:54.49 (Pos: 1) 
+  48.  LINE RUNNER IVII      03:08.02 (Pos: 1) 
+  49.  RS1 KENJI RX          01:31.76 (Pos: 2) 
+  50.  ADDA 8A 4.2 TDI       01:43.84 (Pos: 2) 
+  51.  FZ50                  01:57.18 (Pos: 2) 
+  52.  FZ50 GTR              01:57.29 (Pos: 2) 
+  53.  FXO GTR               02:00.15 (Pos: 2) 
+  54.  ADDA 5200             02:01.88 (Pos: 2) 
+  55.  IMPREZZIVE B2         02:05.89 (Pos: 2) 
+  56.  TALOT SUNS LOMIS      02:06.04 (Pos: 2) 
+  57.  SHARK C GROUP 2       02:07.72 (Pos: 2) 
+  58.  AHMED 4.0RS           02:08.36 (Pos: 2) 
+  59.  EM30                  02:10.33 (Pos: 2) 
+  60.  VGI-6 TEDAVI          02:10.69 (Pos: 2) 
+  61.  TOYATE SUPROZA T      02:11.45 (Pos: 2) 
+  62.  ACOSTA STARLIN        02:14.17 (Pos: 2) 
+  63.  FUCA SPORT SYSTEM     02:14.82 (Pos: 2) 
+  64.  BD9115                02:16.21 (Pos: 2) 
+  65.  N.400S                02:16.56 (Pos: 2) 
+  66.  FORMULA 60            02:17.62 (Pos: 2) 
+  67.  GT-V34                02:18.75 (Pos: 2) 
+  68.  PZG COMPACT           02:19.00 (Pos: 2) 
+  69.  FORMULA XR            02:19.36 (Pos: 2) 
+  70.  T46 SPORT R           02:19.59 (Pos: 2) 
+  71.  XF GTI                02:20.79 (Pos: 2) 
+  72.  CHALLENGE ST          02:21.03 (Pos: 2) 
+  73.  FRAUD 040             02:21.64 (Pos: 2) 
+  74.  FORMULA V8            02:23.78 (Pos: 2) 
+  75.  ELIIN0R               02:24.68 (Pos: 2) 
+  76.  FRAUD PRE RUNNER      02:24.79 (Pos: 2) 
+  77.  SHARK C               02:25.20 (Pos: 2) 
+  78.  BD6 VERT              02:25.97 (Pos: 2) 
+  79.  SKODA FELICIA         02:26.16 (Pos: 2) 
+  80.  FRAUD BIG BOY         02:26.19 (Pos: 2) 
+  81.  SPOTTEDKITTEN COUPE   02:26.50 (Pos: 2) 
+  82.  XR1 PROCAR            02:26.83 (Pos: 2) 
+  83.  HUMHII                02:29.49 (Pos: 2) 
+  84.  UF 1100T              02:31.56 (Pos: 2) 
+  85.  HADIMRSKA HOTRODD     02:32.35 (Pos: 2) 
+  86.  GRAND PRIX LEGEND 65  02:33.00 (Pos: 2) 
+  87.  LORY GP5              02:33.40 (Pos: 2) 
+  88.  THR SR2000            02:35.29 (Pos: 2) 
+  89.  VANLIFE               02:35.45 (Pos: 2) 
+  90.  THR OP4500            02:40.14 (Pos: 2) 
+  91.  WESSEX R69SP          02:41.52 (Pos: 2) 
+  92.  TAZ 0521              02:42.68 (Pos: 2) 
+  93.  MC SPLANTER           02:54.54 (Pos: 2) 
+  94.  T34 SPORT             03:07.86 (Pos: 2) 
+  95.  RTS 6-71              03:12.23 (Pos: 2) 
+  96.  LCT3000               03:15.63 (Pos: 2) 
+  97.  BMW SAUBER F1.06      03:16.64 (Pos: 2) 
+  98.  PUSCH 674B            03:16.74 (Pos: 2) 
+  99.  VULCAN 998            03:29.80 (Pos: 2) 
+  100. GP125                 04:22.69 (Pos: 2) 
+  101. HBIKE V2              04:55.85 (Pos: 2) 
+  102. LX6                   02:08.27 (Pos: 3) 
+  103. UF GTR                02:14.74 (Pos: 3) 
+  104. RAY 400 RALLY         02:15.02 (Pos: 3) 
+  105. RACEABOUT             02:18.01 (Pos: 3) 
+  106. UF 1000               02:31.86 (Pos: 3) 
+  107. EXPEDITION            02:34.85 (Pos: 3) 
+  108. MRT5                  02:39.47 (Pos: 3) 
+  109. HJETT                 02:41.86 (Pos: 3) 
+  110. ROSSA                 02:45.08 (Pos: 3) 
+  111. GX-BUGGY STAGE 2      02:48.88 (Pos: 3) 
+  112. THR MB500             02:50.45 (Pos: 3) 
+  113. WATBRUG 353           02:55.65 (Pos: 3) 
+  114. GX-BUGGY STAGE R      03:03.67 (Pos: 3) 
+  115. BD750                 03:34.67 (Pos: 3) 
+  116. JW 350                03:43.10 (Pos: 3) 
+  117. YAHAMA CT125 DR       03:48.26 (Pos: 3) 
+  118. GX-BUGGY              03:49.99 (Pos: 3) 
+  119. REAPER X1             03:54.46 (Pos: 3) 
+  120. SM500                 04:10.33 (Pos: 3) 
+  121. YKS-100               04:25.07 (Pos: 3) 
+  122. GUCIMOTO              04:31.67 (Pos: 3) 
+  123. YAHAMA MIT09          04:37.78 (Pos: 3) 
+  124. RZT 370               04:42.71 (Pos: 3) 
+  125. ADDA S83 1.8T         01:56.40 (Pos: 4) 
+  126. XF GTR                02:07.38 (Pos: 4) 
+  127. XR GTR                02:09.90 (Pos: 4) 
+  128. GOD FOOT              02:31.38 (Pos: 4) 
   129. EMKO                  02:32.51 (Pos: 4) 
   130. RZM 250               04:07.56 (Pos: 4) 
   131. GHOUL 250RR           04:26.30 (Pos: 4) 
@@ -1739,126 +1767,149 @@ Philippines:   2025-11-07 09:00:50 PST
   1.   BZ30 ROADSTER SPORT   02:49.08 (Pos: 5) 
 
 21. p v l 2 (p v l 2)
-  1.   IMPREZZIVE B2         02:03.62 (Pos: 1) 
-  2.   SHARK C GROUP 2       02:03.74 (Pos: 1) 
-  3.   TALOT SUNS LOMIS      02:03.78 (Pos: 1) 
-  4.   AHMED 4.0RS           02:05.55 (Pos: 1) 
-  5.   GT-V34                02:06.09 (Pos: 1) 
-  6.   FUCA SPORT SYSTEM     02:07.80 (Pos: 1) 
-  7.   PZG COMPACT           02:08.34 (Pos: 1) 
-  8.   SPOTTEDKITTEN COUPE   02:08.42 (Pos: 1) 
-  9.   RACEABOUT             02:08.76 (Pos: 1) 
-  10.  N.400S                02:08.96 (Pos: 1) 
-  11.  LORY GP5              02:09.13 (Pos: 1) 
-  12.  HADIMRSKA HOTRODD     02:10.44 (Pos: 1) 
-  13.  VGI-6 TEDAVI          02:10.45 (Pos: 1) 
-  14.  UF 1100T              02:11.95 (Pos: 1) 
-  15.  T46 SPORT R           02:12.37 (Pos: 1) 
-  16.  BD9115                02:12.98 (Pos: 1) 
-  17.  HUMHII                02:13.50 (Pos: 1) 
-  18.  MRT5                  02:13.74 (Pos: 1) 
-  19.  FORMULA 60            02:15.43 (Pos: 1) 
-  20.  XF GTI                02:16.42 (Pos: 1) 
-  21.  CHALLENGE ST          02:18.49 (Pos: 1) 
-  22.  ELIIN0R               02:20.84 (Pos: 1) 
-  23.  SHARK C               02:22.00 (Pos: 1) 
-  24.  SKODA FELICIA         02:25.53 (Pos: 1) 
-  25.  ROSSA                 02:25.65 (Pos: 1) 
-  26.  VANLIFE               02:27.91 (Pos: 1) 
-  27.  TAZ 0521              02:40.48 (Pos: 1) 
-  28.  WATBRUG 353           02:43.36 (Pos: 1) 
-  29.  MC SPLANTER           02:43.39 (Pos: 1) 
-  30.  T34 SPORT             02:43.49 (Pos: 1) 
-  31.  YAHAMA CT125 DR       02:47.70 (Pos: 1) 
-  32.  GP125                 02:48.83 (Pos: 1) 
-  33.  K300X                 02:51.59 (Pos: 1) 
-  34.  YAMI 3R               02:53.24 (Pos: 1) 
-  35.  YAHAMA CT200          02:53.59 (Pos: 1) 
-  36.  SZK 400 CLASSIC       02:54.76 (Pos: 1) 
-  37.  LCT3000               02:56.68 (Pos: 1) 
-  38.  JW 350                02:58.94 (Pos: 1) 
-  39.  GHOUL 250RR           03:00.40 (Pos: 1) 
-  40.  RZT 370               03:00.76 (Pos: 1) 
-  41.  YKS-R1052             03:03.20 (Pos: 1) 
-  42.  SM500                 03:03.91 (Pos: 1) 
-  43.  RZM 250               03:05.64 (Pos: 1) 
-  44.  REAPER X1             03:08.07 (Pos: 1) 
-  45.  YKS-100               03:11.51 (Pos: 1) 
-  46.  YAHAMA MIT09          03:11.84 (Pos: 1) 
-  47.  HORDA CFR450          03:18.42 (Pos: 1) 
-  48.  HBIKE V2              03:31.23 (Pos: 1) 
-  49.  ANCHOIS GORBINI       01:57.81 (Pos: 2) 
-  50.  XM-5 CUP              02:01.67 (Pos: 2) 
-  51.  FRAUD WHEELER E2      02:04.67 (Pos: 2) 
-  52.  XR GTR                02:06.69 (Pos: 2) 
-  53.  POSCHER CAYNAM 718    02:07.26 (Pos: 2) 
-  54.  ERESO                 02:10.26 (Pos: 2) 
-  55.  BZ30 ROADSTER SPORT   02:10.49 (Pos: 2) 
-  56.  PORCHETE TIGER GTS    02:10.97 (Pos: 2) 
-  57.  GG55 AMD              02:11.00 (Pos: 2) 
-  58.  XR GT                 02:12.24 (Pos: 2) 
-  59.  FXO TURBO             02:13.41 (Pos: 2) 
-  60.  BUMER 7               02:13.46 (Pos: 2) 
-  61.  TAZ07 CLASSIC         02:15.55 (Pos: 2) 
-  62.  GWMK2                 02:15.89 (Pos: 2) 
-  63.  BETA 65               02:17.23 (Pos: 2) 
-  64.  MERESDES E910         02:17.28 (Pos: 2) 
-  65.  LEMON FANTOMAS        02:17.78 (Pos: 2) 
-  66.  INTERCEPTOR           02:18.29 (Pos: 2) 
-  67.  SWIRL SPORT 06        02:19.10 (Pos: 2) 
-  68.  IBUSHA SAGA 2.6       02:19.42 (Pos: 2) 
-  69.  POCKET UF             02:21.29 (Pos: 2) 
-  70.  PONTACH GT            02:21.37 (Pos: 2) 
-  71.  BACALHAU              02:24.61 (Pos: 2) 
-  72.  HJETT                 02:25.38 (Pos: 2) 
-  73.  KORAMA R              02:26.85 (Pos: 2) 
-  74.  SKODA 110 L RALLYE    02:27.12 (Pos: 2) 
-  75.  GWMK24DR              02:27.91 (Pos: 2) 
-  76.  EXPEDITION            02:28.68 (Pos: 2) 
-  77.  UF 1000               02:30.29 (Pos: 2) 
-  78.  BUG WAGON             02:30.57 (Pos: 2) 
-  79.  VALUTA V8             02:33.44 (Pos: 2) 
-  80.  UZOVKA                02:34.69 (Pos: 2) 
-  81.  GX-BUGGY              02:35.55 (Pos: 2) 
-  82.  TOMMY28               03:04.92 (Pos: 2) 
-  83.  BD750                 03:11.61 (Pos: 2) 
-  84.  LINE RUNNER IVII      03:21.94 (Pos: 2) 
-  85.  GUCIMOTO              03:29.55 (Pos: 2) 
-  86.  FXO GTR               02:01.75 (Pos: 3) 
-  87.  ADDA 8A 4.2 TDI       02:02.74 (Pos: 3) 
-  88.  XF GTR                02:06.66 (Pos: 3) 
-  89.  FZ50 GTR              02:07.31 (Pos: 3) 
-  90.  JIIRO                 02:11.15 (Pos: 3) 
-  91.  EM30                  02:11.51 (Pos: 3) 
-  92.  GW-DECA               02:12.12 (Pos: 3) 
-  93.  XR GT TURBO           02:12.18 (Pos: 3) 
-  94.  UF PICKUP TRUCK       02:12.22 (Pos: 3) 
-  95.  ADDA 5200             02:15.41 (Pos: 3) 
-  96.  SEDAN                 02:17.21 (Pos: 3) 
-  97.  GORKIY 10             02:18.69 (Pos: 3) 
-  98.  CX WAGON              02:18.92 (Pos: 3) 
-  99.  LACIBRE V6            02:20.54 (Pos: 3) 
-  100. DIAMOND               02:25.68 (Pos: 3) 
-  101. BD6 VERT              02:28.39 (Pos: 3) 
-  102. KEEROCK               02:28.49 (Pos: 3) 
-  103. EMKO                  02:30.55 (Pos: 3) 
-  104. LAND ROAMER           02:30.90 (Pos: 3) 
-  105. FORMULA V8            02:43.00 (Pos: 3) 
-  106. HANZMUND V8           02:45.35 (Pos: 3) 
-  107. BMW SAUBER F1.06      03:19.79 (Pos: 3) 
-  108. RTS 6-71              03:20.27 (Pos: 3) 
-  109. VULCAN 998            03:31.65 (Pos: 3) 
-  110. LX6                   02:10.31 (Pos: 4) 
-  111. FZ50                  02:10.56 (Pos: 4) 
-  112. RB4 GT                02:12.55 (Pos: 4) 
-  113. UF GTR                02:15.68 (Pos: 4) 
-  114. LX4                   02:15.90 (Pos: 4) 
-  115. FORMULA XR            02:45.12 (Pos: 4) 
-  116. FORMULA BMW FB02      02:54.80 (Pos: 4) 
-  117. BOLKSWAGON GOFF TGI   02:30.33 (Pos: 5) 
+  1.   TOYATE SUPROZA T      01:59.35 (Pos: 1) 
+  2.   XR1 PROCAR            01:59.85 (Pos: 1) 
+  3.   GOD FOOT              02:02.58 (Pos: 1) 
+  4.   IMPREZZIVE B2         02:03.62 (Pos: 1) 
+  5.   SHARK C GROUP 2       02:03.74 (Pos: 1) 
+  6.   TALOT SUNS LOMIS      02:03.78 (Pos: 1) 
+  7.   FRAUD 040             02:04.77 (Pos: 1) 
+  8.   AHMED 4.0RS           02:05.55 (Pos: 1) 
+  9.   GT-V34                02:06.09 (Pos: 1) 
+  10.  WESSEX R69SP          02:06.77 (Pos: 1) 
+  11.  FUCA SPORT SYSTEM     02:07.80 (Pos: 1) 
+  12.  PZG COMPACT           02:08.34 (Pos: 1) 
+  13.  SPOTTEDKITTEN COUPE   02:08.42 (Pos: 1) 
+  14.  ACOSTA STARLIN        02:08.52 (Pos: 1) 
+  15.  RACEABOUT             02:08.76 (Pos: 1) 
+  16.  N.400S                02:08.96 (Pos: 1) 
+  17.  LORY GP5              02:09.13 (Pos: 1) 
+  18.  RAY 400 RALLY         02:09.50 (Pos: 1) 
+  19.  HADIMRSKA HOTRODD     02:10.44 (Pos: 1) 
+  20.  VGI-6 TEDAVI          02:10.45 (Pos: 1) 
+  21.  UF 1100T              02:11.95 (Pos: 1) 
+  22.  T46 SPORT R           02:12.37 (Pos: 1) 
+  23.  FRAUD BIG BOY         02:12.59 (Pos: 1) 
+  24.  BD9115                02:12.98 (Pos: 1) 
+  25.  THR OP4500            02:12.99 (Pos: 1) 
+  26.  FRAUD PRE RUNNER      02:13.15 (Pos: 1) 
+  27.  THR MB500             02:13.26 (Pos: 1) 
+  28.  THR SR2000            02:13.31 (Pos: 1) 
+  29.  HUMHII                02:13.50 (Pos: 1) 
+  30.  MRT5                  02:13.74 (Pos: 1) 
+  31.  FORMULA 60            02:15.43 (Pos: 1) 
+  32.  XF GTI                02:16.42 (Pos: 1) 
+  33.  CHALLENGE ST          02:18.49 (Pos: 1) 
+  34.  ELIIN0R               02:20.84 (Pos: 1) 
+  35.  SHARK C               02:22.00 (Pos: 1) 
+  36.  SKODA FELICIA         02:25.53 (Pos: 1) 
+  37.  ROSSA                 02:25.65 (Pos: 1) 
+  38.  VANLIFE               02:27.91 (Pos: 1) 
+  39.  PUSCH 674B            02:28.29 (Pos: 1) 
+  40.  GRAND PRIX LEGEND 65  02:32.88 (Pos: 1) 
+  41.  TAZ 0521              02:40.48 (Pos: 1) 
+  42.  WATBRUG 353           02:43.36 (Pos: 1) 
+  43.  MC SPLANTER           02:43.39 (Pos: 1) 
+  44.  T34 SPORT             02:43.49 (Pos: 1) 
+  45.  YAHAMA CT125 DR       02:47.70 (Pos: 1) 
+  46.  GP125                 02:48.83 (Pos: 1) 
+  47.  K300X                 02:51.59 (Pos: 1) 
+  48.  YAMI 3R               02:53.24 (Pos: 1) 
+  49.  YAHAMA CT200          02:53.59 (Pos: 1) 
+  50.  SZK 400 CLASSIC       02:54.76 (Pos: 1) 
+  51.  LCT3000               02:56.68 (Pos: 1) 
+  52.  JW 350                02:58.94 (Pos: 1) 
+  53.  GHOUL 250RR           03:00.40 (Pos: 1) 
+  54.  RZT 370               03:00.76 (Pos: 1) 
+  55.  YKS-R1052             03:03.20 (Pos: 1) 
+  56.  SM500                 03:03.91 (Pos: 1) 
+  57.  RZM 250               03:05.64 (Pos: 1) 
+  58.  REAPER X1             03:08.07 (Pos: 1) 
+  59.  YKS-100               03:11.51 (Pos: 1) 
+  60.  YAHAMA MIT09          03:11.84 (Pos: 1) 
+  61.  HORDA CFR450          03:18.42 (Pos: 1) 
+  62.  HBIKE V2              03:31.23 (Pos: 1) 
+  63.  ANCHOIS GORBINI       01:57.81 (Pos: 2) 
+  64.  XM-5 CUP              02:01.67 (Pos: 2) 
+  65.  FRAUD WHEELER E2      02:04.67 (Pos: 2) 
+  66.  RS1 KENJI             02:05.41 (Pos: 2) 
+  67.  XR GTR                02:06.69 (Pos: 2) 
+  68.  POSCHER CAYNAM 718    02:07.26 (Pos: 2) 
+  69.  ADDA AR-EIGHT V10     02:08.30 (Pos: 2) 
+  70.  ERESO                 02:10.26 (Pos: 2) 
+  71.  BZ30 ROADSTER SPORT   02:10.49 (Pos: 2) 
+  72.  PORCHETE TIGER GTS    02:10.97 (Pos: 2) 
+  73.  GG55 AMD              02:11.00 (Pos: 2) 
+  74.  XR GT                 02:12.24 (Pos: 2) 
+  75.  MALANDRO - STOCKPRO   02:13.32 (Pos: 2) 
+  76.  FXO TURBO             02:13.41 (Pos: 2) 
+  77.  BUMER 7               02:13.46 (Pos: 2) 
+  78.  TAZ07 CLASSIC         02:15.55 (Pos: 2) 
+  79.  GWMK2                 02:15.89 (Pos: 2) 
+  80.  SPEC R                02:16.24 (Pos: 2) 
+  81.  BETA 65               02:17.23 (Pos: 2) 
+  82.  MERESDES E910         02:17.28 (Pos: 2) 
+  83.  LEMON FANTOMAS        02:17.78 (Pos: 2) 
+  84.  INTERCEPTOR           02:18.29 (Pos: 2) 
+  85.  GX-BUGGY STAGE R      02:18.57 (Pos: 2) 
+  86.  SWIRL SPORT 06        02:19.10 (Pos: 2) 
+  87.  IBUSHA SAGA 2.6       02:19.42 (Pos: 2) 
+  88.  POCKET UF             02:21.29 (Pos: 2) 
+  89.  PONTACH GT            02:21.37 (Pos: 2) 
+  90.  BACALHAU              02:24.61 (Pos: 2) 
+  91.  HJETT                 02:25.38 (Pos: 2) 
+  92.  KORAMA R              02:26.85 (Pos: 2) 
+  93.  SKODA 110 L RALLYE    02:27.12 (Pos: 2) 
+  94.  GWMK24DR              02:27.91 (Pos: 2) 
+  95.  EXPEDITION            02:28.68 (Pos: 2) 
+  96.  UF 1000               02:30.29 (Pos: 2) 
+  97.  BUG WAGON             02:30.57 (Pos: 2) 
+  98.  VALUTA V8             02:33.44 (Pos: 2) 
+  99.  UZOVKA                02:34.69 (Pos: 2) 
+  100. GX-BUGGY              02:35.55 (Pos: 2) 
+  101. GX-BUGGY STAGE 2      02:38.11 (Pos: 2) 
+  102. TOMMY28               03:04.92 (Pos: 2) 
+  103. BD750                 03:11.61 (Pos: 2) 
+  104. PROTOTYPE 2           03:12.56 (Pos: 2) 
+  105. LINE RUNNER IVII      03:21.94 (Pos: 2) 
+  106. GUCIMOTO              03:29.55 (Pos: 2) 
+  107. ADDA S83 1.8T         01:53.90 (Pos: 3) 
+  108. FXO GTR               02:01.75 (Pos: 3) 
+  109. ADDA 8A 4.2 TDI       02:02.74 (Pos: 3) 
+  110. XF GTR                02:06.66 (Pos: 3) 
+  111. FZ50 GTR              02:07.31 (Pos: 3) 
+  112. JIIRO                 02:11.15 (Pos: 3) 
+  113. EM30                  02:11.51 (Pos: 3) 
+  114. GW-DECA               02:12.12 (Pos: 3) 
+  115. XR GT TURBO           02:12.18 (Pos: 3) 
+  116. UF PICKUP TRUCK       02:12.22 (Pos: 3) 
+  117. ADDA 5200             02:15.41 (Pos: 3) 
+  118. SEDAN                 02:17.21 (Pos: 3) 
+  119. GORKIY 10             02:18.69 (Pos: 3) 
+  120. CX WAGON              02:18.92 (Pos: 3) 
+  121. LACIBRE V6            02:20.54 (Pos: 3) 
+  122. DIAMOND               02:25.68 (Pos: 3) 
+  123. BD6 VERT              02:28.39 (Pos: 3) 
+  124. KEEROCK               02:28.49 (Pos: 3) 
+  125. EMKO                  02:30.55 (Pos: 3) 
+  126. LAND ROAMER           02:30.90 (Pos: 3) 
+  127. FORMULA V8            02:43.00 (Pos: 3) 
+  128. HANZMUND V8           02:45.35 (Pos: 3) 
+  129. BMW SAUBER F1.06      03:19.79 (Pos: 3) 
+  130. RTS 6-71              03:20.27 (Pos: 3) 
+  131. VULCAN 998            03:31.65 (Pos: 3) 
+  132. LX6                   02:10.31 (Pos: 4) 
+  133. FZ50                  02:10.56 (Pos: 4) 
+  134. RB4 GT                02:12.55 (Pos: 4) 
+  135. UF GTR                02:15.68 (Pos: 4) 
+  136. LX4                   02:15.90 (Pos: 4) 
+  137. FORMULA XR            02:45.12 (Pos: 4) 
+  138. FORMULA BMW FB02      02:54.80 (Pos: 4) 
+  139. RS1 KENJI RX          01:49.26 (Pos: 5) 
+  140. BOLKSWAGON GOFF TGI   02:30.33 (Pos: 5) 
 
 22. pagani18 (pagani18)
-  1.   RS1 KENJI RX          02:15.95 (Pos: 7) 
+  1.   RS1 KENJI RX          02:15.95 (Pos: 8) 
 
 23. race (race)
   1.   JIIRO                 03:07.02 (Pos: 4) 
@@ -1867,96 +1918,96 @@ Philippines:   2025-11-07 09:00:50 PST
   1.   POCKET UF             02:04.13 (Pos: 1) 
 
 25. whatalife (whatalife)
-  1.   XR1 PROCAR            02:51.63 (Pos: 2) 
-  2.   THR SR2000            02:52.02 (Pos: 2) 
-  3.   GRAND PRIX LEGEND 65  04:11.08 (Pos: 2) 
-  4.   TALOT SUNS LOMIS      02:52.52 (Pos: 3) 
-  5.   TAZ07 CLASSIC         02:57.60 (Pos: 3) 
-  6.   FORMULA 60            03:08.01 (Pos: 3) 
-  7.   ELIIN0R               03:13.68 (Pos: 3) 
-  8.   SPEC R                03:29.99 (Pos: 3) 
-  9.   FRAUD PRE RUNNER      03:34.56 (Pos: 3) 
-  10.  LCT3000               03:53.19 (Pos: 3) 
-  11.  WESSEX R69SP          03:53.59 (Pos: 3) 
-  12.  RS1 KENJI             03:56.28 (Pos: 3) 
-  13.  THR MB500             04:06.47 (Pos: 3) 
-  14.  YAMI 3R               04:24.64 (Pos: 3) 
-  15.  GX-BUGGY STAGE 2      04:31.22 (Pos: 3) 
-  16.  YKS-R1052             05:21.89 (Pos: 3) 
-  17.  HBIKE V2              05:34.86 (Pos: 3) 
-  18.  MALANDRO - STOCKPRO   02:49.98 (Pos: 4) 
-  19.  INTERCEPTOR           02:57.59 (Pos: 4) 
-  20.  T46 SPORT R           02:57.60 (Pos: 4) 
-  21.  FRAUD BIG BOY         03:00.54 (Pos: 4) 
-  22.  GOD FOOT              03:00.66 (Pos: 4) 
-  23.  SHARK C               03:03.85 (Pos: 4) 
-  24.  LORY GP5              03:04.54 (Pos: 4) 
-  25.  CHALLENGE ST          03:05.15 (Pos: 4) 
-  26.  SWIRL SPORT 06        03:07.96 (Pos: 4) 
-  27.  KORAMA R              03:09.10 (Pos: 4) 
-  28.  PZG COMPACT           03:11.14 (Pos: 4) 
-  29.  SKODA 110 L RALLYE    03:13.36 (Pos: 4) 
-  30.  FRAUD 040             03:13.46 (Pos: 4) 
-  31.  GT-V34                03:16.01 (Pos: 4) 
-  32.  ACOSTA STARLIN        03:17.84 (Pos: 4) 
-  33.  KEEROCK               03:18.21 (Pos: 4) 
-  34.  GX-BUGGY STAGE R      03:18.21 (Pos: 4) 
-  35.  UF 1100T              03:20.10 (Pos: 4) 
-  36.  VALUTA V8             03:20.17 (Pos: 4) 
-  37.  MRT5                  03:22.35 (Pos: 4) 
-  38.  RAY 400 RALLY         03:23.66 (Pos: 4) 
-  39.  BUMER 7               03:24.02 (Pos: 4) 
-  40.  UF PICKUP TRUCK       03:29.44 (Pos: 4) 
-  41.  FUCA SPORT SYSTEM     03:30.17 (Pos: 4) 
-  42.  VANLIFE               03:31.89 (Pos: 4) 
-  43.  HUMHII                03:41.23 (Pos: 4) 
-  44.  THR OP4500            04:09.94 (Pos: 4) 
-  45.  TOMMY28               04:19.92 (Pos: 4) 
-  46.  MC SPLANTER           04:22.05 (Pos: 4) 
-  47.  PUSCH 674B            04:23.93 (Pos: 4) 
-  48.  PROTOTYPE 2           04:33.16 (Pos: 4) 
-  49.  RTS 6-71              04:47.88 (Pos: 4) 
-  50.  K300X                 04:49.06 (Pos: 4) 
-  51.  VULCAN 998            04:52.13 (Pos: 4) 
-  52.  YAHAMA MIT09          05:19.74 (Pos: 4) 
-  53.  LINE RUNNER IVII      06:38.13 (Pos: 4) 
-  54.  AHMED 4.0RS           02:43.47 (Pos: 5) 
-  55.  TOYATE SUPROZA T      02:53.64 (Pos: 5) 
-  56.  FRAUD WHEELER E2      02:54.85 (Pos: 5) 
-  57.  XM-5 CUP              02:57.08 (Pos: 5) 
-  58.  POSCHER CAYNAM 718    02:57.98 (Pos: 5) 
-  59.  ANCHOIS GORBINI       02:59.30 (Pos: 5) 
-  60.  BD6 VERT              02:59.98 (Pos: 5) 
-  61.  GWMK2                 03:01.77 (Pos: 5) 
-  62.  BETA 65               03:03.20 (Pos: 5) 
-  63.  SPOTTEDKITTEN COUPE   03:09.15 (Pos: 5) 
-  64.  SHARK C GROUP 2       03:09.28 (Pos: 5) 
-  65.  EM30                  03:09.59 (Pos: 5) 
-  66.  JIIRO                 03:13.29 (Pos: 5) 
-  67.  LEMON FANTOMAS        03:13.66 (Pos: 5) 
-  68.  EXPEDITION            03:13.71 (Pos: 5) 
-  69.  GG55 AMD              03:13.96 (Pos: 5) 
-  70.  TAZ 0521              03:21.81 (Pos: 5) 
-  71.  BUG WAGON             03:22.19 (Pos: 5) 
-  72.  CX WAGON              03:25.70 (Pos: 5) 
-  73.  VGI-6 TEDAVI          03:27.55 (Pos: 5) 
-  74.  FORMULA XR            03:30.14 (Pos: 5) 
-  75.  ADDA AR-EIGHT V10     03:31.97 (Pos: 5) 
-  76.  LACIBRE V6            03:33.07 (Pos: 5) 
-  77.  SEDAN                 03:35.48 (Pos: 5) 
-  78.  N.400S                03:41.87 (Pos: 5) 
-  79.  BACALHAU              03:47.30 (Pos: 5) 
-  80.  ROSSA                 03:50.78 (Pos: 5) 
-  81.  T34 SPORT             03:59.91 (Pos: 5) 
-  82.  FORMULA BMW FB02      04:41.16 (Pos: 5) 
-  83.  GHOUL 250RR           04:43.93 (Pos: 5) 
-  84.  YAHAMA CT125 DR       04:49.35 (Pos: 5) 
-  85.  SZK 400 CLASSIC       04:51.25 (Pos: 5) 
-  86.  GUCIMOTO              04:53.75 (Pos: 5) 
-  87.  BMW SAUBER F1.06      05:05.05 (Pos: 5) 
-  88.  RZT 370               05:55.64 (Pos: 5) 
-  89.  YKS-100               06:07.38 (Pos: 5) 
-  90.  RACEABOUT             02:49.11 (Pos: 6) 
+  1.   XR1 PROCAR            02:51.63 (Pos: 3) 
+  2.   THR SR2000            02:52.02 (Pos: 3) 
+  3.   TALOT SUNS LOMIS      02:52.52 (Pos: 3) 
+  4.   TAZ07 CLASSIC         02:57.60 (Pos: 3) 
+  5.   FORMULA 60            03:08.01 (Pos: 3) 
+  6.   ELIIN0R               03:13.68 (Pos: 3) 
+  7.   LCT3000               03:53.19 (Pos: 3) 
+  8.   GRAND PRIX LEGEND 65  04:11.08 (Pos: 3) 
+  9.   YAMI 3R               04:24.64 (Pos: 3) 
+  10.  YKS-R1052             05:21.89 (Pos: 3) 
+  11.  HBIKE V2              05:34.86 (Pos: 3) 
+  12.  INTERCEPTOR           02:57.59 (Pos: 4) 
+  13.  T46 SPORT R           02:57.60 (Pos: 4) 
+  14.  SHARK C               03:03.85 (Pos: 4) 
+  15.  LORY GP5              03:04.54 (Pos: 4) 
+  16.  CHALLENGE ST          03:05.15 (Pos: 4) 
+  17.  SWIRL SPORT 06        03:07.96 (Pos: 4) 
+  18.  KORAMA R              03:09.10 (Pos: 4) 
+  19.  PZG COMPACT           03:11.14 (Pos: 4) 
+  20.  SKODA 110 L RALLYE    03:13.36 (Pos: 4) 
+  21.  GT-V34                03:16.01 (Pos: 4) 
+  22.  KEEROCK               03:18.21 (Pos: 4) 
+  23.  UF 1100T              03:20.10 (Pos: 4) 
+  24.  VALUTA V8             03:20.17 (Pos: 4) 
+  25.  MRT5                  03:22.35 (Pos: 4) 
+  26.  BUMER 7               03:24.02 (Pos: 4) 
+  27.  UF PICKUP TRUCK       03:29.44 (Pos: 4) 
+  28.  SPEC R                03:29.99 (Pos: 4) 
+  29.  FUCA SPORT SYSTEM     03:30.17 (Pos: 4) 
+  30.  VANLIFE               03:31.89 (Pos: 4) 
+  31.  FRAUD PRE RUNNER      03:34.56 (Pos: 4) 
+  32.  HUMHII                03:41.23 (Pos: 4) 
+  33.  WESSEX R69SP          03:53.59 (Pos: 4) 
+  34.  RS1 KENJI             03:56.28 (Pos: 4) 
+  35.  THR MB500             04:06.47 (Pos: 4) 
+  36.  TOMMY28               04:19.92 (Pos: 4) 
+  37.  MC SPLANTER           04:22.05 (Pos: 4) 
+  38.  BD750                 04:25.65 (Pos: 4) 
+  39.  GX-BUGGY STAGE 2      04:31.22 (Pos: 4) 
+  40.  RTS 6-71              04:47.88 (Pos: 4) 
+  41.  K300X                 04:49.06 (Pos: 4) 
+  42.  VULCAN 998            04:52.13 (Pos: 4) 
+  43.  YAHAMA MIT09          05:19.74 (Pos: 4) 
+  44.  LINE RUNNER IVII      06:38.13 (Pos: 4) 
+  45.  AHMED 4.0RS           02:43.47 (Pos: 5) 
+  46.  MALANDRO - STOCKPRO   02:49.98 (Pos: 5) 
+  47.  FRAUD WHEELER E2      02:54.85 (Pos: 5) 
+  48.  XM-5 CUP              02:57.08 (Pos: 5) 
+  49.  POSCHER CAYNAM 718    02:57.98 (Pos: 5) 
+  50.  ANCHOIS GORBINI       02:59.30 (Pos: 5) 
+  51.  BD6 VERT              02:59.98 (Pos: 5) 
+  52.  FRAUD BIG BOY         03:00.54 (Pos: 5) 
+  53.  GOD FOOT              03:00.66 (Pos: 5) 
+  54.  GWMK2                 03:01.77 (Pos: 5) 
+  55.  BETA 65               03:03.20 (Pos: 5) 
+  56.  SPOTTEDKITTEN COUPE   03:09.15 (Pos: 5) 
+  57.  SHARK C GROUP 2       03:09.28 (Pos: 5) 
+  58.  EM30                  03:09.59 (Pos: 5) 
+  59.  JIIRO                 03:13.29 (Pos: 5) 
+  60.  FRAUD 040             03:13.46 (Pos: 5) 
+  61.  LEMON FANTOMAS        03:13.66 (Pos: 5) 
+  62.  EXPEDITION            03:13.71 (Pos: 5) 
+  63.  GG55 AMD              03:13.96 (Pos: 5) 
+  64.  ACOSTA STARLIN        03:17.84 (Pos: 5) 
+  65.  GX-BUGGY STAGE R      03:18.21 (Pos: 5) 
+  66.  TAZ 0521              03:21.81 (Pos: 5) 
+  67.  BUG WAGON             03:22.19 (Pos: 5) 
+  68.  RAY 400 RALLY         03:23.66 (Pos: 5) 
+  69.  CX WAGON              03:25.70 (Pos: 5) 
+  70.  VGI-6 TEDAVI          03:27.55 (Pos: 5) 
+  71.  FORMULA XR            03:30.14 (Pos: 5) 
+  72.  LACIBRE V6            03:33.07 (Pos: 5) 
+  73.  SEDAN                 03:35.48 (Pos: 5) 
+  74.  N.400S                03:41.87 (Pos: 5) 
+  75.  BACALHAU              03:47.30 (Pos: 5) 
+  76.  ROSSA                 03:50.78 (Pos: 5) 
+  77.  T34 SPORT             03:59.91 (Pos: 5) 
+  78.  THR OP4500            04:09.94 (Pos: 5) 
+  79.  PUSCH 674B            04:23.93 (Pos: 5) 
+  80.  PROTOTYPE 2           04:33.16 (Pos: 5) 
+  81.  FORMULA BMW FB02      04:41.16 (Pos: 5) 
+  82.  GHOUL 250RR           04:43.93 (Pos: 5) 
+  83.  YAHAMA CT125 DR       04:49.35 (Pos: 5) 
+  84.  SZK 400 CLASSIC       04:51.25 (Pos: 5) 
+  85.  GUCIMOTO              04:53.75 (Pos: 5) 
+  86.  BMW SAUBER F1.06      05:05.05 (Pos: 5) 
+  87.  RZT 370               05:55.64 (Pos: 5) 
+  88.  YKS-100               06:07.38 (Pos: 5) 
+  89.  RACEABOUT             02:49.11 (Pos: 6) 
+  90.  TOYATE SUPROZA T      02:53.64 (Pos: 6) 
   91.  FZ50 GTR              03:00.12 (Pos: 6) 
   92.  IBUSHA SAGA 2.6       03:01.98 (Pos: 6) 
   93.  UF 1000               03:03.52 (Pos: 6) 
@@ -1968,40 +2019,45 @@ Philippines:   2025-11-07 09:00:50 PST
   99.  XR GT                 03:15.96 (Pos: 6) 
   100. GORKIY 10             03:21.48 (Pos: 6) 
   101. PONTACH GT            03:25.00 (Pos: 6) 
-  102. BD9115                03:32.92 (Pos: 6) 
-  103. HANZMUND V8           03:33.39 (Pos: 6) 
-  104. SKODA FELICIA         03:36.77 (Pos: 6) 
-  105. GWMK24DR              03:40.08 (Pos: 6) 
-  106. LAND ROAMER           03:42.58 (Pos: 6) 
-  107. UF GTR                03:44.59 (Pos: 6) 
-  108. JW 350                04:11.37 (Pos: 6) 
-  109. FORMULA V8            04:46.58 (Pos: 6) 
-  110. REAPER X1             05:02.44 (Pos: 6) 
-  111. SM500                 06:01.29 (Pos: 6) 
-  112. FZ50                  02:37.80 (Pos: 7) 
-  113. ADDA 8A 4.2 TDI       02:47.16 (Pos: 7) 
-  114. ADDA 5200             03:00.89 (Pos: 7) 
-  115. XR GT TURBO           03:03.19 (Pos: 7) 
-  116. BZ30 ROADSTER SPORT   03:04.19 (Pos: 7) 
-  117. PORCHETE TIGER GTS    03:05.53 (Pos: 7) 
-  118. LX6                   03:07.91 (Pos: 7) 
-  119. LX4                   03:14.57 (Pos: 7) 
-  120. DIAMOND               03:16.83 (Pos: 7) 
-  121. RB4 GT                03:17.42 (Pos: 7) 
-  122. HADIMRSKA HOTRODD     03:18.83 (Pos: 7) 
-  123. ERESO                 03:18.90 (Pos: 7) 
-  124. FXO GTR               03:24.84 (Pos: 7) 
-  125. EMKO                  03:24.92 (Pos: 7) 
-  126. IMPREZZIVE B2         03:25.31 (Pos: 7) 
-  127. UZOVKA                03:28.95 (Pos: 7) 
-  128. POCKET UF             03:45.07 (Pos: 7) 
-  129. HJETT                 03:50.54 (Pos: 7) 
-  130. RZM 250               10:30.97 (Pos: 7) 
-  131. ADDA S83 1.8T         02:51.01 (Pos: 8) 
-  132. XF GTI                03:09.70 (Pos: 8) 
-  133. BOLKSWAGON GOFF TGI   03:17.80 (Pos: 8) 
-  134. WATBRUG 353           03:29.36 (Pos: 8) 
-  135. RS1 KENJI RX          03:05.96 (Pos: 9) 
+  102. ADDA AR-EIGHT V10     03:31.97 (Pos: 6) 
+  103. BD9115                03:32.92 (Pos: 6) 
+  104. HANZMUND V8           03:33.39 (Pos: 6) 
+  105. SKODA FELICIA         03:36.77 (Pos: 6) 
+  106. GWMK24DR              03:40.08 (Pos: 6) 
+  107. LAND ROAMER           03:42.58 (Pos: 6) 
+  108. UF GTR                03:44.59 (Pos: 6) 
+  109. JW 350                04:11.37 (Pos: 6) 
+  110. FORMULA V8            04:46.58 (Pos: 6) 
+  111. REAPER X1             05:02.44 (Pos: 6) 
+  112. GX-BUGGY              05:12.73 (Pos: 6) 
+  113. HORDA CFR450          05:53.85 (Pos: 6) 
+  114. SM500                 06:01.29 (Pos: 6) 
+  115. GP125                 06:16.48 (Pos: 6) 
+  116. YAHAMA CT200          13:08.67 (Pos: 6) 
+  117. FZ50                  02:37.80 (Pos: 7) 
+  118. ADDA 8A 4.2 TDI       02:47.16 (Pos: 7) 
+  119. ADDA 5200             03:00.89 (Pos: 7) 
+  120. XR GT TURBO           03:03.19 (Pos: 7) 
+  121. BZ30 ROADSTER SPORT   03:04.19 (Pos: 7) 
+  122. PORCHETE TIGER GTS    03:05.53 (Pos: 7) 
+  123. LX6                   03:07.91 (Pos: 7) 
+  124. LX4                   03:14.57 (Pos: 7) 
+  125. DIAMOND               03:16.83 (Pos: 7) 
+  126. RB4 GT                03:17.42 (Pos: 7) 
+  127. HADIMRSKA HOTRODD     03:18.83 (Pos: 7) 
+  128. ERESO                 03:18.90 (Pos: 7) 
+  129. FXO GTR               03:24.84 (Pos: 7) 
+  130. EMKO                  03:24.92 (Pos: 7) 
+  131. IMPREZZIVE B2         03:25.31 (Pos: 7) 
+  132. UZOVKA                03:28.95 (Pos: 7) 
+  133. POCKET UF             03:45.07 (Pos: 7) 
+  134. HJETT                 03:50.54 (Pos: 7) 
+  135. RZM 250               10:30.97 (Pos: 7) 
+  136. XF GTI                03:09.70 (Pos: 8) 
+  137. BOLKSWAGON GOFF TGI   03:17.80 (Pos: 8) 
+  138. WATBRUG 353           03:29.36 (Pos: 8) 
+  139. ADDA S83 1.8T         02:51.01 (Pos: 9) 
+  140. RS1 KENJI RX          03:05.96 (Pos: 10)
 
 
 
@@ -2020,22 +2076,22 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| ACOSTA S | ADDA 520 | ADDA 8A  | ADDA AR- | ADDA S83 | AHMED 4. | ANCHOIS  | BACALHAU | BD6 VERT | BD750 | BD9115 | BETA 65 | BMW SAUB | BOLKSWAG | BUG WAGO | BUMER 7 | BZ30 ROA | CHALLENG | CX WAGON | DIAMOND | ELIIN0R | EM30 | EMKO | ERESO | EXPEDITION |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     1    |     2    |     2    |     1    |     3    |     2    |     1    |     1    |     2    |   3   |    2   |    1    |     2    |     1    |     1    |    1    |     1    |     2    |     1    |    1    |    2    |   2  |   4  |   1   |      3     |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     -    |     3    |     3    |     -    |     -    |     1    |     2    |     2    |     3    |   2   |    1   |    2    |     3    |     5    |     2    |    2    |     2    |     1    |     3    |    3    |    1    |   3  |   3  |   2   |      2     |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     2    |     5    |     4    |     2    |     4    |     3    |     4    |     3    |     1    |   1   |    5   |    -    |     4    |     3    |     -    |    -    |     3    |     3    |     2    |    4    |    -    |   1  |   5  |   -   |      -     |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     1    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     1    |     3    |     3    |     2    |     3    |     1    |     2    |     2    |     3    |   2   |    1   |    2    |     3    |     5    |     2    |    2    |     2    |     1    |     3    |    3    |    1    |   3  |   3  |   2   |      2     |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     2    |     2    |     1    |     4    |     2    |     1    |     1    |     2    |   3   |    2   |    1    |     2    |     1    |     1    |    1    |     1    |     2    |     1    |    1    |    2    |   2  |   4  |   1   |      3     |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     1    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     3    |     5    |     4    |     3    |     5    |     3    |     4    |     3    |     1    |   1   |    5   |    -    |     4    |     3    |     -    |    -    |     3    |     3    |     2    |    4    |    -    |   1  |   5  |   -   |      -     |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     -    |     1    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    3    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    4   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   1  |   -   |      -     |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     2    |     -    |    -    |     -    |     -    |     -    |    2    |    -    |   -  |   -  |   -   |      1     |
 | 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |     -    |     1    |     -    |     1    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     3    |     4    |     5    |     6    |     7    |     6    |     3    |     4    |     4    |   4   |    3   |    4    |     -    |     7    |     3    |    3    |     8    |     5    |     4    |    8    |    4    |   4  |   8  |   6   |      8     |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     -    |     -    |     -    |     3    |     6    |     7    |     6    |     -    |     6    |   -   |    -   |    6    |     6    |    10    |     6    |    -    |     -    |     -    |     6    |    -    |    -    |   -  |   2  |   8   |      -     |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     4    |     7    |     7    |     5    |     8    |     5    |     5    |     5    |     5    |   -   |    6   |    5    |     5    |     8    |     5    |    4    |     7    |     4    |     5    |    7    |    3    |   5  |   7  |   7   |      5     |
-| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     6    |     -    |     -    |     5    |     4    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     4    |     4    |    -    |     4    |     -    |     -    |    5    |    -    |   -  |   -  |   4   |      7     |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     4    |     4    |     5    |     7    |     8    |     6    |     3    |     4    |     4    |   5   |    3   |    4    |     -    |     7    |     3    |    3    |     8    |     5    |     4    |    8    |    4    |   4  |   8  |   6   |      8     |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     -    |     -    |     -    |     4    |     7    |     7    |     6    |     -    |     6    |   -   |    -   |    6    |     6    |    10    |     6    |    -    |     -    |     -    |     6    |    -    |    -    |   -  |   2  |   8   |      -     |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     5    |     7    |     7    |     6    |     9    |     5    |     5    |     5    |     5    |   4   |    6   |    5    |     5    |     8    |     5    |    4    |     7    |     4    |     5    |    7    |    3    |   5  |   7  |   7   |      5     |
+| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     6    |     -    |     -    |     6    |     4    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     4    |     4    |    -    |     4    |     -    |     -    |    5    |    -    |   -  |   -  |   4   |      7     |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     6    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   6  |   3   |      6     |
-| 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |     8    |     -    |     4    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     9    |     -    |    -    |     6    |     -    |     -    |    6    |    -    |   -  |   9  |   5   |      4     |
+| 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |     8    |     -    |     5    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     9    |     -    |    -    |     6    |     -    |     -    |    6    |    -    |   -  |   9  |   5   |      4     |
 | 17 | Lucky Loser         | Lucky Loser         |         3|      450|       0|      450|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 | 18 | J--                 | J--                 |         2|      300|       0|      300|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 | 19 | race                | race                |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
@@ -2046,7 +2102,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 | 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |   -   |    -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |    -    |    -    |   -  |   -  |   -   |      -     |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |          |          |          |          |          |          |          |          |       |        |         |          |          |          |         |          |          |          |         |         |      |      |       |            |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |          |          |          |          |          |          |          |          |       |        |         |          |          |          |         |          |          |          |         |         |      |      |       |            |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+-------+--------+---------+----------+----------+----------+---------+----------+----------+----------+---------+---------+------+------+-------+------------+
 
 
@@ -2057,20 +2113,20 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| FORMULA  | FORMULA  | FORMULA  | FORMULA  | FRAUD 04 | FRAUD BI | FRAUD PR | FRAUD WH | FUCA SPO | FXO GTR | FXO TURB | FZ50 | FZ50 GTR | GG55 AMD | GHOUL | GOD FOOT | GORKIY 1 | GP125 | GRAND PR | GT-V34 | GUCIMOTO | GW-DECA | GWMK2 | GWMK24DR | GX-BUGGY |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     1    |     2    |     2    |     1    |     1    |     1    |     1    |     2    |    2    |     1    |   2  |     2    |     1    |   4   |     3    |     1    |   2   |     1    |    2   |     3    |    1    |   1   |     1    |     3    |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     1    |     4    |     3    |     4    |     -    |     -    |     -    |     2    |     1    |    3    |     2    |   4  |     3    |     2    |   1   |     -    |     3    |   1   |     -    |    1   |     2    |    3    |   2   |     2    |     2    |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     3    |     4    |     3    |     3    |     -    |     -    |     3    |     -    |    5    |     5    |   6  |     5    |     -    |   2   |     1    |     4    |   4   |     -    |    3   |     1    |    2    |   4   |     3    |     -    |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     2    |     1    |     1    |     -    |     -    |     -    |     -    |     -    |    1    |     3    |   3  |     1    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     1    |     4    |     3    |     4    |     1    |     1    |     1    |     2    |     1    |    3    |     2    |   4  |     3    |     2    |   1   |     1    |     3    |   1   |     1    |    1   |     2    |    3    |   2   |     2    |     2    |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     1    |     2    |     2    |     2    |     2    |     2    |     1    |     2    |    2    |     1    |   2  |     2    |     1    |   4   |     4    |     1    |   2   |     2    |    2   |     3    |    1    |   1   |     1    |     3    |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     2    |     1    |     1    |     -    |     -    |     -    |     -    |     -    |    1    |     3    |   3  |     1    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     3    |     4    |     3    |     4    |     -    |     -    |     3    |     -    |    5    |     5    |   6  |     5    |     -    |   2   |     2    |     4    |   4   |     -    |    3   |     1    |    2    |   4   |     3    |     -    |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     3    |   -   |     -    |     2    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     1    |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   1  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 | 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    4    |     4    |   5  |     4    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    5    |   -   |     -    |     5    |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     4    |     -    |     -    |     -    |     2    |     3    |     2    |     4    |     3    |    -    |     -    |   -  |     -    |     4    |   3   |     2    |     5    |   5   |     3    |    5   |     4    |    7    |   3   |     4    |     4    |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     5    |     6    |     5    |     6    |     -    |     5    |     4    |     -    |     -    |    6    |     7    |   8  |     7    |     6    |   6   |     5    |     7    |   3   |     -    |    -   |     6    |    -    |   6   |     5    |     6    |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     3    |     5    |     6    |     5    |     4    |     4    |     3    |     5    |     4    |    7    |     6    |   7  |     6    |     5    |   5   |     4    |     6    |   -   |     2    |    4   |     5    |    6    |   5   |     6    |     -    |
-| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     -    |     -    |     -    |     -    |     2    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    4    |   -   |     -    |     -    |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     4    |     -    |     -    |     -    |     3    |     4    |     3    |     4    |     3    |    -    |     -    |   -  |     -    |     4    |   3   |     3    |     5    |   5   |     4    |    5   |     4    |    7    |   3   |     4    |     4    |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     5    |     6    |     5    |     6    |     -    |     6    |     5    |     -    |     -    |    6    |     7    |   8  |     7    |     6    |   6   |     6    |     7    |   3   |     -    |    -   |     6    |    -    |   6   |     5    |     7    |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     3    |     5    |     6    |     5    |     5    |     5    |     4    |     5    |     4    |    7    |     6    |   7  |     6    |     5    |   5   |     5    |     6    |   6   |     3    |    4   |     5    |    6    |   5   |     6    |     6    |
+| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     -    |     -    |     -    |     -    |     3    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    4    |   -   |     -    |     -    |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 | 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 | 17 | Lucky Loser         | Lucky Loser         |         3|      450|       0|      450|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
@@ -2083,7 +2139,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 | 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |   -  |     -    |     -    |   -   |     -    |     -    |   -   |     -    |    -   |     -    |    -    |   -   |     -    |     -    |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |          |          |          |          |          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |          |         |       |          |          |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |          |          |          |          |          |          |          |          |         |          |      |          |          |       |          |          |       |          |        |          |         |       |          |          |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+------+----------+----------+-------+----------+----------+-------+----------+--------+----------+---------+-------+----------+----------+
 
 
@@ -2094,19 +2150,19 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| GX-BUGGY | GX-BUGGY | HADIMRSK | HANZMUND | HBIKE2 | HJETT | HORDA CF | HUMHII | IBUSHA S | IMPREZZI | INTERCEP | JIIRO | JW350 | K300X | KEEROCK | KORAMA R | LACIBRE  | LAND ROA | LCT3000 | LEMON FA | LINE RUN | LORY GP5 | LX4 | LX6 | MALANDRO |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     2    |     2    |     1    |    2   |   3   |     5    |    2   |     1    |     2    |     1    |   1   |   3   |   6   |    1    |     1    |     1    |     1    |    2    |     1    |     1    |     2    |  5  |  3  |     1    |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     -    |     -    |     1    |     3    |    1   |   2   |     1    |    1   |     2    |     1    |     2    |   3   |   1   |   1   |    3    |     2    |     3    |     3    |    1    |     2    |     2    |     1    |  4  |  4  |     -    |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     -    |     6    |     2    |    4   |   -   |     2    |    -   |     4    |     4    |     -    |   -   |   5   |   2   |    2    |     -    |     2    |     4    |    -    |     6    |     -    |     5    |  6  |  6  |     2    |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  2  |  1  |     -    |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     2    |     2    |     1    |     3    |    1   |   2   |     1    |    1   |     2    |     1    |     2    |   3   |   1   |   1   |    3    |     2    |     3    |     3    |    1    |     2    |     2    |     1    |  4  |  4  |     2    |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     3    |     3    |     2    |     1    |    2   |   3   |     5    |    2   |     1    |     2    |     1    |   1   |   3   |   6   |    1    |     1    |     1    |     1    |    2    |     1    |     1    |     2    |  5  |  3  |     1    |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  2  |  1  |     -    |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     -    |     6    |     2    |    4   |   -   |     2    |    -   |     4    |     4    |     -    |   -   |   5   |   2   |    2    |     -    |     2    |     4    |    -    |     6    |     -    |     5    |  6  |  6  |     3    |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     1    |     1    |     4    |     -    |    -   |   -   |     -    |    -   |     -    |     3    |     -    |   2   |   2   |   -   |    -    |     -    |     -    |     2    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  1  |  2  |     -    |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |     -    |     -    |     -    |    -   |   1   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
 | 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  3  |  5  |     -    |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     5    |     3    |     3    |     5    |    6   |   4   |     3    |    3   |     3    |     6    |     3    |   6   |   4   |   3   |    5    |     5    |     4    |     5    |    -    |     4    |     3    |     3    |  -  |  -  |     3    |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     4    |     5    |     -    |     7    |    5   |   6   |     4    |    5   |     -    |     -    |     -    |   -   |   8   |   5   |    -    |     -    |     -    |     -    |    -    |     7    |     5    |     -    |  8  |  8  |     -    |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     3    |     4    |     7    |     6    |    3   |   7   |     -    |    4   |     6    |     7    |     4    |   5   |   6   |   4   |    4    |     4    |     5    |     6    |    3    |     5    |     4    |     4    |  7  |  7  |     4    |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     6    |     4    |     3    |     5    |    6   |   4   |     3    |    3   |     3    |     6    |     3    |   6   |   4   |   3   |    5    |     5    |     4    |     5    |    -    |     4    |     3    |     3    |  -  |  -  |     4    |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     5    |     6    |     -    |     7    |    5   |   6   |     4    |    5   |     -    |     -    |     -    |   -   |   8   |   5   |    -    |     -    |     -    |     -    |    -    |     7    |     5    |     -    |  8  |  8  |     -    |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     4    |     5    |     7    |     6    |    3   |   7   |     6    |    4   |     6    |     7    |     4    |   5   |   6   |   4   |    4    |     4    |     5    |     6    |    3    |     5    |     4    |     4    |  7  |  7  |     5    |
 | 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     5    |     5    |     -    |   -   |   -   |   -   |    -    |     3    |     -    |     -    |    -    |     3    |     -    |     -    |  -  |  -  |     -    |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |     -    |     -    |     4    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
 | 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |     -    |     -    |     -    |    -   |   5   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
@@ -2120,7 +2176,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
 | 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |     -    |     -    |    -   |   -   |     -    |    -   |     -    |     -    |     -    |   -   |   -   |   -   |    -    |     -    |     -    |     -    |    -    |     -    |     -    |     -    |  -  |  -  |     -    |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |          |          |          |        |       |          |        |          |          |          |       |       |       |         |          |          |          |         |          |          |          |     |     |          |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |          |          |          |        |       |          |        |          |          |          |       |       |       |         |          |          |          |         |          |          |          |     |     |          |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+----------+----------+--------+-------+----------+--------+----------+----------+----------+-------+-------+-------+---------+----------+----------+----------+---------+----------+----------+----------+-----+-----+----------+
 
 
@@ -2131,20 +2187,20 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| MC SPLAN | MERESDES | MRT5 | N.400S | POCKET U | PONTACH  | PORCHETE | POSCHER  | PROTOTYP | PUSCH 67 | PZG COMP | RACEABOU | RAY 400  | RB4 GT | REAPER | ROSSA | RS1 KENJ | RS1 KENJ | RTS 6-71 | RZM250 | RZT370 | SEDAN | SHARK C | SHARK C  | SKODA 11 |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     1    |   3  |    2   |     6    |     1    |     1    |     1    |     1    |     1    |     2    |     3    |     2    |    1   |    3   |   3   |     1    |     2    |     2    |    4   |    3   |   1   |    2    |     2    |     1    |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     1    |     2    |   1  |    1   |     2    |     2    |     2    |     2    |     -    |     -    |     1    |     1    |     -    |    4   |    1   |   1   |     -    |     -    |     3    |    1   |    1   |   3   |    1    |     1    |     2    |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     3    |   2  |    3   |     -    |     3    |     4    |     3    |     -    |     -    |     5    |     5    |     1    |    3   |    5   |   -   |     -    |     -    |     -    |    2   |    4   |   2   |    -    |     3    |     5    |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     2    |     -    |    2   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     1    |     2    |   1  |    1   |     2    |     2    |     2    |     2    |     2    |     1    |     1    |     1    |     1    |    4   |    1   |   1   |     2    |     5    |     3    |    1   |    1   |   3   |    1    |     1    |     2    |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |     1    |   3  |    2   |     6    |     1    |     1    |     1    |     1    |     2    |     2    |     3    |     3    |    1   |    3   |   3   |     1    |     2    |     2    |    4   |    3   |   1   |    2    |     2    |     1    |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     2    |     -    |    2   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     -    |     3    |   2  |    3   |     -    |     3    |     4    |     3    |     -    |     -    |     5    |     5    |     2    |    3   |    5   |   -   |     -    |     -    |     -    |    2   |    4   |   2   |    -    |     3    |     5    |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     -    |     -    |   -  |    -   |     3    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     3    |     -    |    -   |    2   |   -   |    -    |     -    |     -    |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    2   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   2   |     -    |     -    |     1    |    -   |    -   |   -   |    -    |     -    |     -    |
-| 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |   -  |    -   |     5    |     -    |     9    |     -    |     -    |     -    |     -    |     4    |     -    |    5   |    -   |   -   |     -    |     5    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
+| 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |   -  |    -   |     5    |     -    |     9    |     -    |     -    |     -    |     -    |     4    |     -    |    5   |    -   |   -   |     -    |     6    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     1    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     3    |     7    |   -  |    4   |     4    |     5    |     6    |     4    |     3    |     3    |     3    |     -    |     3    |    -   |    4   |   4   |     2    |     8    |     5    |    5   |    7   |   4   |    6    |     4    |     3    |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     1    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     -    |     8    |   5  |    -   |     8    |     -    |     8    |     -    |     2    |     2    |     -    |     7    |     -    |    6   |    -   |   -   |     -    |    10    |     -    |    6   |    6   |   6   |    5    |     -    |     6    |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     4    |     6    |   4  |    5   |     7    |     6    |     7    |     5    |     4    |     4    |     4    |     6    |     4    |    7   |    6   |   5   |     3    |     9    |     4    |    7   |    5   |   5   |    4    |     5    |     4    |
-| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     4    |   -  |    -   |     -    |     4    |     3    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     6    |     -    |    -   |    -   |   -   |    3    |     -    |     -    |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     1    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     3    |     7    |   -  |    4   |     4    |     5    |     6    |     4    |     4    |     4    |     3    |     -    |     4    |    -   |    4   |   4   |     3    |     9    |     5    |    5   |    7   |   4   |    6    |     4    |     3    |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     -    |     8    |   5  |    -   |     8    |     -    |     8    |     -    |     3    |     3    |     -    |     7    |     -    |    6   |    -   |   -   |     -    |    11    |     -    |    6   |    6   |   6   |    5    |     -    |     6    |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     4    |     6    |   4  |    5   |     7    |     6    |     7    |     5    |     5    |     5    |     4    |     6    |     5    |    7   |    6   |   5   |     4    |    10    |     4    |    7   |    5   |   5   |    4    |     5    |     4    |
+| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |     4    |   -  |    -   |     -    |     4    |     3    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     7    |     -    |    -   |    -   |   -   |    3    |     -    |     -    |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |     5    |   -  |    -   |     -    |     -    |     5    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 17 | Lucky Loser         | Lucky Loser         |         3|      450|       0|      450|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    3   |    -   |   -   |    -    |     -    |     -    |
@@ -2155,9 +2211,9 @@ Philippines:   2025-11-07 09:00:50 PST
 | 22 | 1Demon1             | 1Demon1             |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 23 | Lavezzi             | Lavezzi             |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
-| 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     7    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
+| 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |   -  |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     8    |     -    |    -   |    -   |   -   |    -    |     -    |     -    |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |          |      |        |          |          |          |          |          |          |          |          |          |        |        |       |          |          |          |        |        |       |         |          |          |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |          |      |        |          |          |          |          |          |          |          |          |          |        |        |       |          |          |          |        |        |       |         |          |          |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+----------+--------+--------+-------+---------+----------+----------+
 
 
@@ -2168,20 +2224,20 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+--------+----------+---------+----------+--------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| SKODA FE | SM500 | SPEC R | SPOTTEDK | SWIRL SP | SZK 400  | T34 SPOR | T46 SPOR | TALOT SU | TAZ 0521 | TAZ07 CL | THR MB50 | THR OP45 | THR SR20 | TOMMY28 | TOYATE S | UF 1000 | UF 1100T | UF GTR | UF PICKU | UZOVKA | VALUTA V | VANLIFE | VGI-6 TE | VULCAN |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+--------+----------+---------+----------+--------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |   3   |    1   |     2    |     1    |     4    |     2    |     2    |     2    |     2    |     1    |     2    |     1    |     1    |    1    |     1    |    3    |     2    |    3   |     1    |    1   |     1    |    2    |     2    |    2   |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     1    |   1   |    -   |     1    |     2    |     1    |     1    |     1    |     1    |     1    |     2    |     -    |     -    |     -    |    2    |     -    |    2    |     1    |    4   |     3    |    2   |     2    |    1    |     1    |    3   |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     4    |   5   |    -   |     -    |     -    |     2    |     -    |     -    |     5    |     3    |     -    |     -    |     -    |     -    |    -    |     3    |    4    |     -    |    5   |     -    |    3   |     -    |    -    |     3    |    1   |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    5    |     -    |    2   |     -    |    -   |     -    |    -    |     -    |    -   |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     1    |   1   |    2   |     1    |     2    |     1    |     1    |     1    |     1    |     1    |     2    |     1    |     1    |     1    |    2    |     1    |    2    |     1    |    4   |     3    |    2   |     2    |    1    |     1    |    3   |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     2    |   3   |    1   |     2    |     1    |     4    |     2    |     2    |     2    |     2    |     1    |     3    |     2    |     2    |    1    |     2    |    3    |     2    |    3   |     1    |    1   |     1    |    2    |     2    |    2   |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    5    |     -    |    2   |     -    |    -   |     -    |    -    |     -    |    -   |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     4    |   5   |    -   |     -    |     -    |     2    |     -    |     -    |     5    |     3    |     -    |     -    |     -    |     -    |    -    |     4    |    4    |     -    |    5   |     -    |    3   |     -    |    -    |     3    |    1   |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     2    |    4   |     -    |    -    |     -    |    -   |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
 | 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    1    |     -    |    1   |     -    |    -   |     -    |    -    |     -    |    -   |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     5    |   2   |    2   |     4    |     3    |     3    |     3    |     3    |     4    |     6    |     5    |     1    |     2    |     3    |    3    |     4    |    -    |     3    |    -   |     5    |    6   |     -    |    5    |     4    |    5   |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     3    |   4   |    -   |     -    |     5    |     6    |     4    |     -    |     -    |     7    |     4    |     4    |     3    |     -    |    5    |     2    |    7    |     -    |    7   |     6    |    8   |     -    |    6    |     -    |    6   |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     6    |   6   |    3   |     5    |     4    |     5    |     5    |     4    |     3    |     5    |     3    |     3    |     4    |     2    |    4    |     5    |    6    |     4    |    6   |     4    |    7   |     4    |    4    |     5    |    4   |
-| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     4    |     -    |     -    |     -    |     -    |    -    |     6    |    -    |     -    |    -   |     -    |    5   |     -    |    3    |     -    |    -   |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     5    |   2   |    3   |     4    |     3    |     3    |     3    |     3    |     4    |     6    |     5    |     2    |     3    |     4    |    3    |     5    |    -    |     3    |    -   |     5    |    6   |     -    |    5    |     4    |    5   |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     3    |   4   |    -   |     -    |     5    |     6    |     4    |     -    |     -    |     7    |     4    |     5    |     4    |     -    |    5    |     3    |    7    |     -    |    7   |     6    |    8   |     -    |    6    |     -    |    6   |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     6    |   6   |    4   |     5    |     4    |     5    |     5    |     4    |     3    |     5    |     3    |     4    |     5    |     3    |    4    |     6    |    6    |     4    |    6   |     4    |    7   |     4    |    4    |     5    |    4   |
+| 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     4    |     -    |     -    |     -    |     -    |    -    |     7    |    -    |     -    |    -   |     -    |    5   |     -    |    3    |     -    |    -   |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     3    |    -    |     -    |    -   |
 | 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     -    |   -   |    -   |     3    |     -    |     -    |     -    |     -    |     -    |     8    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    9   |     5    |    -    |     -    |    -   |
 | 17 | Lucky Loser         | Lucky Loser         |         3|      450|       0|      450|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
@@ -2194,7 +2250,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     7    |    -   |     -    |    -    |     -    |    -   |
 | 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |   -   |    -   |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |     -    |    -    |     -    |    -    |     -    |    -   |     -    |    -   |     -    |    -    |     -    |    -   |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+--------+----------+---------+----------+--------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |       |        |          |          |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |        |          |         |          |        |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |       |        |          |          |          |          |          |          |          |          |          |          |          |         |          |         |          |        |          |        |          |         |          |        |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+-------+--------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+----------+---------+----------+---------+----------+--------+----------+--------+----------+---------+----------+--------+
 
 
@@ -2205,19 +2261,19 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
 | #  | Player              | ID                  |  Finished|  TC Cash|   Bonus|  Total $| WATBRUG  | WESSEX R | XF GTI | XF GTR | XM-5 CUP | XR GT | XR GT TU | XR GTR | XR1 PROC | YAHAMA C | YAHAMA C | YAHAMA M | YAMI 3R | YKS100 | YKSR1k |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
-| 1  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     3    |     1    |    2   |    4   |     1    |   1   |     5    |    4   |     1    |     3    |     4    |     3    |    4    |    3   |    5   |
-| 2  | p v l 2             | p v l 2             |       117|   17,550|   4,000|   21,550|     1    |     -    |    1   |    3   |     2    |   2   |     3    |    2   |     -    |     1    |     1    |     1    |    1    |    1   |    1   |
-| 3  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     2    |     -    |    3   |    5   |     4    |   3   |     6    |    5   |     -    |     2    |     5    |     2    |    2    |    2   |    6   |
-| 4  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |    4   |    1   |     -    |   5   |     2    |    3   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 1  | p v l 2             | p v l 2             |       140|   21,000|   6,000|   27,000|     1    |     1    |    1   |    3   |     2    |   2   |     3    |    2   |     1    |     1    |     1    |     1    |    1    |    1   |    1   |
+| 2  | kilobananov         | kilobananov         |       140|   21,000|   6,000|   27,000|     3    |     2    |    2   |    4   |     1    |   1   |     5    |    4   |     2    |     3    |     4    |     3    |    4    |    3   |    5   |
+| 3  | CRC Titan2000       | CRC Titan2000       |        20|    3,000|       0|    3,000|     -    |     -    |    4   |    1   |     -    |   5   |     2    |    3   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 4  | Griffin20069        | Griffin20069        |        93|   13,950|   2,000|   15,950|     2    |     -    |    3   |    5   |     4    |   3   |     6    |    5   |     -    |     2    |     5    |     2    |    2    |    2   |    6   |
 | 5  | Toom43              | Toom43              |        19|    2,850|       0|    2,850|     5    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     4    |     -    |     -    |    -    |    -   |    -   |
 | 6  | lordferius          | lordferius          |         8|    1,200|       0|    1,200|     -    |     -    |    6   |    -   |     -    |   -   |     1    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 7  | bayanofmansorofisky | bayanofmansorofisky |         6|      900|       0|      900|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 8  | Lotche              | Lotche              |        20|    3,000|       0|    3,000|     -    |     -    |    7   |    2   |     -    |   4   |     4    |    1   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 9  | TPEBOMAH            | TPEBOMAH            |         3|      450|       0|      450|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
-| 10 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     6    |     2    |    -   |    -   |     3    |   -   |     -    |    -   |     3    |     7    |     2    |     6    |    5    |    4   |    2   |
-| 11 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
-| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     7    |     -    |    9   |    7   |     -    |   7   |     8    |    7   |     4    |     8    |     3    |     5    |    6    |    6   |    4   |
-| 13 | whatalife           | whatalife           |       135|   20,250|   4,000|   24,250|     8    |     3    |    8   |    6   |     5    |   6   |     7    |    6   |     2    |     5    |     -    |     4    |    3    |    5   |    3   |
+| 10 | smirdaboli          | smirdaboli          |         1|      150|       0|      150|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 11 | BraveHeart          | BraveHeart          |       118|   17,700|   4,000|   21,700|     6    |     3    |    -   |    -   |     3    |   -   |     -    |    -   |     4    |     7    |     2    |     6    |    5    |    4   |    2   |
+| 12 | Huseyn31            | Huseyn31            |        88|   13,200|   2,000|   15,200|     7    |     -    |    9   |    7   |     -    |   7   |     8    |    7   |     5    |     8    |     3    |     5    |    6    |    6   |    4   |
+| 13 | whatalife           | whatalife           |       140|   21,000|   6,000|   27,000|     8    |     4    |    8   |    6   |     5    |   6   |     7    |    6   |     3    |     5    |     6    |     4    |    3    |    5   |    3   |
 | 14 | Icoha44             | Icoha44             |        25|    3,750|       0|    3,750|     4    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 15 | Glenn Quagmire      | Glenn Quagmire      |         6|      900|       0|      900|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 16 | groff48             | groff48             |        17|    2,550|       0|    2,550|     9    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     7    |    -    |    -   |    -   |
@@ -2231,7 +2287,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 24 | MadOrphar206        | MadOrphar206        |         1|      150|       0|      150|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 | 25 | pagani18            | pagani18            |         1|      150|       0|      150|     -    |     -    |    -   |    -   |     -    |   -   |     -    |    -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
-|    | Total               |                     |          |  124,350|  22,000|  146,350|          |          |        |        |          |       |          |        |          |          |          |          |         |        |        |
+|    | Total               |                     |          |  128,550|  26,000|  154,550|          |          |        |        |          |       |          |        |          |          |          |          |         |        |        |
 +----+---------------------+---------------------+----------+---------+--------+---------+----------+----------+--------+--------+----------+-------+----------+--------+----------+----------+----------+----------+---------+--------+--------+
 
 
@@ -2242,10 +2298,10 @@ Philippines:   2025-11-07 09:00:50 PST
 +----+---------------------+---------------------+----------+-------------+----------+
 | #  | Player              | ID                  |  Vehicles|   Total Time|  Avg Time|
 +----+---------------------+---------------------+----------+-------------+----------+
-| 1  | kilobananov         | kilobananov         |       140|  06:14:25.62|  02:40.47|
-| 2  | whatalife           | whatalife           |       135|  08:14:54.81|  03:39.96|
-| 3  | BraveHeart          | BraveHeart          |       118|  06:55:30.62|  03:31.28|
-| 4  | p v l 2             | p v l 2             |       117|  04:50:26.89|  02:28.95|
+| 1  | p v l 2             | p v l 2             |       140|  05:41:40.37|  02:26.43|
+| 2  | kilobananov         | kilobananov         |       140|  06:14:25.62|  02:40.47|
+| 3  | whatalife           | whatalife           |       140|  08:49:52.19|  03:47.09|
+| 4  | BraveHeart          | BraveHeart          |       118|  06:55:30.62|  03:31.28|
 | 5  | Griffin20069        | Griffin20069        |        93|  04:39:34.90|  03:00.38|
 | 6  | Huseyn31            | Huseyn31            |        88|  07:14:31.06|  04:56.26|
 | 7  | Icoha44             | Icoha44             |        25|  01:08:03.03|  02:43.32|
@@ -2256,7 +2312,7 @@ Philippines:   2025-11-07 09:00:50 PST
 | 12 | lordferius          | lordferius          |         8|     19:33.31|  02:26.66|
 | 13 | bayanofmansorofisky | bayanofmansorofisky |         6|     14:50.36|  02:28.39|
 | 14 | Glenn Quagmire      | Glenn Quagmire      |         6|     17:55.83|  02:59.30|
-| 15 | TPEBOMAH            | TPEBOMAH            |         3|     04:44.58|  01:34.86|
+| 15 | TPEBOMAH            | TPEBOMAH            |         3|     04:38.49|  01:32.83|
 | 16 | Lucky Loser         | Lucky Loser         |         3|     13:39.14|  04:33.05|
 | 17 | J--                 | J--                 |         2|     04:34.47|  02:17.24|
 | 18 | Ross2750            | Ross2750            |         2|     07:31.24|  03:45.62|
