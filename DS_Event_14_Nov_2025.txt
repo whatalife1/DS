@@ -1,0 +1,567 @@
+--- Report Generation Info ---
+
+Report generated at:
+UTC Time:      2025-11-15 00:55:47 UTC
+German Time:   2025-11-15 01:55:47 CET
+Brazil Time:   2025-11-14 21:55:47 -03
+Saudi Arabia:  2025-11-15 03:55:47 +03
+Turkish Time:  2025-11-15 03:55:47 +03
+India Time:    2025-11-15 06:25:47 IST
+Philippines:   2025-11-15 08:55:47 PST
+
+--- Results by Vehicle (Fastest First) ---
+
+1. ADDA S83 1.8T
+  1. RashRusted         01:18.90
+
+2. FXO TURBO
+  1. 01alperen001       01:20.79
+  2. kilobananov        01:29.18
+
+3. XF GTR
+  1. kilobananov        01:30.14
+
+4. XR GT TURBO
+  1. kilobananov        01:30.29
+
+5. RB4 GT
+  1. kilobananov        01:31.42
+
+6. FRAUD PRE RUNNER
+  1. RashRusted         01:31.67
+
+7. POCKET UF
+  1. Cevin2307          01:32.46
+
+8. LX6
+  1. kilobananov        01:35.11
+
+9. LX4
+  1. kilobananov        01:37.46
+
+10. XF GTI
+  1. kilobananov        01:38.39
+
+11. HJETT
+  1. 01alperen001       01:38.99
+  2. whatalife          02:40.76
+
+12. BOLKSWAGON GOFF TGI
+  1. balintka1234       01:39.26
+  2. Cevin2307          02:10.96
+  3. whatalife          02:17.48
+  4. hj93               03:33.12
+
+13. XR GT
+  1. kilobananov        01:41.29
+
+14. UF 1000
+  1. kilobananov        01:43.18
+  2. CRC Titan2000      01:44.78
+
+15. INTERCEPTOR
+  1. Cevin2307          01:43.50
+
+16. RACEABOUT
+  1. kilobananov        01:47.03
+
+17. IMPREZZIVE B2
+  1. Saul. (saulienis)  01:47.84
+  2. pedropego          02:03.93
+  3. alperenozdogru     02:15.12
+
+18. UF GTR
+  1. kilobananov        01:48.62
+
+19. FZ50
+  1. kilobananov        01:51.61
+
+20. YAHAMA MIT09
+  1. Vlastimil          01:54.42
+  2. p v l 2            02:06.61
+
+21. KEEROCK
+  1. Heitor Toledo      01:56.01
+  2. pedropego          02:50.90
+
+22. TAZ 0521
+  1. balintka1234       01:58.30
+
+23. RS1 KENJI RX
+  1. Vlastimil          01:58.81
+
+24. EMKO
+  1. balintka1234       01:59.34
+  2. whatalife          02:27.10
+
+25. SM500
+  1. p v l 2            01:59.36
+
+26. EXPEDITION
+  1. RashRusted         02:00.22
+  2. whatalife          02:28.30
+  3. pedropego          02:47.91
+
+27. GP125
+  1. p v l 2            02:00.27
+
+28. WATBRUG 353
+  1. balintka1234       02:00.60
+  2. whatalife          02:59.29
+
+29. SZK 400 CLASSIC
+  1. p v l 2            02:00.97
+
+30. REAPER X1
+  1. p v l 2            02:02.83
+
+31. YAHAMA CT200
+  1. p v l 2            02:03.37
+
+32. THR SR2000
+  1. pedropego          02:06.61
+
+33. SPOTTEDKITTEN COUPE
+  1. whatalife          02:06.72
+
+34. PORCHETE TIGER GTS
+  1. whatalife          02:06.97
+
+35. GHOUL 250RR
+  1. p v l 2            02:07.72
+
+36. BZ30 ROADSTER SPORT
+  1. whatalife          02:08.43
+
+37. GWMK2
+  1. MarioDoido123      02:09.34
+
+38. YAHAMA CT125 DR
+  1. p v l 2            02:09.96
+  2. Vlastimil          02:17.96
+
+39. HORDA CFR450
+  1. Vlastimil          02:10.06
+  2. p v l 2            02:11.95
+
+40. K300X
+  1. p v l 2            02:10.22
+
+41. YKS-100
+  1. p v l 2            02:12.02
+
+42. BD750
+  1. p v l 2            02:12.06
+
+43. YAMI 3R
+  1. p v l 2            02:12.33
+
+44. RZM 250
+  1. p v l 2            02:13.65
+
+45. ADDA AR-EIGHT V10
+  1. whatalife          02:16.70
+
+46. MERESDES E910
+  1. whatalife          02:17.56
+
+47. RZT 370
+  1. p v l 2            02:18.16
+
+48. ROSSA
+  1. whatalife          02:19.21
+
+49. DIAMOND
+  1. whatalife          02:19.22
+
+50. ADDA 5200
+  1. whatalife          02:20.36
+
+51. VULCAN 998
+  1. p v l 2            02:21.08
+
+52. YKS-R1052
+  1. p v l 2            02:21.48
+
+53. VALUTA V8
+  1. deadmartinius96    02:22.67
+  2. whatalife          02:39.04
+
+54. JW 350
+  1. p v l 2            02:26.54
+
+55. PZG COMPACT
+  1. Vlastimil          02:26.87
+
+56. ERESO
+  1. whatalife          02:28.64
+
+57. PONTACH GT
+  1. whatalife          02:29.06
+
+58. GUCIMOTO
+  1. p v l 2            02:31.18
+
+59. UZOVKA
+  1. whatalife          02:34.57
+
+60. SPEC R
+  1. pete15             02:36.25
+
+61. HANZMUND V8
+  1. whatalife          02:36.52
+
+62. RS1 KENJI
+  1. mateus de souza    02:46.36
+
+63. HBIKE V2
+  1. p v l 2            02:54.06
+
+64. LEMON FANTOMAS
+  1. ronnie_pickering_  03:12.93
+
+
+
+--- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
+
+1. 01alperen001 (01alperen001)
+  1.  FXO TURBO            01:20.79 (Pos: 1)
+  2.  HJETT                01:38.99 (Pos: 1)
+
+2. CRC Titan2000 (CRC Titan2000)
+  1.  UF 1000              01:44.78 (Pos: 2)
+
+3. Cevin2307 (Cevin2307)
+  1.  POCKET UF            01:32.46 (Pos: 1)
+  2.  INTERCEPTOR          01:43.50 (Pos: 1)
+  3.  BOLKSWAGON GOFF TGI  02:10.96 (Pos: 2)
+
+4. Heitor Toledo (Heitor Toledo)
+  1.  KEEROCK              01:56.01 (Pos: 1)
+
+5. MarioDoido123 (MarioDoido123)
+  1.  GWMK2                02:09.34 (Pos: 1)
+
+6. RashRusted (RashRusted)
+  1.  ADDA S83 1.8T        01:18.90 (Pos: 1)
+  2.  FRAUD PRE RUNNER     01:31.67 (Pos: 1)
+  3.  EXPEDITION           02:00.22 (Pos: 1)
+
+7. Vlastimil (Vlastimil)
+  1.  YAHAMA MIT09         01:54.42 (Pos: 1)
+  2.  RS1 KENJI RX         01:58.81 (Pos: 1)
+  3.  HORDA CFR450         02:10.06 (Pos: 1)
+  4.  PZG COMPACT          02:26.87 (Pos: 1)
+  5.  YAHAMA CT125 DR      02:17.96 (Pos: 2)
+
+8. alperenozdogru (alperenozdogru)
+  1.  IMPREZZIVE B2        02:15.12 (Pos: 3)
+
+9. balintka1234 (balintka1234)
+  1.  BOLKSWAGON GOFF TGI  01:39.26 (Pos: 1)
+  2.  TAZ 0521             01:58.30 (Pos: 1)
+  3.  EMKO                 01:59.34 (Pos: 1)
+  4.  WATBRUG 353          02:00.60 (Pos: 1)
+
+10. deadmartinius96 (deadmartinius96)
+  1.  VALUTA V8            02:22.67 (Pos: 1)
+
+11. hj93 (hj93)
+  1.  BOLKSWAGON GOFF TGI  03:33.12 (Pos: 4)
+
+12. kilobananov (kilobananov)
+  1.  XF GTR               01:30.14 (Pos: 1)
+  2.  XR GT TURBO          01:30.29 (Pos: 1)
+  3.  RB4 GT               01:31.42 (Pos: 1)
+  4.  LX6                  01:35.11 (Pos: 1)
+  5.  LX4                  01:37.46 (Pos: 1)
+  6.  XF GTI               01:38.39 (Pos: 1)
+  7.  XR GT                01:41.29 (Pos: 1)
+  8.  UF 1000              01:43.18 (Pos: 1)
+  9.  RACEABOUT            01:47.03 (Pos: 1)
+  10. UF GTR               01:48.62 (Pos: 1)
+  11. FZ50                 01:51.61 (Pos: 1)
+  12. FXO TURBO            01:29.18 (Pos: 2)
+
+13. mateus de souza (mateus de souza)
+  1.  RS1 KENJI            02:46.36 (Pos: 1)
+
+14. p v l 2 (p v l 2)
+  1.  SM500                01:59.36 (Pos: 1)
+  2.  GP125                02:00.27 (Pos: 1)
+  3.  SZK 400 CLASSIC      02:00.97 (Pos: 1)
+  4.  REAPER X1            02:02.83 (Pos: 1)
+  5.  YAHAMA CT200         02:03.37 (Pos: 1)
+  6.  GHOUL 250RR          02:07.72 (Pos: 1)
+  7.  YAHAMA CT125 DR      02:09.96 (Pos: 1)
+  8.  K300X                02:10.22 (Pos: 1)
+  9.  YKS-100              02:12.02 (Pos: 1)
+  10. BD750                02:12.06 (Pos: 1)
+  11. YAMI 3R              02:12.33 (Pos: 1)
+  12. RZM 250              02:13.65 (Pos: 1)
+  13. RZT 370              02:18.16 (Pos: 1)
+  14. VULCAN 998           02:21.08 (Pos: 1)
+  15. YKS-R1052            02:21.48 (Pos: 1)
+  16. JW 350               02:26.54 (Pos: 1)
+  17. GUCIMOTO             02:31.18 (Pos: 1)
+  18. HBIKE V2             02:54.06 (Pos: 1)
+  19. YAHAMA MIT09         02:06.61 (Pos: 2)
+  20. HORDA CFR450         02:11.95 (Pos: 2)
+
+15. pedropego (pedropego)
+  1.  THR SR2000           02:06.61 (Pos: 1)
+  2.  IMPREZZIVE B2        02:03.93 (Pos: 2)
+  3.  KEEROCK              02:50.90 (Pos: 2)
+  4.  EXPEDITION           02:47.91 (Pos: 3)
+
+16. pete15 (pete15)
+  1.  SPEC R               02:36.25 (Pos: 1)
+
+17. ronnie_pickering_ (ronnie_pickering_)
+  1.  LEMON FANTOMAS       03:12.93 (Pos: 1)
+
+18. saulienis (saulienis)
+  1.  IMPREZZIVE B2        01:47.84 (Pos: 1)
+
+19. whatalife (whatalife)
+  1.  SPOTTEDKITTEN COUPE  02:06.72 (Pos: 1)
+  2.  PORCHETE TIGER GTS   02:06.97 (Pos: 1)
+  3.  BZ30 ROADSTER SPORT  02:08.43 (Pos: 1)
+  4.  ADDA AR-EIGHT V10    02:16.70 (Pos: 1)
+  5.  MERESDES E910        02:17.56 (Pos: 1)
+  6.  ROSSA                02:19.21 (Pos: 1)
+  7.  DIAMOND              02:19.22 (Pos: 1)
+  8.  ADDA 5200            02:20.36 (Pos: 1)
+  9.  ERESO                02:28.64 (Pos: 1)
+  10. PONTACH GT           02:29.06 (Pos: 1)
+  11. UZOVKA               02:34.57 (Pos: 1)
+  12. HANZMUND V8          02:36.52 (Pos: 1)
+  13. EMKO                 02:27.10 (Pos: 2)
+  14. EXPEDITION           02:28.30 (Pos: 2)
+  15. VALUTA V8            02:39.04 (Pos: 2)
+  16. HJETT                02:40.76 (Pos: 2)
+  17. WATBRUG 353          02:59.29 (Pos: 2)
+  18. BOLKSWAGON GOFF TGI  02:17.48 (Pos: 3)
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+--- Base cash: 150 for each vehicle finished. (140*150=21,000$) ---
+--- if done all 140 vehicles  Extra 6,000 bonus Total 27,000$ ---
+--- Bonus Rules (first qualifying rule applies): ---
+---   50+ runs = 2,000 bonus ---
+---   100+ runs = 4,000 bonus ---
+---   Exactly 140 runs = 6,000 bonus ---
+
+--- Overall Ranking Table (Vehicles 1-25) ---
+
+--- Tip: Disable Word Warp in notepad ---
+
++----+-------------------+-------------------+----------+---------+-------+---------+----------+----------+----------+-------+----------+----------+---------+------+-------+------------+----------+----------+------+-------+-------+----------+-------+----------+--------+-------+----------+----------+----------+-------+-------+
+| #  | Player            | ID                |  Finished|  TC Cash|  Bonus|  Total $| ADDA 520 | ADDA AR- | ADDA S83 | BD750 | BOLKSWAG | BZ30 ROA | DIAMOND | EMKO | ERESO | EXPEDITION | FRAUD PR | FXO TURB | FZ50 | GHOUL | GP125 | GUCIMOTO | GWMK2 | HANZMUND | HBIKE2 | HJETT | HORDA CF | IMPREZZI | INTERCEP | JW350 | K300X |
++----+-------------------+-------------------+----------+---------+-------+---------+----------+----------+----------+-------+----------+----------+---------+------+-------+------------+----------+----------+------+-------+-------+----------+-------+----------+--------+-------+----------+----------+----------+-------+-------+
+| 1  | p v l 2           | p v l 2           |        20|    3,000|      0|    3,000|     -    |     -    |     -    |   1   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   1   |   1   |     1    |   -   |     -    |    1   |   -   |     2    |     -    |     -    |   1   |   1   |
+| 2  | whatalife         | whatalife         |        18|    2,700|      0|    2,700|     1    |     1    |     -    |   -   |     3    |     1    |    1    |   2  |   1   |      2     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     1    |    -   |   2   |     -    |     -    |     -    |   -   |   -   |
+| 3  | kilobananov       | kilobananov       |        12|    1,800|      0|    1,800|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     2    |   1  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 4  | Vlastimil         | Vlastimil         |         5|      750|      0|      750|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     1    |     -    |     -    |   -   |   -   |
+| 5  | balintka1234      | balintka1234      |         4|      600|      0|      600|     -    |     -    |     -    |   -   |     1    |     -    |    -    |   1  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 6  | RashRusted        | RashRusted        |         3|      450|      0|      450|     -    |     -    |     1    |   -   |     -    |     -    |    -    |   -  |   -   |      1     |     1    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 7  | Cevin2307         | Cevin2307         |         3|      450|      0|      450|     -    |     -    |     -    |   -   |     2    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     1    |   -   |   -   |
+| 8  | 01alperen001      | 01alperen001      |         2|      300|      0|      300|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     1    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   1   |     -    |     -    |     -    |   -   |   -   |
+| 9  | pedropego         | pedropego         |         4|      600|      0|      600|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      3     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     2    |     -    |   -   |   -   |
+| 10 | Heitor Toledo     | Heitor Toledo     |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 11 | MarioDoido123     | MarioDoido123     |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   1   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 12 | deadmartinius96   | deadmartinius96   |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 13 | mateus de souza   | mateus de souza   |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 14 | pete15            | pete15            |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 15 | ronnie_pickering_ | ronnie_pickering_ |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 16 | saulienis         | saulienis         |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     1    |     -    |   -   |   -   |
+| 17 | CRC Titan2000     | CRC Titan2000     |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
+| 18 | alperenozdogru    | alperenozdogru    |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     -    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     3    |     -    |   -   |   -   |
+| 19 | hj93              | hj93              |         1|      150|      0|      150|     -    |     -    |     -    |   -   |     4    |     -    |    -    |   -  |   -   |      -     |     -    |     -    |   -  |   -   |   -   |     -    |   -   |     -    |    -   |   -   |     -    |     -    |     -    |   -   |   -   |
++----+-------------------+-------------------+----------+---------+-------+---------+----------+----------+----------+-------+----------+----------+---------+------+-------+------------+----------+----------+------+-------+-------+----------+-------+----------+--------+-------+----------+----------+----------+-------+-------+
+|    | Total             |                   |          |   12,150|      0|   12,150|          |          |          |       |          |          |         |      |       |            |          |          |      |       |       |          |       |          |        |       |          |          |          |       |       |
++----+-------------------+-------------------+----------+---------+-------+---------+----------+----------+----------+-------+----------+----------+---------+------+-------+------------+----------+----------+------+-------+-------+----------+-------+----------+--------+-------+----------+----------+----------+-------+-------+
+
+
+--- Overall Ranking Table (Vehicles 26-50) ---
+
+--- Tip: Disable Word Warp in notepad ---
+
++----+-------------------+-------------------+----------+---------+-------+---------+---------+----------+-----+-----+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+--------+--------+-------+--------+----------+----------+----------+----------+---------+--------+
+| #  | Player            | ID                |  Finished|  TC Cash|  Bonus|  Total $| KEEROCK | LEMON FA | LX4 | LX6 | MERESDES | POCKET U | PONTACH  | PORCHETE | PZG COMP | RACEABOU | RB4 GT | REAPER | ROSSA | RS1 KENJ | RS1 KENJ | RZM250 | RZT370 | SM500 | SPEC R | SPOTTEDK | SZK 400  | TAZ 0521 | THR SR20 | UF 1000 | UF GTR |
++----+-------------------+-------------------+----------+---------+-------+---------+---------+----------+-----+-----+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+--------+--------+-------+--------+----------+----------+----------+----------+---------+--------+
+| 1  | p v l 2           | p v l 2           |        20|    3,000|      0|    3,000|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    1   |   -   |     -    |     -    |    1   |    1   |   1   |    -   |     -    |     1    |     -    |     -    |    -    |    -   |
+| 2  | whatalife         | whatalife         |        18|    2,700|      0|    2,700|    -    |     -    |  -  |  -  |     1    |     -    |     1    |     1    |     -    |     -    |    -   |    -   |   1   |     -    |     -    |    -   |    -   |   -   |    -   |     1    |     -    |     -    |     -    |    -    |    -   |
+| 3  | kilobananov       | kilobananov       |        12|    1,800|      0|    1,800|    -    |     -    |  1  |  1  |     -    |     -    |     -    |     -    |     -    |     1    |    1   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    1    |    1   |
+| 4  | Vlastimil         | Vlastimil         |         5|      750|      0|      750|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     1    |     -    |    -   |    -   |   -   |     -    |     1    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 5  | balintka1234      | balintka1234      |         4|      600|      0|      600|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     1    |     -    |    -    |    -   |
+| 6  | RashRusted        | RashRusted        |         3|      450|      0|      450|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 7  | Cevin2307         | Cevin2307         |         3|      450|      0|      450|    -    |     -    |  -  |  -  |     -    |     1    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 8  | 01alperen001      | 01alperen001      |         2|      300|      0|      300|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 9  | pedropego         | pedropego         |         4|      600|      0|      600|    2    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     1    |    -    |    -   |
+| 10 | Heitor Toledo     | Heitor Toledo     |         1|      150|      0|      150|    1    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 11 | MarioDoido123     | MarioDoido123     |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 12 | deadmartinius96   | deadmartinius96   |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 13 | mateus de souza   | mateus de souza   |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     1    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 14 | pete15            | pete15            |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    1   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 15 | ronnie_pickering_ | ronnie_pickering_ |         1|      150|      0|      150|    -    |     1    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 16 | saulienis         | saulienis         |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 17 | CRC Titan2000     | CRC Titan2000     |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    2    |    -   |
+| 18 | alperenozdogru    | alperenozdogru    |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
+| 19 | hj93              | hj93              |         1|      150|      0|      150|    -    |     -    |  -  |  -  |     -    |     -    |     -    |     -    |     -    |     -    |    -   |    -   |   -   |     -    |     -    |    -   |    -   |   -   |    -   |     -    |     -    |     -    |     -    |    -    |    -   |
++----+-------------------+-------------------+----------+---------+-------+---------+---------+----------+-----+-----+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+--------+--------+-------+--------+----------+----------+----------+----------+---------+--------+
+|    | Total             |                   |          |   12,150|      0|   12,150|         |          |     |     |          |          |          |          |          |          |        |        |       |          |          |        |        |       |        |          |          |          |          |         |        |
++----+-------------------+-------------------+----------+---------+-------+---------+---------+----------+-----+-----+----------+----------+----------+----------+----------+----------+--------+--------+-------+----------+----------+--------+--------+-------+--------+----------+----------+----------+----------+---------+--------+
+
+
+--- Overall Ranking Table (Vehicles 51-64) ---
+
+--- Tip: Disable Word Warp in notepad ---
+
++----+-------------------+-------------------+----------+---------+-------+---------+--------+----------+--------+----------+--------+--------+-------+----------+----------+----------+----------+---------+--------+--------+
+| #  | Player            | ID                |  Finished|  TC Cash|  Bonus|  Total $| UZOVKA | VALUTA V | VULCAN | WATBRUG  | XF GTI | XF GTR | XR GT | XR GT TU | YAHAMA C | YAHAMA C | YAHAMA M | YAMI 3R | YKS100 | YKSR1k |
++----+-------------------+-------------------+----------+---------+-------+---------+--------+----------+--------+----------+--------+--------+-------+----------+----------+----------+----------+---------+--------+--------+
+| 1  | p v l 2           | p v l 2           |        20|    3,000|      0|    3,000|    -   |     -    |    1   |     -    |    -   |    -   |   -   |     -    |     1    |     1    |     2    |    1    |    1   |    1   |
+| 2  | whatalife         | whatalife         |        18|    2,700|      0|    2,700|    1   |     2    |    -   |     2    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 3  | kilobananov       | kilobananov       |        12|    1,800|      0|    1,800|    -   |     -    |    -   |     -    |    1   |    1   |   1   |     1    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 4  | Vlastimil         | Vlastimil         |         5|      750|      0|      750|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     2    |     -    |     1    |    -    |    -   |    -   |
+| 5  | balintka1234      | balintka1234      |         4|      600|      0|      600|    -   |     -    |    -   |     1    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 6  | RashRusted        | RashRusted        |         3|      450|      0|      450|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 7  | Cevin2307         | Cevin2307         |         3|      450|      0|      450|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 8  | 01alperen001      | 01alperen001      |         2|      300|      0|      300|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 9  | pedropego         | pedropego         |         4|      600|      0|      600|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 10 | Heitor Toledo     | Heitor Toledo     |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 11 | MarioDoido123     | MarioDoido123     |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 12 | deadmartinius96   | deadmartinius96   |         1|      150|      0|      150|    -   |     1    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 13 | mateus de souza   | mateus de souza   |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 14 | pete15            | pete15            |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 15 | ronnie_pickering_ | ronnie_pickering_ |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 16 | saulienis         | saulienis         |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 17 | CRC Titan2000     | CRC Titan2000     |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 18 | alperenozdogru    | alperenozdogru    |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
+| 19 | hj93              | hj93              |         1|      150|      0|      150|    -   |     -    |    -   |     -    |    -   |    -   |   -   |     -    |     -    |     -    |     -    |    -    |    -   |    -   |
++----+-------------------+-------------------+----------+---------+-------+---------+--------+----------+--------+----------+--------+--------+-------+----------+----------+----------+----------+---------+--------+--------+
+|    | Total             |                   |          |   12,150|      0|   12,150|        |          |        |          |        |        |       |          |          |          |          |         |        |        |
++----+-------------------+-------------------+----------+---------+-------+---------+--------+----------+--------+----------+--------+--------+-------+----------+----------+----------+----------+---------+--------+--------+
+
+
+
+
+--- Leaderboard by Total Runs (Highest Total Vehicles First) ---
+
++----+-------------------+-------------------+----------+------------+----------+
+| #  | Player            | ID                |  Vehicles|  Total Time|  Avg Time|
++----+-------------------+-------------------+----------+------------+----------+
+| 1  | p v l 2           | p v l 2           |        20|    44:35.82|  02:13.79|
+| 2  | whatalife         | whatalife         |        18|    43:35.93|  02:25.33|
+| 3  | kilobananov       | kilobananov       |        12|    19:43.72|  01:38.64|
+| 4  | Vlastimil         | Vlastimil         |         5|    10:48.12|  02:09.62|
+| 5  | balintka1234      | balintka1234      |         4|    07:37.50|  01:54.38|
+| 6  | pedropego         | pedropego         |         4|    09:49.35|  02:27.34|
+| 7  | RashRusted        | RashRusted        |         3|    04:50.79|  01:36.93|
+| 8  | Cevin2307         | Cevin2307         |         3|    05:26.92|  01:48.97|
+| 9  | 01alperen001      | 01alperen001      |         2|    02:59.78|  01:29.89|
+| 10 | CRC Titan2000     | CRC Titan2000     |         1|    01:44.78|  01:44.78|
+| 11 | saulienis         | saulienis         |         1|    01:47.84|  01:47.84|
+| 12 | Heitor Toledo     | Heitor Toledo     |         1|    01:56.01|  01:56.01|
+| 13 | MarioDoido123     | MarioDoido123     |         1|    02:09.34|  02:09.34|
+| 14 | alperenozdogru    | alperenozdogru    |         1|    02:15.12|  02:15.12|
+| 15 | deadmartinius96   | deadmartinius96   |         1|    02:22.67|  02:22.67|
+| 16 | pete15            | pete15            |         1|    02:36.25|  02:36.25|
+| 17 | mateus de souza   | mateus de souza   |         1|    02:46.36|  02:46.36|
+| 18 | ronnie_pickering_ | ronnie_pickering_ |         1|    03:12.93|  03:12.93|
+| 19 | hj93              | hj93              |         1|    03:33.12|  03:33.12|
++----+-------------------+-------------------+----------+------------+----------+
+
+
+
+
+--- All Unique Vehicle Names ---
+
+  1. ADDA 5200
+  2. ADDA AR-EIGHT V10
+  3. ADDA S83 1.8T
+  4. BD750
+  5. BOLKSWAGON GOFF TGI
+  6. BZ30 ROADSTER SPORT
+  7. DIAMOND
+  8. EMKO
+  9. ERESO
+  10. EXPEDITION
+  11. FRAUD PRE RUNNER
+  12. FXO TURBO
+  13. FZ50
+  14. GHOUL 250RR
+  15. GP125
+  16. GUCIMOTO
+  17. GWMK2
+  18. HANZMUND V8
+  19. HBIKE V2
+  20. HJETT
+  21. HORDA CFR450
+  22. IMPREZZIVE B2
+  23. INTERCEPTOR
+  24. JW 350
+  25. K300X
+  26. KEEROCK
+  27. LEMON FANTOMAS
+  28. LX4
+  29. LX6
+  30. MERESDES E910
+  31. POCKET UF
+  32. PONTACH GT
+  33. PORCHETE TIGER GTS
+  34. PZG COMPACT
+  35. RACEABOUT
+  36. RB4 GT
+  37. REAPER X1
+  38. ROSSA
+  39. RS1 KENJI
+  40. RS1 KENJI RX
+  41. RZM 250
+  42. RZT 370
+  43. SM500
+  44. SPEC R
+  45. SPOTTEDKITTEN COUPE
+  46. SZK 400 CLASSIC
+  47. TAZ 0521
+  48. THR SR2000
+  49. UF 1000
+  50. UF GTR
+  51. UZOVKA
+  52. VALUTA V8
+  53. VULCAN 998
+  54. WATBRUG 353
+  55. XF GTI
+  56. XF GTR
+  57. XR GT
+  58. XR GT TURBO
+  59. YAHAMA CT125 DR
+  60. YAHAMA CT200
+  61. YAHAMA MIT09
+  62. YAMI 3R
+  63. YKS-100
+  64. YKS-R1052
+
+--- All Unique Player Names ---
+
+  1. 01alperen001
+  2. CRC Titan2000
+  3. Cevin2307
+  4. Heitor Toledo
+  5. MarioDoido123
+  6. RashRusted
+  7. Vlastimil
+  8. alperenozdogru
+  9. balintka1234
+  10. deadmartinius96
+  11. hj93
+  12. kilobananov
+  13. mateus de souza
+  14. p v l 2
+  15. pedropego
+  16. pete15
+  17. ronnie_pickering_
+  18. saulienis
+  19. whatalife
