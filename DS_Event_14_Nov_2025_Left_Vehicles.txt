@@ -6682,7 +6682,7 @@ Player: NotNiceLV (NotNiceLV) is missing the following 139 vehicles:
   138. YKS-100
   139. YKS-R1052
 
-Player: kilobananoy' (kilobananoy') is missing the following 139 vehicles:
+Player: kilobananoy (kilobananoy) is missing the following 139 vehicles:
   1. ACOSTA STARLIN
   2. ADDA 5200
   3. ADDA 8A 4.2 TDI
