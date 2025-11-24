@@ -1,167 +1,343 @@
 --- Report Generation Info ---
 
 Report generated at:
-UTC Time:      2025-11-24 00:05:51 UTC
-German Time:   2025-11-24 01:05:51 CET
-Brazil Time:   2025-11-23 21:05:51 -03
-Saudi Arabia:  2025-11-24 03:05:51 +03
-Turkish Time:  2025-11-24 03:05:51 +03
-India Time:    2025-11-24 05:35:51 IST
-Philippines:   2025-11-24 08:05:51 PST
+UTC Time:      2025-11-24 23:56:39 UTC
+German Time:   2025-11-25 00:56:39 CET
+Brazil Time:   2025-11-24 20:56:39 -03
+Saudi Arabia:  2025-11-25 02:56:39 +03
+Turkish Time:  2025-11-25 02:56:39 +03
+India Time:    2025-11-25 05:26:39 IST
+Philippines:   2025-11-25 07:56:39 PST
 
 --- Results by Vehicle (Fastest First) ---
 
 1. MOVETRUCK
-  1. Baran077                   05:20.17
-  2. Lucky Loser                07:22.12
-  3. Tayfa Ozan (Ozan CIHANLI)  09:16.53
+  1.  W/ naluyluka (manolixsvouros)  04:54.27
+  2.  kilobananov                    04:57.93
+  3.  Baran077                       05:01.96
+  4.  Icoha44                        05:50.85
+  5.  pedropego                      07:10.54
+  6.  Lucky Loser                    07:22.12
+  7.  OWT'Azzy (AzzyL)               07:33.26
+  8.  whatalife                      07:50.43
+  9.  pete15                         09:15.28
+  10. Tavfa.Ozan (Ozan CIHANLI)      09:16.53
+  11. TPEBOMAH                       09:54.60
 
-2. LCT3000
-  1. Santeri (mopedisti)        05:52.47
-  2. Lucky Loser                14:36.18
+2. EXPEDITION
+  1.  bayanofmansorofisky            05:17.05
+  2.  kilobananov                    05:33.52
+  3.  C4RGUY                         06:27.01
+  4.  Icoha44                        06:43.46
+  5.  ugglypuppy                     07:20.60
+  6.  pedropego                      08:25.97
+  7.  whatalife                      14:47.42
+  8.  DipperDriverYT                 17:02.36
 
 3. ROSSA
-  1. bayanofmansorofisky        05:59.59
-  2. Mung2009                   06:10.19
-  3. Icoha44                    09:57.93
-  4. whatalife                  11:38.00
-  5. alperenozdogru             13:26.64
+  1.  bayanofmansorofisky            05:33.95
+  2.  kilobananov                    05:42.23
+  3.  Mung2009                       06:10.19
+  4.  ugglypuppy                     06:41.59
+  5.  pete15                         06:44.58
+  6.  Stafik (StafikCZ)              07:28.64
+  7.  Icoha44                        09:57.93
+  8.  Toom43                         10:22.67
+  9.  whatalife                      11:38.00
+  10. alperenozdogru                 13:26.64
 
-4. EXPEDITION
-  1. bayanofmansorofisky        06:21.07
-  2. Icoha44                    06:43.46
-  3. whatalife                  14:47.42
-  4. DipperDriverYT             17:02.36
+4. LCT3000
+  1.  Santeri (mopedisti)            05:52.47
+  2.  kilobananov                    06:19.85
+  3.  whatalife                      08:08.75
+  4.  Icoha44                        09:20.58
+  5.  hj93                           09:44.27
+  6.  Lucky Loser                    14:36.18
 
-5. MARIGUS
-  1. kilobananov                07:27.06
-  2. Lucky Loser                07:40.41
-  3. whatalife                  09:29.88
+5. SCAMA T580
+  1.  S1DUS*uNite (nikopdr)          06:12.25
+  2.  bayanofmansorofisky            06:49.06
+  3.  kilobananov                    07:26.71
+  4.  Icoha44                        09:06.27
 
-6. METRO BUS 10.5
-  1. kilobananov                08:23.59
+6. LIL 1300
+  1.  bavanofmansorofisky            06:35.73
+  2.  Icoha44                        07:25.39
+  3.  kilobananov                    07:42.55
+  4.  Heitor Toledo                  08:58.07
+  5.  whatalife                      10:49.98
+  6.  Cremers (Neptic)               21:48.57
 
-7. SCAMA 420R 4X2 TANDEM
-  1. Icoha44                    08:32.93
+7. MARIGUS
+  1.  bayanofmansorofisky            06:40.34
+  2.  W/ naluyluka (manolixsvouros)  07:04.33
+  3.  Icoha44                        07:09.31
+  4.  kilobananov                    07:27.06
+  5.  Lucky Loser                    07:40.41
+  6.  ye (strangeguy)                07:51.67
+  7.  whatalife                      09:29.88
 
-8. MERCIDS BNZ 16
-  1. kilobananov                08:40.34
+8. LINE RUNNER IVII
+  1.  kilobananov                    06:59.43
+  2.  whatalife                      08:11.53
+  3.  Icoha44                        10:50.91
 
 9. MUN FIRETRUCK
-  1. kilobananov                08:40.94
-  2. whatalife                  29:27.52
+  1.  p v l 2                        07:19.75
+  2.  Icoha44                        07:50.52
+  3.  kilobananov                    08:40.94
+  4.  Lucky Loser                    08:55.75
+  5.  whatalife                      29:27.52
 
-10. MERSOLES COMEGO
-  1. kilobananov                08:56.22
-  2. bayanofmansorofisky        19:50.02
+10. ONIBUS VTR
+  1.  kilobananov                    07:20.18
+  2.  Icoha44                        10:13.84
 
-11. LIL 1300
-  1. Heitor Toledo              08:58.07
-  2. Cremers (Neptic)           21:48.57
+11. RTS 6-71
+  1.  Icoha44                        07:25.33
+  2.  kilobananov                    08:40.90
+  3.  whatalife                      11:14.20
 
-12. SCAMA DD
-  1. kilobananov                08:58.75
+12. PIERCING ARROR XT
+  1.  Icoha44                        07:32.55
+  2.  kilobananov                    07:34.03
+  3.  whatalife                      19:59.83
 
-13. MECA 371 MONOBLOCO
-  1. kilobananov                09:02.66
+13. SCAMA 311 B TOW
+  1.  kilobananov                    07:45.47
+  2.  Icoha44                        08:02.21
+  3.  bayanofmansorofisky            09:55.18
 
-14. SCAMA T580
-  1. Icoha44                    09:06.27
+14. SCAMA 420R 4X2 TANDEM
+  1.  kilobananov                    07:51.31
+  2.  Lucky Loser                    08:17.58
+  3.  Icoha44                        08:32.93
+  4.  bayanofmansorofisky            09:09.04
 
-15. HEAVY RESCUE TRUCK
-  1. p v l 2                    09:49.95
-  2. kilobananov                10:59.08
-  3. Lucky Loser                26:26.68
+15. MUN TG DUMPTRUCK
+  1.  kilobananov                    08:02.67
+  2.  Icoha44                        09:39.14
+  3.  whatalife                      21:46.64
 
-16. RTS 6-71
-  1. whatalife                  11:14.20
+16. METRO BUS 10.5
+  1.  p v l 2                        08:04.47
+  2.  kilobananov                    08:23.59
+  3.  Icoha44                        10:43.55
+  4.  Lucky Loser                    10:49.17
 
-17. TOWN BUS
-  1. bavanofmansorofisky        11:22.39
+17. RACHA 707
+  1.  kilobananov                    08:28.99
 
-18. MERSOLES TORITMO
-  1. kilobananov                13:14.87
+18. MERCIDS BNZ 16
+  1.  kilobananov                    08:40.34
+  2.  Lucky Loser                    13:40.03
 
-19. LINE RUNNER IVII
-  1. whatalife                  16:16.08
+19. MECA 371 MONOBLOCO
+  1.  p v l 2                        08:52.67
+  2.  kilobananov                    09:02.66
 
-20. PIERCING ARROR XT
-  1. whatalife                  19:59.83
+20. TOWN BUS
+  1.  kilobananov                    08:55.82
+  2.  Icoha44                        11:00.67
+  3.  bayanofmansorofisky            11:22.39
+  4.  whatalife                      12:28.34
 
-21. MUN TG DUMPTRUCK
-  1. whatalife                  21:46.64
+21. MERSOLES COMEGO
+  1.  kilobananov                    08:56.22
+  2.  Icoha44                        09:37.92
+  3.  whatalife                      19:22.82
+  4.  bavanofmansorofisky            19:50.02
+
+22. NELSIN 380
+  1.  kilobananov                    08:56.99
+  2.  Icoha44                        11:47.74
+
+23. SCAMA DD
+  1.  kilobananov                    08:58.75
+  2.  Lucky Loser                    09:37.30
+
+24. HEAVY RESCUE TRUCK
+  1.  CRC Titan2000                  09:44.99
+  2.  Icoha44                        09:49.11
+  3.  p v l 2                        09:49.95
+  4.  kilobananov                    10:59.08
+  5.  whatalife                      18:59.89
+  6.  Lucky Loser                    26:26.68
+
+25. MERSOLES TORITMO
+  1.  bayanofmansorofisky            09:48.81
+  2.  p v l 2                        09:56.82
+  3.  kilobananov                    13:14.87
+  4.  Lucky Loser                    38:47.52
 
 
 
 --- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
 
-1. Baran077 (Baran077)
-  1. MOVETRUCK              05:20.17 (Pos: 1)
+1. AzzyL (AzzyL)
+  1.  MOVETRUCK              07:33.26 (Pos: 7) 
 
-2. DipperDriverYT (DipperDriverYT)
-  1. EXPEDITION             17:02.36 (Pos: 4)
+2. Baran077 (Baran077)
+  1.  MOVETRUCK              05:01.96 (Pos: 3) 
 
-3. Heitor Toledo (Heitor Toledo)
-  1. LIL 1300               08:58.07 (Pos: 1)
+3. C4RGUY (C4RGUY)
+  1.  EXPEDITION             06:27.01 (Pos: 3) 
 
-4. Icoha44 (Icoha44)
-  1. SCAMA 420R 4X2 TANDEM  08:32.93 (Pos: 1)
-  2. SCAMA T580             09:06.27 (Pos: 1)
-  3. EXPEDITION             06:43.46 (Pos: 2)
-  4. ROSSA                  09:57.93 (Pos: 3)
+4. CRC Titan2000 (CRC Titan2000)
+  1.  HEAVY RESCUE TRUCK     09:44.99 (Pos: 1) 
 
-5. Lucky Loser (Lucky Loser)
-  1. MOVETRUCK              07:22.12 (Pos: 2)
-  2. MARIGUS                07:40.41 (Pos: 2)
-  3. LCT3000                14:36.18 (Pos: 2)
-  4. HEAVY RESCUE TRUCK     26:26.68 (Pos: 3)
+5. DipperDriverYT (DipperDriverYT)
+  1.  EXPEDITION             17:02.36 (Pos: 8) 
 
-6. Mung2009 (Mung2009)
-  1. ROSSA                  06:10.19 (Pos: 2)
+6. Heitor Toledo (Heitor Toledo)
+  1.  LIL 1300               08:58.07 (Pos: 4) 
 
-7. Neptic (Neptic)
-  1. LIL 1300               21:48.57 (Pos: 2)
+7. Icoha44 (Icoha44)
+  1.  RTS 6-71               07:25.33 (Pos: 1) 
+  2.  PIERCING ARROR XT      07:32.55 (Pos: 1) 
+  3.  LIL 1300               07:25.39 (Pos: 2) 
+  4.  MUN FIRETRUCK          07:50.52 (Pos: 2) 
+  5.  SCAMA 311 B TOW        08:02.21 (Pos: 2) 
+  6.  MERSOLES COMEGO        09:37.92 (Pos: 2) 
+  7.  MUN TG DUMPTRUCK       09:39.14 (Pos: 2) 
+  8.  HEAVY RESCUE TRUCK     09:49.11 (Pos: 2) 
+  9.  ONIBUS VTR             10:13.84 (Pos: 2) 
+  10. TOWN BUS               11:00.67 (Pos: 2) 
+  11. NELSIN 380             11:47.74 (Pos: 2) 
+  12. MARIGUS                07:09.31 (Pos: 3) 
+  13. SCAMA 420R 4X2 TANDEM  08:32.93 (Pos: 3) 
+  14. METRO BUS 10.5         10:43.55 (Pos: 3) 
+  15. LINE RUNNER IVII       10:50.91 (Pos: 3) 
+  16. MOVETRUCK              05:50.85 (Pos: 4) 
+  17. EXPEDITION             06:43.46 (Pos: 4) 
+  18. SCAMA T580             09:06.27 (Pos: 4) 
+  19. LCT3000                09:20.58 (Pos: 4) 
+  20. ROSSA                  09:57.93 (Pos: 7) 
 
-8. Ozan CIHANLI (Ozan CIHANLI)
-  1. MOVETRUCK              09:16.53 (Pos: 3)
+8. Lucky Loser (Lucky Loser)
+  1.  SCAMA 420R 4X2 TANDEM  08:17.58 (Pos: 2) 
+  2.  SCAMA DD               09:37.30 (Pos: 2) 
+  3.  MERCIDS BNZ 16         13:40.03 (Pos: 2) 
+  4.  MUN FIRETRUCK          08:55.75 (Pos: 4) 
+  5.  METRO BUS 10.5         10:49.17 (Pos: 4) 
+  6.  MERSOLES TORITMO       38:47.52 (Pos: 4) 
+  7.  MARIGUS                07:40.41 (Pos: 5) 
+  8.  MOVETRUCK              07:22.12 (Pos: 6) 
+  9.  LCT3000                14:36.18 (Pos: 6) 
+  10. HEAVY RESCUE TRUCK     26:26.68 (Pos: 6) 
 
-9. alperenozdogru (alperenozdogru)
-  1. ROSSA                  13:26.64 (Pos: 5)
+9. Mung2009 (Mung2009)
+  1.  ROSSA                  06:10.19 (Pos: 3) 
 
-10. bavanofmansorofisky (bavanofmansorofisky)
-  1. TOWN BUS               11:22.39 (Pos: 1)
+10. Neptic (Neptic)
+  1.  LIL 1300               21:48.57 (Pos: 6) 
 
-11. bayanofmansorofisky (bayanofmansorofisky)
-  1. ROSSA                  05:59.59 (Pos: 1)
-  2. EXPEDITION             06:21.07 (Pos: 1)
-  3. MERSOLES COMEGO        19:50.02 (Pos: 2)
+11. Ozan CIHANLI (Ozan CIHANLI)
+  1.  MOVETRUCK              09:16.53 (Pos: 10)
 
-12. kilobananov (kilobananov)
-  1. MARIGUS                07:27.06 (Pos: 1)
-  2. METRO BUS 10.5         08:23.59 (Pos: 1)
-  3. MERCIDS BNZ 16         08:40.34 (Pos: 1)
-  4. MUN FIRETRUCK          08:40.94 (Pos: 1)
-  5. MERSOLES COMEGO        08:56.22 (Pos: 1)
-  6. SCAMA DD               08:58.75 (Pos: 1)
-  7. MECA 371 MONOBLOCO     09:02.66 (Pos: 1)
-  8. MERSOLES TORITMO       13:14.87 (Pos: 1)
-  9. HEAVY RESCUE TRUCK     10:59.08 (Pos: 2)
+12. StafikCZ (StafikCZ)
+  1.  ROSSA                  07:28.64 (Pos: 6) 
 
-13. mopedisti (mopedisti)
-  1. LCT3000                05:52.47 (Pos: 1)
+13. TPEBOMAH (TPEBOMAH)
+  1.  MOVETRUCK              09:54.60 (Pos: 11)
 
-14. p v l 2 (p v l 2)
-  1. HEAVY RESCUE TRUCK     09:49.95 (Pos: 1)
+14. Toom43 (Toom43)
+  1.  ROSSA                  10:22.67 (Pos: 8) 
 
-15. whatalife (whatalife)
-  1. RTS 6-71               11:14.20 (Pos: 1)
-  2. LINE RUNNER IVII       16:16.08 (Pos: 1)
-  3. PIERCING ARROR XT      19:59.83 (Pos: 1)
-  4. MUN TG DUMPTRUCK       21:46.64 (Pos: 1)
-  5. MUN FIRETRUCK          29:27.52 (Pos: 2)
-  6. MARIGUS                09:29.88 (Pos: 3)
-  7. EXPEDITION             14:47.42 (Pos: 3)
-  8. ROSSA                  11:38.00 (Pos: 4)
+15. alperenozdogru (alperenozdogru)
+  1.  ROSSA                  13:26.64 (Pos: 10)
+
+16. bavanofmansorofisky (bavanofmansorofisky)
+  1.  LIL 1300               06:35.73 (Pos: 1) 
+  2.  MERSOLES COMEGO        19:50.02 (Pos: 4) 
+
+17. bayanofmansorofisky (bayanofmansorofisky)
+  1.  EXPEDITION             05:17.05 (Pos: 1) 
+  2.  ROSSA                  05:33.95 (Pos: 1) 
+  3.  MARIGUS                06:40.34 (Pos: 1) 
+  4.  MERSOLES TORITMO       09:48.81 (Pos: 1) 
+  5.  SCAMA T580             06:49.06 (Pos: 2) 
+  6.  SCAMA 311 B TOW        09:55.18 (Pos: 3) 
+  7.  TOWN BUS               11:22.39 (Pos: 3) 
+  8.  SCAMA 420R 4X2 TANDEM  09:09.04 (Pos: 4) 
+
+18. hj93 (hj93)
+  1.  LCT3000                09:44.27 (Pos: 5) 
+
+19. kilobananov (kilobananov)
+  1.  LINE RUNNER IVII       06:59.43 (Pos: 1) 
+  2.  ONIBUS VTR             07:20.18 (Pos: 1) 
+  3.  SCAMA 311 B TOW        07:45.47 (Pos: 1) 
+  4.  SCAMA 420R 4X2 TANDEM  07:51.31 (Pos: 1) 
+  5.  MUN TG DUMPTRUCK       08:02.67 (Pos: 1) 
+  6.  RACHA 707              08:28.99 (Pos: 1) 
+  7.  MERCIDS BNZ 16         08:40.34 (Pos: 1) 
+  8.  TOWN BUS               08:55.82 (Pos: 1) 
+  9.  MERSOLES COMEGO        08:56.22 (Pos: 1) 
+  10. NELSIN 380             08:56.99 (Pos: 1) 
+  11. SCAMA DD               08:58.75 (Pos: 1) 
+  12. MOVETRUCK              04:57.93 (Pos: 2) 
+  13. EXPEDITION             05:33.52 (Pos: 2) 
+  14. ROSSA                  05:42.23 (Pos: 2) 
+  15. LCT3000                06:19.85 (Pos: 2) 
+  16. PIERCING ARROR XT      07:34.03 (Pos: 2) 
+  17. METRO BUS 10.5         08:23.59 (Pos: 2) 
+  18. RTS 6-71               08:40.90 (Pos: 2) 
+  19. MECA 371 MONOBLOCO     09:02.66 (Pos: 2) 
+  20. SCAMA T580             07:26.71 (Pos: 3) 
+  21. LIL 1300               07:42.55 (Pos: 3) 
+  22. MUN FIRETRUCK          08:40.94 (Pos: 3) 
+  23. MERSOLES TORITMO       13:14.87 (Pos: 3) 
+  24. MARIGUS                07:27.06 (Pos: 4) 
+  25. HEAVY RESCUE TRUCK     10:59.08 (Pos: 4) 
+
+20. manolixsvouros (manolixsvouros)
+  1.  MOVETRUCK              04:54.27 (Pos: 1) 
+  2.  MARIGUS                07:04.33 (Pos: 2) 
+
+21. mopedisti (mopedisti)
+  1.  LCT3000                05:52.47 (Pos: 1) 
+
+22. nikopdr (nikopdr)
+  1.  SCAMA T580             06:12.25 (Pos: 1) 
+
+23. p v l 2 (p v l 2)
+  1.  MUN FIRETRUCK          07:19.75 (Pos: 1) 
+  2.  METRO BUS 10.5         08:04.47 (Pos: 1) 
+  3.  MECA 371 MONOBLOCO     08:52.67 (Pos: 1) 
+  4.  MERSOLES TORITMO       09:56.82 (Pos: 2) 
+  5.  HEAVY RESCUE TRUCK     09:49.95 (Pos: 3) 
+
+24. pedropego (pedropego)
+  1.  MOVETRUCK              07:10.54 (Pos: 5) 
+  2.  EXPEDITION             08:25.97 (Pos: 6) 
+
+25. pete15 (pete15)
+  1.  ROSSA                  06:44.58 (Pos: 5) 
+  2.  MOVETRUCK              09:15.28 (Pos: 9) 
+
+26. strangeguy (strangeguy)
+  1.  MARIGUS                07:51.67 (Pos: 6) 
+
+27. ugglypuppy (ugglypuppy)
+  1.  ROSSA                  06:41.59 (Pos: 4) 
+  2.  EXPEDITION             07:20.60 (Pos: 5) 
+
+28. whatalife (whatalife)
+  1.  LINE RUNNER IVII       08:11.53 (Pos: 2) 
+  2.  LCT3000                08:08.75 (Pos: 3) 
+  3.  RTS 6-71               11:14.20 (Pos: 3) 
+  4.  MERSOLES COMEGO        19:22.82 (Pos: 3) 
+  5.  PIERCING ARROR XT      19:59.83 (Pos: 3) 
+  6.  MUN TG DUMPTRUCK       21:46.64 (Pos: 3) 
+  7.  TOWN BUS               12:28.34 (Pos: 4) 
+  8.  LIL 1300               10:49.98 (Pos: 5) 
+  9.  HEAVY RESCUE TRUCK     18:59.89 (Pos: 5) 
+  10. MUN FIRETRUCK          29:27.52 (Pos: 5) 
+  11. MARIGUS                09:29.88 (Pos: 7) 
+  12. EXPEDITION             14:47.42 (Pos: 7) 
+  13. MOVETRUCK              07:50.43 (Pos: 8) 
+  14. ROSSA                  11:38.00 (Pos: 9) 
 
 
 
@@ -170,29 +346,42 @@ Philippines:   2025-11-24 08:05:51 PST
 
 --- Base cash: 200 for each vehicle finished. (25*200=5,000$) ---
 --- if done all 25 vehicles  Extra 5,000 bonus Total 10,000$ ---
---- Overall Ranking Table (Vehicles 1-21) ---
+--- Overall Ranking Table (Vehicles 1-25) ---
 
-+----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+----------+-------+----------+------------+----------+------------+----------+
-| #  | Player              | ID                  |  Finished|  TC Cash|  Bonus|  Total $| EXPEDITION | Heavy Rescue | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MERCIDS  | MERSOLES | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | PIERCING | ROSSA | RTS 6-71 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
-+----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+----------+-------+----------+------------+----------+------------+----------+
-| 1  | kilobananov         | kilobananov         |         9|    1,800|      0|    1,800|      -     |       2      |    -    |     -    |     -    |    1    |     1    |     1    |     1    |         1        |        1       |     -     |     1    |      -      |     -    |   -   |     -    |      -     |     1    |      -     |     -    |
-| 2  | whatalife           | whatalife           |         8|    1,600|      0|    1,600|      3     |       -      |    -    |     -    |     1    |    3    |     -    |     -    |     -    |         -        |        -       |     -     |     2    |      1      |     1    |   4   |     1    |      -     |     -    |      -     |     -    |
-| 3  | Icoha44             | Icoha44             |         4|      800|      0|      800|      2     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   3   |     -    |      1     |     -    |      1     |     -    |
-| 4  | bayanofmansorofisky | bayanofmansorofisky |         3|      600|      0|      600|      1     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     2    |         -        |        -       |     -     |     -    |      -      |     -    |   1   |     -    |      -     |     -    |      -     |     -    |
-| 5  | Baran077            | Baran077            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     1     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 6  | Heitor Toledo       | Heitor Toledo       |         1|      200|      0|      200|      -     |       -      |    -    |     1    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 7  | bavanofmansorofisky | bavanofmansorofisky |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     1    |
-| 8  | mopedisti           | mopedisti           |         1|      200|      0|      200|      -     |       -      |    1    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 9  | p v l 2             | p v l 2             |         1|      200|      0|      200|      -     |       1      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 10 | Lucky Loser         | Lucky Loser         |         4|      800|      0|      800|      -     |       3      |    2    |     -    |     -    |    2    |     -    |     -    |     -    |         -        |        -       |     2     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 11 | Mung2009            | Mung2009            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   2   |     -    |      -     |     -    |      -     |     -    |
-| 12 | Neptic              | Neptic              |         1|      200|      0|      200|      -     |       -      |    -    |     2    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 13 | Ozan CIHANLI        | Ozan CIHANLI        |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 14 | DipperDriverYT      | DipperDriverYT      |         1|      200|      0|      200|      4     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   -   |     -    |      -     |     -    |      -     |     -    |
-| 15 | alperenozdogru      | alperenozdogru      |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |     -    |   5   |     -    |      -     |     -    |      -     |     -    |
-+----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+----------+-------+----------+------------+----------+------------+----------+
-|    | Total               |                     |          |    7,600|      0|    7,600|            |              |         |          |          |         |          |          |          |                  |                |           |          |             |          |       |          |            |          |            |          |
-+----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+----------+-------+----------+------------+----------+------------+----------+
++----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| #  | Player              | ID                  |  Finished|  TC Cash|  Bonus|  Total $| EXPEDITION | Heavy Rescue | LCT3000 | LIL 1300 | LINE RUN | Marigus | MECA 371 | MERCIDS  | MERSOLES | Mersoles Toritmo | Metro Bus 10.5 | MoveTruck | MUN Fire | MUN TG Dump | NELSIN 380 | ONIBUS VTR | PIERCING | RACHA 707 | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA 420R | SCAMA DD | SCAMA T580 | Town Bus |
++----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+| 1  | kilobananov         | kilobananov         |        25|    5,000|  5,000|   10,000|      2     |       4      |    2    |     3    |     1    |    4    |     2    |     1    |     1    |         3        |        2       |     2     |     3    |      1      |      1     |      1     |     2    |     1     |   2   |     2    |     1     |      1     |     1    |      3     |     1    |
+| 2  | bayanofmansorofisky | bayanofmansorofisky |         8|    1,600|      0|    1,600|      1     |       -      |    -    |     -    |     -    |    1    |     -    |     -    |     -    |         1        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   1   |     -    |     3     |      4     |     -    |      2     |     3    |
+| 3  | p v l 2             | p v l 2             |         5|    1,000|      0|    1,000|      -     |       3      |    -    |     -    |     -    |    -    |     1    |     -    |     -    |         2        |        1       |     -     |     1    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 4  | Icoha44             | Icoha44             |        20|    4,000|      0|    4,000|      4     |       2      |    4    |     2    |     3    |    3    |     -    |     -    |     2    |         -        |        3       |     4     |     2    |      2      |      2     |      2     |     1    |     -     |   7   |     1    |     2     |      3     |     -    |      4     |     2    |
+| 5  | manolixsvouros      | manolixsvouros      |         2|      400|      0|      400|      -     |       -      |    -    |     -    |     -    |    2    |     -    |     -    |     -    |         -        |        -       |     1     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 6  | bavanofmansorofisky | bavanofmansorofisky |         2|      400|      0|      400|      -     |       -      |    -    |     1    |     -    |    -    |     -    |     -    |     4    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 7  | CRC Titan2000       | CRC Titan2000       |         1|      200|      0|      200|      -     |       1      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 8  | mopedisti           | mopedisti           |         1|      200|      0|      200|      -     |       -      |    1    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 9  | nikopdr             | nikopdr             |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      1     |     -    |
+| 10 | Lucky Loser         | Lucky Loser         |        10|    2,000|      0|    2,000|      -     |       6      |    6    |     -    |     -    |    5    |     -    |     2    |     -    |         4        |        4       |     6     |     4    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      2     |     2    |      -     |     -    |
+| 11 | whatalife           | whatalife           |        14|    2,800|      0|    2,800|      7     |       5      |    3    |     5    |     2    |    7    |     -    |     -    |     3    |         -        |        -       |     8     |     5    |      3      |      -     |      -     |     3    |     -     |   9   |     3    |     -     |      -     |     -    |      -     |     4    |
+| 12 | Baran077            | Baran077            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     3     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 13 | C4RGUY              | C4RGUY              |         1|      200|      0|      200|      3     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 14 | Mung2009            | Mung2009            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   3   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 15 | ugglypuppy          | ugglypuppy          |         2|      400|      0|      400|      5     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   4   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 16 | Heitor Toledo       | Heitor Toledo       |         1|      200|      0|      200|      -     |       -      |    -    |     4    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 17 | pedropego           | pedropego           |         2|      400|      0|      400|      6     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     5     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 18 | pete15              | pete15              |         2|      400|      0|      400|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     9     |     -    |      -      |      -     |      -     |     -    |     -     |   5   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 19 | hj93                | hj93                |         1|      200|      0|      200|      -     |       -      |    5    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 20 | Neptic              | Neptic              |         1|      200|      0|      200|      -     |       -      |    -    |     6    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 21 | StafikCZ            | StafikCZ            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   6   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 22 | strangeguy          | strangeguy          |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    6    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 23 | AzzyL               | AzzyL               |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     7     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 24 | DipperDriverYT      | DipperDriverYT      |         1|      200|      0|      200|      8     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 25 | Toom43              | Toom43              |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   8   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 26 | Ozan CIHANLI        | Ozan CIHANLI        |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     10    |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
+| 27 | alperenozdogru      | alperenozdogru      |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     -     |     -    |      -      |      -     |      -     |     -    |     -     |   10  |     -    |     -     |      -     |     -    |      -     |     -    |
+| 28 | TPEBOMAH            | TPEBOMAH            |         1|      200|      0|      200|      -     |       -      |    -    |     -    |     -    |    -    |     -    |     -    |     -    |         -        |        -       |     11    |     -    |      -      |      -     |      -     |     -    |     -     |   -   |     -    |     -     |      -     |     -    |      -     |     -    |
++----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
+|    | Total               |                     |          |   21,800|  5,000|   26,800|            |              |         |          |          |         |          |          |          |                  |                |           |          |             |            |            |          |           |       |          |           |            |          |            |          |
++----+---------------------+---------------------+----------+---------+-------+---------+------------+--------------+---------+----------+----------+---------+----------+----------+----------+------------------+----------------+-----------+----------+-------------+------------+------------+----------+-----------+-------+----------+-----------+------------+----------+------------+----------+
 
 
 
@@ -202,21 +391,34 @@ Philippines:   2025-11-24 08:05:51 PST
 +----+---------------------+---------------------+----------+-------------+----------+
 | #  | Player              | ID                  |  Vehicles|   Total Time|  Avg Time|
 +----+---------------------+---------------------+----------+-------------+----------+
-| 1  | kilobananov         | kilobananov         |         9|  01:24:23.51|  09:22.61|
-| 2  | whatalife           | whatalife           |         8|  02:14:39.57|  16:49.95|
-| 3  | Icoha44             | Icoha44             |         4|     34:20.59|  08:35.15|
-| 4  | Lucky Loser         | Lucky Loser         |         4|     56:05.39|  14:01.35|
-| 5  | bayanofmansorofisky | bayanofmansorofisky |         3|     32:10.68|  10:43.56|
-| 6  | Baran077            | Baran077            |         1|     05:20.17|  05:20.17|
-| 7  | mopedisti           | mopedisti           |         1|     05:52.47|  05:52.47|
-| 8  | Mung2009            | Mung2009            |         1|     06:10.19|  06:10.19|
-| 9  | Heitor Toledo       | Heitor Toledo       |         1|     08:58.07|  08:58.07|
-| 10 | Ozan CIHANLI        | Ozan CIHANLI        |         1|     09:16.53|  09:16.53|
-| 11 | p v l 2             | p v l 2             |         1|     09:49.95|  09:49.95|
-| 12 | bavanofmansorofisky | bavanofmansorofisky |         1|     11:22.39|  11:22.39|
-| 13 | alperenozdogru      | alperenozdogru      |         1|     13:26.64|  13:26.64|
-| 14 | DipperDriverYT      | DipperDriverYT      |         1|     17:02.36|  17:02.36|
-| 15 | Neptic              | Neptic              |         1|     21:48.57|  21:48.57|
+| 1  | kilobananov         | kilobananov         |        25|  03:22:42.09|  08:06.48|
+| 2  | Icoha44             | Icoha44             |        20|  02:58:40.21|  08:56.01|
+| 3  | whatalife           | whatalife           |        14|  03:24:15.23|  14:35.37|
+| 4  | Lucky Loser         | Lucky Loser         |        10|  02:26:12.74|  14:37.27|
+| 5  | bayanofmansorofisky | bayanofmansorofisky |         8|  01:04:35.82|  08:04.48|
+| 6  | p v l 2             | p v l 2             |         5|     44:03.66|  08:48.73|
+| 7  | manolixsvouros      | manolixsvouros      |         2|     11:58.60|  05:59.30|
+| 8  | ugglypuppy          | ugglypuppy          |         2|     14:02.19|  07:01.10|
+| 9  | pedropego           | pedropego           |         2|     15:36.51|  07:48.25|
+| 10 | pete15              | pete15              |         2|     15:59.86|  07:59.93|
+| 11 | bavanofmansorofisky | bavanofmansorofisky |         2|     26:25.75|  13:12.88|
+| 12 | Baran077            | Baran077            |         1|     05:01.96|  05:01.96|
+| 13 | mopedisti           | mopedisti           |         1|     05:52.47|  05:52.47|
+| 14 | Mung2009            | Mung2009            |         1|     06:10.19|  06:10.19|
+| 15 | nikopdr             | nikopdr             |         1|     06:12.25|  06:12.25|
+| 16 | C4RGUY              | C4RGUY              |         1|     06:27.01|  06:27.01|
+| 17 | StafikCZ            | StafikCZ            |         1|     07:28.64|  07:28.64|
+| 18 | AzzyL               | AzzyL               |         1|     07:33.26|  07:33.26|
+| 19 | strangeguy          | strangeguy          |         1|     07:51.67|  07:51.67|
+| 20 | Heitor Toledo       | Heitor Toledo       |         1|     08:58.07|  08:58.07|
+| 21 | Ozan CIHANLI        | Ozan CIHANLI        |         1|     09:16.53|  09:16.53|
+| 22 | hj93                | hj93                |         1|     09:44.27|  09:44.27|
+| 23 | CRC Titan2000       | CRC Titan2000       |         1|     09:44.99|  09:44.99|
+| 24 | TPEBOMAH            | TPEBOMAH            |         1|     09:54.60|  09:54.60|
+| 25 | Toom43              | Toom43              |         1|     10:22.67|  10:22.67|
+| 26 | alperenozdogru      | alperenozdogru      |         1|     13:26.64|  13:26.64|
+| 27 | DipperDriverYT      | DipperDriverYT      |         1|     17:02.36|  17:02.36|
+| 28 | Neptic              | Neptic              |         1|     21:48.57|  21:48.57|
 +----+---------------------+---------------------+----------+-------------+----------+
 
 
@@ -238,28 +440,45 @@ Philippines:   2025-11-24 08:05:51 PST
   12. MOVETRUCK
   13. MUN FIRETRUCK
   14. MUN TG DUMPTRUCK
-  15. PIERCING ARROR XT
-  16. ROSSA
-  17. RTS 6-71
-  18. SCAMA 420R 4X2 TANDEM
-  19. SCAMA DD
-  20. SCAMA T580
-  21. TOWN BUS
+  15. NELSIN 380
+  16. ONIBUS VTR
+  17. PIERCING ARROR XT
+  18. RACHA 707
+  19. ROSSA
+  20. RTS 6-71
+  21. SCAMA 311 B TOW
+  22. SCAMA 420R 4X2 TANDEM
+  23. SCAMA DD
+  24. SCAMA T580
+  25. TOWN BUS
 
 --- All Unique Player Names ---
 
-  1. Baran077
-  2. DipperDriverYT
-  3. Heitor Toledo
-  4. Icoha44
-  5. Lucky Loser
-  6. Mung2009
-  7. Neptic
-  8. Ozan CIHANLI
-  9. alperenozdogru
-  10. bavanofmansorofisky
-  11. bayanofmansorofisky
-  12. kilobananov
-  13. mopedisti
-  14. p v l 2
-  15. whatalife
+  1. AzzyL
+  2. Baran077
+  3. C4RGUY
+  4. CRC Titan2000
+  5. DipperDriverYT
+  6. Heitor Toledo
+  7. Icoha44
+  8. Lucky Loser
+  9. Mung2009
+  10. Neptic
+  11. Ozan CIHANLI
+  12. StafikCZ
+  13. TPEBOMAH
+  14. Toom43
+  15. alperenozdogru
+  16. bavanofmansorofisky
+  17. bayanofmansorofisky
+  18. hj93
+  19. kilobananov
+  20. manolixsvouros
+  21. mopedisti
+  22. nikopdr
+  23. p v l 2
+  24. pedropego
+  25. pete15
+  26. strangeguy
+  27. ugglypuppy
+  28. whatalife
