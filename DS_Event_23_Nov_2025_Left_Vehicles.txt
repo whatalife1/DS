@@ -2,24 +2,15 @@
 
 Player: bayanofmansorofisky (bayanofmansorofisky) has completed all 25 ranked vehicles.
 
-Player: Lucky Loser (Lucky Loser) has completed all 25 ranked vehicles.
+Player: p v l 2 (p v l 2) has completed all 25 ranked vehicles.
 
 Player: kilobananov (kilobananov) has completed all 25 ranked vehicles.
 
-Player: Icoha44 (Icoha44) has completed all 25 ranked vehicles.
+Player: Lucky Loser (Lucky Loser) has completed all 25 ranked vehicles.
+
+Player: icoha44 (icoha44) has completed all 25 ranked vehicles.
 
 Player: whatalife (whatalife) has completed all 25 ranked vehicles.
-
-Player: p v l 2 (p v l 2) is missing the following 9 vehicles:
-  1. EXPEDITION
-  2. LCT3000
-  3. LINE RUNNER IVII
-  4. MOVETRUCK
-  5. ONIBUS VTR
-  6. PIERCING ARROR XT
-  7. ROSSA
-  8. SCAMA 311 B TOW
-  9. SCAMA T580
 
 Player: dragonhi (dragonhi) is missing the following 20 vehicles:
   1. EXPEDITION
@@ -43,6 +34,29 @@ Player: dragonhi (dragonhi) is missing the following 20 vehicles:
   19. SCAMA 420R 4X2 TANDEM
   20. TOWN BUS
 
+Player: pedropego (pedropego) is missing the following 21 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. LIL 1300
+  4. LINE RUNNER IVII
+  5. MECA 371 MONOBLOCO
+  6. MERCIDS BNZ 16
+  7. MERSOLES COMEGO
+  8. MERSOLES TORITMO
+  9. METRO BUS 10.5
+  10. MUN FIRETRUCK
+  11. MUN TG DUMPTRUCK
+  12. NELSIN 380
+  13. ONIBUS VTR
+  14. PIERCING ARROR XT
+  15. RACHA 707
+  16. ROSSA
+  17. RTS 6-71
+  18. SCAMA 311 B TOW
+  19. SCAMA 420R 4X2 TANDEM
+  20. SCAMA DD
+  21. TOWN BUS
+
 Player: manolixsvouros (manolixsvouros) is missing the following 23 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
@@ -56,6 +70,56 @@ Player: manolixsvouros (manolixsvouros) is missing the following 23 vehicles:
   10. METRO BUS 10.5
   11. MUN FIRETRUCK
   12. MUN TG DUMPTRUCK
+  13. NELSIN 380
+  14. ONIBUS VTR
+  15. PIERCING ARROR XT
+  16. RACHA 707
+  17. ROSSA
+  18. RTS 6-71
+  19. SCAMA 311 B TOW
+  20. SCAMA 420R 4X2 TANDEM
+  21. SCAMA DD
+  22. SCAMA T580
+  23. TOWN BUS
+
+Player: lordferius (lordferius) is missing the following 23 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. LIL 1300
+  4. LINE RUNNER IVII
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. ROSSA
+  18. RTS 6-71
+  19. SCAMA 311 B TOW
+  20. SCAMA 420R 4X2 TANDEM
+  21. SCAMA DD
+  22. SCAMA T580
+  23. TOWN BUS
+
+Player: urmonagel14 (urmonagel14) is missing the following 23 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. LIL 1300
+  5. LINE RUNNER IVII
+  6. MARIGUS
+  7. MECA 371 MONOBLOCO
+  8. MERCIDS BNZ 16
+  9. MERSOLES COMEGO
+  10. MERSOLES TORITMO
+  11. METRO BUS 10.5
+  12. MUN FIRETRUCK
   13. NELSIN 380
   14. ONIBUS VTR
   15. PIERCING ARROR XT
@@ -111,31 +175,6 @@ Player: pete15 (pete15) is missing the following 23 vehicles:
   15. ONIBUS VTR
   16. PIERCING ARROR XT
   17. RACHA 707
-  18. RTS 6-71
-  19. SCAMA 311 B TOW
-  20. SCAMA 420R 4X2 TANDEM
-  21. SCAMA DD
-  22. SCAMA T580
-  23. TOWN BUS
-
-Player: pedropego (pedropego) is missing the following 23 vehicles:
-  1. HEAVY RESCUE TRUCK
-  2. LCT3000
-  3. LIL 1300
-  4. LINE RUNNER IVII
-  5. MARIGUS
-  6. MECA 371 MONOBLOCO
-  7. MERCIDS BNZ 16
-  8. MERSOLES COMEGO
-  9. MERSOLES TORITMO
-  10. METRO BUS 10.5
-  11. MUN FIRETRUCK
-  12. MUN TG DUMPTRUCK
-  13. NELSIN 380
-  14. ONIBUS VTR
-  15. PIERCING ARROR XT
-  16. RACHA 707
-  17. ROSSA
   18. RTS 6-71
   19. SCAMA 311 B TOW
   20. SCAMA 420R 4X2 TANDEM
@@ -273,6 +312,32 @@ Player: C4RGUY (C4RGUY) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
+Player: Heitor Toledo (Heitor Toledo) is missing the following 24 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. LINE RUNNER IVII
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. RACHA 707
+  18. ROSSA
+  19. RTS 6-71
+  20. SCAMA 311 B TOW
+  21. SCAMA 420R 4X2 TANDEM
+  22. SCAMA DD
+  23. SCAMA T580
+  24. TOWN BUS
+
 Player: Mung2009 (Mung2009) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
@@ -325,12 +390,38 @@ Player: race (race) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: Heitor Toledo (Heitor Toledo) is missing the following 24 vehicles:
+Player: can_moonisborn (can_moonisborn) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
-  4. LINE RUNNER IVII
-  5. MARIGUS
+  4. LIL 1300
+  5. LINE RUNNER IVII
+  6. MARIGUS
+  7. MECA 371 MONOBLOCO
+  8. MERCIDS BNZ 16
+  9. MERSOLES COMEGO
+  10. MERSOLES TORITMO
+  11. METRO BUS 10.5
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. RACHA 707
+  18. ROSSA
+  19. RTS 6-71
+  20. SCAMA 311 B TOW
+  21. SCAMA 420R 4X2 TANDEM
+  22. SCAMA DD
+  23. SCAMA T580
+  24. TOWN BUS
+
+Player: strangeguy (strangeguy) is missing the following 24 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. LIL 1300
+  5. LINE RUNNER IVII
   6. MECA 371 MONOBLOCO
   7. MERCIDS BNZ 16
   8. MERSOLES COMEGO
@@ -351,18 +442,18 @@ Player: Heitor Toledo (Heitor Toledo) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: can_moonisborn (can_moonisborn) is missing the following 24 vehicles:
+Player: Neptic (Neptic) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
-  4. LIL 1300
-  5. LINE RUNNER IVII
-  6. MARIGUS
-  7. MECA 371 MONOBLOCO
-  8. MERCIDS BNZ 16
-  9. MERSOLES COMEGO
-  10. MERSOLES TORITMO
-  11. METRO BUS 10.5
+  4. LINE RUNNER IVII
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
   12. MUN FIRETRUCK
   13. MUN TG DUMPTRUCK
   14. NELSIN 380
@@ -429,7 +520,33 @@ Player: hj93 (hj93) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: strangeguy (strangeguy) is missing the following 24 vehicles:
+Player: StafikCZ (StafikCZ) is missing the following 24 vehicles:
+  1. EXPEDITION
+  2. HEAVY RESCUE TRUCK
+  3. LCT3000
+  4. LIL 1300
+  5. LINE RUNNER IVII
+  6. MARIGUS
+  7. MECA 371 MONOBLOCO
+  8. MERCIDS BNZ 16
+  9. MERSOLES COMEGO
+  10. MERSOLES TORITMO
+  11. METRO BUS 10.5
+  12. MOVETRUCK
+  13. MUN FIRETRUCK
+  14. MUN TG DUMPTRUCK
+  15. NELSIN 380
+  16. ONIBUS VTR
+  17. PIERCING ARROR XT
+  18. RACHA 707
+  19. RTS 6-71
+  20. SCAMA 311 B TOW
+  21. SCAMA 420R 4X2 TANDEM
+  22. SCAMA DD
+  23. SCAMA T580
+  24. TOWN BUS
+
+Player: netosilvagames (netosilvagames) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
@@ -481,33 +598,7 @@ Player: suforr (suforr) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: Neptic (Neptic) is missing the following 24 vehicles:
-  1. EXPEDITION
-  2. HEAVY RESCUE TRUCK
-  3. LCT3000
-  4. LINE RUNNER IVII
-  5. MARIGUS
-  6. MECA 371 MONOBLOCO
-  7. MERCIDS BNZ 16
-  8. MERSOLES COMEGO
-  9. MERSOLES TORITMO
-  10. METRO BUS 10.5
-  11. MOVETRUCK
-  12. MUN FIRETRUCK
-  13. MUN TG DUMPTRUCK
-  14. NELSIN 380
-  15. ONIBUS VTR
-  16. PIERCING ARROR XT
-  17. RACHA 707
-  18. ROSSA
-  19. RTS 6-71
-  20. SCAMA 311 B TOW
-  21. SCAMA 420R 4X2 TANDEM
-  22. SCAMA DD
-  23. SCAMA T580
-  24. TOWN BUS
-
-Player: StafikCZ (StafikCZ) is missing the following 24 vehicles:
+Player: Toom43 (Toom43) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
@@ -559,24 +650,24 @@ Player: karolens (karolens) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: lordferius (lordferius) is missing the following 24 vehicles:
+Player: MARCELSIMP (MARCELSIMP) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
   4. LIL 1300
   5. LINE RUNNER IVII
-  6. MARIGUS
-  7. MECA 371 MONOBLOCO
-  8. MERCIDS BNZ 16
-  9. MERSOLES COMEGO
-  10. MERSOLES TORITMO
-  11. METRO BUS 10.5
-  12. MOVETRUCK
-  13. MUN FIRETRUCK
-  14. MUN TG DUMPTRUCK
-  15. NELSIN 380
-  16. ONIBUS VTR
-  17. PIERCING ARROR XT
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. RACHA 707
   18. ROSSA
   19. RTS 6-71
   20. SCAMA 311 B TOW
@@ -611,7 +702,7 @@ Player: RohamKefir (RohamKefir) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: Toom43 (Toom43) is missing the following 24 vehicles:
+Player: alperenozdogru (alperenozdogru) is missing the following 24 vehicles:
   1. EXPEDITION
   2. HEAVY RESCUE TRUCK
   3. LCT3000
@@ -663,25 +754,25 @@ Player: AzzyL (AzzyL) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: alperenozdogru (alperenozdogru) is missing the following 24 vehicles:
-  1. EXPEDITION
-  2. HEAVY RESCUE TRUCK
-  3. LCT3000
-  4. LIL 1300
-  5. LINE RUNNER IVII
-  6. MARIGUS
-  7. MECA 371 MONOBLOCO
-  8. MERCIDS BNZ 16
-  9. MERSOLES COMEGO
-  10. MERSOLES TORITMO
-  11. METRO BUS 10.5
-  12. MOVETRUCK
-  13. MUN FIRETRUCK
-  14. MUN TG DUMPTRUCK
-  15. NELSIN 380
-  16. ONIBUS VTR
-  17. PIERCING ARROR XT
-  18. RACHA 707
+Player: williamwmr25 (williamwmr25) is missing the following 24 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. LIL 1300
+  4. LINE RUNNER IVII
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. RACHA 707
+  18. ROSSA
   19. RTS 6-71
   20. SCAMA 311 B TOW
   21. SCAMA 420R 4X2 TANDEM
@@ -689,7 +780,7 @@ Player: alperenozdogru (alperenozdogru) is missing the following 24 vehicles:
   23. SCAMA T580
   24. TOWN BUS
 
-Player: DipperDriverYT (DipperDriverYT) is missing the following 24 vehicles:
+Player: Marius LTU (Marius LTU) is missing the following 24 vehicles:
   1. HEAVY RESCUE TRUCK
   2. LCT3000
   3. LIL 1300
@@ -727,6 +818,32 @@ Player: TPEBOMAH (TPEBOMAH) is missing the following 24 vehicles:
   9. MERSOLES COMEGO
   10. MERSOLES TORITMO
   11. METRO BUS 10.5
+  12. MUN FIRETRUCK
+  13. MUN TG DUMPTRUCK
+  14. NELSIN 380
+  15. ONIBUS VTR
+  16. PIERCING ARROR XT
+  17. RACHA 707
+  18. ROSSA
+  19. RTS 6-71
+  20. SCAMA 311 B TOW
+  21. SCAMA 420R 4X2 TANDEM
+  22. SCAMA DD
+  23. SCAMA T580
+  24. TOWN BUS
+
+Player: DipperDriverYT (DipperDriverYT) is missing the following 24 vehicles:
+  1. HEAVY RESCUE TRUCK
+  2. LCT3000
+  3. LIL 1300
+  4. LINE RUNNER IVII
+  5. MARIGUS
+  6. MECA 371 MONOBLOCO
+  7. MERCIDS BNZ 16
+  8. MERSOLES COMEGO
+  9. MERSOLES TORITMO
+  10. METRO BUS 10.5
+  11. MOVETRUCK
   12. MUN FIRETRUCK
   13. MUN TG DUMPTRUCK
   14. NELSIN 380
