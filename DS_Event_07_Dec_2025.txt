@@ -1,0 +1,259 @@
+--- Report Generation Info ---
+
+Report generated at:
+UTC Time:      2025-12-07 23:17:14 UTC
+German Time:   2025-12-08 00:17:14 CET
+Brazil Time:   2025-12-07 20:17:14 -03
+Saudi Arabia:  2025-12-08 02:17:14 +03
+Turkish Time:  2025-12-08 02:17:14 +03
+India Time:    2025-12-08 04:47:14 IST
+Philippines:   2025-12-08 07:17:14 PST
+
+--- Results by Vehicle (Fastest First) ---
+
+1. EXPEDITION
+  1.  VÃ­tek (AJP FANS CZ)                     06:57.83
+  2.  Pecco Bagnaia (jakub_racer)              07:14.29
+  3.  aniedam1                                 07:22.01
+  4.  Forward>Lixy (Ilya18101)                 08:01.34
+  5.  Houssem e 2 2 1 ÃŸ (Houssem.221b)        08:44.46
+  6.  Mk..                                     09:59.19
+  7.  Piperx (pagani123)                       10:19.54
+  8.  C4RGUY                                   11:16.55
+  9.  whatalife                                11:25.20
+  10. lordferius                               11:41.01
+  11. Icoha44                                  11:51.65
+  12. PETI HUN-76 (Demo)                       14:07.10
+  13. lilmax (max 1999)                        14:29.23
+
+2. ROSSA
+  1.  aniedam1                                 07:08.67
+  2.  whatalife                                09:45.82
+  3.  ugglypuppy                               10:55.73
+  4.  [TechIT] Dustin (imthebestracerthereis)  12:23.10
+  5.  Neptic                                   27:54.46
+
+3. LIL 1300
+  1.  LIKE (MartynasL)                         08:10.01
+  2.  whatalife                                09:56.78
+
+4. RTS 6-71
+  1.  whatalife                                09:49.53
+  2.  ronnie_pickering_                        14:42.98
+
+5. MUN FIRETRUCK
+  1.  whatalife                                10:52.98
+
+6. KAROBUS 734
+  1.  p v l 2                                  11:30.62
+
+7. SCAMA 311 B TOW
+  1.  whatalife                                11:46.78
+
+8. PIERCING ARROR XT
+  1.  whatalife                                12:59.28
+
+9. MARIGUS
+  1.  whatalife                                14:50.78
+  2.  Neptic                                   16:58.28
+
+10. IAF 50W
+  1.  lewisfaescotland                         15:12.50
+
+11. LINE RUNNER IVII
+  1.  tryingtosimrace_69                       15:15.35
+
+12. SCAMA T580
+  1.  'Tevzadze (xs4ncakx)                     33:46.00
+
+
+
+--- Results by Player (Alphabetical by ID, entries sorted by Rank then Time) ---
+
+1. AJP FANS CZ (AJP FANS CZ)
+  1. EXPEDITION         06:57.83 (Pos: 1) 
+
+2. C4RGUY (C4RGUY)
+  1. EXPEDITION         11:16.55 (Pos: 8) 
+
+3. Demo (Demo)
+  1. EXPEDITION         14:07.10 (Pos: 12)
+
+4. Houssem.221b (Houssem.221b)
+  1. EXPEDITION         08:44.46 (Pos: 5) 
+
+5. Icoha44 (Icoha44)
+  1. EXPEDITION         11:51.65 (Pos: 11)
+
+6. Ilya18101 (Ilya18101)
+  1. EXPEDITION         08:01.34 (Pos: 4) 
+
+7. MartynasL (MartynasL)
+  1. LIL 1300           08:10.01 (Pos: 1) 
+
+8. Mk.. (Mk..)
+  1. EXPEDITION         09:59.19 (Pos: 6) 
+
+9. Neptic (Neptic)
+  1. MARIGUS            16:58.28 (Pos: 2) 
+  2. ROSSA              27:54.46 (Pos: 5) 
+
+10. aniedam1 (aniedam1)
+  1. ROSSA              07:08.67 (Pos: 1) 
+  2. EXPEDITION         07:22.01 (Pos: 3) 
+
+11. imthebestracerthereis (imthebestracerthereis)
+  1. ROSSA              12:23.10 (Pos: 4) 
+
+12. jakub_racer (jakub_racer)
+  1. EXPEDITION         07:14.29 (Pos: 2) 
+
+13. lewisfaescotland (lewisfaescotland)
+  1. IAF 50W            15:12.50 (Pos: 1) 
+
+14. lordferius (lordferius)
+  1. EXPEDITION         11:41.01 (Pos: 10)
+
+15. max 1999 (max 1999)
+  1. EXPEDITION         14:29.23 (Pos: 13)
+
+16. p v l 2 (p v l 2)
+  1. KAROBUS 734        11:30.62 (Pos: 1) 
+
+17. pagani123 (pagani123)
+  1. EXPEDITION         10:19.54 (Pos: 7) 
+
+18. ronnie_pickering_ (ronnie_pickering_)
+  1. RTS 6-71           14:42.98 (Pos: 2) 
+
+19. tryingtosimrace_69 (tryingtosimrace_69)
+  1. LINE RUNNER IVII   15:15.35 (Pos: 1) 
+
+20. ugglypuppy (ugglypuppy)
+  1. ROSSA              10:55.73 (Pos: 3) 
+
+21. whatalife (whatalife)
+  1. RTS 6-71           09:49.53 (Pos: 1) 
+  2. MUN FIRETRUCK      10:52.98 (Pos: 1) 
+  3. SCAMA 311 B TOW    11:46.78 (Pos: 1) 
+  4. PIERCING ARROR XT  12:59.28 (Pos: 1) 
+  5. MARIGUS            14:50.78 (Pos: 1) 
+  6. ROSSA              09:45.82 (Pos: 2) 
+  7. LIL 1300           09:56.78 (Pos: 2) 
+  8. EXPEDITION         11:25.20 (Pos: 9) 
+
+22. xs4ncakx (xs4ncakx)
+  1. SCAMA T580         33:46.00 (Pos: 1) 
+
+
+
+--- Overall Ranking Table (Sorted by Performance) ---
+--- Tip: Disable Word Warp in notepad ---
+
+--- Base cash: 200 for each vehicle finished. (25*200=5,000$) ---
+--- if done all 25 vehicles  Extra 5,000 bonus Total 10,000$ ---
+--- Overall Ranking Table (Vehicles 1-12) ---
+
++----+-----------------------+-----------------------+----------+---------+-------+---------+------------+---------+----------+----------+----------+---------+----------+----------+-------+----------+-----------+------------+
+| #  | Player                | ID                    |  Finished|  TC Cash|  Bonus|  Total $| EXPEDITION | IAF 50W | KAROBUS  | LIL 1300 | LINE RUN | Marigus | MUN Fire | PIERCING | ROSSA | RTS 6-71 | SCAMA 311 | SCAMA T580 |
++----+-----------------------+-----------------------+----------+---------+-------+---------+------------+---------+----------+----------+----------+---------+----------+----------+-------+----------+-----------+------------+
+| 1  | whatalife             | whatalife             |         8|    1,600|      0|    1,600|      9     |    -    |     -    |     2    |     -    |    1    |     1    |     1    |   2   |     1    |     1     |      -     |
+| 2  | aniedam1              | aniedam1              |         2|      400|      0|      400|      3     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   1   |     -    |     -     |      -     |
+| 3  | AJP FANS CZ           | AJP FANS CZ           |         1|      200|      0|      200|      1     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 4  | MartynasL             | MartynasL             |         1|      200|      0|      200|      -     |    -    |     -    |     1    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 5  | lewisfaescotland      | lewisfaescotland      |         1|      200|      0|      200|      -     |    1    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 6  | p v l 2               | p v l 2               |         1|      200|      0|      200|      -     |    -    |     1    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 7  | tryingtosimrace_69    | tryingtosimrace_69    |         1|      200|      0|      200|      -     |    -    |     -    |     -    |     1    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 8  | xs4ncakx              | xs4ncakx              |         1|      200|      0|      200|      -     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      1     |
+| 9  | Neptic                | Neptic                |         2|      400|      0|      400|      -     |    -    |     -    |     -    |     -    |    2    |     -    |     -    |   5   |     -    |     -     |      -     |
+| 10 | jakub_racer           | jakub_racer           |         1|      200|      0|      200|      2     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 11 | ronnie_pickering_     | ronnie_pickering_     |         1|      200|      0|      200|      -     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     2    |     -     |      -     |
+| 12 | ugglypuppy            | ugglypuppy            |         1|      200|      0|      200|      -     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   3   |     -    |     -     |      -     |
+| 13 | Ilya18101             | Ilya18101             |         1|      200|      0|      200|      4     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 14 | imthebestracerthereis | imthebestracerthereis |         1|      200|      0|      200|      -     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   4   |     -    |     -     |      -     |
+| 15 | Houssem.221b          | Houssem.221b          |         1|      200|      0|      200|      5     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 16 | Mk..                  | Mk..                  |         1|      200|      0|      200|      6     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 17 | pagani123             | pagani123             |         1|      200|      0|      200|      7     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 18 | C4RGUY                | C4RGUY                |         1|      200|      0|      200|      8     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 19 | lordferius            | lordferius            |         1|      200|      0|      200|     10     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 20 | Icoha44               | Icoha44               |         1|      200|      0|      200|     11     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 21 | Demo                  | Demo                  |         1|      200|      0|      200|     12     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
+| 22 | max 1999              | max 1999              |         1|      200|      0|      200|     13     |    -    |     -    |     -    |     -    |    -    |     -    |     -    |   -   |     -    |     -     |      -     |
++----+-----------------------+-----------------------+----------+---------+-------+---------+------------+---------+----------+----------+----------+---------+----------+----------+-------+----------+-----------+------------+
+|    | Total                 |                       |          |    6,200|      0|    6,200|            |         |          |          |          |         |          |          |       |          |           |            |
++----+-----------------------+-----------------------+----------+---------+-------+---------+------------+---------+----------+----------+----------+---------+----------+----------+-------+----------+-----------+------------+
+
+
+
+
+--- Leaderboard by Total Runs (Highest Total Vehicles First) ---
+
++----+-----------------------+-----------------------+----------+-------------+----------+
+| #  | Player                | ID                    |  Vehicles|   Total Time|  Avg Time|
++----+-----------------------+-----------------------+----------+-------------+----------+
+| 1  | whatalife             | whatalife             |         8|  01:31:27.15|  11:25.89|
+| 2  | aniedam1              | aniedam1              |         2|     14:30.68|  07:15.34|
+| 3  | Neptic                | Neptic                |         2|     44:52.74|  22:26.37|
+| 4  | AJP FANS CZ           | AJP FANS CZ           |         1|     06:57.83|  06:57.83|
+| 5  | jakub_racer           | jakub_racer           |         1|     07:14.29|  07:14.29|
+| 6  | Ilya18101             | Ilya18101             |         1|     08:01.34|  08:01.34|
+| 7  | MartynasL             | MartynasL             |         1|     08:10.01|  08:10.01|
+| 8  | Houssem.221b          | Houssem.221b          |         1|     08:44.46|  08:44.46|
+| 9  | Mk..                  | Mk..                  |         1|     09:59.19|  09:59.19|
+| 10 | pagani123             | pagani123             |         1|     10:19.54|  10:19.54|
+| 11 | ugglypuppy            | ugglypuppy            |         1|     10:55.73|  10:55.73|
+| 12 | C4RGUY                | C4RGUY                |         1|     11:16.55|  11:16.55|
+| 13 | p v l 2               | p v l 2               |         1|     11:30.62|  11:30.62|
+| 14 | lordferius            | lordferius            |         1|     11:41.01|  11:41.01|
+| 15 | Icoha44               | Icoha44               |         1|     11:51.65|  11:51.65|
+| 16 | imthebestracerthereis | imthebestracerthereis |         1|     12:23.10|  12:23.10|
+| 17 | Demo                  | Demo                  |         1|     14:07.10|  14:07.10|
+| 18 | max 1999              | max 1999              |         1|     14:29.23|  14:29.23|
+| 19 | ronnie_pickering_     | ronnie_pickering_     |         1|     14:42.98|  14:42.98|
+| 20 | lewisfaescotland      | lewisfaescotland      |         1|     15:12.50|  15:12.50|
+| 21 | tryingtosimrace_69    | tryingtosimrace_69    |         1|     15:15.35|  15:15.35|
+| 22 | xs4ncakx              | xs4ncakx              |         1|     33:46.00|  33:46.00|
++----+-----------------------+-----------------------+----------+-------------+----------+
+
+
+
+
+--- All Unique Vehicle Names ---
+
+  1. EXPEDITION
+  2. IAF 50W
+  3. KAROBUS 734
+  4. LIL 1300
+  5. LINE RUNNER IVII
+  6. MARIGUS
+  7. MUN FIRETRUCK
+  8. PIERCING ARROR XT
+  9. ROSSA
+  10. RTS 6-71
+  11. SCAMA 311 B TOW
+  12. SCAMA T580
+
+--- All Unique Player Names ---
+
+  1. AJP FANS CZ
+  2. C4RGUY
+  3. Demo
+  4. Houssem.221b
+  5. Icoha44
+  6. Ilya18101
+  7. MartynasL
+  8. Mk..
+  9. Neptic
+  10. aniedam1
+  11. imthebestracerthereis
+  12. jakub_racer
+  13. lewisfaescotland
+  14. lordferius
+  15. max 1999
+  16. p v l 2
+  17. pagani123
+  18. ronnie_pickering_
+  19. tryingtosimrace_69
+  20. ugglypuppy
+  21. whatalife
+  22. xs4ncakx
